@@ -50,12 +50,12 @@ processed_titles = set()
 
 def process_article(article, base_url):
     """(고유 로직)"""
-    title_element = article.select_one('span.title01') # 👈 고유 선택자
+    title_element = article.select_one('span.title01')
     title = title_element.text.strip() if title_element else ''
     if not title or title in processed_titles:
         return None
     
-    link_element = article.select_one('a.tit-news') # 👈 고유 선택자
+    link_element = article.select_one('a.tit-news')
     href_link = link_element['href'] if link_element else ''
     if not href_link:
         return None
@@ -67,32 +67,38 @@ def process_article(article, base_url):
     if clean_link in processed_links:
         return None
     
-    lead_element = article.select_one('p.lead') # 👈 고유 선택자
+    lead_element = article.select_one('p.lead')
     lead_full_text = lead_element.text.strip() if lead_element else ''
     
     # --- ⬇️ 수정된 부분 ⬇️ ---
-    # p.lead의 텍스트를 줄바꿈(\n) 기준으로 1번만 분리
     lead_parts = lead_full_text.split('\n', 1)
-    # 첫 번째 부분(부제목)을 요약문(lead)으로 사용
-    lead = lead_parts[0].strip() if lead_parts else ''
+    summary_candidate = lead_parts[0].strip()
+    
+    # 본문 시작 패턴인지 확인 ( ( 로 시작하거나 ▲ 로 시작)
+    # re.match()는 문자열의 '처음'부터 패턴이 일치하는지 확인합니다.
+    if re.match(r'^\s*(\(|▲)', summary_candidate):
+        # 패턴에 일치하면 (즉, 본문이면) summary는 없는 것으로 처리
+        lead = ''
+    else:
+        # 패턴에 일치하지 않으면 (즉, 부제목이면) summary로 사용
+        lead = summary_candidate
     # --- ⬆️ 수정된 부분 ⬆️ ---
 
     # 키워드 관련 여부 검사는 원본 전체 텍스트(full_text)로 수행
     full_text = f"{title} {lead_full_text}" 
     
-    # 👈 공통 유틸리티 함수 사용
     if not crawler_utils.is_relevant(full_text, keywords, exclude_keywords):
         return None
     
-    time_element = article.select_one('span.txt-time') # 👈 고유 선택자
+    time_element = article.select_one('span.txt-time')
     published_time = ''
     if time_element:
         time_str = time_element.text.strip()
         try:
             current_year = datetime.now().year
-            if '-' in time_str:  # 예: 04-18 20:54 # 👈 고유 시간 파싱
+            if '-' in time_str:
                 parsed_time = datetime.strptime(f"{current_year}-{time_str}", '%Y-%m-%d %H:%M')
-            else:  # 예: 2025-04-18 20:54
+            else:
                 parsed_time = datetime.strptime(time_str, '%Y-%m-%d %H:%M')
             published_time = parsed_time.isoformat()
         except ValueError as e:
@@ -110,8 +116,7 @@ def process_article(article, base_url):
         'time': published_time,
         'img': img_url,
         'url': clean_link,
-        #'original_url': clean_link,
-        'summary': lead # 👈 수정된 'lead' 변수(부제목)를 저장
+        'summary': lead # 👈 수정된 'lead' 변수(부제목 또는 빈 문자열)를 저장
     }
 
 def scrape_page(url, page):
