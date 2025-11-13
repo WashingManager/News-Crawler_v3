@@ -68,8 +68,17 @@ def process_article(article, base_url):
         return None
     
     lead_element = article.select_one('p.lead') # 👈 고유 선택자
-    lead = lead_element.text.strip() if lead_element else ''
-    full_text = f"{title} {lead}"
+    lead_full_text = lead_element.text.strip() if lead_element else ''
+    
+    # --- ⬇️ 수정된 부분 ⬇️ ---
+    # p.lead의 텍스트를 줄바꿈(\n) 기준으로 1번만 분리
+    lead_parts = lead_full_text.split('\n', 1)
+    # 첫 번째 부분(부제목)을 요약문(lead)으로 사용
+    lead = lead_parts[0].strip() if lead_parts else ''
+    # --- ⬆️ 수정된 부분 ⬆️ ---
+
+    # 키워드 관련 여부 검사는 원본 전체 텍스트(full_text)로 수행
+    full_text = f"{title} {lead_full_text}" 
     
     # 👈 공통 유틸리티 함수 사용
     if not crawler_utils.is_relevant(full_text, keywords, exclude_keywords):
@@ -102,7 +111,7 @@ def process_article(article, base_url):
         'img': img_url,
         'url': clean_link,
         #'original_url': clean_link,
-        'summary': lead
+        'summary': lead # 👈 수정된 'lead' 변수(부제목)를 저장
     }
 
 def scrape_page(url, page):
