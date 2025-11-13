@@ -2073,6 +2073,14 @@
         "url": "https://www.fnnews.com/news/202511132317015237",
         "source": "Fn",
         "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "영미 연구... AI 로봇, 개인용으로 사용하기에는 위험하다",
+        "time": "2025-11-14T00:37:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511140023408232",
+        "source": "Fn",
+        "date": "2025년 11월 13일 목요일"
       }
     ]
   },
@@ -3156,6 +3164,14 @@
         "time": "2025-11-13T22:32:00",
         "img": "",
         "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368581",
+        "source": "fntoday",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "경찰의 황교안 자택 진입 막던 시민 중태…“특검의 무리수가 부른 사고” 논란 일파만파",
+        "time": "2025-11-14T00:35:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368584",
         "source": "fntoday",
         "date": "2025년 11월 13일 목요일"
       }
@@ -15273,6 +15289,15 @@
         "summary": "",
         "source": "yna",
         "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "카메룬 \"대선후 시위 폭력 사태로 16명 사망\"",
+        "time": "2025-11-14T00:25:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/11/14/AKR20251114000400099_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251114000400099",
+        "summary": "시위 참가자 800명 체포…야권, '55명 사망' 주장",
+        "source": "yna",
+        "date": "2025년 11월 13일 목요일"
       }
     ]
   },
@@ -21369,6 +21394,22 @@
         "time": "2025-11-13T22:30:00",
         "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3427595_3563707_3019_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3427595",
+        "source": "Gukje",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[오늘날씨] 전국 맑고 영남권 ‘미세먼지 나쁨’...서울 낮 13도-대구 16도 포근",
+        "time": "2025-11-14T00:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3427358_3563425_4018_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3427358",
+        "source": "Gukje",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[인사] 국방부, 2025년 장성급 장교(중장) 명단",
+        "time": "2025-11-14T00:04:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3427610_3563728_3427_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3427610",
         "source": "Gukje",
         "date": "2025년 11월 13일 목요일"
       }
@@ -29100,6 +29141,105 @@
         "time": "2025-11-13T15:30:00",
         "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
         "url": "https://v.daum.net/v/20251113235539299",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "“불법 펨토셀로 개인통화 도청 가능… 장비 전면 교체해야”",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/kukminilbo/20251114004341711zerd.jpg",
+        "url": "https://v.daum.net/v/20251114004340018",
+        "summary": "김용대 카이스트 교수 강력 경고 유심은 미봉책… 하드웨어 교체를국정원 “일부폰 문자 암호화 풀려” 정부 “다른 통신사 점검도 검토”",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "\"근로기준법을 준수하라\"…대구 전태일 옛집서 55주기 추모식",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/ohmynews/20251114003902420wuiz.jpg",
+        "url": "https://v.daum.net/v/20251114003900984",
+        "summary": "참가자들 함께 모여 따뜻한 밥 나누고 전태일 열사 추모 \"11월 13일을 국가기념일로 제정하자\"",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "역대 최대 실적 찍었지만 웃지 못하는 한전",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/chosun/20251114003449654tmxb.jpg",
+        "url": "https://v.daum.net/v/20251114003448972",
+        "summary": "3분기 영업익 5.6조… 66% 급등",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "‘10·15 대책’에도 안 잡히는 한강벨트… 집값 상승 폭 확대",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/kukminilbo/20251114004251485evwj.jpg",
+        "url": "https://v.daum.net/v/20251114004250010",
+        "summary": "용산·서초·송파 0.04~0.08%p 올라 서울 아파트 거래량·매물 크게 줄어 수도권 비규제지역 풍선효과 주춤",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "연일 ‘뼈 때리는’ 보고서로 주목받는 KDI",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/chosun/20251114003342507bdod.jpg",
+        "url": "https://v.daum.net/v/20251114003341964",
+        "summary": "조동철 원장 퇴임 앞두고 직언",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "중국 전기차, ‘과잉생산의 덫’… 헐값 수출로 시장 교란",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/kukminilbo/20251114003849653xdeq.jpg",
+        "url": "https://v.daum.net/v/20251114003848982",
+        "summary": "130개 기업 중 흑자는 4개사뿐 평균 판매가 3만→2.4만 달러 ‘뚝’",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "40만원 케이크도 불티… 호텔이 불 지핀 ‘디저트플레이션’",
+        "time": "2025-11-13T15:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/kukminilbo/20251114004049283qtvp.jpg",
+        "url": "https://v.daum.net/v/20251114004048995",
+        "summary": "디저트 넘어 ‘브랜드 오브제’ 경쟁 프랜차이즈도 협업·한정판 전략 연말 ‘작은 사치’ 비 트렌드 지속",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "“히틀러 고환은 하나”라더니…“성호르몬 부족 ‘칼만증후군’ 가능성”",
+        "time": "2025-11-13T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/seoul/20251114004452278clda.jpg",
+        "url": "https://v.daum.net/v/20251114004448022",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[단독] 민주당, 감사원 예산안 심사 때 ‘친윤 유병호 퇴출’ 종용",
+        "time": "2025-11-13T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/kukminilbo/20251114000540464kufl.jpg",
+        "url": "https://v.daum.net/v/20251114000538478",
+        "summary": "공수처에 유 위원 수사 채근하기도법무차관에겐 “대장동 항소 포기협의 과정 설명 자세히 하지 말라”",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "마지막 인사 건넨 워런 버핏···“절망하지 마세요”...1.7조 또 기부",
+        "time": "2025-11-13T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/14/munhwa/20251114003148035uatp.jpg",
+        "url": "https://v.daum.net/v/20251114003146939",
+        "summary": "CEO 퇴임 앞두고 마지막 주주서한서 언급“자녀 고령 고려해 주식 분배 앞당긴다”자녀들 운영 4곳 재단에 13억달러 기부“후임자 신뢰 얻을 때까지 A주 일부 보유”“버크셔는 어떤 경제환경에서도 버틸 수 있다”",
+        "source": "daum",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "카메룬 “대선후 시위 폭력 사태로 16명 사망”",
+        "time": "2025-11-13T15:46:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251114004447021",
         "summary": "",
         "source": "daum",
         "date": "2025년 11월 13일 목요일"
@@ -49725,6 +49865,78 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/13/NISI20240807_0001366381_web.jpg",
         "url": "https://news.nate.com/view/20251113n40735",
         "summary": "[서울=뉴시스]임철휘 기자 = 13일(현지 시간) 뉴욕증시 주요 지수는 일제히 하락세로 출발했다.",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "\"해야 한다\"…금감원장이 밝힌 소비자보호 3가지 방향성",
+        "time": "2025-11-14T00:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/11/13/news_1763046913_1572607_m_1.jpg",
+        "url": "https://news.nate.com/view/20251113n23709",
+        "summary": "설계·판매 단계에서의 보호 조치",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[기업] 삼성전자, 두 번 접는 '트라이폴드' 다음 달 5일 출시",
+        "time": "2025-11-14T00:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251113n24219",
+        "summary": "삼성전자가 액정을 두 번 접는 스마트폰 신제품을 다음 달 출시합니다.",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[기업] CU, 하와이 1호점 열고 미국 시장 첫 진출",
+        "time": "2025-11-14T00:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/13/202511131445566685_t.jpg",
+        "url": "https://news.nate.com/view/20251113n24216",
+        "summary": "편의점 CU를 운영하는 BGF 리테일이 미국 하와이에 첫 CU 매장을 열고 한국 편의점 브랜드 가운데 처음으로 미국 시장에 진출했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "토템, 새로운 티-락 숄더백 한국 단독 공개",
+        "time": "2025-11-14T00:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/11/13/2025111323182299225_1.jpg",
+        "url": "https://news.nate.com/view/20251113n40916",
+        "summary": "스웨덴 프리미엄 브랜드 토템(TOTEME)이 브랜드의 대표 라인인 '티-락(T-Lock)' 컬렉션을 확장하며, 새로운 실루엣의 숄더백을 한국에서 단독 공개했다.",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[기업] 통화 중 실시간 검색…LGU+ '익시오 AI 비서' 공개",
+        "time": "2025-11-14T00:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/13/202511131446078959_t.jpg",
+        "url": "https://news.nate.com/view/20251113n24217",
+        "summary": "LG유플러스는 인공지능이 실시간으로 통화에 참여해 정보 검색을 도와주는 '익시오 AI 비서' 기능을 공개했습니다.",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "[인사] SK텔레콤 ; 광동제약",
+        "time": "2025-11-14T00:28:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251113n32957",
+        "summary": "◈SK텔레콤◎신임임원▷MNO CIC 프로덕트·브랜드본부 브랜드 담당 김석원▷커뮤니케이션센터 대외지원실장 김우람▷코퍼레이트센터(CFO) 주주가치혁신실장 김태희▷커뮤니케이션센터 정책개발실장 신상민▷MNO CIC 네트워크센터 네트워크 AT/DT담당 안홍범▷서비스탑 대표 이정민▷커뮤니케이션센터 미디어컴실장 최종복▷CSPO 안전보건실장 최훈원▷SK브로드밴드 코퍼레이트센터 PR실장 김영범▷〃 네트워크센터 네트워크운용담당 박상훈▷〃 AT/DT센터 AT/DT개발담당 신범식",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "울산에 수중 데이터센터 구축한다",
+        "time": "2025-11-14T00:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/11/13/news-p.v1.20251114.c02c4efbeb634f30bd77dc0326a69028_P1.jpg",
+        "url": "https://news.nate.com/view/20251113n26561",
+        "summary": "울산시-한국해양과학기술원 등\r\n수심 20m에 서버 10만대 규모",
+        "source": "nate",
+        "date": "2025년 11월 13일 목요일"
+      },
+      {
+        "title": "'킬러문항' 없었지만 체감 난도 높았다…영어 1등급 4%대 예상",
+        "time": "2025-11-14T00:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/11/13/2025111318370583891_1763026698_1763024609.jpg",
+        "url": "https://news.nate.com/view/20251113n36163",
+        "summary": "[2026 대입 수능]\n입시학원 영역별 난이도 분석  \n국어 곳곳 고난도 문항… 과학지문도\n수학 표준점수 최고점 140점 이상\n영어, 작년보다 어렵고 모평과 비슷",
         "source": "nate",
         "date": "2025년 11월 13일 목요일"
       }
