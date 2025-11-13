@@ -1,0 +1,16 @@
+name: Naver News Scraper
+on:
+  schedule:
+    - cron: '27,57 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: Naver_Crawler.py
+      output-json: news_json/naver_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}      

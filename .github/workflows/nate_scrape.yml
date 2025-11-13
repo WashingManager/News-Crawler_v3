@@ -1,0 +1,17 @@
+name: Nate News Scraper
+on:
+  schedule:
+    - cron: '24,54 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: Nate_Crawler.py
+      output-json: news_json/nate_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      

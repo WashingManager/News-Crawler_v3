@@ -1,0 +1,16 @@
+name: Gukje News Scraper
+on:
+  schedule:
+    - cron: '21,51 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: Gukje_Crawler.py
+      output-json: news_json/Gukje_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}

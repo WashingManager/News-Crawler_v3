@@ -1,0 +1,6 @@
+[user]
+    name = WashingManager
+    email = washingmanager@gmail.com
+
+[core]
+    sshCommand = "ssh -i C:/Users/Develop/.ssh/id_rsa_washing -F C:/Users/Develop/.ssh/config"

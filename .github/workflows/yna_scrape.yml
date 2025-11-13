@@ -1,0 +1,15 @@
+name: YNA News Scraper
+on:
+  schedule:
+    - cron: '0,30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: YNA_Crawler.py
+      output-json: news_json/yna_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}      

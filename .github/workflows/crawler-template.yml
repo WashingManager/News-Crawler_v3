@@ -1,0 +1,113 @@
+name: Crawler Template
+
+on:
+  workflow_call:
+    inputs:
+      crawler-file:
+        required: true
+        type: string
+      output-json:
+        required: true
+        type: string
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT:
+        required: true       
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # [!! 추가 !!] Firestore에 접근하기 위한 firebase-admin 라이브러리 설치
+          pip install firebase-admin
+
+      # [!! 이 단계가 통째로 추가되었습니다 !!]
+      # 크롤러 실행 전, Firebase 서비스 계정으로 인증합니다.
+      - name: Authenticate with Firebase
+        env:
+          # GitHub 저장소 Secret에 저장된 서비스 계정 키를 불러옵니다.
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          # [!! 이전 버전으로 수정 !!]
+          # printf를 사용하여 Secret 내용을 파일에 정확히 씁니다.
+          # Base64 디코딩을 하지 않습니다.
+          printf "%s" "$FIREBASE_SERVICE_ACCOUNT" > "$HOME/firebase-key.json"
+          
+          # 파일이 정상적으로 생성되었는지 간단히 확인
+          # (이전 로그에서 Secret이 비어있는 것을 확인했으므로 이 검사는 유지합니다)
+          if [ ! -s "$HOME/firebase-key.json" ]; then
+            echo "::error:: firebase-key.json 파일이 비어있거나 생성되지 않았습니다. Secret이 비어있는지 확인하세요."
+            exit 1
+          fi
+
+          # Python 라이브러리가 이 파일을 자동으로 찾도록 환경 변수를 설정합니다.
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$HOME/firebase-key.json" >> $GITHUB_ENV
+      - name: Run scraper
+        run: python ${{ inputs.crawler-file }}
+        continue-on-error: true # <-- 기존 설정 유지
+
+      - name: Check results
+        run: |
+          if [ -f "${{ inputs.output-json }}" ]; then
+            echo "JSON 파일 존재 확인"
+            wc -l ${{ inputs.output-json }}
+            tail -20 ${{ inputs.output-json }}
+          else
+            echo "JSON 파일이 생성되지 않음"
+          fi
+
+      - name: Commit and push results
+        run: |
+          git config --local user.name 'GitHub Action'
+          git config --local user.email 'action@github.com'
+
+          # [!! 수정 !!]
+          # 'if' 문 밖에서 'git add'를 먼저 실행하여
+          # 신규 파일(untracked)도 스테이징 영역(index)으로 이동시킵니다.
+          git add ${{ inputs.output-json }}
+          
+          # [!! 수정 !!]
+          # '--cached' 옵션을 사용하여, "스테이징된 변경 사항"이 있는지 확인합니다.
+          # (신규 파일이 추가되면 diff가 발생하여 'else'가 실행됩니다)
+          if git diff --quiet --cached; then
+            echo "변경사항 없음 (파일 내용이 이전 커밋과 동일)"
+          else
+            echo "변경사항 발견 (신규 또는 수정), 커밋 진행"
+            # 'git add'는 이미 위에서 실행했으므로 'git commit'만 실행합니다.
+            git commit -m "Update news: $(date +'%Y-%m-%d %H:%M:%S')"
+
+            for i in {1..3}; do
+              if git push; then
+                echo "푸시 성공"
+                break
+              else
+                echo "푸시 실패, 재시도 $i/3"
+                git pull --rebase origin main || true
+                sleep 2
+              fi
+            done
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

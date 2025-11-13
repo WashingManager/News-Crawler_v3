@@ -1,0 +1,25 @@
+{
+  "keywords": [
+    {
+      "category": "User Added",
+      "items": [
+        "apple",
+        "전고체",
+        "마이크로시멘트",
+        "giga sampler",
+        "cubase",
+        "Orchestra",
+        "Symphony",
+        "애플",
+        "john williams",
+        "pcie"
+      ]
+    }
+  ],
+  "exclude_keywords": [
+    {
+      "category": "User Added",
+      "items": []
+    }
+  ]
+}

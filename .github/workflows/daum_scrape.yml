@@ -1,0 +1,17 @@
+name: Daum News Scraper
+on:
+  schedule:
+    - cron: '9,39 * * * *' # 매일 오전 8시 UTC (한국 시간 오후 5시)
+  workflow_dispatch:  # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: Daum_crawler.py
+      output-json: news_json/daum_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}      

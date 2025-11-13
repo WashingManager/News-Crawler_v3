@@ -1,0 +1,787 @@
+[
+  {
+    "date": "2025년 11월 13일 목요일",
+    "articles": [
+      {
+        "title": "[단독]부정선거를 극복한 키르키스스탄..A-WEB의 침투 어떻게 분쇄했나?",
+        "time": "2025-02-08T10:23:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344770"
+      },
+      {
+        "title": "[단독] QR코드 찍힌 가짜투표지, 알리바바서 판매.. \"이래도 부정선거 의혹 제기가 음모론이야?\"",
+        "time": "2025-01-31T02:14:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344238"
+      },
+      {
+        "title": "[선거부정] 방송사 출구조사 의혹...\"사전투표 결과 어떻게 미리 알았나?\"",
+        "time": "2025-01-29T20:28:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344214"
+      },
+      {
+        "title": "[칼럼] KBS언론노조의 부정선거 입틀막 시도..\"되겠냐?\"",
+        "time": "2025-01-29T19:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344205"
+      },
+      {
+        "title": "[포토] 각성한 2030 \"부정선거 검증하라\" STOP THE STEAL",
+        "time": "2025-01-29T00:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344198"
+      },
+      {
+        "title": "투표소 1곳서 무려 18210명 사전투표..1인당 4.74초 컷 \"이래도 부정선거가 아냐?\"",
+        "time": "2025-01-28T22:39:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344196"
+      },
+      {
+        "title": "언론사의 부정선거 팩트체크, \"죄다 선관위 입장 베껴\"",
+        "time": "2025-01-25T10:08:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344111"
+      },
+      {
+        "title": "[단독] '美부정선거 투표지, 대한항공이 실어날랐다는 의혹'과 미국의 현재 입장은?",
+        "time": "2025-01-23T17:53:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343993"
+      },
+      {
+        "title": "'부정선거 입틀막' 언론사들의 기이한 행태..\"왜 이렇게까지?\"",
+        "time": "2025-01-23T09:56:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343959"
+      },
+      {
+        "title": "많은 사람·기관 합심해야만 부정선거 가능하다는 선관위의 주장.. \"과연 그럴까?\"",
+        "time": "2025-01-21T17:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343836"
+      },
+      {
+        "title": "위기의 선관위, \"부정 투표지는 부정선거 증거 아냐\".주장..\"과연 그럴까?\"",
+        "time": "2025-01-21T15:55:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343809"
+      },
+      {
+        "title": "[부정선거 의혹] 감사원에 적발된 '중앙선관위와 A-WEB의 수상한 관계' (2020년)",
+        "time": "2025-01-18T01:19:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343640"
+      },
+      {
+        "title": "[부정선거의혹] 선관위의 구멍난 투표함, 사전투표조작 가능성에 힘실어 (2)",
+        "time": "2025-01-17T21:54:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343631"
+      },
+      {
+        "title": "\"부정선거 빼박 증거로 제시되는 그래픽을 소개합니다\"  (1)",
+        "time": "2025-01-15T17:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343285"
+      },
+      {
+        "title": "부방대, 부정선거 국민대토론회 개최...“부정선거는 팩트, 허구 아니다”",
+        "time": "2025-01-07T00:23:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=342735"
+      },
+      {
+        "title": "부정선거 방지위해 \"투명투표함\"을 쓰자고 제안했건만",
+        "time": "2025-01-06T18:40:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=342700"
+      },
+      {
+        "title": "\"아직도 '부정선거=음모론자' 프레임이면 곤란하지\"",
+        "time": "2025-02-06T04:29:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344621"
+      },
+      {
+        "title": "[단독] 사전투표 보정값? 민주당 163석 쪽집게 예측..\"이제와 생각해보니\"",
+        "time": "2025-02-02T22:01:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344349"
+      },
+      {
+        "title": "부천 신중동 사전투표소 18210명의 진실? \"24시간 CCTV 공개 또는 사전투표용지 발급 기록 까면 돼\"",
+        "time": "2025-02-01T11:47:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344305"
+      },
+      {
+        "title": "[단독] 대한민국 개표사무원에 중국인 포함은 사실..\"전국적으로 몇 명인지 통계도 못내\"",
+        "time": "2025-01-31T11:03:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344228"
+      },
+      {
+        "title": "'대리 투표' 적발 사전투표사무원에 중앙선관위, '고발'조치",
+        "time": "2025-05-30T15:57:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=352981"
+      },
+      {
+        "title": "트럼프 취임식 당일  \"2020년 대선은 완전히 조작\" 작심 발언",
+        "time": "2025-01-21T08:46:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=343768"
+      },
+      {
+        "title": "몽골 울란바트로 경찰서 소속 'E. 바트-오치르(Э.Бат-Очир)' 경찰관, 얼음장 강물에 주저없이 뛰어들어 소중한 생명 구조",
+        "time": "2025-11-07T16:41:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367819"
+      },
+      {
+        "title": "경제재정부, 공인회계사협회(ACCA) 대표단과 회담",
+        "time": "2024-12-02T04:37:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340191"
+      },
+      {
+        "title": "베네수엘라와의 고등 교육, 과학 및 혁신 분야 협력에 대해 논의",
+        "time": "2024-12-12T03:19:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340954"
+      },
+      {
+        "title": "2024년 스위스의 날 in 타슈켄트 : 지속 가능한 개발을 위한 품질, 혁신 및 신뢰성",
+        "time": "2024-11-27T04:48:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339869"
+      },
+      {
+        "title": "트럼프 관세 위협에 멕시코 대통령 \"이민자 유입 중단할 것\"",
+        "time": "2024-11-29T08:06:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340062"
+      },
+      {
+        "title": "미국-우즈벡 무역 및 경제 협력의 잠재력 확대 회의 가져",
+        "time": "2024-11-21T03:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339411"
+      },
+      {
+        "title": "생태환경보호기후변화부 직원 참여로 \"자코바트\" 게임 개시",
+        "time": "2024-12-16T04:19:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=341199"
+      },
+      {
+        "title": "교육 전문가, 교사 연수 및 재교육의 현대적 메커니즘에 대해 논의",
+        "time": "2024-12-12T03:02:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340953"
+      },
+      {
+        "title": "70% of Biden admin's education enforcement targeted Christian and career colleges : 바이든 행정부, 기독교 학교만 골라서 탄압",
+        "time": "2024-12-02T09:08:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340197"
+      },
+      {
+        "title": "투자산업통상부, 이집트 대사와 대담 개최",
+        "time": "2024-11-26T04:15:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339767"
+      },
+      {
+        "title": "[몽골은 지금]몽골 의사 간호사 교사들, 수흐바트라 광장에서 급여 인상 요구 농성 돌입",
+        "time": "2025-10-27T13:43:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=366680"
+      },
+      {
+        "title": "우즈벡 경제재정부, 독일 도이치뱅크 대표와 협력 전망에 대해 논의",
+        "time": "2024-12-02T04:24:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=340190"
+      },
+      {
+        "title": "중국 수출입은행, 타슈켄트에 대표 사무소 개소",
+        "time": "2024-11-26T04:31:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339768"
+      },
+      {
+        "title": "\"화재 예방의 달\"을 맞아 교육 캠페인 진행",
+        "time": "2024-11-21T03:07:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339410"
+      },
+      {
+        "title": "박티요르 외교부 장관, 투르크메니스탄 외무부 차관과의 회담",
+        "time": "2024-11-20T00:46:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339319"
+      },
+      {
+        "title": "박티요르 외교부 장관, 데이비드 라미 영국 외무장관과의 회담",
+        "time": "2024-11-20T00:39:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339316"
+      },
+      {
+        "title": "수자원 관리를 위한 디지털화 전망에 대해 회의 개최",
+        "time": "2024-11-13T01:40:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338874"
+      },
+      {
+        "title": "트럼프의 책사 스티브 배넌, \"대통령 선거는 승리 아니면 죽음\"",
+        "time": "2024-06-20T09:03:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323604"
+      },
+      {
+        "title": "트럼프 \"부통령 후보 결정…대선 TV토론장에 나올 것\"",
+        "time": "2024-06-24T08:45:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323995"
+      },
+      {
+        "title": "미 금융시장 '트럼프플레이션' 대비…골드만삭스 \"금 사라\"",
+        "time": "2024-06-21T16:26:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323871"
+      },
+      {
+        "title": "美신규주택 재고 2008년 이후 최대…고금리 원인",
+        "time": "2024-06-27T10:12:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=324488"
+      },
+      {
+        "title": "\"트럼프 당선 시 전기차 세액공제 등 IRA 보조금 510조원 위험\"",
+        "time": "2024-06-19T08:56:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323420"
+      },
+      {
+        "title": "바이든, 노르망디 80주년서 \"민주주의 위협 맞서 싸워야\"",
+        "time": "2024-06-07T08:17:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322100"
+      },
+      {
+        "title": "북러 회담에 대한 美전문가들 반응 \"한미일, 대응 필요\"",
+        "time": "2024-06-20T08:54:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323601"
+      },
+      {
+        "title": "북중러 두만강 이용 논의?…日언론 \"中 군사위협 증가 가능성\"",
+        "time": "2024-06-12T16:33:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322661"
+      },
+      {
+        "title": "\"러, 北에 정밀무기 주면 우크라 지원에 어떤 선도 없어\"",
+        "time": "2024-06-23T13:52:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=323972"
+      },
+      {
+        "title": "삼성중, 러시아로부터 선박 17척 계약해지통보…\"피해 크지않아\"",
+        "time": "2024-06-13T16:47:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322839"
+      },
+      {
+        "title": "대러제재 고리로 中대형은행까지 압박하는 美…파장은",
+        "time": "2024-06-14T09:01:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322892"
+      },
+      {
+        "title": "美 \"G7 정상회의서 러 동결자산으로 우크라 재건 지원 발표\"",
+        "time": "2024-06-12T08:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322555"
+      },
+      {
+        "title": "푸틴 \"우리는 한러 관계가 악화하지 않기를 희망한다\"",
+        "time": "2024-06-07T08:24:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322101"
+      },
+      {
+        "title": "푸틴, 5선 승리...러시아 '종신 집권' 길 열리나",
+        "time": "2024-03-18T12:41:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=316278"
+      },
+      {
+        "title": "푸틴 \"바이든은 예측가능한 구식\"…'트럼프보다 선호' 선언",
+        "time": "2024-02-15T09:31:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=314078"
+      },
+      {
+        "title": "농업 분야의 과학적 활동 범위가 확대를 위한 회의 개최",
+        "time": "2024-11-13T01:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338873"
+      },
+      {
+        "title": "12-13일, 아제르바이잔에서 유엔기후변화협약 당사국총회 개최",
+        "time": "2024-11-13T01:21:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338871"
+      },
+      {
+        "title": "우즈베키스탄, COP29에 참가하다: 협력과 새로운 기회의 벡터",
+        "time": "2024-11-02T16:18:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338079"
+      },
+      {
+        "title": "카라칼, 일명 사막스라소니 카메라에 잡히다",
+        "time": "2024-11-02T15:36:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338078"
+      },
+      {
+        "title": "초원에 사는 스텝독수리의 생명을 구하다",
+        "time": "2024-11-02T15:19:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=338077"
+      },
+      {
+        "title": "카자흐의 토카예프 대통령, 인도네시아 위도도 대통령에게 축전",
+        "time": "2024-08-20T05:53:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=330950"
+      },
+      {
+        "title": "카자흐스탄, 6월20일부터 전자담배 유통 금지",
+        "time": "2024-06-26T03:56:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=324307"
+      },
+      {
+        "title": "카자흐의 토카예프 대통령,  로렌스 웡 싱가폴 총리와 환담",
+        "time": "2024-05-24T03:17:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=321260"
+      },
+      {
+        "title": "카자흐, 238명 숨진 2022년 유혈진압 책임물어 前내무장관 체포",
+        "time": "2024-05-17T15:43:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=320784"
+      },
+      {
+        "title": "한전, 키르기스스탄과 HVDC 등 에너지 신기술 협력 MOU",
+        "time": "2024-05-17T15:53:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=320786"
+      },
+      {
+        "title": "한국 스마트 물관리 노하우 중앙아시아에 전한다",
+        "time": "2024-06-13T08:56:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322714"
+      },
+      {
+        "title": "중-키-우 횡단 철도, 키르기즈스탄 대통령 법률 승인에 이어 의회 비준까지",
+        "time": "2024-07-02T21:09:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=325166"
+      },
+      {
+        "title": "中, 중앙亞와 철도 협정…\"일대일로 야욕 다시 재점화?\"",
+        "time": "2024-06-13T08:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322703"
+      },
+      {
+        "title": "한국국제교류재단, 한-중앙아 5개국 고등교육분야 정책토론회",
+        "time": "2024-06-13T10:52:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322745"
+      },
+      {
+        "title": "국기원, '수교국' 쿠바 군대·경찰에 태권도 교육하나",
+        "time": "2024-06-13T10:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322742"
+      },
+      {
+        "title": "尹대통령, 내일부터 중앙아 3개국 해외 순방 재개…\" 'K-실크로드' 구상 본격화\"",
+        "time": "2024-06-09T16:37:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322206"
+      },
+      {
+        "title": "러·타지크 이주민 갈등 높아지자…양국 대통령 전화통화",
+        "time": "2024-05-17T15:56:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=320787"
+      },
+      {
+        "title": "尹대통령, 투르크 최고 지도자 배웅...\"두 번째 방문지 카자흐로 출국\"",
+        "time": "2024-06-12T00:15:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322526"
+      },
+      {
+        "title": "尹, 한-투르크 비즈니스 포럼 참석...\"투르크 명마‘ 아할 테케’ 처럼 협력 속도 높여야\"",
+        "time": "2024-06-11T17:00:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322445"
+      },
+      {
+        "title": "무협 \"한국, 중앙아 진출 전략 짜야…자원·도시·의료 등 유망\"",
+        "time": "2024-06-13T10:59:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322748"
+      },
+      {
+        "title": "한·투르크 기업인들, 스마트시티·플랜트 등 협력 강화 다짐",
+        "time": "2024-06-11T16:58:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322484"
+      },
+      {
+        "title": "대우건설, 중앙아시아 진출 교두보 투르크메니스탄 지사 개소",
+        "time": "2023-11-03T12:05:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=305783"
+      },
+      {
+        "title": "우와인 그룹, 아주IB투자 회사와 금융지원 및 자문과 회원 활용을 통한 공동 사업 발전에 관한 MOU 체결",
+        "time": "2024-03-15T14:13:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=316175"
+      },
+      {
+        "title": "동남아 진출 교두보인 베트남에  대한민국 식품안전을 알리다",
+        "time": "2024-06-05T15:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=322057"
+      },
+      {
+        "title": "‘한국군 베트남전 파병 60주년 회고와 전망’ 세미나 개최",
+        "time": "2024-03-05T18:00:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=315384"
+      },
+      {
+        "title": "영등포구, \"청소년의 슬기로운 AI 생활… ‘미래세대 명사특강’ 운영\"",
+        "time": "2025-11-04T10:43:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367433"
+      },
+      {
+        "title": "[박대석 칼럼] 李 국회연설, AI 고속도로의 함정",
+        "time": "2025-11-04T17:01:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367497"
+      },
+      {
+        "title": "동아방송예술대학교–경기아트센터, ‘아트지 인피니티 프로젝트(ArtG Infinity Project)’ 공동협약 체결",
+        "time": "2025-11-04T15:37:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367501"
+      },
+      {
+        "title": "국내 기업 대상 형사처벌 조항 8천개 넘어…“과도한 중복제재, 제도 개선 시급”",
+        "time": "2025-11-10T09:20:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368040"
+      },
+      {
+        "title": "팔란티어 모델 ‘전방 배치 엔지니어’, AI 산업의 ‘현장 CTO’ 역할",
+        "time": "2025-11-03T18:46:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367414"
+      },
+      {
+        "title": "하이브, 뉴진스 복귀 기대감 반영에 주가 5% 급등",
+        "time": "2025-11-13T11:03:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368507"
+      },
+      {
+        "title": "한국 기업 시총 증가율 103.8%…미국·일본·대만 제쳐",
+        "time": "2025-11-05T09:27:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367551"
+      },
+      {
+        "title": "중소기업 연체율 금융위기 이후 최고…한계기업도 14년 만에 최대",
+        "time": "2025-11-05T09:07:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367549"
+      },
+      {
+        "title": "[박대석 칼럼] 코스피 상승이유, 하락위험 입체적으로 한방에 보기",
+        "time": "2025-11-04T08:16:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367427"
+      },
+      {
+        "title": "'공모주 대어' 그린광학, 증거금 4.8조 폭발... 경쟁률 1천200대 1",
+        "time": "2025-11-10T09:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368044"
+      },
+      {
+        "title": "트럼프 \"엔비디아 최첨단칩, 타국에 안 줘\"…韓 블랙웰 공급 '빨간불'",
+        "time": "2025-11-04T11:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367475"
+      },
+      {
+        "title": "관세협상 지연에 수출 중소기업 ‘생존 위기’…“미국 시장 다 내줄 판”",
+        "time": "2025-11-11T17:52:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368294"
+      },
+      {
+        "title": "[김도윤의 인터뷰] 기술 혁신과 책임 경영의 아이콘, 올게이트 배성민 대표",
+        "time": "2025-11-04T16:10:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367502"
+      },
+      {
+        "title": "李대통령, 김지형 前대법관 경사노위 위원장 임명",
+        "time": "2025-11-03T16:55:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367376"
+      },
+      {
+        "title": "[박대석 칼럼] 누가 누구를 위해 핵심산업들 미국에 보내나",
+        "time": "2025-11-01T10:54:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367283"
+      },
+      {
+        "title": "李대통령, 젠슨 황 엔비디아 대표 접견…“AI 3대 강국·AI 기본사회 실현 기반 마련”",
+        "time": "2025-10-31T15:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367247"
+      },
+      {
+        "title": "코스피, 외국인 매도에 제한적 상승…AI·자동차주는 강세, 반도체는 약세",
+        "time": "2025-10-31T10:02:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367205"
+      },
+      {
+        "title": "박성연 서울시의원, “AI 기반 사전예방체계... 말뿐인 도입인가” 질타",
+        "time": "2025-11-13T12:03:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368517"
+      },
+      {
+        "title": "\"두산﻿, ‘11시즌 연속 우승’ 도전…SK 호크스﻿와 개막전 맞대결\"",
+        "time": "2025-11-13T12:27:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368523"
+      },
+      {
+        "title": "\"전라북도﻿ ‘서울 8개 종목 경기장 배치’ 추진…올림픽 인프라 효율화 기대\"",
+        "time": "2025-11-13T12:29:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368524"
+      },
+      {
+        "title": "\"‘어게인 1998’ 프랑스-브라질﻿ 평가전, 북중미 월드컵 앞두고 대결\"",
+        "time": "2025-11-13T12:38:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368527"
+      },
+      {
+        "title": "\"한일 야구대표팀 약점 확인하는 ‘9연패’ 기록 속 설욕전 임박\"",
+        "time": "2025-11-13T12:21:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368520"
+      },
+      {
+        "title": "백석예술대학교 뮤지컬과 전상준, 제9회 동아뮤지컬콩쿠르 ‘은상’ 및 김문정 음악감독 ‘특별상’ 수상",
+        "time": "2025-11-13T13:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368531"
+      },
+      {
+        "title": "재판 과정서 드러난 곽종근 주장의 헛점...정치권 미묘한 기류 변화",
+        "time": "2025-11-13T16:20:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368556"
+      },
+      {
+        "title": "\"제주에서 열린 삼성화재배 월드바둑대회﻿, 중화권 팬 위한 지도 대국 및 이벤트\"",
+        "time": "2025-11-13T12:24:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368521"
+      },
+      {
+        "title": "\"스킨스﻿ NL 사이영상 1위표 싹쓸이, 스쿠발 AL 2연패 기록 달성\"",
+        "time": "2025-11-13T12:39:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368528"
+      },
+      {
+        "title": "\"아일랜드전 임박한 호날두﻿, “야유가 쏟아져도 착한 아이 될 것”\"",
+        "time": "2025-11-13T12:31:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368525"
+      },
+      {
+        "title": "\"가계대출 늘었지만\"... 금융위, 10월 부동산 시장 영향은 제한적 평가",
+        "time": "2025-11-13T14:30:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368534"
+      },
+      {
+        "title": "이은림 서울시의원, “여성 노동자 산재 급증… 서울시 현장안전 여전히 남성 중심”",
+        "time": "2025-11-13T12:08:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368518"
+      },
+      {
+        "title": "\"도로공사﻿ 6연승 질주…정관장 3-0 완파, 독주 체제 굳히기\"",
+        "time": "2025-11-13T12:18:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368519"
+      },
+      {
+        "title": "\"2028년 LA 올림픽﻿ 야구, 6개 팀 참가 조별리그·준결승·결승 일정 확정\"",
+        "time": "2025-11-13T11:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368515"
+      },
+      {
+        "title": "선비꼬마김밥, 고객이 선택한 최고의 브랜드로  “2025 고객 신뢰도 1위 프리미엄 브랜드 대상” 수상",
+        "time": "2025-11-13T11:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368514"
+      },
+      {
+        "title": "\"울버햄프턴, 에드워즈 감독 영입으로 분위기 반전 기대…22일 데뷔전\"",
+        "time": "2025-11-13T11:36:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368510"
+      },
+      {
+        "title": "김경 서울시의원, 폭염기 관광안내소 ‘AI 하이브리드 운영 모델’ 제안",
+        "time": "2025-11-13T10:31:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368491"
+      },
+      {
+        "title": "[김태산 칼럼] (26) 우파들의 태극기 시위는 외롭다.",
+        "time": "2025-11-13T09:36:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368483"
+      },
+      {
+        "title": "[이인제의 국민메시지] (327) 정치적 압박으로 검찰을 짓눌렀다.",
+        "time": "2025-11-11T17:11:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368284"
+      },
+      {
+        "title": "[박대석 칼럼] 10% 포인트 이상 벌어지는 지지율, 무엇을 말하는가",
+        "time": "2025-11-08T19:33:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367973"
+      },
+      {
+        "title": "[유상범 페이스북] [국민의힘 원내대책회의 2025. 11. 7.(금)]",
+        "time": "2025-11-07T17:04:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367902"
+      },
+      {
+        "title": "[오순영 칼럼] 현대의학의 영웅과 위대한 발견 24화",
+        "time": "2025-11-11T10:41:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368208"
+      },
+      {
+        "title": "위명순 부정선거 탐사기 \"너 해봤어?\" (48) 구리경찰서 2차 조사",
+        "time": "2025-11-10T15:23:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368111"
+      },
+      {
+        "title": "[박수영 페이스북] 결국, ‘김부선(金不善) 정권’ – 첫 국정감사로 드러난 이재명 정부의 민낯",
+        "time": "2025-11-07T17:15:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367903"
+      },
+      {
+        "title": "[이인제의 국민메시지] (328) \"모두 제 자리에서 진실과 정의 외쳐야",
+        "time": "2025-11-12T17:33:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368422"
+      },
+      {
+        "title": "[박대석 칼럼] 화교 죽망(竹網) 막은 박정희와 빗장 활짝 연 셰셰 이재명",
+        "time": "2025-11-09T12:45:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367999"
+      },
+      {
+        "title": "[박대석 칼럼] 홍콩의 '충성서약 의무화'와 '헌법존중 정부혁신 TF'",
+        "time": "2025-11-13T15:48:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368462"
+      },
+      {
+        "title": "위명순 부정선거 탐사기 \"너 해봤어?\" (49) 인창동 아파트로 이사",
+        "time": "2025-11-12T15:27:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368381"
+      },
+      {
+        "title": "[이인제의 국민메시지] (326) 국민이 말을 할 때, 심판이 시작된다.",
+        "time": "2025-11-10T17:21:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368155"
+      },
+      {
+        "title": "[박대석 칼럼]   포기해야 할 것은 항소가 아니라 대통령직이다",
+        "time": "2025-11-11T21:30:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=368183"
+      },
+      {
+        "title": "[조우석 칼럼] 독자 잃고 망조 든 신문 조선일보 또 한 번의 배신",
+        "time": "2025-11-06T11:20:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367667"
+      },
+      {
+        "title": "[김태산 칼럼] (25) 공산주의자들도 종교인들도 사기꾼들이다.",
+        "time": "2025-11-06T10:44:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367660"
+      },
+      {
+        "title": "[박대석 칼럼] 그 좋은 한미 FTA, 누가 깼고 지금 한미 협상은 어디로 가나?",
+        "time": "2025-11-05T14:24:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367569"
+      },
+      {
+        "title": "위명순 부정선거 탐사기 \"너 해봤어?\" (47) 구리경찰서에서 조사받는 공선감",
+        "time": "2025-11-05T08:50:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=367531"
+      }
+    ]
+  }
+]

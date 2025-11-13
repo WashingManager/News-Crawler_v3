@@ -1,0 +1,15 @@
+name: TruthDaily News Scraper
+on:
+  schedule:
+    - cron: '0 9,22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: truthdaily_Crawler.py
+      output-json: news_json/truthdaily_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}      

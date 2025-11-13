@@ -1,0 +1,16 @@
+name: FNToday News Scraper
+on:
+  schedule:
+    - cron: '15,45 * * * *' # 매일 오전 8시 UTC (KST 오후 5시)
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: FNToday_Crawler.py
+      output-json: news_json/fntoday_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}      

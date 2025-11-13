@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+fuzzywuzzy
+fake-useragent
+python-Levenshtein
+firebase-admin

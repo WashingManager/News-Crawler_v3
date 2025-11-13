@@ -1,0 +1,17 @@
+name: Hanmiilbo News Scraper
+on:
+  schedule:
+    - cron: '0 10,21 * * *'  # 매일 10시, 21시 (UTC 기준)
+  workflow_dispatch:
+
+permissions:
+  contents: write  
+
+jobs:
+  call-template:
+    uses: ./.github/workflows/crawler-template.yml
+    with:
+      crawler-file: hanmiilbo_Crawler.py
+      output-json: news_json/hanmiilbo_News.json
+    secrets:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
