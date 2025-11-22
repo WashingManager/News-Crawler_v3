@@ -273,6 +273,38 @@
         "url": "https://www.fnnews.com/news/202511221533062252",
         "source": "Fn",
         "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "李대통령, G20서 K-재정·K-기후대응 전략 공개한다",
+        "time": "2025-11-22T16:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511221626109424",
+        "source": "Fn",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'음중' 뉴비트, 'Look So Good' 선물…'하이틴 스트리트 무드'",
+        "time": "2025-11-22T16:25:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511221625040221",
+        "source": "Fn",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"기사님이 어떻게\"...아이·여성 차에 태워 흉기로 위협한 50대 수행기사 구속",
+        "time": "2025-11-22T16:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511221608581587",
+        "source": "Fn",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "파키스탄 동부 공장서 보일러 폭발…최소 18명 숨져",
+        "time": "2025-11-22T16:38:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511221554459393",
+        "source": "Fn",
+        "date": "2025년 11월 22일 토요일"
       }
     ]
   },
@@ -1004,6 +1036,51 @@
         "img": "https://img6.yna.co.kr/photo/yna/YH/2025/11/22/PYH2025112202040005400_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20251122032651054",
         "summary": "조타수와 1시간 30분 동안 광주지법 목포지원 영장실질심사 출석",
+        "source": "yna",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "조국 \"김영삼 정치는 혁신당 DNA\"…국힘 \"YS는 표창장위조 안해\"",
+        "time": "2025-11-22T16:19:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/11/21/PYH2025112109950001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251122036700001",
+        "summary": "김현철 'YS 추모식 불참' 민주당에 \"이러니 개딸·김어준 아바타라는 것\"",
+        "source": "yna",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "폭설로 그늘막 무너진 의왕 도깨비시장 '새 지붕' 공사",
+        "time": "2025-11-22T16:22:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/11/22/AKR20251122038400061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251122038400061",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "강릉 폐기물 처리장서 불…4시간여 만에 진화",
+        "time": "2025-11-22T16:18:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/11/22/AKR20251122038300062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251122038300062",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "中 범죄단지 두목 등, 태국교도소서 '황제 수감생활'…성매매도",
+        "time": "2025-11-22T16:25:00",
+        "img": "https://img1.yna.co.kr/photo/etc/af/2025/11/12/PAF20251112171501009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251122038100084",
+        "summary": "\"직원들 매수…특별구역 만들어 호텔급 호화생활\"",
+        "source": "yna",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "美CDC '백신은 자폐증 유발 안한다' 입장 변경…보건장관 지시",
+        "time": "2025-11-22T16:21:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/11/22/AKR20251122033200009_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251122033200009",
+        "summary": "'백신음모론자' 케네디 \"백신이 자폐증 유발 안한다는 증거 없어\"",
         "source": "yna",
         "date": "2025년 11월 22일 토요일"
       }
@@ -1945,6 +2022,62 @@
         "time": "2025-11-21T08:51:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXFka2hTY1VOQlpHOXVTR05PVFJEMEF4ajBBeWdLTWdZVlFvcVNzUWM=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiU0FVX3lxTE5lS0pXdmtxZUVMU243MUxXa1VUQUVpRWhrV0ZQMHVPWmE1Wkl4OWdXcmN2a0hHQ3BUUVp5TzBLQTFDQUhrVXBQSWxUcHVSUXR4Wnlv?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'빚투' 김혜성父, 고척 김선생에 \"다음달 5000만원 갚겠다\" 뭔일",
+        "time": "2025-11-22T09:58:44+00:00",
+        "img": "/api/attachments/CC8iK0NnNXRUalpNTkVWelZFZEhWa0pUVFJDZkF4ampCU2dLTWdZQmNKSXlLUWM=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE10Y2NNVHhnY3NDXzUzdDBJeUU4Z1lrQ0JRbk45Rk00bExvNHFXWklEalFHbFdaakF4aXVyOW8wZjVOamFKbnBaSjJjclNROGhZWXUteDBR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "스페이스X 이어 블루오리진도 '초대형' 로켓 개발 나선다",
+        "time": "2025-11-21T14:54:11+00:00",
+        "img": "/api/attachments/CC8iK0NnNHdTQzFJYkc5NGQzZFJZMkp1VFJEZ0F4aUFCU2dLTWdhaEk0VHRNUVE=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiWEFVX3lxTE8yTGRMVzZMTnE2dTRwSERoaWQ0Q0pFcTFFS0pQQkxzSWJBQjhsR0RDc2V2RVM2aDVpQmZpMW1BSVdTLTlCWUF2Sl8taUVJLTRDbWNCaGZ0SS0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "[사이언스영상] 초신성 첫 순간 포착…별이 ‘올리브 모양’으로 터졌다",
+        "time": "2025-11-22T08:02:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNW9jekk1TW1RMVV6UjRXVWhWVFJDM0FSaVRBaWdCTWdhUkI0VkgxZ0k=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE14Nm5CSDVsYUFfVXU0a2NlS0NDSEUtY0JWUjN1aUlGYVU3aGNNUTVPYVNzT3lSMVJsX21kZjZaVzlxMHBfVDVXRUhsSkVNc0U?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "영업점도 주담대 막혔다… 연말 대출 절벽 현실화",
+        "time": "2025-11-21T05:50:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNDBNM05mWTFGM2JEbHhaMjVvVFJEdkF4anJCQ2dLTWdZSkE0alBrUXM=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiX0FVX3lxTE9KdXlYaFBfaEJUeWxXd0pqYVNvcnR6d2xRQ2ZGOUd0UktJV3VHQ2NyamJkSl9ZaFZ5cmsyb1VQRlNDeWRKU1dhRzlTNlNycDFoV0dDdE05LWxXc0dUSDBJ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "LA 오토쇼 21일 개막… 현대차, 美 오프로드 시장 공략할 콘셉트카 공개 - 조선비즈",
+        "time": "2025-11-21T06:47:00+00:00",
+        "img": "/api/attachments/CC8iMkNnNWxVbVJKWVhFMGQzcEJOVk5SVFJDUkF4ajhCU2dLTWdzQklJYVl5R1M1cmlsVHVR=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMif0FVX3lxTE41MzNydU1xU0VOQjEtMmp6RkU2aE9pNnEwU04yVV9VeFpHWk41Z0xfc3NHNDdaX0llbHFRQzJrQ0lOTVg2djNYZklKSXpuQXg5N2RFMllFX2RTSFhUcFdEbU9EMkZFM1hGam5qRVZWdFZKTnNZLWtLS2FESEF5TUHSAZMBQVVfeXFMTTJFc1NJaWRCRU5iZk9yZklTQ2E5a3pyc0RpMkpWbVlMMmZvS2xwOW9aSG90NDVNQ3h5M0lDOGRyNy1FckM0cHQtNnpPQ3NkRktxWnVPa1lkNUdhUzRJVUdRMVk1ZTNmS2xiOUc0VF9qODNXRDM3aGx1aW9sOC1TNVIxWEJ0MUJjRmlqbm1MVC1US0dj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "경기도, 퇴직한 수의직 공무원 7명 투입해 사회재난형 가축전염병 예방을 위한 현장 예찰, 방역 점검 강화",
+        "time": "2025-11-20T07:31:39+00:00",
+        "img": "/api/attachments/CC8iK0NnNURZMmxHUmt4SE5qZHdNMU10VFJEWkF4allCQ2dLTWdZcGc0cFBNUVU=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiZkFVX3lxTE1VRHNucFRUT1FMUWNwbDk2ajM0eFYyRUlrZmlYOE9ub1NWVDlGanI5NWhVYldra2dlMS1EZnhUcTNyaVJNSU5zVU9GNGZPOTRCQ0hxT2RrQlcyZGpTZVFwUTBOZ0tMQQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "방글라데시 다카 인근서 규모 5.5 지진 발생…최소 6명 사망",
+        "time": "2025-11-21T18:31:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNUljMnRCU3pWMGNIaHpUa05UVFJEWEFoamlCQ2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTFB4VHpDY2s0YTZ5ZEprVHp4VUZIOHU5LUMzYk5jSWNISWpmYzVVTnRCdUliLXo0NEVaZnNWZTRXX296UktZSVlCcndsNkxfVWYyYkpn?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 11월 22일 토요일"
       }
@@ -4381,6 +4514,114 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/kado/20251122155251612ebuk.jpg",
         "url": "https://v.daum.net/v/20251122155250195",
         "summary": "교사들이 스프레이·소음 장비로 곰 쫓아내",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "장동혁 “‘법치파괴’ 李정권 끝내야”",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/dt/20251122163649601yzph.jpg",
+        "url": "https://v.daum.net/v/20251122163647611",
+        "summary": "국힘, 부산서 대국민 여론전 시동…내달 2일까지 전국 순회‘대장동 항소 포기’ 고리로 비판여론 결집·지지세 확산 모색",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "AI로 성장률 올리겠다더니···결국엔 복지·지역화폐 예산  대폭 증액한 이재명정부 [나기자의 데이터로 세상읽기]",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/mk/20251122162701661aroq.jpg",
+        "url": "https://v.daum.net/v/20251122162700537",
+        "summary": "정부, 2026년 728조원 예산편성내년 성장률 1.8% 맞추려는 고육책AI예산 대폭 늘렸다고 홍보했지만복지·지역 등 현금지원 예산 더 늘어AI예산도 각 부처 집계본과 따져보니기재부는 10조원 vs 부처는 7.7조원분류법 안맞아 정책집행 효과에 ‘의문’李정부 돈풀기 정책에 금리만 상승 중정부의 포퓰리즘 정책 국회서 견제해야",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"기후재난 속 농정 전환\" 촉구…농민들, 서울 도심 집결",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/newsis/20251122164239833ktpt.jpg",
+        "url": "https://v.daum.net/v/20251122164239680",
+        "summary": "\"미국산 쌀 수입 중단하라\"…전·현 정권 비판농정 대전환·농업예산 확대 촉구",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"몇 달 만에 5억이나 올랐다\"···강남도 아닌데 22억 찍은 '이 동네' 무슨 일이",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/seouleconomy/20251122163814703usht.png",
+        "url": "https://v.daum.net/v/20251122163813626",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "李대통령, G20서 K-재정·K-기후대응 전략 공개한다",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/fnnewsi/20251122163149467ldne.jpg",
+        "url": "https://v.daum.net/v/20251122163149572",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "경기도, 경기살리기 통큰세일 시작..올해 120억 원 3배 ↑",
+        "time": "2025-11-22T07:43:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/ohmynews/20251122164202024ldaq.jpg",
+        "url": "https://v.daum.net/v/20251122164200665",
+        "summary": "김동연 \"상인은 3배 이상 신나고, 도민 장바구니는 3배 이상 넉넉해지도록 할 것\"",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "트럼프의 '배신자' 낙인에 옛 측근 그린 \"의원직 사임\"",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/kbc/20251122163105327dmdl.jpg",
+        "url": "https://v.daum.net/v/20251122163101567",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "우크라 동맹국들, 남아공 G20 정상회담서 트럼프 평화계획 보강 시도",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/newsis/20251122162814850iyhb.jpg",
+        "url": "https://v.daum.net/v/20251122162814547",
+        "summary": "젤렌스키, 21일 \"우크라, 역사상 가장 어려운 순간 직면\" 경고",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "‘백신은 자폐증 유발 안한다’ 입장으로…미국 보건장관 ‘꼼수 문장’ 하나 넣었다",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/ned/20251122163751724vheb.jpg",
+        "url": "https://v.daum.net/v/20251122163751625",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "中 범죄단지 두목 등, 태국교도소서 '황제 수감생활'…성매매도",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/yonhap/20251122162713796cisq.jpg",
+        "url": "https://v.daum.net/v/20251122162713539",
+        "summary": "\"직원들 매수…특별구역 만들어 호텔급 호화생활\"",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'백신 자폐 유발 없다' 기존 입장 뒤집은 미국 보건 장관",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/seouleconomy/20251122164016599ycgl.jpg",
+        "url": "https://v.daum.net/v/20251122164014644",
+        "summary": "'증거에 기반하지 않았다' 표현 추가",
+        "source": "daum",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "中 “日은 군국주의” ...반일 발언 수위 점점 세진다",
+        "time": "2025-11-22T07:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/22/mk/20251122163902025nwbj.jpg",
+        "url": "https://v.daum.net/v/20251122163900633",
+        "summary": "중일 여론전 격화…中 “日은 군국주의” 日 “中대상 범죄 안늘어”中, 日 침략역사 거론하며 다카이치 비판…日, 中 ‘여행 자제령’ 근거 반박남아공 G20서 다카이치·리창 만남 주목…中태도 강경해 성사 불투명",
         "source": "daum",
         "date": "2025년 11월 22일 토요일"
       }
@@ -15204,6 +15445,456 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2025/11/22/7cf5bdcf824644.jpg",
         "url": "https://news.nate.com/view/20251122n07147",
         "summary": "28개항 평화계획 초안 공개되자 우크라 수용 여부 ‘안갯속’",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "수원 영통동 영통황골주공1차 59㎡ 3억7500만원에 거래",
+        "time": "2025-11-22T16:12:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251122n07362",
+        "summary": "[이 기사는 조선비즈와 아티웰스가 공동으로 개발해 서비스하는 로봇 기사입니다.]",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"연말 이게 딱이지\"…20% 할인된 가격에 건강 선물",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/11/22/news-p.v1.20251121.7e83e08362e14b48bdb19d3c85b271ed_P1.jpg",
+        "url": "https://news.nate.com/view/20251122n07495",
+        "summary": "KGC인삼공사가 다음 달 7일까지 정관장 연말 프로모션을 진행한다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'부자 아빠 가난한 아빠' 기요사키, 강한 낙관론 뒤 비트코인 수십억 매도",
+        "time": "2025-11-22T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/11/22/202574461763795625.jpg",
+        "url": "https://news.nate.com/view/20251122n07414",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "수원 영통동 영통에듀파크 84㎡ 8억1000만원에 거래",
+        "time": "2025-11-22T16:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/11/22/cz_1763796484225_125243_0.jpg",
+        "url": "https://news.nate.com/view/20251122n07545",
+        "summary": "[이 기사는 조선비즈와 아티웰스가 공동으로 개발해 서비스하는 로봇 기사입니다.]",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"비트코인 100만 달러간다더니\"…부자아빠, 결국 돌변했다",
+        "time": "2025-11-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/11/22/AD.42407515.1.jpg",
+        "url": "https://news.nate.com/view/20251122n07477",
+        "summary": "비트코인의 가치를 연일 강조하며 \"매도 계획이 없다\"고 밝혔던 베스트셀러 '부자 아빠 가난한 아빠'의 저자 로버트 기요사키가 최근 비트코인 조정 국면에서 보유 물량 일부를 매도했다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "김태흠 충남지사, '고령화 사회 기둥' 장기요양요원 노고 격려",
+        "time": "2025-11-22T16:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/22/7613870_high.jpg",
+        "url": "https://news.nate.com/view/20251122n07571",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"기사님이 어떻게\"…아이·여성 차에 태워 흉기로 위협한 50대 수행기사 구속",
+        "time": "2025-11-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/11/22/202511221442069306_l.jpg",
+        "url": "https://news.nate.com/view/20251122n07583",
+        "summary": "[파이낸셜뉴스] 서울 강남 한복판에서 차량에 태운 여성과 아이를 흉기로 위협하며 금전을 요구한 수행기사가 구속됐다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "대전시의회 의장, '체육도시 조성' 위한 관심·지원 약속",
+        "time": "2025-11-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/22/7613868_high.jpg",
+        "url": "https://news.nate.com/view/20251122n07541",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "전광훈 \"좌파 대통령만 되면 항상 나 불러 조사\"",
+        "time": "2025-11-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/22/7605871_high.jpg",
+        "url": "https://news.nate.com/view/20251122n07539",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "WADA 총회, 12월 부산서 개최…전 세계 도핑방지 정책 논의",
+        "time": "2025-11-22T16:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251118_0001996191_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07544",
+        "summary": "191개국 2000여 명, 부산 찾아…국제 스포츠 유치 전략에도 긍정적",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "정청래 대표-전남 국회의원, 나주서 차담회",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071176_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07510",
+        "summary": "[나주=뉴시스] 이현행 기자 = 정청래 더불어민주당 당대표가 22일 오후 전남 나주 한국에너지공대에서 'APEC 국민성과 및 민주주의 미래 비전' 특별강연을 앞두고 전남지역 국회의원들과 차담회를 하고 있다. 2025.11.22. lhh@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "정청래 대표, 전남서 특별강연",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071174_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07507",
+        "summary": "[나주=뉴시스] 이현행 기자 = 정청래 더불어민주당 당대표가 22일 오후 전남 나주 한국에너지공대 대강당에서 'APEC 국민성과 및 민주주의 미래 비전'을 주제로 특별강연을 하고 있다. 2025.11.22. lhh@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "구호 외치는 국민의힘",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071184_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07508",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 이재명 정권을 비난하는 구호를 외치고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "정청래, 'APEC 국민성과 및 민주주의 미래 비전' 강연",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071173_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07509",
+        "summary": "[나주=뉴시스] 이현행 기자 = 정청래 더불어민주당 당대표가 22일 오후 전남 나주 한국에너지공대 대강당에서 'APEC 국민성과 및 민주주의 미래 비전'을 주제로 특별강연을 하고 있다. 2025.11.22. lhh@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "민생회복 법치수호 부산 국민대회 연 국민의힘",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071190_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07506",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 이재명 정권을 비난하는 구호를 외치고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "정청래 대표, 나주 찾아 특별강연",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071175_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07505",
+        "summary": "[나주=뉴시스] 이현행 기자 = 정청래 더불어민주당 당대표가 22일 오후 전남 나주 한국에너지공대 대강당에서 'APEC 국민성과 및 민주주의 미래 비전'을 주제로 특별강연을 하고 있다. 2025.11.22. lhh@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "구호 외치는 국민의힘",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071181_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07504",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 이재명 정권을 비난하는 구호를 외치고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "민생회복 법치수호 부산 국민대회 연 국민의힘",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071191_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07503",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 이재명 정권을 비난하는 구호를 외치고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "부산 찾은 장동혁 대표",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071193_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07498",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 국민의례를 하고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "부산 찾은 장동혁 대표",
+        "time": "2025-11-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071186_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07501",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 지지자들과 인사하고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "발언하는 장동혁 대표",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071195_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07484",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표가 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 차량무대에 올라 발언을 하고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "민생회복 법치수호 부산 국민대회 개최한 국민의힘",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071197_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07480",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표와 최고위원, 지역 국회의원 등이 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 행사진행을 지켜보고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "부산 찾은 장동혁 국민의힘 대표",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071196_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07483",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표가 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 발언을 하기 위해 차량무대에 오르고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "강릉 강동면 폐기물처리장서 화재…4시간20분 만에 진화",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/22/7613872_high.jpg",
+        "url": "https://news.nate.com/view/20251122n07489",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "발언하는 장동혁 대표",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251122_0021071198_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07487",
+        "summary": "[부산=뉴시스] 하경민 기자 = 국민의힘 장동혁 대표가 22일 부산 중구 광복로에서 열린 '민생회복 법치수호 부산 국민대회'에 참석, 차량무대에 올라 발언을 하고 있다. 2025.11.22. yulnetphoto@newsis.com",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "용인시–화성시, 반도체 교통축 구축 위한 상생 협력···광역도로·철도망 공동 추진",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sm/2025/11/22/126935_228680_2057.jpg",
+        "url": "https://news.nate.com/view/20251122n07464",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"단풍 끝자락 아쉽지만, 스키 시즌 반갑다\"…곳곳 나들이객 북적(종합)",
+        "time": "2025-11-22T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/22/7613862_high.jpg",
+        "url": "https://news.nate.com/view/20251122n07427",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"순식간에 쓸려가\" 줄줄이 사망…여전히 사람들 몰리는 곳",
+        "time": "2025-11-22T16:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/11/22/202130774_700.jpg",
+        "url": "https://news.nate.com/view/20251122n03439",
+        "summary": "\"미끄러운 이끼가 많은 갯바위는 표면도 울퉁불퉁해 한 번 바다에 빠지면 다시 올라오기 어렵습니다.\"",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'여객선 좌초' 항해사·조타수 영장심사 출석…\"혐의 인정·죄송\"",
+        "time": "2025-11-22T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/22/202511221601573409_t.jpg",
+        "url": "https://news.nate.com/view/20251122n07347",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "여객선 좌초 혐의 일등항해사 \"피해 끼쳐 죄송\"",
+        "time": "2025-11-22T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/22/700306_1763795911.jpg",
+        "url": "https://news.nate.com/view/20251122n07441",
+        "summary": "전남 신안군 앞바다에서 대형 카페리 여객선을 좌초시킨 혐의로 긴급체포된 일등항해사와 조타수가 구속 전 피의자 심문에 출석했습니다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "신안 여객선 좌초 항해사 \"승객에 죄송, 혐의 인정\"(종합)",
+        "time": "2025-11-22T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/11/22/PS25112200369.jpg",
+        "url": "https://news.nate.com/view/20251122n07433",
+        "summary": "<font color=\"gray\"><b>- 영장실질심사 결과는 오늘 오후 나올 예정</b></font>\n<font color=\"gray\"><b>- \"피해 끼쳐 죄송…임산부께 더 죄송스러워\"</b></font>",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"기호 1번 이씨는 안돼, 나라 팔아먹어\" 투표지 단톡방에 공유한 50대男",
+        "time": "2025-11-22T16:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/11/22/202511200604011445_l.jpg",
+        "url": "https://news.nate.com/view/20251122n07403",
+        "summary": "[파이낸셜뉴스] 투표지를 촬영해 단체 대화방에 공유한 50대 남성이 벌금형을 선고받았다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "근로자 숙소서 잠자던 남성 흉기 피습…경찰, 조선족 용의자 추적 중",
+        "time": "2025-11-22T16:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/11/22/news-p.v1.20251120.11d1bdb83f1945a8aead8335b5ba2a31_P1.jpg",
+        "url": "https://news.nate.com/view/20251122n07394",
+        "summary": "청주의 한 전통시장 근로자 숙소에서 잠을 자던 70대가 흉기 습격을 당해 경찰이 용의자를 추적 중이다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "도이치 주가조작 '주포' 이씨, 영장심사 불출석…서류로만 구속 여부 판단",
+        "time": "2025-11-22T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/11/22/20251122505128.jpg",
+        "url": "https://news.nate.com/view/20251122n07388",
+        "summary": "압수수색 과정에서 도주했다가 한 달여 만에 붙잡힌 도이치모터스 주가조작 ‘주포’ 이모씨의 구속 여부가 법원의 서류 심사로만 결정된다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"계양산인데 살려달라\" 신고 후 연락두절…사흘째 수색 중",
+        "time": "2025-11-22T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/11/22/20251122500373.jpg",
+        "url": "https://news.nate.com/view/20251122n07349",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "\"미숙한 언행·태도 죄송\"…'부친 빚투 논란' 김혜성, 고개숙여 사과",
+        "time": "2025-11-22T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/11/22/2025112216074020671_1.jpg",
+        "url": "https://news.nate.com/view/20251122n07378",
+        "summary": "부친의 일명 '빚투' 논란과 힘께 귀국 당시 공항에서의 태도로 질타를 받은 김혜성(26·LA 다저스)이 고개를 숙였다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "김진태 지사, 도청 공무원과 연탄 4600장 배달 봉사…'따뜻한 온기' 전달",
+        "time": "2025-11-22T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/11/22/ae_1763795584990_211776_0.jpg",
+        "url": "https://news.nate.com/view/20251122n07370",
+        "summary": "김진태 강원지사, 겨울나기 어려운 이웃에 \n'사랑의 연탄' 4600장 나눔 실천\n4년째 연탄 봉사…취약계층 겨울나기 지원",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "요오드가 언제 아이오딘이 됐어? '아재 판독기' 된 과학용어",
+        "time": "2025-11-22T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/11/22/ch_1763795645033_983128_0.jpg",
+        "url": "https://news.nate.com/view/20251122n00291",
+        "summary": "[아무튼, 주말]\n아이오딘부터 뷰테인까지\n‘아재 판독기’ 된 과학용어",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "李대통령, G20서 '韓정부 재정정책 모범 사례' 소개한다",
+        "time": "2025-11-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/11/22/132819157.1.jpg",
+        "url": "https://news.nate.com/view/20251122n07407",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "美CDC '백신은 자폐증 유발 안한다' 입장 변경…보건장관 지시",
+        "time": "2025-11-22T16:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/22/AKR20251122033200009_03_i.jpg",
+        "url": "https://news.nate.com/view/20251122n07463",
+        "summary": "'백신음모론자' 케네디 \"백신이 자폐증 유발 안한다는 증거 없어\"",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "우크라 동맹국들, 남아공 G20 정상회담서 트럼프 평화계획 보강 시도",
+        "time": "2025-11-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/22/NISI20251025_0000740919_web.jpg",
+        "url": "https://news.nate.com/view/20251122n07535",
+        "summary": "젤렌스키, 21일 \"우크라, 역사상 가장 어려운 순간 직면\" 경고",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "中 범죄단지 두목 등, 태국교도소서 '황제 수감생활'…성매매도",
+        "time": "2025-11-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/22/PAF20251112171501009_P2.jpg",
+        "url": "https://news.nate.com/view/20251122n07523",
+        "summary": "\"직원들 매수…특별구역 만들어 호텔급 호화생활\"",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "조롱 당하자 나가버린 미인대회 그녀…예상 못한 결말 나왔다",
+        "time": "2025-11-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/11/22/news_1763796677_1576884_m_1.png",
+        "url": "https://news.nate.com/view/20251122n07597",
+        "summary": "데일리안 이지희 기자 (ljh4749@dailian.co.kr)",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 머스크 독주 붕괴 조짐…우주 패권 노리는 '전면전' 돌입",
+        "time": "2025-11-22T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/22/202511221558033509_t.jpg",
+        "url": "https://news.nate.com/view/20251122n07442",
+        "summary": "\"5, 4, 3, 2, 1 이륙 확인!\"",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 백악관서 만난 트럼프-맘다니…화기애애 회동",
+        "time": "2025-11-22T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/11/22/202130789.png",
+        "url": "https://news.nate.com/view/20251122n07413",
+        "summary": "도널드 트럼프 미국 대통령과 조란 맘다니 뉴욕시장 당선인이 백악관서 만났습니다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "딥페이크 악용 급증…가장 많이 사칭 피해 본 스타는 '테일러 스위프트'",
+        "time": "2025-11-22T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2025/11/22/9c3404cdd4eac4.jpg",
+        "url": "https://news.nate.com/view/20251122n07369",
+        "summary": "AI 기반 사기가 확산되며 유명인 이미지 도용 사례 잇따라",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "'그녀' 얼굴 나오면 의심부터…딥페이크 표적 1위는 이 스타",
+        "time": "2025-11-22T16:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/11/22/df779cba-6157-413f-88d7-56ee84f99375.jpg",
+        "url": "https://news.nate.com/view/20251122n06439",
+        "summary": "미국의 인기 가수 테일러 스위프트가 딥페이크(인공지능 기반 사진·영상 합성 기술)를 활용한 사기에 가장 많이 악용된 것으로 나타났다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "30돌 맞은 다쏘시스템 솔리드웍스, AI로 설계 문턱 낮춘다",
+        "time": "2025-11-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/11/22/2H0JYCFFKU_1.jpeg",
+        "url": "https://news.nate.com/view/20251122n07588",
+        "summary": "전세계 로봇 60%가;솔리드웍스 등으로 개발;한국 시장 적극 공략",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "오픈월드 어드벤처 RPG '원신', 세 번째 달 버전 12월 3일 적용",
+        "time": "2025-11-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/11/22/news-p.v1.20251122.b428fd279e6b4fe8be84fdc4b5b992bc_P1.jpg",
+        "url": "https://news.nate.com/view/20251122n07482",
+        "summary": "호요버스는 오픈월드 어드벤처 RPG ‘원신’의 세 번째 달 버전 ‘공월의 노래·간주 - 극북의 야행시’를 오는 12월 3일 업데이트한다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 11월 22일 토요일"
+      },
+      {
+        "title": "누리호 성공 기원…국립과천과학관 체험 행사",
+        "time": "2025-11-22T16:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/22/700272_1763795736.jpg",
+        "url": "https://news.nate.com/view/20251122n07400",
+        "summary": "[앵커]",
         "source": "nate",
         "date": "2025년 11월 22일 토요일"
       }
