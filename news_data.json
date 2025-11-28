@@ -142784,5 +142784,34 @@
         "url": "https://www.msn.com/ko-kr/news/world/"
       }
     ]
+  },
+  {
+    "date": "2025년 11월 28일 금요일",
+    "articles": [
+      {
+        "title": "[속보] 홍콩 아파트 화재 사망자 75명으로 늘어",
+        "time": "2025.11.28. 오전 12:16",
+        "img": "https://imgnews.pstatic.net/image/421/2025/11/28/0008630087_001_20251128001713703.jpg?type=w800",
+        "url": "https://n.news.naver.com/article/421/0008630087?sid=104"
+      },
+      {
+        "title": "'업비트 445억 가상자산 해킹'…북한 라자루스 소행으로 보여  - 아시아경제",
+        "time": "2025-11-28T14:57:36+0900",
+        "img": "https://cphoto.asiae.co.kr/listimglink/1/2025112715481634823_1764226096.png",
+        "url": "https://www.asiae.co.kr/article/2025112814573763988"
+      },
+      {
+        "title": "중국, 일본과 갈등 국면서 프랑스에 지지 요청",
+        "time": "2025-11-28T11:05:29+09:00",
+        "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2025/11/PS25112800514.jpg",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02797846642370312&mediaCodeNo=257"
+      },
+      {
+        "title": "[이슈클릭] 중국 휴머노이드 로봇, ‘최장 보행’ 기네스 신기록",
+        "time": "입력 2025.11.25 (18:30)",
+        "img": "http://news.kbs.co.kr/data/news/2025/11/25/20251125_WLTHIl.jpg",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8416704"
+      }
+    ]
   }
 ]
