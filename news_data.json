@@ -142920,5 +142920,34 @@
         "url": "https://n.news.naver.com/article/417/0001116266?sid=101"
       }
     ]
+  },
+  {
+    "date": "2025년 11월 30일 일요일",
+    "articles": [
+      {
+        "title": "[속보] 젤렌스키, 미-러와 정전협상 새 대표로 우메로우국방장관 임명",
+        "time": "2025.11.30. 오전 6:44",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/30/NISI20201211_0000654239_web_20201211094147_20251130070113111.jpg?type=w800",
+        "url": "https://n.news.naver.com/article/003/0013629400?sid=104"
+      },
+      {
+        "title": "쿠팡 고객정보, 중국인 직원이 유출한 듯…경찰 수사중",
+        "time": "시간 정보 없음",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/30/yonhap/20251130135650873mhmb.jpg",
+        "url": "https://v.daum.net/v/20251130110215752?from=newsbot&botref=KN&botevent=q"
+      },
+      {
+        "title": "김정은 “공군에 새 전략자산 부여될 것”…딸 주애 등장｜동아일보",
+        "time": "2시간 전",
+        "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/11/30/132868365.1.jpg",
+        "url": "https://www.donga.com/news/Politics/article/all/20251130/132868364/1"
+      },
+      {
+        "title": "[속보]  \"쿠팡 유출, 국가 배후 공격 가능성도 논의…악성코드 미발견\"",
+        "time": "2025.11.30. 오후 5:15",
+        "img": "https://imgnews.pstatic.net/image/656/2025/11/30/0000157529_001_20251130171512446.jpg?type=w800",
+        "url": "https://n.news.naver.com/article/656/0000157529?sid=102"
+      }
+    ]
   }
 ]
