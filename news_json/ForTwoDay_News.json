@@ -1457,6 +1457,22 @@
         "url": "https://www.fnnews.com/news/202512080525034961",
         "source": "Fn",
         "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"운전 X같이 한다\"…'콜뛰기' 기사, 만취 손님 폭행 '뇌 손상'",
+        "time": "2025-12-08T07:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512080702364880",
+        "source": "Fn",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "트럼프 주니어, 美 우크라 평화 협상에서 손 뗄 수도",
+        "time": "2025-12-08T07:02:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512080650430138",
+        "source": "Fn",
+        "date": "2025년 12월 07일 일요일"
       }
     ]
   },
@@ -4127,6 +4143,69 @@
         "time": "2025-12-08T06:12:00",
         "img": "https://img8.yna.co.kr/photo/yna/YH/2025/12/07/PYH2025120702590005600_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20251208005200056",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "법원 \"지방의회의원, 재임 중 사회복무요원 대체복무 가능\"",
+        "time": "2025-12-08T07:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/12/07/AKR20251207020500004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251207020500004",
+        "summary": "김민석 구의원 지위확인 승소…\"사회복무요원은 공무원 아냐\"",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "시간 켜켜이 쌓인 통인시장, 혁신 디자인 입고 새 랜드마크로",
+        "time": "2025-12-08T07:01:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/06/AKR20251206032500004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251206032500004",
+        "summary": "서울시 '디자인 혁신 전통시장 조성사업' 본격 착수",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "경북 앞바다에 풍랑주의보 해제",
+        "time": "2025-12-08T07:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251208009200527",
+        "summary": "울산 서부·동부에 건조주의보 유지",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "태백 등 강원 10곳 강풍주의보 해제…양양 등 6곳 건조경보 유지",
+        "time": "2025-12-08T07:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251208009100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[다문화 3.0] 울면서 한국생활 버티던 소녀, 이제는 다문화 청소년 버팀목",
+        "time": "2025-12-08T07:00:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/12/05/AKR20251205026500064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251205026500064",
+        "summary": "고려인 출신 충북대생 파시니나 야나, 한국어교육·진로지도 등 봉사 앞장",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "대구·경북 오후부터 차차 맑아져…낮 최고 10도",
+        "time": "2025-12-08T06:38:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/08/AKR20251208007100053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251208007100053",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "트럼프, 大法이 운명쥔 상호관세 '여론전'…\"덜 번거롭고 신속\"",
+        "time": "2025-12-08T07:03:00",
+        "img": "https://img8.yna.co.kr/photo/etc/af/2025/11/18/PAF20251118019101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251208008700071",
         "summary": "",
         "source": "yna",
         "date": "2025년 12월 07일 일요일"
@@ -14940,6 +15019,465 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208063128770svtr.jpg",
         "url": "https://v.daum.net/v/20251208063128179",
         "summary": "아침 최저 -5~7도·낮 최고 4~11도…당분간 동해안 중심 건조동해·경북앞바다 등 풍랑특보 발효…미세먼지 전 권역 '보통'",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "“신약개발을 아는 사람이 AI를 만든다면?”…심플렉스가 바꿔놓은 탐색의 룰",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/Edaily/20251208071154121vfea.jpg",
+        "url": "https://v.daum.net/v/20251208071152673",
+        "summary": "조성진 심플렉스 대표 인터뷰美 빅파마 20년 경험 들고 한국행리드 옵티마이제이션에 특화된 XAI 플랫폼“수만 개 대신 100개…시간·비용 동시 절감”",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "美재무 “美, 올해 실질 GDP성장률 3%…내년 인플레 하락”",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/dt/20251208072449842oqmy.jpg",
+        "url": "https://v.daum.net/v/20251208072447798",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "잠재 매물 'HMM 인수전' 후끈…'단골' 포스코vs'재도전' 동원 2파전",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208070815013ixav.jpg",
+        "url": "https://v.daum.net/v/20251208070813634",
+        "summary": "인수자금 최대 10조 원 전망…포스코 자금력 앞서지만 업계 '반대'",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[다문화 3.0] 울면서 한국생활 버티던 소녀, 이제는 다문화 청소년 버팀목",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/yonhap/20251208070158210sscu.jpg",
+        "url": "https://v.daum.net/v/20251208070158541",
+        "summary": "고려인 출신 충북대생 파시니나 야나, 한국어교육·진로지도 등 봉사 앞장청주시 시민 홍보대사로도 활약…\"이주민 위한 맞춤형 지원센터 설립 꿈꿔\"",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "‘경계선 지능인’…“느린 청년도 일하고 싶다”",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/kbs/20251208065952675rwad.jpg",
+        "url": "https://v.daum.net/v/20251208065950473",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "남양주시, 관광약자 위한 수어 안내 서비스 제공",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/munhwa/20251208065320724gmwu.jpg",
+        "url": "https://v.daum.net/v/20251208065319407",
+        "summary": "장애인과 고령자 등 관광약자 관광환경 조성",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "“쓸어담는 수준” 연말 다이소 명동…외국인 쇼핑 러시 ‘들썩’[르포]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/Edaily/20251208070148458hzho.jpg",
+        "url": "https://v.daum.net/v/20251208070146533",
+        "summary": "중·일 갈등 격화에 무비자까지 겹호재에 '방긋'마스크팩·과자·굿즈 쓸어 담는 ‘K쇼핑 성지’ 등극“명품보다 실속”...알리페이 결제 70% 이상 폭증일시 특수 아닌 구조 변화…다이소 장기 호재 기대",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "쿠팡·SKT 개인정보배상보험 '법정 최소금액'...\"최소 기준 상향해야\"",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/kbc/20251208072605269wxkp.jpg",
+        "url": "https://v.daum.net/v/20251208072601806",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"한돈에 75만원\" 금값 급등에 실버 소재 주얼리 인기 ↑",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/dailian/20251208064426332wgck.jpg",
+        "url": "https://v.daum.net/v/20251208064424334",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"보수적 교총은 옛말…진영 논리보다 교사 보호막 구축할 것\"",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208070122242wxve.jpg",
+        "url": "https://v.daum.net/v/20251208070120513",
+        "summary": "[인터뷰] 취임 1년 강주호 한국교총 회장'교실 몰래 녹음 근절' '교권 강화' 과제",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[단독]성평등부 장관 “軍가산점 이미 위헌…되짚기 어려워”",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/donga/20251208030418093vefy.jpg",
+        "url": "https://v.daum.net/v/20251208030416743",
+        "summary": "“남자가 군대 가니 여성도 가야?… 그런 식으론 ‘여성 징병제’ 못풀어딥페이크 디지털 성범죄 근절 위해… 여성 성적 대상화 문화 뿌리 뽑아야”",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "미국 'AI 없으면 제로성장'?…한국도 미국 빅테크 지출에 종속되나 [글로벌 머니 X파일]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/ked/20251208070740915rxid.jpg",
+        "url": "https://v.daum.net/v/20251208070251574",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "울산시, 청소년과 청·중장년 위한 맞춤형 복지 지원",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/newsis/20251208072416250etxm.jpg",
+        "url": "https://v.daum.net/v/20251208072416797",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "세입자 흡연·애완동물·체납이력 알려드려요…내년 서비스한다는데",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/mk/20251208071501806emjl.jpg",
+        "url": "https://v.daum.net/v/20251208071500692",
+        "summary": "집주인·세입자 쌍방정보공개 모델 도입주택임대인협회, 내년 서비스 출시 예고임대차분쟁 예방차원서 체납이력등 공개",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "AI, 그래서 거품인가요 아닌가요?[점선면]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/khan/20251208070147226lyyh.jpg",
+        "url": "https://v.daum.net/v/20251208070145528",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "대학 통합으로 역량 강화…클러스터로 첨단 지역 인재 양성",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208070140894zgdr.jpg",
+        "url": "https://v.daum.net/v/20251208070137517",
+        "summary": "[특성화 지방대]② 국가중심대·사립대 선도 모델 국립경국대·통합원광대·창원대·한림대·한동대",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "6억 적금 VIP 고객, 은행원 술자리 불러내 성폭행…집행유예로 풀려났다 [세상&]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/ned/20251208064652995xzeu.png",
+        "url": "https://v.daum.net/v/20251208064652364",
+        "summary": "구속기소 3개월만에 징역형 집유로 풀려나거액 입금·상품 가입 빌미로 식사자리 마련성폭행 미수, 유사 성폭행, 성추행 등 혐의법원 “우월한 지위 이용 범행…죄질 나빠”“범행 인정, 피해자들과 원만히 합의” 고려",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "美서 잘나가는 에이피알, 주가 반등…관세 영향은 없나 [류은혁의 종목 핫라인]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/ked/20251208070259470tptc.jpg",
+        "url": "https://v.daum.net/v/20251208070258575",
+        "summary": "에이피알 IR 담당자와 일문일답주가 반등… 한 달 새 25% 급등美 시장 성과로 투자심리 개선\"美 관세에도 수요 여전할 것으로 전망\"",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "“중국, 2040년까지 승용차 신차 중 전기·HEV·수소차 비중 85%로”",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/khan/20251208072627029egol.jpg",
+        "url": "https://v.daum.net/v/20251208072625810",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[유통人터뷰] \"가맹점 99% 표준화·재정비만 5년...품질 경영 집중\"",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208070127582wstx.jpg",
+        "url": "https://v.daum.net/v/20251208070125515",
+        "summary": "김연일 맘스터치 가맹사업부문장…28년 경력 전문가 고질적인 '점바점' 문제 해소…가맹점 수익·고객 신뢰 증대",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "비대면진료 제도권 진입…재진 중심 운영·처방 제한 기준 마련 [D:로그인]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/dailian/20251208070118740hrbz.jpg",
+        "url": "https://v.daum.net/v/20251208070116509",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[거버넌스워치] 오스템 팔고, 최규옥 회장 아들은 사고…한스바이오 ‘무슨 일’",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/BUSINESSWATCH/20251208071148332ugoy.jpg",
+        "url": "https://v.daum.net/v/20251208071146670",
+        "summary": "오스템, 5.5% 131억 차익 뒤 4.9% 전량 ‘엑싯’ 계획최규옥 아들 최인국 투자사 네오영 정반대 행보주식 29억 매입 뒤 186억 출자 예정…5.5% 확보",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[인터뷰] 조용익 부천시장 \"부천, '문화도시 이어 '과학중심도시'로 발전\"",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/THEFACT/20251208070214903xekq.jpg",
+        "url": "https://v.daum.net/v/20251208070213544",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "'우향우 걱정' 잠재우고 리더십 굳힐까…장동혁, '일대일 경청' 모드 돌입",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/moneytoday/20251208054651568zjet.jpg",
+        "url": "https://v.daum.net/v/20251208054650563",
+        "summary": "[the300]",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "“한국 가계 비금융자산 ‘주요국 최고’…금융투자 활성화 필요”",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/khan/20251208072048991zwha.jpg",
+        "url": "https://v.daum.net/v/20251208072047754",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "시간 켜켜이 쌓인 통인시장, 혁신 디자인 입고 새 랜드마크로",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/yonhap/20251208070233765teku.jpg",
+        "url": "https://v.daum.net/v/20251208070233562",
+        "summary": "서울시 '디자인 혁신 전통시장 조성사업' 본격 착수노후시설 개선하고 역사성 유지하면서 문화기능 강화",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"더는 못 하겠다\"…대형마트, '10원 전쟁' 불씨 꺼지나",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/BUSINESSWATCH/20251208070147850lwvx.jpg",
+        "url": "https://v.daum.net/v/20251208070145529",
+        "summary": "'너도나도' 초저가 경쟁…숨 고르기 돌입여전한 수익성 부진…출혈 감수에 부담↑고객 유인 전략 고심…방향성 전환 필요",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "장동혁, 윤어게인 12% 세숫대야 물에 익사하려고? [정기수 칼럼]",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/dailian/20251208070814825krgl.jpg",
+        "url": "https://v.daum.net/v/20251208070812633",
+        "summary": "역대 최저 인기 尹 우러르는 자들과 함께 사라질 결심윤석열 최하위는 향후 100년 동안 변하지 않을 것친윤들 김건희 ‘천박’ 지적에 발끈, “잘들 논다”張, 尹과 완전히 닮은 꼴이라는 세평 들은 적 있나?",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[출연] 내란재판부 공방 / 북한과 대화 재개 / 청와대 복귀 일정",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/mbn/20251208071918926kjms.jpg",
+        "url": "https://v.daum.net/v/20251208071916747",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[스타트 브리핑] 미로 같은 쿠팡 탈퇴...\"제재 못하나요?\"",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/YTN/20251208070413888bvjp.jpg",
+        "url": "https://v.daum.net/v/20251208070412593",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "FOMC 금리인하 유력…내부 분열 심화·금리 지침·반대표 '초첨'",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/NEWS1/20251208070119795cuxo.jpg",
+        "url": "https://v.daum.net/v/20251208070118511",
+        "summary": "[월가프리뷰] 연준 내부 이견이 향후 정책 방향의 주요 단서",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[소년중앙] 시대 초월한 걸작 65점 따라 600여 년 미술사 시간여행",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/joongang/20251208070157968aumj.jpg",
+        "url": "https://v.daum.net/v/20251208070156540",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"그래서요?\" 한마디에 멘붕…리더들이 '말'을 못하는 이유",
+        "time": "2025-12-07T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/Edaily/20251208071149767oweb.jpg",
+        "url": "https://v.daum.net/v/20251208071148672",
+        "summary": "AI 시대, 리더의 언어는 \"실행하게 만드는 것\"문성후 박사 '리더의 말 연습' 출간내년 1월 'AI 말 연습 앱' 출시 예정",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[와글와글] 일론 머스크 얼굴 가진 로봇개?",
+        "time": "2025-12-07T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208065523210ykzt.jpg",
+        "url": "https://v.daum.net/v/20251208065522431",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[와글와글] 물속에서 한 판‥'다이빙 체스 대회'",
+        "time": "2025-12-07T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208065526026tmfm.jpg",
+        "url": "https://v.daum.net/v/20251208065525433",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"팔레스타인 독립\" vs \"문 앞에 두지 않을 것\"…가자 2단계 휴전 협상",
+        "time": "2025-12-07T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/moneytoday/20251208070649223cenu.jpg",
+        "url": "https://v.daum.net/v/20251208070647620",
+        "summary": "2단계 협상 최대 쟁점 '하마스 무장해제' 두고 하마스-이스라엘 신경전…미국·이스라엘·카타르 뉴욕 회동",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[와글와글] 순찰차 앞에서 신호 무시하고 '주행'",
+        "time": "2025-12-07T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208065514755kmol.jpg",
+        "url": "https://v.daum.net/v/20251208065514430",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[와글와글] \"물러나세요\"‥순식간에 도로 '와르르'",
+        "time": "2025-12-07T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208065524641roxi.jpg",
+        "url": "https://v.daum.net/v/20251208065523432",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "무서운 기세의 중국...1조원대 유엔 분담금 완납하며 글로벌 발언권 확대",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/chosun/20251208070740235xsul.jpg",
+        "url": "https://v.daum.net/v/20251208070251572",
+        "summary": "본지, 유엔 분담금 자료 분석  ‘모범생’ 韓 기한 지키고, 北은 미납유엔 역할에 비판적인 美는 아직 완납 안 해",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "'엑스(X) 과징금' 정면충돌...미 정부, EU에 연일 맹폭",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/YTN/20251208071923296vvzk.jpg",
+        "url": "https://v.daum.net/v/20251208071922748",
+        "summary": "\"엑스 유료 인증·광고 정책, 디지털서비스법 위반\"EU, 구글·애플 등 미 기술기업 조사…트럼프, 반발미 부통령, EU 처분 비판…\"미 기업 공격 말라\"트럼프 정부, 국가안보전략서도 유럽 규제 직격",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "트럼프, 상호관세 '여론전'…\"국가 안보 위해 필요\"",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/sbsi/20251208072407816sxbd.jpg",
+        "url": "https://v.daum.net/v/20251208072406795",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "무인기 작전에 숨긴 윤석열의 꿍꿍이 [특검IN]",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/sisain/20251208064547037kacn.jpg",
+        "url": "https://v.daum.net/v/20251208064546349",
+        "summary": "윤석열은 전시 계엄을 꿈꿨을까? 내란 특검은 ‘그렇다’고 판단했다. 특검 공소장 등을 토대로 하마터면 전쟁이 벌어질 뻔했던 일촉즉발의 순간을 재구성했다.",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "최측근이 좌우하는 트럼프 외교...\"신속하지만 위험\"",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/YTN/20251208071912705crwx.jpg",
+        "url": "https://v.daum.net/v/20251208071912743",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] 베네수엘라, 미 압박 속 신병 5천600명 충원",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208072213373ohlq.jpg",
+        "url": "https://v.daum.net/v/20251208072212774",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] 가자전쟁 뒤 처음 불 밝힌 크리스마스트리",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208071914849xhrv.jpg",
+        "url": "https://v.daum.net/v/20251208071914745",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] 러시아 종전 협상 중 우크라이나 공세 확대",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208071913394ewbl.jpg",
+        "url": "https://v.daum.net/v/20251208071912742",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"스타가 썼다하면 한국 거\" 가격도 명품 반값...대만서 폭발적 반응",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/moneytoday/20251208070147552wqca.jpg",
+        "url": "https://v.daum.net/v/20251208070145530",
+        "summary": "[K웨이브 올라탄 K이니셔티브 현장을 가다]<3-K리테일 대장정>현대백화점(종합)",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "美, 이집트-이스라엘 정상회담 추진…\"네타냐후, 가스 수출 승인해야\"",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/newsis/20251208071914848acis.jpg",
+        "url": "https://v.daum.net/v/20251208071914746",
+        "summary": "미국, '아브라함 협정' 진전 기대이스라엘·이집트 정상은 소극적",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "영국 총리, 낙마한 부총리에 \"내각 복귀할 것\"",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251208071801727",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] EU, 엑스에 2천억 과징금‥머스크 \"EU 해체\"",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/imbc/20251208072214858yumi.jpg",
+        "url": "https://v.daum.net/v/20251208072214776",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 07일 일요일"
+      },
+      {
+        "title": "\"상호관세가 덜 번거롭고 신속\"...트럼프, 대법원 압박 여론전",
+        "time": "2025-12-07T22:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/08/YTN/20251208072512704aepw.jpg",
+        "url": "https://v.daum.net/v/20251208072512802",
+        "summary": "",
         "source": "daum",
         "date": "2025년 12월 07일 일요일"
       }
