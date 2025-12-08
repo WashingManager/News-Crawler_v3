@@ -3065,6 +3065,22 @@
         "url": "https://www.fnnews.com/news/202512081533375771",
         "source": "Fn",
         "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "'환자 사망' 양재웅 병원에 보건당국 '3개월 업무정지' 처분 예고",
+        "time": "2025-12-09T04:20:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512082112071924",
+        "source": "Fn",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "IBM, 컨플루언트 인수…AI 플랫폼 강화",
+        "time": "2025-12-09T03:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512090334580683",
+        "source": "Fn",
+        "date": "2025년 12월 08일 월요일"
       }
     ]
   },
@@ -21220,6 +21236,123 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/yonhap/20251209032941876wdum.jpg",
         "url": "https://v.daum.net/v/20251209032941125",
         "summary": "트럼프 불만표출 후 \"美제안 일부 회의적, 유럽도 카드 있어\"안전보장 강조하며 비판은 자제…젤렌스키 \"미·유럽 모두 필요\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "李정부, 꽉 막힌 남북대화 뚫기 노력에도…'내년 해빙' 기대감은 아직",
+        "time": "2025-12-08T19:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/dailian/20251209040115780tqza.jpg",
+        "url": "https://v.daum.net/v/20251209040114152",
+        "summary": "올해 '대화하자' 계속 외쳤지만 北 여전히 '무응답'물밑 접촉은 분주…여전히 '적대적 두 국가' 고집남북문제, 미북 테이블에 맡겨질듯…상당시간 필요",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "정부 지원 '반복 수혜' 中企, '고성장 확률' 높아진다",
+        "time": "2025-12-08T19:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/moneytoday/20251209042547785azun.jpg",
+        "url": "https://v.daum.net/v/20251209042546215",
+        "summary": "중기중앙회 정책 심포지엄 일반기업의 전환율 최대 100% 증가… 고성장 유지도 20%↑ \"수출·창업분야서 영향력 커져, 다년·지속적 정책 지원 중요\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "中 '탈엔비디아' 흐름 속...바이두, AI칩 자회사 홍콩 분리 상장 추진",
+        "time": "2025-12-08T19:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/sbscnbc/20251209042703019pjxf.jpg",
+        "url": "https://v.daum.net/v/20251209042700219",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "\"미 정부, 엔비디아 'H200' 칩 중국 수출 허용 가닥\"",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/yonhap/20251209042415314ghpi.jpg",
+        "url": "https://v.daum.net/v/20251209042415213",
+        "summary": "트럼프, 지난 3일 젠슨 황 면담 후 \"똑똑한 사람\" 언급",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "불안한 우크라·영·프·독 정상 런던서 회동…안전보장 강조(종합)",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/NEWS1/20251209040415986cqyd.jpg",
+        "url": "https://v.daum.net/v/20251209040414162",
+        "summary": "메르츠 \"美 평화안 일부 회의적\"…젤렌스키 \"유럽·美 없이 못 버텨\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "태국, 캄보디아 공습 재개… 또 국경 무력충돌, 美 중재 무용지물",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/moneytoday/20251209040654227inws.jpg",
+        "url": "https://v.daum.net/v/20251209040651167",
+        "summary": "태국 \"자국 병사 사망 따른 보복… 군수원 거점 공습 표적\" 캄보디아 \"민간인 최소 4명 사망… 태국에 전적으로 책임\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "中왕이, 獨회담서 \"'하나의 중국'은 양국 관계 토대…日, 성찰 없어\"",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/newsis/20251209042055131rxny.jpg",
+        "url": "https://v.daum.net/v/20251209042054199",
+        "summary": "바데풀 \"독일, 하나의 중국 정책 확고히 지지\"우크라 전쟁도 논의…왕이 \"건설적 역할 할 것\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "튀르키예, 러시아산 석유·가스 헝가리 공급 보장키로",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/yonhap/20251209035053310xton.jpg",
+        "url": "https://v.daum.net/v/20251209035053145",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "\"일본은 해줬는데\"···대만이 한국 정부에 계속해서 요청한 '이것', '한국인과의 우정'도 강조",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/seouleconomy/20251209040215223lrrk.png",
+        "url": "https://v.daum.net/v/20251209040213159",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "일 아오모리현 규모 7.6 강진에 쓰나미 경보...\"추가 대규모 지진 가능성\"",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/YTN/20251209041014191iazd.jpg",
+        "url": "https://v.daum.net/v/20251209041013177",
+        "summary": "어젯밤 11시15분, 아오모리현 앞바다 규모 7.6 지진홋카이도, 이와테현 일대 쓰나미 경보 발령해안 지역 곳곳 40∼70cm 높이 쓰나미 관측",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "'수출 청신호' 자신감 얻은 中… 내년 부채 3000조로 늘리나",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/moneytoday/20251209040347396pogf.jpg",
+        "url": "https://v.daum.net/v/20251209040346161",
+        "summary": "11월 증가폭 5.9% 달해, 美분량 빠졌어도 예상치 훌쩍 공산당, 15차 5개년경제계획에 재정정책 활용안 강조  전문가 \"5% 유지, 7조위안 필요… 공공지출은 30조↑\"",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "美매체 \"미 상무부, H200 대중 수출 곧 허가 예정\"",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/sbscnbc/20251209042402110xqnt.jpg",
+        "url": "https://v.daum.net/v/20251209042400211",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 08일 월요일"
+      },
+      {
+        "title": "트럼프, AI규제 연방으로 일원화 예고…“50개 주 개입하면 경쟁력 약화”",
+        "time": "2025-12-08T19:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/09/Edaily/20251209041049841pgre.jpg",
+        "url": "https://v.daum.net/v/20251209041048178",
+        "summary": "규제·승인 절차 통합…기술업계 환영법적 권한 논란…주별 AI 안전장치 약화 우려38개 주 이미 AI 법 제정…충돌 불가피",
         "source": "daum",
         "date": "2025년 12월 08일 월요일"
       }
