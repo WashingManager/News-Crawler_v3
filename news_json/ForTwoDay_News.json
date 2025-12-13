@@ -73,6 +73,14 @@
         "url": "https://www.fnnews.com/news/202512131236036766",
         "source": "Fn",
         "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주대표도서관 붕괴 마지막 매몰자 수습…4명 모두 사망",
+        "time": "2025-12-13T13:16:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512131310069549",
+        "source": "Fn",
+        "date": "2025년 12월 13일 토요일"
       }
     ]
   },
@@ -116,6 +124,14 @@
         "time": "2025-12-13T12:20:00",
         "img": "",
         "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=371747",
+        "source": "fntoday",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "주진우 의원 “윤영호 진술 번복…특검 4개월 수사 지연 책임 규명해야”",
+        "time": "2025-12-13T13:08:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=371755",
         "source": "fntoday",
         "date": "2025년 12월 13일 토요일"
       }
@@ -356,6 +372,146 @@
         "url": "https://www.yna.co.kr/view/AKR20251213021100054",
         "summary": "",
         "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'고가 논란' 북중미 월드컵 티켓, 판매 첫날 500만건 신청",
+        "time": "",
+        "img": "https://img1.yna.co.kr/photo/reuters/2025/12/13/PRU20251213095801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251213021800007",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "강원 화천·양구에 대설주의보…철원·북부산지 대설주의보 유지",
+        "time": "2025-12-13T13:08:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251213027400527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "강원도, 대설 대비태세 강화…\"장비·인력 총동원\"",
+        "time": "2025-12-13T12:52:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/12/13/PYH2025121301880006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251213026800062",
+        "summary": "영서 지역 중심 14일까지 많은 눈…재난안전대책본부 비상 1단계",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "中, 난징대학살 추모일 日겨냥 포스터…\"더러운 머리 잘라라\" 극언",
+        "time": "2025-12-13T13:18:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/12/13/AKR20251213027600009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251213027600009",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "국힘·개혁신당 \"통일교 특검 수용하라\"…與 \"정치공세·물타기\"",
+        "time": "2025-12-13T13:41:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2025/12/09/PYH2025120909270001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251213027900001",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "안성 대갈리서 크레인차량 전도…도로 양방향 통제",
+        "time": "2025-12-13T13:34:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2016/07/21/01/C0A8CA3C00000156ABF8F63000A04B2_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20251213028200061",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "베네수 항구에 '유령 유조선' 2척…트럼프 위협에도 선적 강행",
+        "time": "2025-12-13T13:34:00",
+        "img": "https://img3.yna.co.kr/photo/ap/2025/12/13/PAP20251213069201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251213028100009",
+        "summary": "아시아行 추정…나포 위험 감수하고 출항할지 주목",
+        "source": "yna",
+        "date": "2025년 12월 13일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 13일 토요일",
+    "articles": [
+      {
+        "title": "[대설 특보] 경기 북부와 강원 북부 오늘 12시 대설특보 발령",
+        "time": "2025-12-13T13:36:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455841_3596120_3633_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455841",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 안성 대갈리서 크레인 도로이탈...양방향 도로 통제",
+        "time": "2025-12-13T10:39:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455754_3596028_3933_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455754",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "경기도, 강설 대비 비상 1단계 발령...\"북동부 지역 최대 10cm\"",
+        "time": "2025-12-13T10:16:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455743_3596014_1538_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455743",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주 도서관 붕괴, 추가 사망자 확인...실종자 수색 지속",
+        "time": "2025-12-13T10:00:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455735_3596006_018_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455735",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'광주대표도서관 붕괴' 매몰자 추가 수습…3명 사망·1명 실종",
+        "time": "2025-12-13T08:47:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455712_3595977_4036_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455712",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "이르판 율리우스 유스프 사무총장, 한·인니 무역 협력 전략 제시",
+        "time": "2025-12-13T13:30:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455806_3596096_1625_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455806",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[지진 특보] 신안군 흑산도 서북서쪽 88km 해역서 2.2 규모 지진",
+        "time": "2025-12-13T13:21:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455823_3596116_3059_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455823",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "울산 성암동서 27t 탱크로리-승합차 충돌...1명 사망·5명 부상",
+        "time": "2025-12-13T12:38:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455785_3596060_3013_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455785",
+        "source": "Gukje",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "김천 중부내륙고속도로서 트럭 화재...35분 만에 진화",
+        "time": "2025-12-13T11:46:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3455768_3596045_4339_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3455768",
+        "source": "Gukje",
         "date": "2025년 12월 13일 토요일"
       }
     ]
@@ -1052,6 +1208,339 @@
         "time": "2025-12-13T03:23:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/kbs/20251213120853958vvzd.jpg",
         "url": "https://v.daum.net/v/20251213115746195",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "일본제철, 5년간 약57조원 투자··· 한·일 철강 ‘탈탄소 경쟁’ 본격화",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/551748-p1FC4NB/20251213123807624idnx.png",
+        "url": "https://v.daum.net/v/20251213123805451",
+        "summary": "US스틸·인도 대규모 투자로 글로벌 조강 1억t 체제 세계1위 복귀 선언국내 구조조정·GX스틸 가속화··· 2050 탄소중립 로드맵 제시",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "발전소 산재사망 막자더니...\"4개월 간 정부 제시안 하나도 없었다\"",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/pressian/20251213125120186gwhp.jpg",
+        "url": "https://v.daum.net/v/20251213125118498",
+        "summary": "'국무총리에 한 번도 보고 안해…빈손 종료 앞둔 김충현 헙의체",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "추경호 vs 주호영, ‘투톱 변수’가 뒤흔드는 대구시장 선거전",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/inews24/20251213124248741grse.jpg",
+        "url": "https://v.daum.net/v/20251213124248474",
+        "summary": "정가, “1월 여론조사가 모든 걸 결정한다”…도지사 출마설까지 겹쳐 판세 요동",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "한동훈 “李 ‘통일교 입틀막’ 협박…특검, 수사정보 넘겼나”",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/chosun/20251213123341102fpjv.jpg",
+        "url": "https://v.daum.net/v/20251213123339426",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "특검 조사 부정한 윤영호···경찰 수사 난관 봉착하나 [서초동 야단법석]",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/seouleconomy/20251213123313838nbmz.jpg",
+        "url": "https://v.daum.net/v/20251213123311423",
+        "summary": "尹, 권성동 의원 재판서 특검 진술 부정민주당 의원 금품 전달 尹 진술에 의존與정치인 금품 전달 의혹 수사도 난관",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "‘가금농장 AI’ 10건 넘겨…“방역고삐 단단히”",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/nongmin/20251213130026798avdn.png",
+        "url": "https://v.daum.net/v/20251213130025554",
+        "summary": "9월12일 토종닭농장서 첫 발병 경기·산란계서 가장 많이 발생 닭고기·달걀 가격 오름세 보여 정부 “방역수칙 철저히 지켜야”",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "與 박수현 “정청래는 모든 폭풍 막아내는 장판교의 장비”",
+        "time": "2025-12-13T04:02:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/chosun/20251213125340133sscd.jpg",
+        "url": "https://v.daum.net/v/20251213125338521",
+        "summary": "“친명·친청 용어는 李 정부 엎으려는 의도적 갈라치기”",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "오스트리아 교실내 여학생 머리 스카프 금지…이슬람단체 반발",
+        "time": "2025-12-13T04:01:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/yonhap/20251213125915165kyjg.jpg",
+        "url": "https://v.daum.net/v/20251213125914551",
+        "summary": "내년 9월부터 금지 법안 의회 통과…정부 \"아동 권리 보호 위한 것\"",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "TV 나와 암투병 근황 공개한 찰스 英국왕…\"조기검진 중요해요\"",
+        "time": "2025-12-13T04:01:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/yonhap/20251213123015088wjne.jpg",
+        "url": "https://v.daum.net/v/20251213123014386",
+        "summary": "지난해 암진단 이후 치료 호전 시사…완치 여부 언급은 없어",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "‘아랍의 봄 발원’ 튀니지서 핵심 野 지도자에 징역 12년 선고",
+        "time": "2025-12-13T04:01:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/chosun/20251213125449323geyk.jpg",
+        "url": "https://v.daum.net/v/20251213125447526",
+        "summary": "사이에드 대통령 통치로 ‘독재 회귀’ 논란도",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "‘성적·소득 X’ 오로지 ‘등산’만하면 장학금 주는 이 학교… KAIST, 국내 최초 ‘등산장학금’ 신설",
+        "time": "2025-12-13T04:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/munhwa/20251213131649931mpqz.png",
+        "url": "https://v.daum.net/v/20251213131648662",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "“69번 중 가결은 17번뿐”…역대 체포동의안으로 본 ‘불체포특권’",
+        "time": "2025-12-13T04:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/segye/20251213130616718qbfg.jpg",
+        "url": "https://v.daum.net/v/20251213130616594",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "내년 차 보험료, 12월 한파 사고에 조정폭 결정",
+        "time": "2025-12-13T04:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/mk/20251213133002313nbeu.jpg",
+        "url": "https://v.daum.net/v/20251213133002749",
+        "summary": "보험연구원, 폭설·한파자동차보험 손해율 주요인보험업계 “보험료 인상 검토”",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "경찰, 광주대표도서관 붕괴사고 수사 본격화",
+        "time": "2025-12-13T04:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/NEWS1/20251213131914318fyiy.jpg",
+        "url": "https://v.daum.net/v/20251213131914682",
+        "summary": "붕괴 원인·책임 소재 규명",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "野 박성훈 “한반도 평화 프로세스 걸림돌은 ‘대북 정책 엇박자’”",
+        "time": "2025-12-13T04:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/chosun/20251213125648181snau.jpg",
+        "url": "https://v.daum.net/v/20251213125647537",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "중·러 폭격기, 왜 도쿄 방향으로 날았나… 대만·일본 압박용 ‘전략 시위’",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/dt/20251213131249474mtgv.png",
+        "url": "https://v.daum.net/v/20251213131247639",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "中, 난징대학살 추모일 日겨냥 포스터…\"더러운 머리 잘라라\" 극언",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/yonhap/20251213132015194snna.jpg",
+        "url": "https://v.daum.net/v/20251213132015687",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라 지상 공격 곧 시작\"…지상전 다른 국가 확대 경고",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/moneytoday/20251213130649453fher.jpg",
+        "url": "https://v.daum.net/v/20251213130647597",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "암 투병 찰스 3세 英국왕, TV 출연…암 인식 개선 메시지",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/dailian/20251213131916551mezq.png",
+        "url": "https://v.daum.net/v/20251213131914683",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "경기북부 눈 시작…중부 내륙 최고 15㎝ 폭설",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/newsy/20251213130750744njjm.jpg",
+        "url": "https://v.daum.net/v/20251213130750611",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "日, 내년 방위비 '역대 최대' 85조원 검토…미사일·드론 확보",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/yonhap/20251213131453333edhr.jpg",
+        "url": "https://v.daum.net/v/20251213131453655",
+        "summary": "'우주작전집단' 신설 등도 추진…방산업체, 인력 증원·설비투자 가속",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "인니 수마트라 '대홍수·산사태' 참사... 사망자 1000명 육박",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/dailian/20251213132614792coif.png",
+        "url": "https://v.daum.net/v/20251213132613722",
+        "summary": "아체주 60% 여전히 정전",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "노벨평화상 수상자 마차도 구한 특수부대원 “다시 베네수 돌아가지 말라”",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/newsis/20251213131418887ukiq.jpg",
+        "url": "https://v.daum.net/v/20251213131418649",
+        "summary": "‘그레이 불 레스큐 재단’ 설립자 “미군과 소통하며 탈출시켜”“마차도는 존경하는 인물, 체포·살해·고문 위험 당하지 말아야”",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "트럼프 “태국-캄보디아 교전 중단 합의”…폭격은 여전히 지속",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251213132648725",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "美 특수부대, 지난달 이란 향하던 中군수물자 압수",
+        "time": "2025-12-13T04:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/ned/20251213130740539myvo.jpg",
+        "url": "https://v.daum.net/v/20251213130739608",
+        "summary": "“이란 미사일 부품 기업으로 전달” 첩보",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'멘토' 이한주 \"이재명, 억압 불공정에 본능적 분노...좋은 의미로 수단 방법 안 가려, 실용\"[뉴스메이커]",
+        "time": "2025-12-13T04:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/kbc/20251213133554865wpfr.jpg",
+        "url": "https://v.daum.net/v/20251213133550799",
+        "summary": "이한주, 이재명 정부 국정기획위원장 등 역임 '李 정책멘토'\"굉장히 불리한 환경에서 살아...좋은 의미로 실용, 실사구시\"\"억압, 불공정 없는 더불어 같이 사는 '대동세상'...李 좌우명\"\"투명하게 다 보여주기, 이재명식 정치...국민 신뢰, 지지율로\"\"딴생각 없어, 오직 '국민 행복'...'진정한 선진국' 진입 기대\"",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "“뼈대 구조물 붙인 용접 떨어졌다”…매몰 4명 모두 수습·사망[광주대표도서관 붕괴]",
+        "time": "2025-12-13T04:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/joongang/20251213134545076ugzo.jpg",
+        "url": "https://v.daum.net/v/20251213134540873",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "판교~오포 도시철도 승인, 오포권역 재조명…교통 혼잡의 이름이던 오포, 도시철도가 바꾼 풍경",
+        "time": "2025-12-13T04:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/551714-qBABr9u/20251213134642209lrik.jpg",
+        "url": "https://v.daum.net/v/20251213134640881",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "‘엡스타인 사진’에 트럼프 외에 빌 클린턴, 빌 게이츠가 왜?",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/munhwa/20251213133517020ontx.png",
+        "url": "https://v.daum.net/v/20251213133515795",
+        "summary": "트럼프 급발 여성과 함께 찍은 것 포함 여자 6명과 나란히 찍은 사진도",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "中, 난징대학살 추모일 앞두고…\"더러운 머리 잘라라\" 포스터 공개",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/ked/20251213133851183qvmy.jpg",
+        "url": "https://v.daum.net/v/20251213133249779",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "‘인니 대홍수’ 사망자 1천 명 육박…5천 명 부상",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251213134739885",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "트럼프, 중남미 마약 밀수 공습 확대 의지...\"지상 공격도 시작\"",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/YTN/20251213134319139snfl.jpg",
+        "url": "https://v.daum.net/v/20251213134318865",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "베네수 항구에 '유령 유조선' 2척…트럼프 위협에도 선적 강행",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/yonhap/20251213133615659qzgk.jpg",
+        "url": "https://v.daum.net/v/20251213133615804",
+        "summary": "아시아行 추정…나포 위험 감수하고 출항할지 주목",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "“젤렌스키, 트럼프에 역제안 카드로 레드라인 저지”",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/kbs/20251213134940076rpbj.jpg",
+        "url": "https://v.daum.net/v/20251213133847814",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "“미, 지난달 인도양서 이란 향하던 중 무기 부품 압수”",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251213134740886",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'한일령' K팝에 불똥…일본 멤버 아이돌, 중국 행사 '줄줄이 취소'",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/mbn/20251213134123931tels.png",
+        "url": "https://v.daum.net/v/20251213134121845",
+        "summary": "르세라핌 팬사인회 취소, 클로즈유어아이즈 일본 멤버 불참 등 행사 차질",
+        "source": "daum",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "일본, 내년도 방위비 85조원 검토…역대 최대 규모",
+        "time": "2025-12-13T04:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/13/newsy/20251213134630049nzdr.jpg",
+        "url": "https://v.daum.net/v/20251213134629880",
         "summary": "",
         "source": "daum",
         "date": "2025년 12월 13일 토요일"
@@ -4370,6 +4859,528 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/13/202137518_700.jpg",
         "url": "https://news.nate.com/view/20251213n04082",
         "summary": "트럼프 미국 대통령이 마약 카르텔을 상대로 한 공습을 베네수엘라 인근 해상뿐만 아니라, 베네수엘라를 포함한 중남미 국가 영토 내로 확대할 수 있다는 입장을 재확인했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "개인정보 유출 책임 강화…'쿠팡 방지법' 나왔다 [국회 방청석]",
+        "time": "2025-12-13T13:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/me/2025/12/13/news-p.v1.20251212.e464751c723348eeb160714a7bb2a43a_P1.jpg",
+        "url": "https://news.nate.com/view/20251213n05401",
+        "summary": "쿠팡 등 대규모 온라인 플랫폼의 개인정보 유출과 탈퇴 방해 행위 관행을 바로잡기 위한 일명 ‘쿠팡 방지법’이 발의돼 관심이 쏠린다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "美 주도 AI동맹 '팍스 실리카' 韓 참여…\"비시장적 관행 공동 대응\"",
+        "time": "2025-12-13T12:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/12/13/kuk20251213000008.800x.0.jpg",
+        "url": "https://news.nate.com/view/20251213n05298",
+        "summary": "미국이 주도하고 한국과 일본 등이 참여하는 인공지능(AI) 공급망 동맹체 ‘팍스 실리카(Pax Silica)’가 12일(현지시간) 비시장적 관행에 공동 대응하고 첨단산업 협력을 강화하겠다는 내용의 선언문을 채택했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "충북·충남 'C-투어버스' 개통…\"범충청 관광권 구축\"",
+        "time": "2025-12-13T13:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/13/757217_1765597704.jpg",
+        "url": "https://news.nate.com/view/20251213n05472",
+        "summary": "청주국제공항과 충남 공주·부여를 연결하는 초광역 관광 순환버스, 일명 'C-투어 버스'가 공식 운행을 시작했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 광주대표도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T13:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/13/news_1765598910_1585648_m_1.jpg",
+        "url": "https://news.nate.com/view/20251213n05475",
+        "summary": "데일리안 정광호 기자 (mkj6042@dailian.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주대표도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T13:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/13/ZA.42669312.1.jpg",
+        "url": "https://news.nate.com/view/20251213n05359",
+        "summary": "광주대표도서관 붕괴 사고로 매몰된 마지막 노동자 1명이 숨진 채 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'성적·소득 X' 오로지 '등산'만하면 장학금 주는 이 학교…KAIST, 국내 최초 '등산장학금' 신설",
+        "time": "2025-12-13T13:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/12/13/news-p.v1.20251212.6a023287d8d9440a90b388c6ccb8fcb3_P1.png",
+        "url": "https://news.nate.com/view/20251213n05522",
+        "summary": "한국과학기술원(KAIST)이 성적과 소득에 상관없이 오로지 등산만으로 장학생을 선발하는 등산장학금을 국내 최초로 신설했다. 이 장학금은 권준하(81) 신익산화물터미널 회장의 기부때문에 가능했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 광주대표도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T13:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/12/13/202553731765598998.jpg",
+        "url": "https://news.nate.com/view/20251213n05496",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주 도서관 붕괴사고 마지막 매몰자 수습…전원 사망",
+        "time": "2025-12-13T13:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/13/2025121313140783560_1.jpg",
+        "url": "https://news.nate.com/view/20251213n05524",
+        "summary": "광주광역시 도서관 신축공사 현장에서 발생한 붕괴사고로 매몰됐던 근로자 4명이 모두 발견됐다. 다만 이들 모두 사망했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'광주 도서관 붕괴' 마지막 매몰자 수습…\"4명 모두 사망\"",
+        "time": "2025-12-13T13:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/13/NISI20251213_0021095352_web.jpg",
+        "url": "https://news.nate.com/view/20251213n05414",
+        "summary": "[광주=뉴시스]박기웅 기자 = 광주대표도서관 붕괴 사고로 매몰됐던 마지막 노동자가 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "선박침몰, 구명뗏목서 구조된 中선원 5명…범죄혐의없어(종합)",
+        "time": "2025-12-13T13:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/13/NISI20251212_0002017415_web.jpg",
+        "url": "https://news.nate.com/view/20251213n05448",
+        "summary": "사고 선박은 중국서 출항한 크레인바지선\n시에라리온 선적 상선이 해경에 구조요청\n해경, 구조선원 5명 중국 영사에 인계조치",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "선박 침몰, 구명뗏목 탈출·피신…구조된 선원 5명 중국인",
+        "time": "2025-12-13T12:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/13/NISI20251212_0002017438_web.jpg",
+        "url": "https://news.nate.com/view/20251213n05354",
+        "summary": "사고 선박은 중국서 출항한 크레인바지선\n시에라리온 선적 상선이 해경에 구조요청 \n해경, 구조선원 5명 중국 영사에 인계조치",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 광주도서관 붕괴 사고 마지막 실종자 수습",
+        "time": "2025-12-13T13:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/13/757225_1765597987.jpg",
+        "url": "https://news.nate.com/view/20251213n05422",
+        "summary": "광주대표도서관 붕괴 사고 사흘째인 오늘 마지막 네 번째 실종자에 대한 수습이 이뤄졌습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보]광주 대표 도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T12:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/13/ae_1765597804974_345337_0.png",
+        "url": "https://news.nate.com/view/20251213n05319",
+        "summary": "우수연 기자 yesim@asiae.co.kr",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보]광주대표도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T12:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/13/132957861.6.jpg",
+        "url": "https://news.nate.com/view/20251213n05329",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "먹음직스러운 옹심이",
+        "time": "2025-12-13T12:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/7649090_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05336",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보]광주 도서관 신축 공사 붕괴 마지막 매몰자 발견",
+        "time": "2025-12-13T12:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/13/202512131242241837_0.jpg",
+        "url": "https://news.nate.com/view/20251213n05311",
+        "summary": "광주 대표도서관 신축 공사장 붕괴 사고 사흘째인 13일 매몰된 마지막 실종자가 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "감동적인 어르신의 손편지 \"부식 꾸러미 너무 감사했다\"",
+        "time": "2025-12-13T12:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/13/ae_1765597444224_255865_0.jpg",
+        "url": "https://news.nate.com/view/20251213n05297",
+        "summary": "울산 농소2동 어르신 감사의 글 화제\n어려운 상황 속에서도 고마운 마음 표시\n울산 북구 총 23대 나눔 냉장고·냉동고 운영",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "日, 내년 방위비 '역대 최대' 85조원 검토…미사일·드론 확보",
+        "time": "2025-12-13T13:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/13/PEP20251207150001009_P2.jpg",
+        "url": "https://news.nate.com/view/20251213n05501",
+        "summary": "'우주작전집단' 신설 등도 추진…방산업체, 인력 증원·설비투자 가속",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "TV 나와 암투병 근황 공개한 英 찰스 3세 국왕…\"조기검진 중요\"",
+        "time": "2025-12-13T13:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/13/ams.V01.photo.HDN.P.20210316.202103160000005571142482_P1.jpg",
+        "url": "https://news.nate.com/view/20251213n05512",
+        "summary": "지난해 암진단 이후 치료 호전 시사",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "美 특수부대, 지난달 이란 향하던 中군수물자 압수",
+        "time": "2025-12-13T13:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/13/rcv.YNA.20251205.PEP20251205157701009_P1.jpg",
+        "url": "https://news.nate.com/view/20251213n05458",
+        "summary": "“이란 미사일 부품 기업으로 전달” 첩보",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "노벨평화상 수상자 마차도 구한 특수부대원 \"다시 베네수 돌아가지 말라\"",
+        "time": "2025-12-13T13:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/13/NISI20251213_0002017601_web.jpg",
+        "url": "https://news.nate.com/view/20251213n05498",
+        "summary": "‘그레이 불 레스큐 재단’ 설립자 “미군과 소통하며 탈출시켜”\n“마차도는 존경하는 인물, 체포·살해·고문 위험 당하지 말아야”",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "일본제철, 5년간 57조원 투자…US스틸 인수 후 본격 확장",
+        "time": "2025-12-13T13:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/13/rcv.YNA.20250717.PRU20250717172401009_P1.jpg",
+        "url": "https://news.nate.com/view/20251213n05503",
+        "summary": "중장기 투자 계획 발표…美·印서 성장동력 마련",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "오스트리아 교실내 여학생 머리 스카프 금지…이슬람단체 반발",
+        "time": "2025-12-13T12:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/13/AKR20251213026900009_01_i.jpg",
+        "url": "https://news.nate.com/view/20251213n05393",
+        "summary": "내년 9월부터 금지 법안 의회 통과…정부 \"아동 권리 보호 위한 것\"",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라 지상 공격 곧 시작\"…지상전 다른 국가 확대 경고",
+        "time": "2025-12-13T13:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/13/2025121312080165164_1.jpg",
+        "url": "https://news.nate.com/view/20251213n05439",
+        "summary": "도널드 트럼프 미국 대통령이 베네수엘라를 겨냥한 지상 공격이 임박했다고 밝혔다. 마약 카르텔 소탕을 명분으로 한 지상 작전을 다른 국가로 확대할 가능성도 재차 시사했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'아랍의 봄 발원' 튀니지서 핵심 野 지도자에 징역 12년 선고",
+        "time": "2025-12-13T12:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/13/ch_1765598044952_956539_0.jpg",
+        "url": "https://news.nate.com/view/20251213n05367",
+        "summary": "사이에드 대통령 통치로 ‘독재 회귀’ 논란도",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "中, 난징대학살 추모일 앞두고…\"더러운 머리 잘라라\" 포스터 공개",
+        "time": "2025-12-13T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/13/01.42669597.1.jpg",
+        "url": "https://news.nate.com/view/20251213n05643",
+        "summary": "중국군이 13일 난징대학살 추모일을 맞아 일본을 겨냥해 강도 높은 표현을 담은 포스터 한 장을 공개했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "내년 차 보험료, 12월 한파 사고에 조정폭 결정",
+        "time": "2025-12-13T13:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/13/news-p.v1.20251212.b3fb44c122074129b56303d22fdf3c2b_P1.jpg",
+        "url": "https://news.nate.com/view/20251213n05618",
+        "summary": "올겨울 갑작스러운 한파가 반복될 가능성과 잦은 폭설이 예고되면서 자동차보험 시장의 변동성이 클 것으로 예상된다. 12월 사고 발생 수준은 내년 보험료 조정 폭에 영향을 미치는 요인이다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "내년 경북교육감 선거 진보 단일후보로 이용기 선정",
+        "time": "2025-12-13T13:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/7615211_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05704",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'서귀포 침몰 선박' 구조된 中 선원 5명, 中 영사 인계",
+        "time": "2025-12-13T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/13/PS25121300294.jpg",
+        "url": "https://news.nate.com/view/20251213n05729",
+        "summary": "<font color=\"gray\"><b>- 기관 고장 표류 중 높은 파도로 사고</b></font>\n<font color=\"gray\"><b>- 구조 과정서 구조사 2명 부상도</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주대표도서관 붕괴 사고 수색 종료…매몰자 전원 사망",
+        "time": "2025-12-13T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/12/13/202590391765600496.jpg",
+        "url": "https://news.nate.com/view/20251213n05730",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'광주도서관 붕괴' 마지막 매몰자 수습…\"4명 모두 사망\"",
+        "time": "2025-12-13T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/12/13/2025121301001226500071271.jpg",
+        "url": "https://news.nate.com/view/20251213n05732",
+        "summary": "실종사 4명 모두 사망\n13일 시공사 압수수색",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'광주대표도서관 붕괴' 매몰자 전원 수습…4명 모두 사망",
+        "time": "2025-12-13T13:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/12/13/1765600143693ceb8fa1638.jpg",
+        "url": "https://news.nate.com/view/20251213n05710",
+        "summary": "광주광역시 대표도서관 붕괴 사고 현장에서 매몰된 마지막 작업자가 발견됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'광주도서관 붕괴' 사흘만에 매몰자 전원 수습…4명 사망(종합)",
+        "time": "2025-12-13T13:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/13/NISI20251213_0021095354_web.jpg",
+        "url": "https://news.nate.com/view/20251213n05699",
+        "summary": "11일 사고 이후 밤샘 수색·구조 작업\n13일 낮 마지막 매몰자 시신 수습해",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 4명 모두 숨져…'광주 도서관 붕괴' 매몰자 전원 수습",
+        "time": "2025-12-13T13:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/12/13/SSC_20251213081513_V.png",
+        "url": "https://news.nate.com/view/20251213n05645",
+        "summary": "[서울신문]광주대표도서관 붕괴 사고로 매몰됐던 마지막 노동자가 숨진 채 발견되면서 사망자가 4명으로 늘었다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 경찰·고용노동청, 광주대표도서관 시공사 압색",
+        "time": "2025-12-13T13:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/12/13/2021031516111214117_1615792272_0029108722.jpg",
+        "url": "https://news.nate.com/view/20251213n05638",
+        "summary": "손재호 기자 sayho@kmib.co.kr",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "변요한·티파니, 결혼 전제 열애 인정…이미 팬들은 알고 있었다? [지금이뉴스]",
+        "time": "2025-12-13T13:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/13/202512131314344336_t.jpg",
+        "url": "https://news.nate.com/view/20251213n05579",
+        "summary": "배우 변요한과 소녀시대 티파니 영이 결혼 전제로 열애 중인 것으로 알려졌습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "통일교 수사 속도내는 경찰…증거확보 총력",
+        "time": "2025-12-13T13:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/13/757289_1765598938.jpg",
+        "url": "https://news.nate.com/view/20251213n05673",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "무신사, 2인 각자대표 체제로 전환…C레벨 전면 배치",
+        "time": "2025-12-13T13:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2025/12/13/2025121313270013720_l.png",
+        "url": "https://news.nate.com/view/20251213n05635",
+        "summary": "방금숙 기자(mintbang@mydaily.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 기상청, 오후 1시 강원 화천·양구 대설주의보 발효",
+        "time": "2025-12-13T13:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/13/757321_1765599845.jpg",
+        "url": "https://news.nate.com/view/20251213n05622",
+        "summary": "기상청은 13일 오후 1시를 기해 화천·양구군 평지에 대설주의보를 발효했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "중국산 표고버섯 국내산으로 속여 판 농업인 구속",
+        "time": "2025-12-13T13:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/6428812_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05614",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "포항문수사 팥죽 나눔 행사",
+        "time": "2025-12-13T13:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/7649104_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05604",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "코앞에 닥친 중국의 '대만 공격' 가능성…美 대응은?",
+        "time": "2025-12-13T13:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/13/2025121211372213939_2.jpg",
+        "url": "https://news.nate.com/view/20251213n05596",
+        "summary": "중국의 대만 침공은 우리나라 근처에서 일어날 수 있는 전쟁 중 가장 가능성이 높은 형태다. '하나의 중국'을 꿈꾸는 중국 공산당은 수시로 대만에 무력시위를 해왔으며 홍콩 민주화를 진압한 이후 더욱 노골적으로 바뀌었다. 아시아·태평양의 질서가 어지럽혀지는 것을 두려워하는 미국에게는 가장 큰 눈엣가시다. 미국의 참전 여부에 따라 우리나라의 운명도 달라질 가능성이 높다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "[속보] 광주대표도서관 매몰자 전원 수습…4명 사망",
+        "time": "2025-12-13T13:23:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251213n05571",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "제주 해상서 구조된 中선원들, 인근 선박 도움으로 구조 요청",
+        "time": "2025-12-13T13:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/7649074_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05566",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "\"오늘부로 사임한다\"…'실용댄스학부' 교수 물러난 팝핀현준, 왜?",
+        "time": "2025-12-13T13:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/13/news-p.v1.20251213.dc5ddfb94b0749c5bedcf81b76a39c11_P1.png",
+        "url": "https://news.nate.com/view/20251213n05551",
+        "summary": "공연예술가 팝핀현준이 논란에 대해 사과하며 교수직을 그만둔다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "광주대표도서관 붕괴 마지막 매몰자 수습…4명 모두 사망",
+        "time": "2025-12-13T13:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/13/202512130927157512_l.jpg",
+        "url": "https://news.nate.com/view/20251213n05528",
+        "summary": "[파이낸셜뉴스] 광주대표도서관 붕괴 사고로 매몰됐던 근로자 4명 중 실종 상태였던 마지막 1명이 숨진 채 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "트레일러, 중앙선 넘어 승합차 충돌…1명 사망·5명 중상",
+        "time": "2025-12-13T13:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/13/20251213504039.png",
+        "url": "https://news.nate.com/view/20251213n05548",
+        "summary": "13일 오전 6시 38분께 울산 남구 성암사거리에서 용연삼거리 방면 도로에서 트레일러트럭과 승합차(스타렉스)가 충돌하는 사고가 발생했다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "경찰, 광주대표도서관 붕괴사고 수사 본격화",
+        "time": "2025-12-13T13:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/13/7647675_high.jpg",
+        "url": "https://news.nate.com/view/20251213n05540",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'엡스타인 사진'에 트럼프 외에 빌 클린턴, 빌 게이츠가 왜?",
+        "time": "2025-12-13T13:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/12/13/news-p.v1.20251213.49daa5a6ac59400d9d90ac41680a85ff_P1.png",
+        "url": "https://news.nate.com/view/20251213n05667",
+        "summary": "트럼프 급발 여성과 함께 찍은 것 포함\n\n여자 6명과 나란히 찍은 사진도",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "미, 지난달 이란 향하던 중국 무기 부품 압수…인도양 해상작전",
+        "time": "2025-12-13T13:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/13/202137597_700.jpg",
+        "url": "https://news.nate.com/view/20251213n05678",
+        "summary": "미국 트럼프 행정부가 지난달 중국에서 이란으로 향하던 선박을 인도양에서 나포한 뒤 선박에 실려있던 무기 부품들을 압수했다고 월스트리트저널이 보도했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "베네수 항구에 '유령 유조선' 2척…트럼프 위협에도 선적 강행",
+        "time": "2025-12-13T13:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/13/PAP20251213069201009_P2.jpg",
+        "url": "https://news.nate.com/view/20251213n05668",
+        "summary": "아시아行 추정…나포 위험 감수하고 출항할지 주목",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'비싸다' 불만 속 북중미 월드컵 티켓 첫날 500만건…한국전 3위, 왜?",
+        "time": "2025-12-13T13:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/12/13/eedd84ce-5fd4-4f42-94bb-904bf4941e59.jpg",
+        "url": "https://news.nate.com/view/20251213n05656",
+        "summary": "‘고가 논란’ 속에 문을 연 2026 북중미 월드컵 입장권 판매가 시작 하루 만에 신청 건수 500만건을 돌파한 것으로 나타났다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'한일령' K팝에 불똥…일본 멤버 아이돌, 중국 행사 '줄줄이 취소'",
+        "time": "2025-12-13T13:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/12/13/1765599177693ce7c914d03.png",
+        "url": "https://news.nate.com/view/20251213n05712",
+        "summary": "중국과 일본 사이 긴장감이 고조됨에 따라 '한일령'(限日令·일본 대중문화 콘텐츠 유입 제한) 움직임까지 나타나면서 우리나라 K팝 업계에도 불똥이 튀는 모양새입니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "'인니 대홍수' 사망자 1천 명 육박·부상자 5천 명…구호품 부족",
+        "time": "2025-12-13T13:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/13/202134506_700.jpg",
+        "url": "https://news.nate.com/view/20251213n05641",
+        "summary": "최근 심한 폭우로 인한 홍수와 산사태로 인도네시아 수마트라섬에서 발생한 사망자 수가 1천 명에 육박했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "US스틸 인수 일본제철, 57조 투자 발표…미국·인도 등 해외 공략",
+        "time": "2025-12-13T13:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/13/news_1765599638_1585652_m_1.png",
+        "url": "https://news.nate.com/view/20251213n05561",
+        "summary": "중장기 경영계획 발표…'수요 침체' 日 생산능력은 유지",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "인니 수마트라 '대홍수·산사태' 참사…사망자 1000명 육박",
+        "time": "2025-12-13T13:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/13/news_1765599843_1585653_m_1.png",
+        "url": "https://news.nate.com/view/20251213n05595",
+        "summary": "아체주 60% 여전히 정전",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "암 투병 찰스 3세 英국왕, TV 출연…암 인식 개선 메시지",
+        "time": "2025-12-13T13:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/13/news_1765599413_1585651_m_1.png",
+        "url": "https://news.nate.com/view/20251213n05541",
+        "summary": "데일리안 조인영 기자 (ciy8100@dailian.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 13일 토요일"
+      },
+      {
+        "title": "中, 난징대학살 추모일 日겨냥 포스터…\"더러운 머리 잘라라\" 극언",
+        "time": "2025-12-13T13:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/13/AKR20251213027600009_01_i.jpg",
+        "url": "https://news.nate.com/view/20251213n05546",
+        "summary": "(끝)",
         "source": "nate",
         "date": "2025년 12월 13일 토요일"
       }
