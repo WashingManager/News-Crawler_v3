@@ -625,6 +625,14 @@
         "url": "https://www.fnnews.com/news/202512150618130051",
         "source": "Fn",
         "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "\"프랑스·이탈리아 제쳤다\"…한국, 세계서 가장 영향력 있는 국가 7위",
+        "time": "2025-12-15T07:07:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512150645032606",
+        "source": "Fn",
+        "date": "2025년 12월 14일 일요일"
       }
     ]
   },
@@ -1831,6 +1839,24 @@
         "img": "https://img4.yna.co.kr/etc/inner/KR/2025/12/13/AKR20251213029100518_05_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20251213029100518",
         "summary": "응급환자 및 환자·보호자 요청 때 의사 방문진료 가능",
+        "source": "yna",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "\"민원방문예약도 척척\"…서초구, 행동형 챗봇 'AI전트' 첫선",
+        "time": "2025-12-15T06:57:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/15/AKR20251215007100004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251215007100004",
+        "summary": "매일 방대한 학습으로 답변 오류 최소화…자체 서버로 보안 강화",
+        "source": "yna",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "원주 주택서 가스버너 폭발 사고…집에 있던 80대 노인 다쳐",
+        "time": "2025-12-15T06:49:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/12/15/AKR20251215006800062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251215006800062",
+        "summary": "",
         "source": "yna",
         "date": "2025년 12월 14일 일요일"
       }
@@ -7782,6 +7808,159 @@
         "time": "2025-12-14T21:42:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/kbs/20251215062651464xsss.jpg",
         "url": "https://v.daum.net/v/20251215062649506",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "부자 많은 나라 한국?...매년 10%가량 증가해 47만명 넘어",
+        "time": "2025-12-14T22:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/segye/20251215071815268goas.jpg",
+        "url": "https://v.daum.net/v/20251215071815354",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "[마켓 브리핑] 오라클 이어 브로드컴까지 'AI 거품론' 논란 재확산",
+        "time": "2025-12-14T22:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/sbscnbc/20251215071919917xfmf.jpg",
+        "url": "https://v.daum.net/v/20251215071919369",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "[거버넌스워치] 삼화페인트-일본 츄코쿠 지분 제휴에 얽힌 투자수익",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/BUSINESSWATCH/20251215071147119qgcn.jpg",
+        "url": "https://v.daum.net/v/20251215071146244",
+        "summary": "삼화, 자사주 5.1% 80억에 넘겨 제휴 강화츄코쿠, 과거 9.6% 매각 104억 차익 전례김장연 회장, 합작사 통해 15억 수익내기도",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "10년전 음주뺑소니 들통난 군인, 이미 받은 퇴직수당 2억은?",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/joongang/20251215070150505hlum.jpg",
+        "url": "https://v.daum.net/v/20251215070149105",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "한화, 美동부 이어 남·서부에도 조선소 확보···마스가 '탄력'",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/seouleconomy/20251215072227912gpdc.jpg",
+        "url": "https://v.daum.net/v/20251215072225419",
+        "summary": "호주 정부, 한화의 오스탈 지분 확대 승인오스탈, 앨라배마·캘리포니아에 조선소 보유한화 \"필리조선소와 시너지 극대화\" 기대",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "외교부 “한미 대북정책 협의” 강행-통일부 “불참”…주도권 다툼",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/hani/20251215070628604dytx.jpg",
+        "url": "https://v.daum.net/v/20251215070626173",
+        "summary": "첫 한-미 대북정책 조율 창구 두고 이견 협의체, 문 정부때 ‘워킹그룹’ 연상 의견 제기",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "‘가자 침공 옹호’ 극우정치인에 노벨평화상…‘미국과 충돌않는 평화’에만 상주는 노벨위원회[점선면]",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/khan/20251215070115277kdtx.jpg",
+        "url": "https://v.daum.net/v/20251215070114067",
+        "summary": "점(사실들): 첩보영화 같았던 베네수엘라 탈출기선(맥락들): 무력 사용 지지하는 노벨평화상 수상자?면(관점들): 노벨평화상의 ‘평화’란 무엇인가",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "\"민원방문예약도 척척\"…서초구, 행동형 챗봇 'AI전트' 첫선",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/yonhap/20251215065829046iwfx.jpg",
+        "url": "https://v.daum.net/v/20251215065828006",
+        "summary": "매일 방대한 학습으로 답변 오류 최소화…자체 서버로 보안 강화",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "국내 AI 모델에 수능 수학과 눈술 문제 풀게 했더니…“해외 모델보다 점수 낮아”",
+        "time": "2025-12-14T22:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/khan/20251215072915424alxz.jpg",
+        "url": "https://v.daum.net/v/20251215072914485",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "젤렌스키 “서방 강력 안전보장 있다면 나토 가입 포기 가능”",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/Edaily/20251215072650119lwpe.jpg",
+        "url": "https://v.daum.net/v/20251215072648457",
+        "summary": "젤렌스키, 베를린 회동 앞서 발언“나토 5조 준하는 美 등 안전보장 있어야”영토 문제는 “현 전선대로 해야” 재확인",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "호주 유대교 행사장 총기난사에 홀로코스트 생존자 사망",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/mbn/20251215072325553yddl.jpg",
+        "url": "https://v.daum.net/v/20251215072323431",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "'시드니 해변 총격' 용의자는 50세·24세 父子...사망자 16명",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/moneytoday/20251215072648125kbyj.jpg",
+        "url": "https://v.daum.net/v/20251215072247421",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "호주 시드니 해변서 총기 난사… 어린이 1명 포함 16명 사망",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/dailian/20251215071830728nszh.jpg",
+        "url": "https://v.daum.net/v/20251215071828359",
+        "summary": "유대인 행사 도중 발생...범인 1명 사망, 1명 체포총기난사 사건 용의자, 50세 아버지와 24세 아들",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "오라클에서 브로드컴까지, AI '패닉 셀' 언제까지 지속될까",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/NEWS1/20251215070138360hhyq.jpg",
+        "url": "https://v.daum.net/v/20251215070136084",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] 시리아서 IS소행 추정 공격‥미군 등 3명 사망",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/imbc/20251215071909115tpxb.jpg",
+        "url": "https://v.daum.net/v/20251215071908366",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "[이 시각 세계] 중국, 저출산에 '출산비 0원 카드' 발표",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/imbc/20251215072209085irhx.jpg",
+        "url": "https://v.daum.net/v/20251215072208414",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 14일 일요일"
+      },
+      {
+        "title": "시드니 총기참사 용의자는 아버지와 아들…사망자 16명으로 늘어",
+        "time": "2025-12-14T22:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/15/Channela/20251215071658409hxgm.jpg",
+        "url": "https://v.daum.net/v/20251215071656343",
         "summary": "",
         "source": "daum",
         "date": "2025년 12월 14일 일요일"
