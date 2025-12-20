@@ -3,6 +3,636 @@
     "date": "2025년 12월 20일 토요일",
     "articles": [
       {
+        "title": "클로즈 유어 아이즈, '가요대축제' 달군 '퍼포먼스 끝판왕’",
+        "time": "2025-12-20T10:28:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512201027401137",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한빛-나노 발사 3번째 연기…\"기술적 점검 필요\"",
+        "time": "2025-12-20T10:31:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512201026397230",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "李대통령 \"에너지 바우처 지원금 대폭 확대… 취약계층 난방비 고통 덜 것\"",
+        "time": "2025-12-20T09:57:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512200947573777",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"박나래, 불법 의료 행위 알았다...주사이모는 '나혼산' 제작진과 싸워\" 추가 폭로",
+        "time": "2025-12-20T11:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512200853105807",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "국내 남으면 120억인데 미국행 비행기를 탔다… 美 언론 \"송성문, 샌디에이고와 192억 합의\"",
+        "time": "2025-12-20T09:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512192229217354",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"韓 디지털 규제 추진에 美 불만\"…한미FTA공동위 연기",
+        "time": "2025-12-20T10:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512201039085278",
+        "source": "Fn",
+        "date": "2025년 12월 20일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 20일 토요일",
+    "articles": [
+      {
+        "title": "부산도시공사, 직원 사칭 사기 피해 주의보 발령",
+        "time": "2025-12-20T10:00:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/12/19/AKR20251219119100051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219119100051",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "해수부 부침 함께한 표지석, 세종 거쳐 다시 부산에",
+        "time": "2025-12-20T09:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/12/08/PYH2025120809140001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219066600051",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한빛-나노 발사 또 연기…이노스페이스 \"기술 점검\"",
+        "time": "2025-12-20T08:45:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/12/15/PYH2025121504740001701_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220017751017",
+        "summary": "2단 연료 충전 밸브 기능 확인 후 재시도 예정",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[속보] 이노스페이스 발사 시도 중단…오늘 발사 못해",
+        "time": "2025-12-20T08:38:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/12/15/PYH2025121504740001701_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220017700017",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "전남 영암서 중식당 화재…5명 대피",
+        "time": "2025-12-20T09:11:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/12/20/AKR20251220019100054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220019100054",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "부산 기장군, 지역 농어업인에 1인당 60만원 지급",
+        "time": "2025-12-20T09:10:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/03/16/13/PCM20240316000013051_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219096800051",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "울주민속박물관, 기증 받은 유물 특별전…111점 전시",
+        "time": "2025-12-20T10:10:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2013/08/03/PYH2013080302870005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219093600057",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "중학생 아들 두고 몰래 이사…생활고 겪던 40대 친모 집유",
+        "time": "2025-12-20T10:00:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2019/04/30/92/PCM20190430000192990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219134000064",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "포항 구도심 빈 건축물 정비 1호, 청년 창업거점으로 탄생",
+        "time": "2025-12-20T09:30:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/12/20/AKR20251220020200053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220020200053",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "마약에 취해 포르쉐 몰다 6중 추돌사고 20대 징역 5년",
+        "time": "2025-12-20T09:07:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/12/19/AKR20251219144600060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251219144600060",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[내일날씨] 서울 낮 최고 2도, 쌀쌀한 일요일…강풍에 체감온도 '뚝'",
+        "time": "2025-12-20T09:00:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2025/12/05/PYH2025120504710001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220006900004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "비 오고 포근한 토요일…내일 아침부터 기온 '뚝'",
+        "time": "2025-12-20T08:38:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/03/02/PYH2025030204810001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220016900530",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"브라운대 총격범 팔레스타인인\"…친트럼프 진영서 루머 부채질",
+        "time": "2025-12-20T09:41:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/12/20/AKR20251220020300009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220020300009",
+        "summary": "법무차관보·공화 의원도 가세…온라인 허위정보 확산에 수사 혼선",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "신형식 주교황청 대사, 레오14세 교황에 신임장 제정",
+        "time": "2025-12-20T09:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/20/AKR20251220003700109_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220003700109",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 시리아 IS 겨냥 대대적 공습…\"전쟁 시작 아닌 복수 선언\"(종합)",
+        "time": "2025-12-20T08:41:00",
+        "img": "https://img7.yna.co.kr/photo/etc/af/2025/12/18/PAF20251218125401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220013851071",
+        "summary": "트럼프 \"테러범들에 매우 심한 보복중\"…'미군등 3명 사망에 대한 대응' 시사",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "모질라 \"아동용 스마트 장난감, 보안 취약\"…한국 시판제품 포함",
+        "time": "2025-12-20T08:56:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/12/20/AKR20251220018600091_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251220018600091",
+        "summary": "플레이시푸·스피로 한국 내 판매 중…아마존·화웨이 제품도 내부메모리 보안 미흡",
+        "source": "yna",
+        "date": "2025년 12월 20일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 20일 토요일",
+    "articles": [
+      {
+        "title": "윤석열 전 대통령, 민중기 특검에 20일 출석…첫 대면조사 예상",
+        "time": "2025-12-20T09:37:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3462185_3603296_373_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3462185",
+        "source": "Gukje",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이노스페이스 우주발사체 '한빛-나노' 발사 중단",
+        "time": "2025-12-20T08:52:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3462170_3603279_5112_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3462170",
+        "source": "Gukje",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "김백광 CIOFF 한국본부 이사장, 2025영동세계국악엑스포 공로로 충북도지사 표창",
+        "time": "2025-12-20T10:56:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3462232_3603346_5158_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3462232",
+        "source": "Gukje",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "제29회 창춘 빙설 축제, 관광객들로 북적",
+        "time": "2025-12-20T09:57:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3462198_3603311_5726_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3462198",
+        "source": "Gukje",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "콩고, 평화 행진으로 주권 수호 의지 천명",
+        "time": "2025-12-20T10:24:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3462217_3603330_2453_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3462217",
+        "source": "Gukje",
+        "date": "2025년 12월 20일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 20일 토요일",
+    "articles": [
+      {
+        "title": "돈 풀린 AI 창업, 3년 내 망한다?…성공의 핵심 요인 [스프]",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/sbsi/20251220090302286gfmd.jpg",
+        "url": "https://v.daum.net/v/20251220090300654",
+        "summary": "[트렌드 언박싱] 기술력만으로 충분하지 않다 : AI 시대 한국 스타트업의 다층적 생존전략 (글 : 김민서 서울여자대학교 교양대학 교수)",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "연말에 잘못 긁었다간 ‘세금폭탄’…경비 처리 함정 5가지[세상만사]",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/Edaily/20251220100304921ufrc.jpg",
+        "url": "https://v.daum.net/v/20251220094205107",
+        "summary": "개인 핸드폰 통신비도 업무용으로 썼다면 비용 처리업무용 컴퓨터·핸드폰은 고가제품도 비용처리 가능비품이나 장비는 100만원 이하는 소모품 비용 처리카페·식당에서 고객 만나 지출한 식대는 비용 인정식당 사장이 헬스 PT, 필라테스 수강은 비용 불가",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'태국 안 갈래요'…환전소 앞에서 한국인들 '비명' 이유 보니",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/ked/20251220090552050vcid.jpg",
+        "url": "https://v.daum.net/v/20251220081005212",
+        "summary": "\"만만한 동남아 여행은 옛말\"…태국 바트값, 왜 이리 뛰나금 거래 급증에 바트화 가치 급등\"이면엔 중국·중동발 '검은돈' 있다\" 지적도원화 약세 겹치면서 한국 관광객은 '한숨'당국은 '고환율은 해외 투자 탓'…증권사에 '칼날'",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美국무 \"韓·日 등 동맹과 약속 훼손 없이 中과 협력 모색\"",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/sbscnbc/20251220102102935bcbf.jpg",
+        "url": "https://v.daum.net/v/20251220101801496",
+        "summary": "2시간 기자회견서 \"中, 강력·부유한 국가…협력 분야 찾아야\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서쪽에 있는데 ‘동인천’, 북쪽인데 ‘서구’···인천시, ‘따로 노는’ 행정·공공기관 명칭 손본다",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/khan/20251220102839524mbxi.jpg",
+        "url": "https://v.daum.net/v/20251220102838614",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"韓 디지털 규제 추진에 美 불만\"…한미FTA공동위 연기",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/fnnewsi/20251220104924593xlpj.jpg",
+        "url": "https://v.daum.net/v/20251220104924806",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "세계로 뻗어가는 K-제련… 고려아연, 美 제련소 건설로 공급망 차별화",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/donga/20251220110153016yrwr.png",
+        "url": "https://v.daum.net/v/20251220110150978",
+        "summary": "한미 경제안보 협력의 상징…미국 핵심광물 공급망에 직접 참여",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[벤처인사이드] 아파트 ‘철근 누락’ AI로 막는 더블에스앤디티",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/chosunbiz/20251220100206632rwrz.jpg",
+        "url": "https://v.daum.net/v/20251220100205339",
+        "summary": "2025 숭실대 캠퍼스타운 소속 기업AI로 건설 현장 정밀하게 관리하고철근 配筋 파악하며 안전 사고 예방",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "“작은 집도 품격 필요”…좋은 집이란, '취향과 질서’의 조화 [강영연의 건축 그리고 건축가]",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/ked/20251220110206608pkpf.jpg",
+        "url": "https://v.daum.net/v/20251220110205986",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "인터뷰 거절? 샘 올트먼을 AI로 미러링",
+        "time": "2025-12-20T02:09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/sbscnbc/20251220091204280orrj.jpg",
+        "url": "https://v.daum.net/v/20251220083000351",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이 대통령 \"법무부 중요 부처…국민신임 저버리지 않아야\"",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220095438104lnbp.jpg",
+        "url": "https://v.daum.net/v/20251220095437236",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "사기 기업이 중국 1위로…루이싱커피는 어떻게 부활했나[딥다이브]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/donga/20251220100148195wltc.png",
+        "url": "https://v.daum.net/v/20251220100146327",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "인도·차도 사이 주차장… 인천시민들 ‘곡예 보행’ [현장, 그곳&]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/kyeonggi/20251220090132268zrye.jpg",
+        "url": "https://v.daum.net/v/20251220090131588",
+        "summary": "식당 앞 차량 인도 침범 일쑤점자블록마저 막아 위험천만불법주차 민원 月 4천건 달해단속 강화·인식 개선 등 시급市 “인센티브 도입 단속 유도”",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이 대통령 \"재외동포 국가별 차별 안돼\"…실태 점검 지시",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220100046153bugd.jpg",
+        "url": "https://v.daum.net/v/20251220100045304",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[여론 속의 여론] 2018년 이후 '미국·일본·북중러' 호감도 급락은 한순간, 회복은 더뎠다",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/hankooki/20251220110124534hgpm.jpg",
+        "url": "https://v.daum.net/v/20251220110123971",
+        "summary": "[한국인 주변국 호감도 7년간 추적]2018년 1·2위는 美北, 최근엔 美日주요사건·외교기조 따라 지형 변화",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[19] 북 오산학교, 남 고창고보 민족교육의 산실 고창고등학교(상) [남도 학교기행]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/551730-ch1iKEu/20251220090011124bhic.jpg",
+        "url": "https://v.daum.net/v/20251220090008575",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "‘통합 특위’ 초대장 받은 충북 의원들…결론은?",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/kbs/20251220090408085rxzh.jpg",
+        "url": "https://v.daum.net/v/20251220090404684",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "‘올해 최악의 인물’ 조희대: 수치심 없는, 수치스러운 사법부 수장 [논썰]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/hani/20251220092145295tbma.jpg",
+        "url": "https://v.daum.net/v/20251220090637714",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "보수 위기 때마다 ‘당명 변경론'…간판이 문제일까[국회기자24시]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/Edaily/20251220100207186nqdk.jpg",
+        "url": "https://v.daum.net/v/20251220100205340",
+        "summary": "\"당명은 죄 없다\" \"껍데기부터 바꾸자\"…당내 이견변경 후 이득 본 새누리당…변화 없던 자유한국당전문가 \"당명 변경에 상응하는 혁신 필요\" 주문尹 절연 못 꺼낸 장동혁…모멘텀 만들 수 있을까",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"통일교 특검해야\" 62%…野 \"보수·진보 없는 명백한 국민적 요구\"",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/THEFACT/20251220101943465bajl.jpg",
+        "url": "https://v.daum.net/v/20251220101941506",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "李대통령의 실용?…대전·충남 통합[통실호외]",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/Edaily/20251220101904777olfx.jpg",
+        "url": "https://v.daum.net/v/20251220101903503",
+        "summary": "국민의힘 주도했던 지역 이슈, 與도 '적극'지역균형 강조했던 李대통령 '실용' 반영지방선거 앞두고 여야간 이해득실 계산 ↑",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "“72세에 이 몸매 실화?”…대만 할머니, 보디빌딩 대회 우승 '충격'",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/etimesi/20251220100302533qrpk.jpg",
+        "url": "https://v.daum.net/v/20251220100300353",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "영국 주간지 \"한국, 계엄 굳건히 버텨\"... '올해의 국가' 후보",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/ohmynews/20251220101302619hoif.jpg",
+        "url": "https://v.daum.net/v/20251220101301459",
+        "summary": "<이코노미스트> \"심각한 민주주의 위협서 회복... 윤석열은 법정에\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "정부, 대북 독자 제재 ‘5·24 조치’ 손보나… 남북교류 재개 시작점 될까",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/segye/20251220100705420oybc.jpg",
+        "url": "https://v.daum.net/v/20251220100705389",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "대통령이 잇딴 허위 정보 게시 논란 …콜롬비아 페트로 “가짜뉴스의 왕” 비판 받아",
+        "time": "2025-12-20T02:08:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/munhwa/20251220103524542gogo.jpg",
+        "url": "https://v.daum.net/v/20251220103523671",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "일본 '대만 발언' 이어 '핵무장론'까지...중국 \"군국주의 부활\"",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/moneytoday/20251220092302508hnrs.jpg",
+        "url": "https://v.daum.net/v/20251220084503471",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美 엡스타인 ‘판도라 상자’ 열렸다… 트럼프 없고 빌 클린턴·마이클잭슨 등장",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/chosun/20251220110305051gbkm.jpg",
+        "url": "https://v.daum.net/v/20251220105703889",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美법무부, 30만 페이지 '엡스타인 파일' 공개…클린턴에 초점",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/NEWS1/20251220095638661yesa.jpg",
+        "url": "https://v.daum.net/v/20251220095637249",
+        "summary": "법무부 \"추가 공개 위해 다른 문서도 검토 중…약 2주 걸려\"로이터 \"트럼프 내용 거의 없어…추후 트럼프 등장할 가능성\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "대만 지하철역서 흉기난동…범인 포함 3명 숨져",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220110510244spkv.jpg",
+        "url": "https://v.daum.net/v/20251220110510041",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미군 사망에 서슬퍼런 복수전...대대적인 타격에 피로 물드는 IS [지금이뉴스]",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/YTN/20251220105812972lahu.jpg",
+        "url": "https://v.daum.net/v/20251220105812912",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"가자지구를 첨단 미래도시로\"…미국, 재건 청사진 공개",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220105844324vatc.jpg",
+        "url": "https://v.daum.net/v/20251220105844923",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "덴마크 \"러 연계 해킹단, 기간시설 등 사이버 공격\"",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220110438638vfru.jpg",
+        "url": "https://v.daum.net/v/20251220110438036",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 베네수 지상전 고조…설계자는 ‘백악관 실세’ 이 사람 [디브리핑]",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/ned/20251220110208467emju.jpg",
+        "url": "https://v.daum.net/v/20251220110207989",
+        "summary": "트럼프 “베네수엘라와 전쟁 배제 안해” 연일 압박“설계자는 ‘국경봉쇄 선봉장’ 스티븐 밀러”당초 멕시코發 이민자 단속 ‘마약과의 전쟁’베네수엘라 군사작전 전환…“마두로 정권 테러조직 지정”",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "“전투기는 만들었는데 미사일은 왜 없나”…대통령 질문이 드러낸 공백 [박수찬의 軍]",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/segye/20251220102616348rblr.jpg",
+        "url": "https://v.daum.net/v/20251220102616592",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"한국, 올해 심각한 민주주의 위협서 회복\"",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/newsy/20251220105645462gsgz.jpg",
+        "url": "https://v.daum.net/v/20251220105645885",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'금융권 이너서클' 지적한 李대통령 \"방치할 일 아냐\"…'공적 기능 부족'도 질타",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/akn/20251220093524660mlre.jpg",
+        "url": "https://v.daum.net/v/20251220093523996",
+        "summary": "李대통령, 금융위·금감원 업무보고\"투서 엄청 쏟아져…상당히 타당성 있는 측면도\"\"금융, 피도 눈물도 없는 자본주의 최첨단 영역인 것 같다\"담보 대출 이자 중심 영업행태 재차 비판포용적 금융 전환도 강조",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"브라운대 총격범 팔레스타인인\"…친트럼프 진영서 루머 부채질",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/yonhap/20251220094244097ayfz.jpg",
+        "url": "https://v.daum.net/v/20251220094243114",
+        "summary": "법무차관보·공화 의원도 가세…온라인 허위정보 확산에 수사 혼선가짜뉴스로 살해 협박당한 팔레스타인 학생 \"상상할 수 없는 악몽\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "개명 하루만에 케네디센터 외벽에 '트럼프' 추가…위법 논란도",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/yonhap/20251220104743895veko.jpg",
+        "url": "https://v.daum.net/v/20251220104743793",
+        "summary": "민주 \"의회 승인 없는 개명 위법\"…법학 교수 \"이사회가 의무 위반\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "은밀하고 과감했던 북한 해커···올해 3조원 가상자산 탈취 ‘사상최대’",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/seouleconomy/20251220110238430szbu.jpg",
+        "url": "https://v.daum.net/v/20251220110236996",
+        "summary": "美데이터분석업체 채이널리시스 분석 보고서北 20억 달러 가상자산 탈취···전년대비 51%↑더 적은 사건으로 더 많은 가상 자산 해킹IT담당자는 물론 투자자 사칭해 접근권한 확보",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 시리아 IS에 '피의 보복'…\"20일 오전까지 지속될 듯\"",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/akn/20251220110643643ssam.jpg",
+        "url": "https://v.daum.net/v/20251220110642056",
+        "summary": "美당국자 \"20일 오전까지 공격 지속\"",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한국계 미국인 이산가족 등록법 최종 통과…NDAA에 포함",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/NEWS1/20251220091527197jgps.jpg",
+        "url": "https://v.daum.net/v/20251220091525816",
+        "summary": "북미 대화 시 상봉 의제 의무화, '국가 등록명부' 구축",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "글로벌 제약사 9곳 미국에 약값 인하...트럼프 '관세 압박'에 백기",
+        "time": "2025-12-20T02:07:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/20/YTN/20251220103724483rdag.jpg",
+        "url": "https://v.daum.net/v/20251220103723696",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 20일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 20일 토요일",
+    "articles": [
+      {
         "title": "머스크 \"결국 내가 옳았다\"…美 대법원이 살린 200조원 보상안",
         "time": "2025-12-20T09:38:00",
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000225.jpg",
@@ -2501,6 +3131,1095 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512200019122289_t.jpg",
         "url": "https://news.nate.com/view/20251220n00205",
         "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"당장 나가\"…美 식당서 모유 수유했다 쫓겨난 엄마",
+        "time": "2025-12-20T11:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/20/01.42740273.1.png",
+        "url": "https://news.nate.com/view/20251220n04578",
+        "summary": "미국의 한 음식점에서 모유 수유했다는 이유로 쫓겨난 여성의 사연이 알려져 공분을 사고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이노스페이스 '한빛-나노' 발사 세 번째 연기…기술점검",
+        "time": "2025-12-20T11:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2025/12/20/20251220111153_2271060_655_365.jpg",
+        "url": "https://news.nate.com/view/20251220n04482",
+        "summary": "[이투데이/송병기 기자]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "쿠팡, 한국서 문 닫나…공정위원장 \"영업정지 가능성 열어놓고 있어\"",
+        "time": "2025-12-20T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/20/rcv.YNA.20251219.PYH2025121914250001300_P1.jpg",
+        "url": "https://news.nate.com/view/20251220n04629",
+        "summary": "주병기 공정거래위원장이 대규모 고객 정보 유출 사고가 발생한 쿠팡에 대한 영업정지 처분 가능성에 대해 “열어놓고 있다”고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "세계 원유시장 공급이 넘쳐난다는데…팬데믹 이후 유가 최대 낙폭 우려",
+        "time": "2025-12-20T11:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/20/news-p.v1.20251219.92b27b6866974d4c92e70ec09ce3ecae_P1.jpg",
+        "url": "https://news.nate.com/view/20251220n04541",
+        "summary": "전 세계 원유 시장이 구조적인 공급 과잉 국면에 진입하면서 국제유가 하락세가 장기화될 조짐을 보이고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "세계로 뻗어가는 K-제련…고려아연, 美 제련소 건설로 공급망 차별화",
+        "time": "2025-12-20T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/20/133004484.1.png",
+        "url": "https://news.nate.com/view/20251220n04355",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"회원 10만명 돌파\"…웅진북센, '바로보네' 감사제 개최",
+        "time": "2025-12-20T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251219_0002022651_web.jpg",
+        "url": "https://news.nate.com/view/20251220n04347",
+        "summary": "오는 28일까지 적립 및 경품 이벤트 진행",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"작은 집도 품격 필요\"…좋은 집이란, '취향과 질서'의 조화 [강영연의 건축 그리고 건축가]",
+        "time": "2025-12-20T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/20/01.42692283.1.jpg",
+        "url": "https://news.nate.com/view/20251220n04356",
+        "summary": "“좋은 집은 내가 만든 질서 안에서 편안한 집이다.”",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"韓 디지털 규제 추진에 美 불만\"…한미FTA공동위 연기",
+        "time": "2025-12-20T10:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/20/202512200409332940_l.jpg",
+        "url": "https://news.nate.com/view/20251220n04159",
+        "summary": "[파이낸셜뉴스] 한국과 미국이 관세협상 후속 조치로 추진하는 '한미 자유무역협정(FTA) 공동위원회'(FTA 공동위)가 내년 초로 연기됐다는 미국 매체 보도가 나왔다. 한국이 디지털 관련 규제를 추진하는 것에 대한 미국 측 불만이 반영된 결과라는 분석이다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "국내 첫 상업 발사체 '한빛-나노' 오늘 발사 중단",
+        "time": "2025-12-20T11:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775522_1766196016.jpg",
+        "url": "https://news.nate.com/view/20251220n04360",
+        "summary": "오늘(20일)로 예정됐던 국내 첫 상업 발사체 '한빛-나노'의 발사가 중단됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한빛-나노 발사 3번째 연기…\"기술적 점검 필요\"",
+        "time": "2025-12-20T10:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/20/202512200857384023_l.jpg",
+        "url": "https://news.nate.com/view/20251220n03999",
+        "summary": "[파이낸셜뉴스] 우주발사체 기업 이노스페이스는 20일 발사 예정이던 첫 상업발사체 '한빛-나노'에 기술적 점검 사항이 생겨 발사 시도를 중단한다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "국내 첫 민간 우주발사체 '발사 중단'…\"기술 점검 필요\"",
+        "time": "2025-12-20T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/12/20/kuk20251220000020.800x.0.png",
+        "url": "https://news.nate.com/view/20251220n03668",
+        "summary": "우주발사체 기업 이노스페이스가 국내 첫 상업 발사에 나섰던 ‘한빛-나노’의 발사 시도를 연기했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "사기 기업이 중국 1위로…루이싱커피는 어떻게 부활했나[딥다이브]",
+        "time": "2025-12-20T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/20/133004953.1.png",
+        "url": "https://news.nate.com/view/20251220n03629",
+        "summary": "모두가 끝났다고 생각했습니다. 2020년 ‘중국판 스타벅스’ 신화에서 ‘사기 기업’으로 추락했던",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한국아동복지협회, 우체국공익재단 식비지원사업 '청년밥심 스타트온(溫)' 진행…\"자립준비청년들에 안정적 발판 제공\"",
+        "time": "2025-12-20T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/20/news-p.v1.20251219.f5111c02d1ec4dd1b9f4b3bfa9cfbbbd_P2.png",
+        "url": "https://news.nate.com/view/20251220n03611",
+        "summary": "- 매월 30만 원 식비 지원과 체험형 프로그램으로 자립 초기 부담 완화",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[벤처인사이드] 아파트 '철근 누락' AI로 막는 더블에스앤디티",
+        "time": "2025-12-20T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/12/20/cz_1766192464867_58067_0.jpg",
+        "url": "https://news.nate.com/view/20251220n03610",
+        "summary": "2025 숭실대 캠퍼스타운 소속 기업\nAI로 건설 현장 정밀하게 관리하고\n철근 配筋 파악하며 안전 사고 예방",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 성북구 아파트 화재…주민 50여명 대피",
+        "time": "2025-12-20T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/20/2025122011264457368_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04824",
+        "summary": "서울 성북구의 한 아파트에서 불이 나 주민 50여명이 대피하는 소동이 빚어졌다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[인사]경북 상주시",
+        "time": "2025-12-20T11:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n04797",
+        "summary": "◆경북 상주시",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 성북구 석관동 아파트에서 불…주민 50여명 대피",
+        "time": "2025-12-20T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/20/news_1766198457_1588654_m_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04821",
+        "summary": "1시간 만에 완진",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 평창동 단독주택서 불…혼자 살던 70대 남성 사망",
+        "time": "2025-12-20T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/20/202512201140129895_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04827",
+        "summary": "오전 7시 29분쯤 화재…오전 10시 18분쯤 완진",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "동부지검 합수단, 백해룡 경정 조기 파견 해제 검토",
+        "time": "2025-12-20T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251027_0021031690_web.jpg",
+        "url": "https://news.nate.com/view/20251220n04822",
+        "summary": "대검에 요청하는 방안 검토",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "성북구 아파트에서 화재…주민 50여명 대피 소동",
+        "time": "2025-12-20T11:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/20/01.42740443.1.jpg",
+        "url": "https://news.nate.com/view/20251220n04776",
+        "summary": "서울 성북구 석관동의 한 아파트에서 20일 오전 8시 53분께 화재가 발생해 주민 50여명이 대피하는 소동이 벌어졌다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "비상계엄 반대 시국선언한 용인외대부고 학생회장, 하버드 합격 쾌거",
+        "time": "2025-12-20T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/20/ae_1766197864849_999022_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04721",
+        "summary": "비상계엄 반대 시국선언 주도\n\"다문화·저출산 문제 해결하고파\"",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"'비상계엄 시국선언' 용인외대부고 학생회장, 하버드대 합격\"",
+        "time": "2025-12-20T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/20/20251220501957.jpg",
+        "url": "https://news.nate.com/view/20251220n04704",
+        "summary": "경기 용인 한국외국어대학교 부설 고등학교(용인외대부고)는 지난해 윤석열 전 대통령의 비상계엄 선포 당시 시국선언을 한 이 학교 학생회장이 하버드대학교에 합격했다고 20일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "성북구 아파트 화재로 주민 50여 명 대피 소동",
+        "time": "2025-12-20T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/20/202121599_700.jpg",
+        "url": "https://news.nate.com/view/20251220n04726",
+        "summary": "오늘(20일) 아침 8시 53분쯤 서울 성북구 석관동의 한 아파트에서 화재가 발생했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 평창동 단독주택 화재…70대 남성 숨진 채 발견",
+        "time": "2025-12-20T11:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/20/2025122011163865290_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04717",
+        "summary": "서울 종로구 평창동의 한 단독주택에서 20일 오전 7시 29분쯤 화재가 발생해 70대 남성이 숨진 채 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'임은정 지휘' 합동수사단, 백해룡 파견 조기 해제도 검토",
+        "time": "2025-12-20T11:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/12/20/20251220500282.jpg",
+        "url": "https://news.nate.com/view/20251220n04716",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "성북구 아파트 화재로 주민 50여명 대피…1시간만에 완진",
+        "time": "2025-12-20T11:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/4120898_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04695",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"마사지 받으러 숙박업소, 이런 게 불륜\"…정희원에 일침 가한 변호사",
+        "time": "2025-12-20T11:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/20/news-p.v1.20251218.058254d6633d4ffe8b2e9f1685addc04_P1.png",
+        "url": "https://news.nate.com/view/20251220n04682",
+        "summary": "정희원 저속노화연구소 대표가 전 위촉연구원 A씨와의 불륜 관계를 전면 부인한 가운데 “불륜이 맞다”는 주장이 나왔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "임은정 동부지검장, 합수단서 백해룡 파견 해제 검토",
+        "time": "2025-12-20T11:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/AKR202512201124422ag_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04671",
+        "summary": "임은정 서울동부지검장의 지휘를 받는 '세관 마약 수사 외압 의혹' 합동수사단이 백해룡 경정의 파견을 조기 해제하는 방안을 검토하고 있는 걸로 알려졌습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "울릉도 응급환자 해경 헬기 통해 긴급 이송",
+        "time": "2025-12-20T11:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n04534",
+        "summary": "울릉도에서 발생한 뇌출혈 응급환자가 해경 헬기를 통해 긴급 이송됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "동부지검 합수단, 백해룡 경정 파견 조기 해제 검토",
+        "time": "2025-12-20T11:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/12/20/17661958606946029407188.jpg",
+        "url": "https://news.nate.com/view/20251220n04594",
+        "summary": "'세관 마약 수사 외압 의혹'을 수사하는 서울동부지검 합동수사단(합수단)이 백해룡 경정의 파견을 조기 해제하는 방안을 살펴보는 것으로 전해졌습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"겨울철 사각지대 국민 보호\"…李대통령, 지원 확대키로",
+        "time": "2025-12-20T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ht/2025/12/20/A202512200293_1.png",
+        "url": "https://news.nate.com/view/20251220n04430",
+        "summary": "이재명 대통령이 20일 연말 취약 계층을 대상으로 한 난방비·먹거리 지원을 대폭 확대하겠다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "동부지검 합수단, '임은정과 충돌' 백해룡 파견 조기 해제 검토",
+        "time": "2025-12-20T11:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/12/20/a62ea8e9-08e3-41bc-8684-55e9421e346a.jpg",
+        "url": "https://news.nate.com/view/20251220n04523",
+        "summary": "'세관 마약 수사 외압 의혹'을 수사 중인 서울동부지검 검경 합동수사단이 백해룡 경정의 파견을 해제하는 방안을 검토 중인 것으로 알려졌다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "동부지검 '세관마약' 합수단, 백해룡 경정 파견 조기 해제 검토",
+        "time": "2025-12-20T11:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/12/20/16c11841-ff43-4c70-839a-e633b15d1fb7.jpg",
+        "url": "https://news.nate.com/view/20251220n04512",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "성북구 아파트 화재…주민 50여명 대피 소동",
+        "time": "2025-12-20T11:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000271.jpg",
+        "url": "https://news.nate.com/view/20251220n04499",
+        "summary": "[이데일리 박정수 기자] 서울 성북구 한 아파트에서 화재가 발생해 주민 50여 명이 대피하는 소동이 벌어졌다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "10대 아들 두고 이사해 냉방에 홀로 방치…친모, 집행유예",
+        "time": "2025-12-20T11:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/12/20/news-p.v1.20251220.7eafb93b605d4b3682e1b621534f059e_P1.png",
+        "url": "https://news.nate.com/view/20251220n04406",
+        "summary": "10대 자녀를 홀로 남겨둔 채 이사를 가고, 집주인에게는 자녀를 내보내 달라고 요청한 40대 친모가 징역형의 집행유예를 선고받았다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "민주주의 위기·트럼프 2기·AI 시대…올해를 비춘 10권",
+        "time": "2025-12-20T11:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/20/ch_1766196364771_636865_0.jpg",
+        "url": "https://news.nate.com/view/20251220n00376",
+        "summary": "[2025 올해의 책]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "평창동 단독주택 화재로 70대 남성 사망…2시간 49분만 완진(종합)",
+        "time": "2025-12-20T11:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/4120898_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04428",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'비상계엄 시국선언' 용인외대부고 학생회장 하버드대 합격",
+        "time": "2025-12-20T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/AKR20251220023500061_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04389",
+        "summary": "(용인=연합뉴스) 최종호 기자 = 경기 용인 한국외국어대학교 부설 고등학교(용인외대부고)는 지난해 윤석열 전 대통령의 비상계엄 선포 당시 시국선언을 한 이 학교 학생회장이 하버드대학교에 합격했다고 20일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "성북구 아파트에 불나 주민 50여명 대피 소동",
+        "time": "2025-12-20T11:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/PCM20190628000131990_P2.jpg",
+        "url": "https://news.nate.com/view/20251220n04417",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"한국, 올해 심각한 민주주의 위협서 회복\"",
+        "time": "2025-12-20T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775459_1766195700.jpg",
+        "url": "https://news.nate.com/view/20251220n04260",
+        "summary": "영국 시사주간지 이코노미스트가 한국을 헌정 질서를 뒤집으려는 폭력적 시도에 대처한 모범 국가 중 하나로 평가했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "주사 이모? '침 삼촌'도 있었다…무면허로 한방 시술 중국인 징역형",
+        "time": "2025-12-20T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/20/ae_1766195764485_246563_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04034",
+        "summary": "두 달간 16회 한방 시술로 징역 1년 선고\n유명인과 일반인 대상 불법 시술 잇따라 발생",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "충남 시·군의회의장협의회, '하구 복원 특별법' 제정 촉구",
+        "time": "2025-12-20T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/12/20/202598931766195551.jpeg",
+        "url": "https://news.nate.com/view/20251220n04378",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"박나래, 불법 의료 행위 알았다…주사이모는 '나혼산' 제작진과 싸워\" 추가 폭로",
+        "time": "2025-12-20T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/20/202512200854355685_l.jpg",
+        "url": "https://news.nate.com/view/20251220n04332",
+        "summary": "[파이낸셜뉴스] 개그우먼 박나래가 이른바 '주사 이모'에게 받은 의료 행위가 불법임을 알았다는 추가 폭로가 나왔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 끈질긴 수사 끝에 잡아왔더니…총책 도주에 허망한 상황",
+        "time": "2025-12-20T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512200838280196_t.jpg",
+        "url": "https://news.nate.com/view/20251220n04386",
+        "summary": "지난해 9월, 강원경찰청 형사기동대가 100억 원대 투자 사기 범죄 조직을 검거했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미성년 아들 몰래 이사 후 번호까지 바꿔…40대 친모 집행유예",
+        "time": "2025-12-20T10:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000261.jpg",
+        "url": "https://news.nate.com/view/20251220n04099",
+        "summary": "[이데일리 박정수 기자] 중학생 아들 몰래 딸 셋만 데리고 이사를 간 40대 친모가 징역형의 집행유예를 선고받았다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "유럽 수출에 선물세트 출시…명품화 전략 밟는 김포쌀",
+        "time": "2025-12-20T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7659863_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04029",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 종로구 평창동 단독주택서 불…70대 남성 1명 사망",
+        "time": "2025-12-20T10:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/20/ch_1766195405076_153677_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04128",
+        "summary": "20일 서울 종로구 평창동의 단독주택에서 불이 나 70대 남성이 숨졌다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "특검, 윤석열 첫 소환…명태균·매관매직 의혹 조사",
+        "time": "2025-12-20T10:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512201008211816_t.jpg",
+        "url": "https://news.nate.com/view/20251220n03780",
+        "summary": "김건희 특검이 처음으로 윤석열 전 대통령을 소환해 조사하고 있습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "충북 충주에서 버스 4m 아래로 추락…인명 피해 없어",
+        "time": "2025-12-20T10:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n04166",
+        "summary": "어젯(19일)밤 9시 15분쯤 충북 충주시 호암동에 있는 호텔 주차장에서 45인승 관광버스가 뒤로 밀리면서 난간을 뚫고 4m 아래로 추락했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "종로구 단독주택서 불…혼자 살던 70대 남성 사망",
+        "time": "2025-12-20T10:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/20/202139754_700.jpg",
+        "url": "https://news.nate.com/view/20251220n04142",
+        "summary": "서울 종로구 평창동의 단독주택에서 화재로 70대 남성이 숨졌습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "강릉시, 산불 재난대응 토론훈련…\"초기 대응 역량 강화\"",
+        "time": "2025-12-20T10:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7659869_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04135",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "가짜 한의사 행세하며 침 시술한 60대 중국인 징역형",
+        "time": "2025-12-20T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/20/133005642.3.jpg",
+        "url": "https://news.nate.com/view/20251220n03960",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "축사 정비해 임대주택·여가시설 조성…증평군, 농촌공간정비사업 시동",
+        "time": "2025-12-20T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7659867_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04097",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이노스페이스 '한빛-나노' 발사 중단…민간 첫 상업 우주 발사 또 한 번 연기",
+        "time": "2025-12-20T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/12/20/a258f9a0-7018-4e75-a9ab-043968241fe6.jpg",
+        "url": "https://news.nate.com/view/20251220n04091",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 평창동 단독주택서 화재…70대 남성 사망",
+        "time": "2025-12-20T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/20/2025122010284746463_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04007",
+        "summary": "서울 종로구 평창동의 한 단독주택에서 불이 나 70대 남성이 숨진 채 발견됐다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'임은정 지휘' 합수단, 백해룡 파견 조기 해제도 검토",
+        "time": "2025-12-20T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/PYH2025102718000001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251220n04005",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'계엄 제2수사단' 노상원, 1심 징역 2년 판결에 항소",
+        "time": "2025-12-20T10:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775411_1766194549.jpg",
+        "url": "https://news.nate.com/view/20251220n04042",
+        "summary": "민간인 신분으로 정보사 요원의 정보를 넘겨받은 혐의로 실형을 선고받은 노상원 전 정보사령관이 1심 판결에 불복해 항소했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "영암 중식당 화재…소방당국, 대원 35명 투입해 90분 만에 진화",
+        "time": "2025-12-20T10:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/20/2025122010083698241_1.jpg",
+        "url": "https://news.nate.com/view/20251220n03954",
+        "summary": "전남 영암군 시종면의 한 중식당에서 20일 오전 7시37분쯤 화재가 발생해 건물이 모두 불에 탔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "서울 석관동 아파트에서 불…주민 50명 긴급 대피",
+        "time": "2025-12-20T10:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/12/20/17661939106945faf6c1368.png",
+        "url": "https://news.nate.com/view/20251220n03946",
+        "summary": "오늘(20일) 오전 8시 53분쯤 서울 성북구의 한 아파트에서 불이 났습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'정보유출 논란' 쿠팡 6년간 국회의원 퇴직 보좌관 15명 모셔갔다",
+        "time": "2025-12-20T10:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/20/2H1SY8K9J0_1.jpeg",
+        "url": "https://news.nate.com/view/20251220n03933",
+        "summary": "경제정의실천시민연합 분석;국회 퇴직자 30% 대기업 行",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "종로구 평창동 단독주택서 불…70대 남성 사망",
+        "time": "2025-12-20T10:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/20/news-p.v1.20251220.51d2d307efe94636ae684e97338a21ae_P1.png",
+        "url": "https://news.nate.com/view/20251220n03957",
+        "summary": "약 3시간 만에 화재 진압",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[인사] 경북 의성군",
+        "time": "2025-12-20T10:26:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n03931",
+        "summary": "◆경북 의성군",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "종로구 평창동 단독주택서 불…70대 남성 사망",
+        "time": "2025-12-20T10:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/AKR20251220022200004_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n03922",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "특검, 내일 '공천 개입' 이준석 대표 피의자 소환",
+        "time": "2025-12-20T10:24:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n03906",
+        "summary": "특검이 윤석열 전 대통령의 공천 개입 의혹과 관련해 개혁신당 이준석 대표를 내일(21일) 소환합니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"분열 앓는 우리 사회, 황금률로 존중의 가치 배워야\"",
+        "time": "2025-12-20T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/12/20/2025122010084541768_1766192926_0029141233.jpg",
+        "url": "https://news.nate.com/view/20251220n03842",
+        "summary": "종교철학자 권수경 일원동교회 목사, 신간 ‘황금률’ 펴내\n예수의 황금률·타종교의 황금률 비교 분석해\n“일반 황금률, 상호성 근간…예수는 은혜 강조”",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "우크라, 지중해서 러 유조선 드론 공습…러시아는 미사일 보복(종합)",
+        "time": "2025-12-20T11:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/PRU20251219326501009_P2.jpg",
+        "url": "https://news.nate.com/view/20251220n04799",
+        "summary": "푸틴 \"더 강력한 대응\" 보복 경고…무력충돌 속 주말 종전 협상도",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미국, 시리아 IS 대대적 공습…'미군 사망' 보복",
+        "time": "2025-12-20T11:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775621_1766198388.jpg",
+        "url": "https://news.nate.com/view/20251220n04808",
+        "summary": "미국이 시리아의 IS를 표적으로 대대적 공습을 강행했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "케네디센터 외벽에 '트럼프' 추가…위법 논란도",
+        "time": "2025-12-20T11:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/AKR20251220113927WNF_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04807",
+        "summary": "미국 수도 워싱턴DC의 대표적 문화예술 공연장인 케네디센터의 명칭을 '트럼프-케네디센터'로 바꾸기로 결정한 지 하루 만에 건물 외벽에 '도널드 트럼프'라는 글자가 추가됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "태국군, 캄보디아 범죄도시 폭격…중재 나선 중국",
+        "time": "2025-12-20T11:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775637_1766198340.jpg",
+        "url": "https://news.nate.com/view/20251220n04809",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "푸틴, 종전 원한다면서도 양보 거부…우크라·유럽 탓",
+        "time": "2025-12-20T11:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/20/2025122010365013463_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04832",
+        "summary": "블라디미르 푸틴 러시아 대통령이 19일(현지시간) 우크라이나 전쟁을 끝낼 용의가 있다면서도 전쟁 종식 조건에 대한 양보를 거부하며 종전 책임을 우크라이나와 유럽에 돌렸다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "트럼프 '영주권 장사' 쏠쏠…골드카드 열흘 만에 2조 팔려",
+        "time": "2025-12-20T11:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000280.jpg",
+        "url": "https://news.nate.com/view/20251220n04771",
+        "summary": "<font color=\"gray\"><b>- 개인이 약 14.7억 납부하면 영주권 부여</b></font>\n<font color=\"gray\"><b>- 이달 10일부터 신청 접수, 1300명 이상 신청</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "도쿄 고급 사우나서 화재···30대 부부 탈출 못하고 참변",
+        "time": "2025-12-20T11:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/20/2H1SXKOF79_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04783",
+        "summary": "출입문",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "트럼프표 '가자지구 재건 구상' 초안 공개돼…\"美 20% 충당\"",
+        "time": "2025-12-20T11:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/20/ae_1766198345208_767639_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04790",
+        "summary": "'프로젝트 선라이즈' 계획\nWSJ, 초안 인용해 보도\n20년 이상 장기계획으로 추진",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"한국인 너도나도 가더니 결국\"···로마 트레비 분수에 '이것' 생긴다는데",
+        "time": "2025-12-20T11:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/20/2H1SYRZB8R_1.jpg",
+        "url": "https://news.nate.com/view/20251220n04761",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "개명 하루만에 케네디센터 외벽에 '트럼프' 추가…'위법 논란'도",
+        "time": "2025-12-20T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/20/202139760_700.jpg",
+        "url": "https://news.nate.com/view/20251220n04723",
+        "summary": "미국 수도 워싱턴DC의 대표적 문화예술 공연장인 케네디센터의 명칭을 '트럼프-케네디센터'로 변경하기로 결정한 지 하루 만에 건물 외벽에 '도널드 트럼프'라는 글자가 추가됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "하루만에 케네디센터에 자기이름 붙인 트럼프…민주당 \"위법' 주장",
+        "time": "2025-12-20T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000272.jpg",
+        "url": "https://news.nate.com/view/20251220n04621",
+        "summary": "<font color=\"gray\"><b>- 이사회 결정  24시간 만에 외벽에 '트럼프' 글자 추가</b></font>\n<font color=\"gray\"><b>- 케네디센터 명칭 법률로 정해</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"지금 밥이 넘어가?\" 美재무장관, 식당서 '날벼락'…무슨 일?",
+        "time": "2025-12-20T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/20/ae_1766197385357_329740_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04623",
+        "summary": "반전 단체, 제재 정책 비판하며 공개 조롱\n장관은 반발…“정치 이전에 예의 문제” 지적도",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美법무부, 엡스타인 파일 열자…트럼프 아닌 클린턴이 나왔다",
+        "time": "2025-12-20T11:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/20/ch_1766197625010_950397_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04259",
+        "summary": "여성과 있는 사진 등 여러 장... 클린턴측 “초점 돌리기냐” 반발\n향후 몇 주간에 걸쳐 공개... 트럼프 관련 사진·언급 아직 없어",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美 법무부, '엡스타인 파일' 30만 쪽 공개…클린턴 사진 다수 포함",
+        "time": "2025-12-20T11:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000274.jpg",
+        "url": "https://news.nate.com/view/20251220n04641",
+        "summary": "<font color=\"gray\"><b>- 법무부 \"다른 문서도 검토 중…약 2주 걸려\"</b></font>\n<font color=\"gray\"><b>- 앱스타인 저택서 확보한 사진 중 19장 공개</b></font>\n<font color=\"gray\"><b>- 로이터 \"트럼프 내용 거의 없어…추후 트럼프 등장 가능성\"</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"브라운대 총격범 팔레스타인인\"…친트럼프 진영 '루머 부채질'",
+        "time": "2025-12-20T11:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/20/202139758_700.jpg",
+        "url": "https://news.nate.com/view/20251220n04678",
+        "summary": "미국 브라운대 총격 사건과 매사추세츠공대(MIT) 교수 피살 사건의 용의자가 숨진 채 발견된 가운데, 사건 발생 초기부터 온라인을 통해 확산한 허위 정보가 수사에 혼선을 줬다는 비판이 제기됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미국 법무부, 엡스타인 문건 공개 시작…정재계 추가 연루 증거 나올까",
+        "time": "2025-12-20T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/12/20/e68ee258-773d-49d2-8c76-2953f7015d51.jpg",
+        "url": "https://news.nate.com/view/20251220n04620",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "대만 지하철역서 흉기난동…범인 포함 3명 숨져",
+        "time": "2025-12-20T11:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775238_1766196213.jpg",
+        "url": "https://news.nate.com/view/20251220n04403",
+        "summary": "대만 수도 타이베이에서 20대 남성이 연막탄을 터뜨리고 흉기난동을 벌여 3명이 숨지고 5명이 다쳤습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "전쟁은 안 멈추면서 러시아 인구 감소만 걱정하는 푸틴",
+        "time": "2025-12-20T11:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/20/20251220501914.jpg",
+        "url": "https://news.nate.com/view/20251220n04494",
+        "summary": "블라디미르 푸틴 러시아 대통령이 인구 증가의 중요성을 언급하며 한국을 ‘반면교사’로 지목해 눈길을 끈다. 러시아는 2022년 2월 우크라이나를 침략하며 시작한 전쟁이 4년 가까이 지속되면서 다수의 젊은 남성이 전장에서 숨지거나 다침에 따라 인구 위기 의식이 커진 상태다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"존슨&존슨 베이비파우더 때문에 암걸렸다\" 美여성에 970억원 배상 평결",
+        "time": "2025-12-20T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251220_0000871637_web.jpg",
+        "url": "https://news.nate.com/view/20251220n04453",
+        "summary": "활석 사용 파우더, 석면 노출되면 오염돼 암 일으켜\n10월 1.43조원, 이달 초 592억원 등 최근 손해배상 평결 잇따라",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[포착] 연막탄 던지고 흉기 난동…대만서 20대 남성 무차별 테러로 최소 3명 사망",
+        "time": "2025-12-20T11:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/12/20/SSC_20251220111149_V.jpg",
+        "url": "https://news.nate.com/view/20251220n04493",
+        "summary": "[서울신문 나우뉴스]대만 수도 타이베이에서 한 남성이 연막탄을 터뜨리고 흉기 난동을 벌여 행인들을 살해하는 충격적인 사건이 벌어졌다. 20일(현지시간) 영국 BBC 등 외신은 20대 용의자가 타이베이 중앙역 등지에서 흉기로 행인들을 공격해 최소 3명이 사망하고 9명이 부상을 입었다고 보도했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 시리아 IS에 '피의 보복'…\"20일 오전까지 지속될 듯\"",
+        "time": "2025-12-20T11:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/20/ae_1766196304895_658515_0.jpg",
+        "url": "https://news.nate.com/view/20251220n04407",
+        "summary": "美당국자 \"20일 오전까지 공격 지속\"",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "일본 방위상, 주일 미군 기지 핵잠수함 시찰",
+        "time": "2025-12-20T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/AKR20251220110356YTM_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04399",
+        "summary": "고이즈미 신지로 일본 방위상이 주일미군의 핵 추진 잠수함을 시찰했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미 해군, 신형 호위함 발주…\"외국 조선소 활용도 논의\"",
+        "time": "2025-12-20T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/AKR20251220110211tcT_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04373",
+        "summary": "미국 해군이 트럼프 대통령의 이른바 ‘황금함대’ 구성을 위한 신형 호위함 건조를 미국 최대 방산 조선사인 ‘헌팅턴 잉걸스’에 맡기기로 했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 베네수 지상전 고조…설계자는 '백악관 실세' 이 사람 [디브리핑]",
+        "time": "2025-12-20T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/20/news-p.v1.20251219.89e78f52137347f798419583c64075f5_P1.jpg",
+        "url": "https://news.nate.com/view/20251220n04352",
+        "summary": "트럼프 “베네수엘라와 전쟁 배제 안해” 연일 압박\r\n“설계자는 ‘국경봉쇄 선봉장’ 스티븐 밀러”\r\n당초 멕시코發 이민자 단속 ‘마약과의 전쟁’\r\n베네수엘라 군사작전 전환…“마두로 정권 테러조직 지정”",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "덴마크 \"러 연계 해킹단, 기간시설 등 사이버 공격\"",
+        "time": "2025-12-20T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775451_1766196145.jpg",
+        "url": "https://news.nate.com/view/20251220n04385",
+        "summary": "덴마크가 러시아와 연계된 해킹단에 기간 시설을 공격당했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미군 사망에 서슬퍼런 복수전…대대적인 타격에 피로 물드는 IS [지금이뉴스]",
+        "time": "2025-12-20T10:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512201023491709_t.jpg",
+        "url": "https://news.nate.com/view/20251220n04312",
+        "summary": "미국이 현지 시간 19일 시리아의 이슬람 극단주의 세력 이슬람국가(IS)를 표적으로 대대적인 공습을 감행했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "\"가자지구를 첨단 미래도시로\"…미국, 재건 청사진 공개",
+        "time": "2025-12-20T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/AKR20251220105718bJF_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n04296",
+        "summary": "미국 트럼프 행정부가 전쟁으로 폐허가 된 팔레스타인 가자지구를 첨단 기술의 ‘미래 도시’로 만들겠다는 구상을 외국 정부와 투자자들에게 제시했다고 미 월스트리트저널이 보도했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "개명 하루만에 케네디센터 외벽에 '트럼프' 추가…위법 논란도",
+        "time": "2025-12-20T10:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/PAP20251220044201009_P2.jpg",
+        "url": "https://news.nate.com/view/20251220n04141",
+        "summary": "민주 \"의회 승인 없는 개명 위법\"…법학 교수 \"이사회가 의무 위반\"",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미 법무부 '엡스타인문건' 공개…트럼프 포함 정재계 연루 증거 나오나?",
+        "time": "2025-12-20T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/12/20/news-p.v1.20251220.3fddb8e3359743d0b312f1d20589d1e9_P1.png",
+        "url": "https://news.nate.com/view/20251220n04207",
+        "summary": "미국 법무부가 미성년자 성착취범 고 제프리 엡스타인 수사 관련 문서를 19일(현지시간) 공개했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미국, 시리아 IS 표적으로 대대적 공습…\"전쟁 아닌 복수 차원\"",
+        "time": "2025-12-20T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/12/20/100da4b6-02ee-4bb9-840b-9bc99388bd3e.jpg",
+        "url": "https://news.nate.com/view/20251220n04093",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 암살된 청년 지도자에 들끓는 민심…수도 장악한 시위대 '아수라장'",
+        "time": "2025-12-20T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512200730147799_t.jpg",
+        "url": "https://news.nate.com/view/20251220n04125",
+        "summary": "방글라데시 수도 다카 거리가 거대한 함성과 불길로 뒤덮였습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "우크라이나, 지중해서 러시아 유조선 드론 공습",
+        "time": "2025-12-20T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/20/775435_1766195441.jpg",
+        "url": "https://news.nate.com/view/20251220n04199",
+        "summary": "우크라이나가 지중해에서 처음으로 러시아 유조선을 항공 드론으로 공습했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미군, 시리아 IS에 대규모 보복 공습…\"전쟁 아닌 복수다\"",
+        "time": "2025-12-20T10:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/20/rcv.YNA.20251220.PAP20251220073501009_P1.jpg",
+        "url": "https://news.nate.com/view/20251220n04040",
+        "summary": "미군이 시리아 내 이슬람국가(IS)를 겨냥해 대규모 보복 공습을 단행했다. 지난주 동료를 잃은 미군은 전투기와 로켓포를 앞세워 IS의 숨통을 조였다. 피트 헤그세스 미 국방장관은 이번 작전을 두고 “이것은 전쟁의 시작이 아니라, 복수의 선언(declaration of vengeance)”이라고 규정했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "글로벌 제약사 9곳 미국에 약값 인하…트럼프 '관세 압박'에 백기",
+        "time": "2025-12-20T10:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512201029471844_t.jpg",
+        "url": "https://news.nate.com/view/20251220n04072",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美, 시리아 IS에 대규모 보복 공습…\"전쟁 아닌 복수\"",
+        "time": "2025-12-20T10:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7649297_high.jpg",
+        "url": "https://news.nate.com/view/20251220n04020",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "대통령이 잇딴 허위 정보 게시 논란…콜롬비아 페트로 \"가짜뉴스의 왕\" 비판 받아",
+        "time": "2025-12-20T10:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/12/20/news-p.v1.20251220.9cb3bc0e12fd47e4a1b072bfd4479916_P1.jpg",
+        "url": "https://news.nate.com/view/20251220n04016",
+        "summary": "구스타보 페트로 콜롬비아 대통령이 공식 SNS를 통해 사실과 다른 정보와 조작된 이미지를 반복적으로 공유하면서, 국가 최고 지도자의 발언 신뢰성과 정보 검증 책임을 둘러싼 논란이 커지고 있다. 단순한 실수가 아니라 패턴에 가깝다는 지적까지 나오면서, 허위 정보가 정치적 양극화와 외교·사회적 갈등을 증폭시킬 수 있다는 우려도 제기된다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "가자 지구를 첨단 미래도시로…미국, 재건 프로젝트 청사진 공개",
+        "time": "2025-12-20T10:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n03959",
+        "summary": "미국 트럼프 행정부가 전쟁으로 폐허가 된 팔레스타인 가자지구를 '첨단 기술의 미래 도시'로 만들겠다는 구상을 외국 정부와 투자자들에게 제시했다고 미 월스트리트저널이 보도했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미군 피격 사망에 보복 나선 미국…시리아 IS 거점 대규모 공습",
+        "time": "2025-12-20T10:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000252.jpg",
+        "url": "https://news.nate.com/view/20251220n03912",
+        "summary": "<font color=\"gray\"><b>- 트럼프 \"미군 살해 테러범에게 매우 강력한 보복\"</b></font>\n<font color=\"gray\"><b>- 美 NYT \"20일 오전까지 시리아에 대한 공격 이뤄질 것\"</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "日방위상, 주일 미군기지 방문해 핵추진 잠수함 시찰",
+        "time": "2025-12-20T10:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/AKR20251220022300073_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n03892",
+        "summary": "(도쿄=연합뉴스) 경수현 특파원 = 고이즈미 신지로 일본 방위상이 주일미군의 핵 추진 잠수함을 시찰했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "크리스마스 선물 받고 기뻐하는 룰라 대통령",
+        "time": "2025-12-20T10:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251220_0000871048_web.jpg",
+        "url": "https://news.nate.com/view/20251220n03859",
+        "summary": "[상파울루=AP/뉴시스] 루이스 이나시우 룰라 다시우바 브라질 대통령이 19일(현지 시간) 상파울루에서 열린 재활용 쓰레기 수거 노동자 가족들과 함께한 크리스마스 행사에서 받은 선물을 들어 올리고 있다. 2025.12.20.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미, 시리아 IS 겨냥 대대적 공습…미군 피격 사망 보복 시작",
+        "time": "2025-12-20T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/12/20/20251220500214.jpg",
+        "url": "https://news.nate.com/view/20251220n03673",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라와의 전쟁 가능성 배제 않는다\"",
+        "time": "2025-12-20T10:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251220_0000871561_web.jpg",
+        "url": "https://news.nate.com/view/20251220n03716",
+        "summary": "마두로 축출 여부 밝히지 않은 채 \"마두로, 내가 원하는 것 알 것\"",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美법무부, 엡스타인 파일 추가 공개…트럼프 대신 클린턴 사진",
+        "time": "2025-12-20T10:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/12/20/cz_1766193364722_141201_0.jpg",
+        "url": "https://news.nate.com/view/20251220n03802",
+        "summary": "미국 법무부가 미성년자 성착취범인 고(故) 제프리 엡스타인 수사 관련 문서를 19일(현지시각) 추가 공개했다. 도널드 트럼프 미국 대통령 관련 사진이나 자료 포함 여부는 확인되지 않은 가운데 빌 클린턴 전 대통령 사진이 여러 장 나왔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라와의 전쟁 가능성 배제안해\"",
+        "time": "2025-12-20T10:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/20/NISI20251220_0000871561_web.jpg",
+        "url": "https://news.nate.com/view/20251220n03712",
+        "summary": "[앤드루스공군기지(미 메릴랜드주)=AP/뉴시스]도널드 트럼프 미 대통령이 19일(현지시각) 메릴랜드주 앤드루스 공군기지에서 대통령 전용기 에어포스원에 탑승하면서 손을 흔들고 있다. 그는 이날 베네수엘라와의 전쟁 가능성을 배제하지 않는다며 그 가능성을 열어두었다. 2025.12.20.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미 모질라 재단 \"아동용 스마트 장난감, 보안 취약\"…한국 시판제품 포함",
+        "time": "2025-12-20T10:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251220n03835",
+        "summary": "아동용으로 인기를 끄는 인공지능(AI) 장난감이나 스마트 교구가 보안에 취약하다는 분석 결과가 나왔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "강경화 주미대사, 신임장 제정식…트럼프 \"李대통령과 최고의 협력\"",
+        "time": "2025-12-20T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7659855_high.jpg",
+        "url": "https://news.nate.com/view/20251220n03655",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "트럼프 압박에…글로벌제약사 9곳 '미국 약값 인하' 동참",
+        "time": "2025-12-20T09:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/20/PS25122000235.jpg",
+        "url": "https://news.nate.com/view/20251220n03572",
+        "summary": "[이데일리 박정수 기자] 도널드 트럼프 미국 행정부의 압박에 글로벌 제약사 9곳이 미국에 판매하는 주요 의약품 가격을 인하하기로 했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "美법무부, 30만 페이지 '엡스타인 파일' 공개…클린턴에 초점",
+        "time": "2025-12-20T09:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/20/7659857_high.jpg",
+        "url": "https://news.nate.com/view/20251220n03550",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "위성락 안보실장, 유엔 사무총장 면담…한반도 평화 논의",
+        "time": "2025-12-20T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/PYH2025122000020007200_P2.jpg",
+        "url": "https://news.nate.com/view/20251220n00197",
+        "summary": "사흘간의 방미 일정 종료",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "빌 게이츠, 트럼프 측근, 우디 앨런도…엡스타인 사진 수십장 추가 공개 [지금이뉴스]",
+        "time": "2025-12-20T09:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/20/202512200854446807_t.jpg",
+        "url": "https://news.nate.com/view/20251220n03570",
+        "summary": "스스로 목숨을 끊은 억만장자 성범죄자 제프리 엡스타인의 방대한 인맥을 보여주는 사진들이 추가로 공개됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "얼굴 안 가렸다는 이유로…아내·두 딸 살해한 인도 남편",
+        "time": "2025-12-20T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/12/20/SSC_20251220095310_V.jpg",
+        "url": "https://news.nate.com/view/20251220n03534",
+        "summary": "[서울신문]인도의 한 남성이 아내가 얼굴을 가리는 이슬람 전통 복장인 ‘부르카’를 착용하지 않고 친정에 다녀왔다는 이유로 아내와 두 딸을 살해한 사건이 발생했다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "미국, 시리아 IS에 대규모 공습…\"미국인 공격에 보복\"",
+        "time": "2025-12-20T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/20/2025122009273380297_1.jpg",
+        "url": "https://news.nate.com/view/20251220n03525",
+        "summary": "미군이 시리아 내 극단주의 무장단체 이슬람국가(IS)를 상대로 대규모 공습에 나섰다. 지난주 시리아에서 IS 공격으로 미국인 3명이 사망한 사건에 대한 보복 조치다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한빛-나노 발사 또 연기…이노스페이스 \"기술 점검\"",
+        "time": "2025-12-20T09:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/20/news-p.v1.20251220.fee0c5d9b4214a4bbc6e95a2b306ffba_P1.png",
+        "url": "https://news.nate.com/view/20251220n03158",
+        "summary": "2단 연료 충전 밸브 기능 확인 후 재시도 예정",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "한빛-나노 발사 또 연기…이노스페이스 \"기술 점검\"",
+        "time": "2025-12-20T09:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/20/20251220501411.jpg",
+        "url": "https://news.nate.com/view/20251220n02981",
+        "summary": "우주발사체 기업 이노스페이스는 20일 발사 예정이던 첫 상업발사체 '한빛-나노'에 기술적 점검 사항이 생겨 발사 시도를 중단한다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "'한빛-나노' 발사 1시간 앞두고 또 연기…이노스페이스 \"기술 점검\"",
+        "time": "2025-12-20T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/20/news_1766192381_1588636_m_1.jpg",
+        "url": "https://news.nate.com/view/20251220n03631",
+        "summary": "2단 연료 충전 밸브 기능 확인 후 재시도 예정",
+        "source": "nate",
+        "date": "2025년 12월 20일 토요일"
+      },
+      {
+        "title": "이노스페이스 우주발사체 '한빛-나노' 기립 완료…추진제 충전",
+        "time": "2025-12-20T08:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/20/AKR20251220015900017_01_i.jpg",
+        "url": "https://news.nate.com/view/20251220n02487",
+        "summary": "(끝)",
         "source": "nate",
         "date": "2025년 12월 20일 토요일"
       }
