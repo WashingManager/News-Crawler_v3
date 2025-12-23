@@ -1233,6 +1233,22 @@
         "url": "https://www.fnnews.com/news/202512232249002478",
         "source": "Fn",
         "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "미 USTR \"中, 반도체 불공정 무역\"…관세인상은 2027년 중반까지 유예",
+        "time": "2025-12-24T03:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512240310120305",
+        "source": "Fn",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "'세계의 공장' 中, 캐비아·푸아그라 등 고급 식자재 시장도 장악",
+        "time": "2025-12-24T02:51:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512240205181207",
+        "source": "Fn",
+        "date": "2025년 12월 23일 화요일"
       }
     ]
   },
@@ -4205,6 +4221,24 @@
         "img": "https://img8.yna.co.kr/etc/inner/KR/2025/12/24/AKR20251224002500081_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20251224002500081",
         "summary": "\"러시아 점령군, 병력·장비서 상당한 우위\"",
+        "source": "yna",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "이스라엘 국방 \"가자 완전 철군은 없어…전초기지 세울 것\"",
+        "time": "2025-12-24T03:18:00",
+        "img": "https://img3.yna.co.kr/photo/reuters/2025/12/23/PRU20251223161401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224002900080",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "美 조지아서 역주행 승용차 덮쳐 한인 등 2명 사망",
+        "time": "2025-12-24T03:09:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/24/AKR20251224003000009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224003000009",
+        "summary": "신혼 기간 중 사고당해…동승한 신혼 아내는 중태",
         "source": "yna",
         "date": "2025년 12월 23일 화요일"
       }
@@ -10319,6 +10353,78 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/yonhap/20251224022100175eamp.jpg",
         "url": "https://v.daum.net/v/20251224022100932",
         "summary": "\"러시아 점령군, 병력·장비서 상당한 우위\"",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "미 USTR \"中, 반도체 불공정 무역\"…관세인상은 2027년 중반까지 유예",
+        "time": "2025-12-23T18:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/fnnewsi/20251224031437614shwu.jpg",
+        "url": "https://v.daum.net/v/20251224031437009",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "'세계의 공장' 中, 캐비아·푸아그라 등 고급 식자재 시장도 장악",
+        "time": "2025-12-23T18:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/fnnewsi/20251224025243787hsgo.jpg",
+        "url": "https://v.daum.net/v/20251224025242957",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "이스라엘 국방 \"가자 완전 철군은 없어…전초기지 세울 것\"",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/yonhap/20251224032104644zhot.jpg",
+        "url": "https://v.daum.net/v/20251224032104017",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "美 조지아서 역주행 승용차 덮쳐 한인 등 2명 사망",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/yonhap/20251224031102980lqyj.jpg",
+        "url": "https://v.daum.net/v/20251224031102001",
+        "summary": "신혼 기간 중 사고당해…동승한 신혼 아내는 중태",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "미, 외국산 드론·부품 수입 금지...중국 반발",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/YTN/20251224030909516teur.jpg",
+        "url": "https://v.daum.net/v/20251224030908993",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "美, 中 반도체 추가 관세 부과 유예…무역전쟁 휴전 기조 유지",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/akn/20251224024924213lguc.jpg",
+        "url": "https://v.daum.net/v/20251224024922954",
+        "summary": "USTR, 무역법 301조 조사 결과 발표'부당 관행' 지적에도 즉각 인상 보류추가 관세율 0% 설정·2027년 인상 예고",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "독일, 시리아 범죄자 본국 송환…2011년 내전 이후 최초",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/newsis/20251224032551529uygg.jpg",
+        "url": "https://v.daum.net/v/20251224032551022",
+        "summary": "같은 날 아프간 범죄자도 본국 송환",
+        "source": "daum",
+        "date": "2025년 12월 23일 화요일"
+      },
+      {
+        "title": "\"트럼프 행정부, 스페이스X에 동물보호구역 토지 양도 검토\"",
+        "time": "2025-12-23T18:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/24/yonhap/20251224031303144rlkm.jpg",
+        "url": "https://v.daum.net/v/20251224031302005",
+        "summary": "NYT 보도…텍사스 로켓발사장 확대에 혜택, 환경단체는 반발",
         "source": "daum",
         "date": "2025년 12월 23일 화요일"
       }
