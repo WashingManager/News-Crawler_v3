@@ -3,6 +3,775 @@
     "date": "2025년 12월 25일 목요일",
     "articles": [
       {
+        "title": "트럼프에 보낸 '北핵잠' 성탄 메시지..美본토 공격용 핵잠 공개 '파장'",
+        "time": "2025-12-25T10:48:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251038018602",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "李대통령 \"국민 일상에 온기·희망 닿도록 최선\"..성탄절 메시지",
+        "time": "2025-12-25T10:14:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251007395465",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "경기도, ‘누구나 돌봄’ 우수 시·군 10곳 선정",
+        "time": "2025-12-25T09:55:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512250937073337",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "“5억 입금하라” 쿠팡 폭파 협박에 6시간여 수색했지만…“특이사항 없어”",
+        "time": "2025-12-25T09:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512250919599833",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美국방부 \"중국, 미국 안보 위협할 군사력 보유…본토 갈수록 취약\"",
+        "time": "2025-12-25T11:01:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251046582557",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'사진 속 동작 그대로' 3D 캐릭터 움직이는 AI 개발",
+        "time": "2025-12-25T09:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512241801404132",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "도심에 일·삶·여가 집적…국토부, 도심융합특구 10년 청사진 제시",
+        "time": "2025-12-25T11:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512241741046250",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "세라젬, 'AI 피팅 콘테스트' 1등 수상작 매장 전시",
+        "time": "2025-12-25T10:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251040337560",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 25일 목요일",
+    "articles": [
+      {
+        "title": "北, 韓핵잠 비난하며 건조 중인 핵잠 과시…러와 협력 가능성",
+        "time": "2025-12-25T10:08:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/12/25/PYH2025122500310004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225015100504",
+        "summary": "소형 원자로 러에서 통째 반입했을 수도…90% 고농축 우라늄 연료 사용할 듯",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "민주당, 불법당원 징계·하위20% 평가…광주 구청장 선거 '격랑'",
+        "time": "2025-12-25T09:30:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2018/06/06/09/C0A8CA3C00000163D40607230003BC23_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20251224041400054",
+        "summary": "5개 구청장 중 일부 물갈이론도 나와",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "李대통령 성탄 메시지…\"국민 일상에 온기·희망 닿도록 최선\"",
+        "time": "2025-12-25T08:59:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/12/24/PYH2025122415820001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225018500001",
+        "summary": "\"낮은 곳서 태어나 고통받는 이들과 함께한 예수의 삶 기억해야\"",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "3D 캐릭터, 형태 왜곡 없이 사진 속 자세로 바꿔준다",
+        "time": "2025-12-25T09:13:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2025/12/24/AKR20251224105700057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224105700057",
+        "summary": "UNIST, 새 AI 기술 개발…\"3D 콘텐츠 제작 보다 쉽게\"",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "경찰, '마약혐의' 황하나 영장신청 예정…도피 중 범행도 수사",
+        "time": "2025-12-25T10:13:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/12/25/AKR20251225023200061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225023200061",
+        "summary": "태국 거쳐 캄보디아로 밀입국해 생활…이르면 26일 영장실질심사 예정",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "남원 등 전북 6곳 한파주의보",
+        "time": "2025-12-25T10:08:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "세종에 한파주의보",
+        "time": "2025-12-25T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "순천 등 전남 7곳 한파주의보",
+        "time": "2025-12-25T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "오세훈 \"서로 이해하고 보듬는 마음 필요\"…사회통합 강조",
+        "time": "2025-12-25T10:07:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/12/24/PYH2025122411990001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225021300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "울산서부에 한파주의보",
+        "time": "2025-12-25T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022400527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "인천 강화에 한파주의보…인천 등 4곳 강풍주의보 유지",
+        "time": "2025-12-25T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "천안 등 충남 4곳 한파주의보",
+        "time": "2025-12-25T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대구에 한파주의보",
+        "time": "2025-12-25T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "부산중부·부산동부에 한파주의보",
+        "time": "2025-12-25T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225021900527",
+        "summary": "서부 등 3곳 강풍주의보 유지",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "파주 등 경기 4곳 한파경보…수원 등 20곳 한파주의보",
+        "time": "2025-12-25T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225021800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "경북북동산지에 한파경보…포항 등 20곳 한파주의보",
+        "time": "2025-12-25T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225021700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "양산 등 경남 8곳 한파주의보",
+        "time": "2025-12-25T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225021600527",
+        "summary": "거제 앞바다 등 4곳 풍랑주의보 유지",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "철원 등 강원 4곳 한파경보…원주 등 17곳 한파주의보",
+        "time": "2025-12-25T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225021500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충북 제천에 한파경보…청주 등 10곳 한파주의보",
+        "time": "2025-12-25T10:06:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251225022300527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "로비 단서 혹은 과대포장?…3천쪽 통일교 내부문건 살펴보니",
+        "time": "2025-12-25T09:36:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/12/12/PYH2025121205720006000_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225018700004",
+        "summary": "6년간 한학자에 '특별보고'…전재수·임종성·김규환 등 언급",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "울주군 영유아 가정·예비부모에 '부모교육'…1천710명 참여",
+        "time": "2025-12-25T09:10:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2024/11/19/23/PCM20241119000023990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224107000057",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충북 주민등록인구 159만3천151명…9개월 연속 증가세",
+        "time": "2025-12-25T09:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/24/AKR20251224136600064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224136600064",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "서울 전역에 한파주의보",
+        "time": "2025-12-25T10:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/12/12/PYH2025121201620001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225022500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "日외무성, 내년 재외 공관에 스타링크 도입 추진",
+        "time": "2025-12-25T09:46:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/12/25/AKR20251225019000073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225019000073",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'무력 충돌' 태국·캄보디아, 첫날 휴전 회담 35분 만에 종료",
+        "time": "2025-12-25T09:36:00",
+        "img": "https://img4.yna.co.kr/photo/reuters/2025/12/19/PRU20251219253901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225020100104",
+        "summary": "의제 설정에 초점…내일까지 실무급 회담·27일 국방장관 회담",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美국방부 \"中, 美 안보 위협할 군사력 보유…본토 갈수록 취약\"",
+        "time": "2025-12-25T08:43:00",
+        "img": "https://img8.yna.co.kr/photo/ap/2025/11/07/PAP20251107254301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225016900071",
+        "summary": "中군사력 보고서…\"핵탄두 생산속도 줄어도 2030년까지 1천개 이상\"",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "바다와 함께 살아왔다…KBS부산, 휴먼 다큐 '아지매' 제작",
+        "time": "2025-12-25T09:10:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/12/24/AKR20251224124900051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251224124900051",
+        "summary": "우리 시대 어머니 가슴 뭉클한 이야기…30일 KBS 1TV 방송",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 25일 목요일",
+    "articles": [
+      {
+        "title": "김정은, 한국 핵잠수함 개발에 강력 대응 예고",
+        "time": "2025-12-25T09:40:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3466517_3608249_4043_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3466517",
+        "source": "Gukje",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "한국경찰유족회, 성탄절 이브 사랑 나눔…아이들에게 희망 선물",
+        "time": "2025-12-25T10:03:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3466523_3608253_5014_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3466523",
+        "source": "Gukje",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "동해해경, 안전사고 위험예보 '주의보' 발령",
+        "time": "2025-12-25T09:08:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3466487_3608212_850_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3466487",
+        "source": "Gukje",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "서울 전역·경기 등에 한파주의보...영하 12도 강추위",
+        "time": "2025-12-25T10:14:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3466540_3608270_1417_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3466540",
+        "source": "Gukje",
+        "date": "2025년 12월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 25일 목요일",
+    "articles": [
+      {
+        "title": "북, 8700t급 핵잠수함 공개·신형 장거리 대공미사일 시험",
+        "time": "2025-12-25T10:23:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293986&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "블록버스터 의약품 특허절벽 임박… 제네릭·바이오시밀러 기회",
+        "time": "2025-12-25T09:51:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293978&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "함양군, 체류형 관광 본격화",
+        "time": "2025-12-25T01:31:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293968&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "경남도, 한파 대응체계 본격 가동",
+        "time": "2025-12-25T01:26:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293967&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "미국의 무역 파워게임 ‘턴베리 체제’ 속 한국 ‘외교’ 중요해져",
+        "time": "2025-12-23T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293889",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 25일 목요일",
+    "articles": [
+      {
+        "title": "운동화 고리에 걸린 '호주 사망 1위' 독사…'침착함'이 목숨 구했다",
+        "time": "2025-12-25T02:24:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsy/20251225104344728yzku.jpg",
+        "url": "https://v.daum.net/v/20251225104344414",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "신재생에너지 공급… 부산항 온실가스 감축 방안 논의",
+        "time": "2025-12-25T02:24:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/akn/20251225111833238mdre.jpg",
+        "url": "https://v.daum.net/v/20251225111832046",
+        "summary": "부산항만공사, 부산항 터미널운영사 대상'지속가능한 항만 탈탄소화 설명회' 개최",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "북창동 지구단위계획 변경…관광숙박시설 지으면 용적률 완화",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225111817134mmdj.jpg",
+        "url": "https://v.daum.net/v/20251225111816042",
+        "summary": "서울시 도시·건축공동위원회 결정…\"관광·상업 기능 활성화\"성내동 역세권 활성화 사업·장승배기역세권 장기전세주택 건립",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "강승규 \"한동훈 분열적 행동, 짚을 건 짚는 게 통합 지름길\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/NEWS1/20251225111927134duyb.jpg",
+        "url": "https://v.daum.net/v/20251225111925063",
+        "summary": "\"당심 70%가 민심 반영 방법…당원 역할 확대는 당연\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "국정원 “노동신문 등 북한 사이트 접속 전향적 검토”",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/hani/20251225111634590uyts.jpg",
+        "url": "https://v.daum.net/v/20251225111633936",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"간편식에서 미식으로\" 프리미엄 K라면, 패러다임 바꾸나",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsis/20251225110200513rsnc.jpg",
+        "url": "https://v.daum.net/v/20251225110200700",
+        "summary": "농심 신라면 골드, 팔도 상남자라면, 삼양1963 등 '눈길'로컬 협업, 고급 재료 등 사용해 차별화 시도저렴한 한 끼서 브랜드 스토리 담은 상품으로",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "가까이 다가가고 직접 듣고…이 대통령의 '국민 소통법'",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsy/20251225091010775foae.jpg",
+        "url": "https://v.daum.net/v/20251225091010931",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "개인정보위 \"신한카드 개인정보 유출 정황 조사 중\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsy/20251225105440485pphq.jpg",
+        "url": "https://v.daum.net/v/20251225105440564",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "AI에게 크리스마스 선물 골라 달라 했더니… 제미나이는 추천, 챗GPT는 구매 연결에 강점",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/weeklydonga/20251225092234784xdqb.jpg",
+        "url": "https://v.daum.net/v/20251225090416865",
+        "summary": "연령대에 맞는 상품 추천 돋보인 제미나이… 챗GPT는 사진 첨부해 편의성 높여",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"쿠팡 규제는 미 기업 차별\"…우크라 종전안 최신판 공개",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsy/20251225102447756ztcy.jpg",
+        "url": "https://v.daum.net/v/20251225102447063",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "EU, 신약개발 밀어주며 中 추격…\"K-바이오도 맞춤형 전략 필요\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/moneytoday/20251225110105554gutr.jpg",
+        "url": "https://v.daum.net/v/20251225110104667",
+        "summary": "EU, 임상 승인 기간 대폭 단축·특허 인센티브 강화·100억유로 투자 등 다각도로 美·中 추격 나서 中 '임상 속도전'에 유럽도 임상 규정 개편…\"한국도 빠른 임상개발 지원해 기술이전 도와야\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "미·EU, '빅테크 기업 규제' 놓고 또 충돌...\"입국금지\" vs. \"단호히 대응\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/YTN/20251225091617650xqoj.jpg",
+        "url": "https://v.daum.net/v/20251225091616006",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "전북도, 제3금융중심지 재도전…연내 신청 ‘임박’",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/551733-DUdnLPA/20251225105006759dolg.jpg",
+        "url": "https://v.daum.net/v/20251225105005486",
+        "summary": "전북 출신 금융 수장 포진 속 재도전…국민연금 앞세워 금융중심지 승부수",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "北 신형 대공 미사일 발사…김정은, 핵잠 건조 지도",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsy/20251225102242990edhf.jpg",
+        "url": "https://v.daum.net/v/20251225102242037",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "日 대기업 보너스 ‘930만 원’ 시대… 1981년 이후 역대 최고",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/chosunbiz/20251225110351082jgem.jpg",
+        "url": "https://v.daum.net/v/20251225110349743",
+        "summary": "대기업 겨울 보너스 전년 대비 8% 증가  사상 첫 100만 엔대",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "李대통령 지지율 59%…민주 41%·국힘 20%[NBS]",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225111543424fbon.jpg",
+        "url": "https://v.daum.net/v/20251225111352891",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "한국 언론 기사의 45~55%는 제목에 따옴표가 있다! [AI 비교 리뷰]",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/sisain/20251225090553171zupd.png",
+        "url": "https://v.daum.net/v/20251225090552887",
+        "summary": "이제는 웹 스크래핑도 AI가 해줄 수 있지 않을까? 그래서 시켜봤다. 인공지능 기술을 이용해, 한국 언론의 기사 제목이 얼마나 선정적(?)인지 확인해보자.",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "리비아 군 참모총장 항공기 추락…승객 등 8명 전원 사망",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/kbs/20251225095307544kykl.jpg",
+        "url": "https://v.daum.net/v/20251225095305526",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "김병기 둘러싼 폭로가 '사적 복수'? \"보좌진 실체 공개한다\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/ked/20251225111303079tpcu.jpg",
+        "url": "https://v.daum.net/v/20251225111301875",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "우크라 “영토 문제 합의 못해”…러 “협상 결과 토대로 입장 정할 것”",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/kbs/20251225095310109svoh.jpg",
+        "url": "https://v.daum.net/v/20251225095308528",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "북, 8700톤급 핵잠 건조 전격 공개...김정은 \"한국 핵잠, 반드시 대응할 위협\"",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/JTBC/20251225110641523rnvk.jpg",
+        "url": "https://v.daum.net/v/20251225110640780",
+        "summary": "북, 3월 핵추진 잠수함 건조 공개 후  전체 동체 사진 공개는 이번이 처음  \"핵으로 안전보장 결심\" 비핵화 거부",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "北, 韓핵잠 비난하며 건조 중인 핵잠 과시…러와 협력 가능성",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225100946056dzmz.jpg",
+        "url": "https://v.daum.net/v/20251225100945843",
+        "summary": "소형 원자로 러에서 통째 반입했을 수도…90% 고농축 우라늄 연료 사용할 듯韓계획 핵잠과 달리 핵무기 장착…\"가차없이 보복\" '2차 타격능력' 과시",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "‘대전·충남 통합’ 논의 속도전…내년 7월 목표",
+        "time": "2025-12-25T02:23:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/dt/20251225111105437tfwa.jpg",
+        "url": "https://v.daum.net/v/20251225111103842",
+        "summary": "‘대전·충남 통합’ 범정부 지원 논의…“전폭적 특혜제공 협조”與 “서울·제주 수준 자치·재정분권”李대통령, 통합 추진 제안에 내년 7월 목표 속도감행안부, TF 가동해 적극 지원",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美 역주행 사고로 4중 충돌…한인 남편 이어 임신 아내 사망",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/kukminilbo/20251225111407490ijfn.jpg",
+        "url": "https://v.daum.net/v/20251225111405895",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美국방부 \"中, 美 안보 위협할 군사력 보유…본토 갈수록 취약\"(종합)",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225110905706rikj.jpg",
+        "url": "https://v.daum.net/v/20251225110905822",
+        "summary": "中군사력 보고서…\"핵탄두 생산속도 줄어도 2030년까지 1천개 이상\"작년 보고서의 절반 분량에 협력 강조…\"美中 관계 이전보다 탄탄\"中매체 \"中위협 부각하면서도 미중관계 강조 '모순적'…서태평양서 美우위 아냐\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프 지지 업은 아스푸라, 온두라스 대선 박빙 승리... 부정·개입 논란 확산",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/ohmynews/20251225111751590mzon.jpg",
+        "url": "https://v.daum.net/v/20251225111750026",
+        "summary": "개표 지연·전산 조작 의혹 속 0.74%P 차 승리…미국 개입 논란에 정치 불안 고조",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "“그는 유령같은 존재였다”…이웃들도 기억 못하는 美 브라운대 총격범..대학원 중퇴후 고립된 삶",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/munhwa/20251225092506268nore.jpg",
+        "url": "https://v.daum.net/v/20251225092504128",
+        "summary": "NYT “가족·친구와 연락끊고 지내”…前프로파일러 “무시 못견디는 성격일 것”",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美국방부 보고서 “中, 美 안보 위협할 군사력 보유, 군 대 군 소통 확대할 것”",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/ned/20251225090705844bhqz.jpg",
+        "url": "https://v.daum.net/v/20251225090705904",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"AI 추론 기술 확보\"…엔비디아, 비독점 계약으로 그록 인재·기술 흡수",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/NEWS1/20251225111324521gmuk.jpg",
+        "url": "https://v.daum.net/v/20251225111323887",
+        "summary": "구글 AI 칩 프로그램 시작한 조나단 로스 그록 CEO 등 영입\"현금 200억달러(약 29조원) 인수 합의\"…엔비디아 사상 최대 규모",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[트럼프 스톡커] 베네수 석유 노리는 美공격, 유가·金·銀 다 뛴다",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/seouleconomy/20251225112125413yimp.jpg",
+        "url": "https://v.daum.net/v/20251225112123078",
+        "summary": "■윤경환 특파원의 트럼프 스톡커(Stocker) <102>트럼프, 마두로 정권에 \"테러단체\"···유조선도 '봉쇄령'이지스함 등 전면 배치···선박 공격 '전쟁 범죄' 논란도명분은 '펜타닐 단속'이나, '원유 자산 회수' 목적 더 커코로나 이후 최저였던 국제 유가 뛰고, 금·은값 최고치'베네수 석유 VIP' 中과 러는 美 비판···안전자산 요동",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'무력 충돌' 태국·캄보디아, 첫 휴전회담 35분 만에 끝",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/nocut/20251225112103311jmfn.jpg",
+        "url": "https://v.daum.net/v/20251225112101076",
+        "summary": "태국·캄보디아, 무력충돌로 80여명 숨져오는 27일 양국 국방장관 회담",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "아누틴 태국 총리, 내년 2월 총선 앞두고 당 총리 후보로 지명",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225110352601gmmo.jpg",
+        "url": "https://v.daum.net/v/20251225110102664",
+        "summary": "아누틴 \"재선 성공하면 기존 정부 핵심 인사들 직위 유지할 것\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프 1기 인사·공화당 의원 \"韓 쿠팡때리기, 美기업 차별\" 주장(종합)",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/NEWS1/20251225111723108xxhu.jpg",
+        "url": "https://v.daum.net/v/20251225111722008",
+        "summary": "대럴 이사 의원 \"한국이 미국 기업 조직적으로 괴롭혀\"개인정보 유출 책임 쏙 빼고 부당 규제 주장",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "“한국 국회 쿠팡 압박하지 말아라”...미국 정계 거물의 옹호, 로비의 힘?",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/mk/20251225111502085mupi.png",
+        "url": "https://v.daum.net/v/20251225110304733",
+        "summary": "트럼프 1기 시절 국가안보보좌관쿠팡 향한 국내 정치권 압박 비판정작 정보유출 책임은 거론 안해",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프 \"면허 취소\"·백악관 \"해고\" 압박...미 방송사들 '크리스마스의 악몽'",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/YTN/20251225102807740lodx.jpg",
+        "url": "https://v.daum.net/v/20251225102806112",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美 국방부 “中 군사력 현대화, 미국 본토 위협 수준 도달”",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/chosunbiz/20251225102807129qxdg.jpg",
+        "url": "https://v.daum.net/v/20251225102805110",
+        "summary": "2025 中 군사력 보고서 발간  “中, 2027년 대만 무력 통합 역량 확보 목표”",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "백악관, 군에 \"베네수엘라 원유 격리하라\" 총력 지시",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/yonhap/20251225111244215swrj.jpg",
+        "url": "https://v.daum.net/v/20251225111244873",
+        "summary": "트럼프 '봉쇄' 용어 사용, 백악관은 비군사적 '격리'로 표현실제론 인력 부족…제재 대상 선박 마주쳤지만 나포 실패",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "성탄 앞두고 대형 폭풍우 강타…美 LA 일대에 '비상사태' 선포",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/NEWS1/20251225103644580mlpv.jpg",
+        "url": "https://v.daum.net/v/20251225103642242",
+        "summary": "하와이발 '파인애플 익스프레스'…주지사 비상사태 선포미 국립기상청 \"생명과 재산 큰 위험에 처해\"…주민들에 강력 경고",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프에 보낸 '北핵잠' 성탄 메시지..美본토 공격용 핵잠 공개 '파장'",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/fnnewsi/20251225104926014fikh.jpg",
+        "url": "https://v.daum.net/v/20251225104925472",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美백악관, 군에 \"베네수엘라 원유 격리하라\" 총력 지시",
+        "time": "2025-12-25T02:22:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251225111801032",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 25일 목요일",
+    "articles": [
+      {
         "title": "달걀 한 판 7천원 돌파…조류 AI에 공급 불안 커져",
         "time": "2025-12-25T09:44:00",
         "img": "",
