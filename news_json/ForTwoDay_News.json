@@ -177,6 +177,22 @@
         "url": "https://www.fnnews.com/news/202512251513486305",
         "source": "Fn",
         "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]쿠팡 \"유출자, 정보 3000개 저장...외부전송 없다고 진술\"",
+        "time": "2025-12-25T15:56:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251556146225",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "상설특검 \"쿠팡 무혐의 처분…수사검사 압박해 수사방해\"",
+        "time": "2025-12-25T16:05:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512251533283445",
+        "source": "Fn",
+        "date": "2025년 12월 25일 목요일"
       }
     ]
   },
@@ -888,6 +904,24 @@
         "summary": "",
         "source": "yna",
         "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "기상청 \"충남 보령 서남서쪽 바다서 규모 2.0 지진\"",
+        "time": "2025-12-25T15:54:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/12/25/AKR20251225038000530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225038000530",
+        "summary": "\"지진 발생 깊이 19km…피해 없을 듯\"",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[영상] '산타 추적' 일일 상담원 트럼프 \"나쁜 산타 못 들어오게\"",
+        "time": "2025-12-25T15:55:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2025/12/25/AKR20251225038700704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251225038700704",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 25일 목요일"
       }
     ]
   },
@@ -1103,6 +1137,33 @@
         "time": "2025-12-25T13:51:00",
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=294013&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "한화, 美 필라델피아 핵추진 잠수함 건조 준비 착수",
+        "time": "2025-12-25T15:33:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=294023&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "李대통령, 옛 지역구 계양서 수녀원 방문",
+        "time": "2025-12-25T16:15:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=294025&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프 “미 해군 신예 프리깃함, 한국 한화와 협력해 건조”",
+        "time": "2025-12-23T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=293862",
         "summary": "",
         "source": "skyDaily",
         "date": "2025년 12월 25일 목요일"
@@ -2720,6 +2781,195 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/Edaily/20251225153304689efow.jpg",
         "url": "https://v.daum.net/v/20251225153303120",
         "summary": "마라라고서 NORAD 산타 추적 전통 행사 참여\"석탄은 깨끗하고 아름답다\" 농담도",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "AI 탑재된 ‘펫 로봇’ 인기라고? 다양한 감정 표현으로 정서적 교감까지 나눠",
+        "time": "2025-12-25T07:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/chosun/20251225162905684pgbr.jpg",
+        "url": "https://v.daum.net/v/20251225162904412",
+        "summary": "[WEEKLY BIZ] [Trend Now] 로봇의 감정 인식 기능과 반응 능력 크게 향상돼",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "외국인 불법체류 마약 투약에 범인도피까지…법원 집행유예 선고",
+        "time": "2025-12-25T07:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/551752-SREzwmR/20251225162608970kuaa.jpg",
+        "url": "https://v.daum.net/v/20251225162607354",
+        "summary": "SNS로 MDMA·케타민 매수해 집단 투약, 유흥업 종사자들 허위 진술로 수사 혼선외국인 마약사범 급증 추세…20·30대 중심 온라인 거래 확산 경고",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "中 ‘EUV 노광 장비’ 시제품 만들었다고? 도대체 무슨 장비길래",
+        "time": "2025-12-25T07:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/chosun/20251225162405268mxra.jpg",
+        "url": "https://v.daum.net/v/20251225162405316",
+        "summary": "[WEEKLY BIZ] [깨알 5Q] 웨이퍼 위에 반도체 회로 그리는 핵심 장비",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "전북 초·중학교 학생수 큰폭 감소…폐교도 8곳",
+        "time": "2025-12-25T07:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/551733-DUdnLPA/20251225161921791lrof.jpg",
+        "url": "https://v.daum.net/v/20251225161920162",
+        "summary": "전북교육청, 2026 학급편성 기준 확정초·중교 지역 여건 고려 인원 감축 적용",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "李 대통령, 계양 작은 교회서 성탄 예배…점심은 비빔밥",
+        "time": "2025-12-25T07:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/THEFACT/20251225145044058jvnc.jpg",
+        "url": "https://v.daum.net/v/20251225145042143",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "北 8700t급 신형 핵잠 건조 과시…\"원자로 탑재, SLBM·SLCM 혼합 배치 가능성\"",
+        "time": "2025-12-25T07:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/newsis/20251225160706038gasf.jpg",
+        "url": "https://v.daum.net/v/20251225160705908",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'조기 방미' 서두르는 다카이치…미·중 정상회담 前 대중 공조 모색(상보)",
+        "time": "2025-12-25T07:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/NEWS1/20251225163043012ewxj.jpg",
+        "url": "https://v.daum.net/v/20251225163042445",
+        "summary": "'中과 경제 관계 중시' 트럼프, 내년 4월 방중\"성급한 긴축은 독…책임 있는 적극 재정 펼칠 것\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "북한, 핵억지력 완성 단계 과시하며 ‘핵보유국’ 대우 압박…한국 핵잠 문제 삼으며 핵무장 정당화",
+        "time": "2025-12-25T07:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/khan/20251225161606381awdd.jpg",
+        "url": "https://v.daum.net/v/20251225161605106",
+        "summary": "원자로 탑재 끝나고 외관은 완성한 듯핵 억제력 완성 핵심 ‘제2격’ 능력 강화러시아가 관련 기술 제공했을 가능성‘핵방패’, ‘안전’ 등 절제된 표현 쓰기도",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'평행선' 달리는 통일교 특검 논의…강해지는 국민의힘·개혁신당 연대",
+        "time": "2025-12-25T07:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/moneytoday/20251225162350594cial.jpg",
+        "url": "https://v.daum.net/v/20251225155903691",
+        "summary": "[the300]",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"출항도 못할 것\" 트럼프 황금함대 경고…한화는 \"핵잠 건조 준비\"",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/joongang/20251225161151481wrwl.jpg",
+        "url": "https://v.daum.net/v/20251225161150017",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "네타냐후, 성탄 전날 이란에 경고…“미사일 전력 재건 주시, 필요하면 행동”",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/kbs/20251225162151579vron.png",
+        "url": "https://v.daum.net/v/20251225162104239",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'640명 사망' 스리랑카 대홍수·산사태, 재산 피해액만 6조원",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/ked/20251225162659579egef.jpg",
+        "url": "https://v.daum.net/v/20251225162658367",
+        "summary": "GDP 4% 해당",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美 국방부 \"中 2027년까지 대만 침공 준비 목표\"",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/inews24/20251225155037277qrag.jpg",
+        "url": "https://v.daum.net/v/20251225155035501",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "카리브해 병력 늘린 미국, 군에 \"베네수 원유 봉쇄에 집중\" 지시",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/moneytoday/20251225162206412aimf.jpg",
+        "url": "https://v.daum.net/v/20251225162205269",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美, 물류창고에 불체자 8만명 수용 추진 논란",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/551725-bDDlA7g/20251225162148030ipjt.jpg",
+        "url": "https://v.daum.net/v/20251225162146260",
+        "summary": "전국 물류창고 개조해 추방 절차 효율화 인권단체 “사람을 가축처럼 취급” 비판",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "‘640명 사망’ 스리랑카 대홍수·산사태, 재산 피해액 6조 원 육박",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/kbs/20251225162153728gjob.png",
+        "url": "https://v.daum.net/v/20251225162103238",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "젤렌스키, 영토 한발 물러섰지만···러시아는 요지부동",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/seouleconomy/20251225162125111kyne.png",
+        "url": "https://v.daum.net/v/20251225162123250",
+        "summary": "돈바스 비무장지대 설치 美와 논의자포리자 원전 통제권은 포기 안 해\"러시아, 사소한 양보조차 안 할 것\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'640명 사망·211명 실종' 강타…재건 비용 10조 원",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/sbsi/20251225162401098zncd.jpg",
+        "url": "https://v.daum.net/v/20251225162400313",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'3년간 19만명 정보 유출' 신한카드… 1000억 과징금 위기",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/moneyweek/20251225161514339jyez.jpg",
+        "url": "https://v.daum.net/v/20251225161513093",
+        "summary": "직원 일탈로 유출… 내부 통제 체계 제대로 작동했는지 의문",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"필요하면 행동 나서겠다\"…이스라엘, 이란 미사일 재무장에 '예방타격' 경고",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/akn/20251225162044281sxgl.jpg",
+        "url": "https://v.daum.net/v/20251225162043219",
+        "summary": "\"가능한 모든 위협 고도로 주시 중\"",
+        "source": "daum",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"유출자 특정, 탈취 장비 회수… 3000개 정보 저장 후 삭제 확인\"",
+        "time": "2025-12-25T07:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/25/moneyweek/20251225162006221dogj.jpg",
+        "url": "https://v.daum.net/v/20251225161502081",
+        "summary": "전직 직원의 소행… 맨디언트 등 글로벌 보안 업체와 포렌식 조사 진행 \"3370만 건 접근했으나 실제 저장은 극소수, 제3자 유출 없어\"",
         "source": "daum",
         "date": "2025년 12월 25일 목요일"
       }
@@ -8377,6 +8627,834 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/25/news-p.v1.20251225.30dd7439d13f470b95303d98c3b816dc_P1.png",
         "url": "https://news.nate.com/view/20251225n04903",
         "summary": "정상 앱처럼 위장해 보안 점검 회피\r\n문자·인증정보 탈취 후 실시간 금융사기",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"유출자, 3000계좌만 저장후 삭제…외부전송 등 추가 유출 없어\"(1보)",
+        "time": "2025-12-25T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/25/PS25122500322.jpg",
+        "url": "https://news.nate.com/view/20251225n11153",
+        "summary": "<font color=\"gray\"><b>- 유출자, 약 3000개 계정만 저장 후 모두 삭제</b></font>\n<font color=\"gray\"><b>- 저장한 고객 정보는 공동현관 출입번호 2609개 포함</b></font>\n<font color=\"gray\"><b>- 결제정보·로그인·개인통관고유번호는 미포함</b></font>\n<font color=\"gray\"><b>- 외부 전송 등 추가 유출 없어</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 개인정보 유출 대책마련 회의 개최한 대통령실",
+        "time": "2025-12-25T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505840001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11756",
+        "summary": "(서울=연합뉴스) 김성민 기자 = 대통령실이 성탄절인 25일 오후 쿠팡의 대규모 개인정보 유출사태의 대책 마련을 위한 관계부처 장관급 회의를 연다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "기상청 \"충남 보령 서남서쪽 바다서 규모 2.0 지진…피해 없을 것\"",
+        "time": "2025-12-25T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/12/25/cz_1766647204370_852364_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11758",
+        "summary": "기상청이 25일 충남 보령시 서남서쪽 10km 해역에서 규모 2.0의 지진이 발생했다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"유출자 특정, 탈취 장비 회수…3000개 정보 저장 후 삭제 확인\"",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/25/mw_1766647145017_22130_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11527",
+        "summary": "쿠팡은 포렌식 조사를 통해 범인인 전직 직원을 특정하고 탈취 장비를 모두 회수했다. 당초 우려와 달리 실제 저장된 정보는 전체 회원 수의 극히 일부인 3000여 명 수준이며, 민감한 결제 정보나 개인통관고유번호 등은 포함되지 않은 것으로 확인됐다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 개인정보 유출 대책마련 회의 개최한 대통령실",
+        "time": "2025-12-25T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505880001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11769",
+        "summary": "(서울=연합뉴스) 김성민 기자 = 대통령실이 성탄절인 25일 오후 쿠팡의 대규모 개인정보 유출사태의 대책 마련을 위한 관계부처 장관급 회의를 연다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"개인정보 유출자 특정…외부 전송 없어\"",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/25/202512251609595026_t.jpg",
+        "url": "https://news.nate.com/view/20251225n11716",
+        "summary": "<b>쿠팡 \"개인정보 유출한 전직 직원 특정…일체 자백\"\n\n\"내부 보안 키 사용해 3,300만 개 고객 정보 접근\"\n\n\"계정 3천여 개 개인정보 저장…현관 번호 포함\"\n\n\"결제정보·로그인 정보·개인통관번호 접근 없어\"</b>",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 대통령이 '쿠팡 장관회의' 소집한 날…쿠팡 \"2차 피해 없다\" 자체 조사결과 긴급 발표",
+        "time": "2025-12-25T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/12/25/news-p.v1.20251225.cf43c0f540f746c182697cd90b6d3997_P1.jpeg",
+        "url": "https://news.nate.com/view/20251225n11280",
+        "summary": "쿠팡은 개인정보를 유출한 전직 직원을 특정했고, 정보 유출에 사용된 모든 장치를 회수한 만큼 2차 피해는 없다고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'AI 칩 절대 1위' 굳히려 미래 경쟁자 사들이는 엔비디아",
+        "time": "2025-12-25T16:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/25/ch_1766647024593_814249_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11246",
+        "summary": "AI스타트업 그록과 29조원 기술라이선스 계약\n그록 기술·인력 사실상 흡수",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"약 3천 개 계정만 저장…로그인·결제 정보 포함 안 돼\"",
+        "time": "2025-12-25T16:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/12/25/202141150_700.jpg",
+        "url": "https://news.nate.com/view/20251225n11424",
+        "summary": "쿠팡이 대규모 개인정보 유출 사태와 관련해 고객 정보를 유출한 전직 직원을 특정하고 정보에 접근하고 탈취하는 데 사용된 모든 장치와 하드디스크 드라이브를 회수·확보했다고 25일 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"유출자 특정…외부 전송 없다는 진술 받아\"",
+        "time": "2025-12-25T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/25/20251225506375.jpg",
+        "url": "https://news.nate.com/view/20251225n11641",
+        "summary": "쿠팡은 3370만명의 개인정보를 유출한 쿠팡 전 직원이었던 유출자를 특정하고, 고객 정보 유출에 사용된 노트북과 하드 드라이버 등 장치를 회수했다고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"정보 유출 직원 특정…탈취 사용된 모든 장치 회수\"",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/12/25/202526171766646144.jpg",
+        "url": "https://news.nate.com/view/20251225n11596",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"고객 정보 유출자 특정, 외부 전송 없어···모든 장치 회수\"",
+        "time": "2025-12-25T16:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2025/12/25/20251203111732_2263120_1000_666.jpg",
+        "url": "https://news.nate.com/view/20251225n11516",
+        "summary": "[이투데이/연희진 기자]",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美 정부 심폐소생에도 회복 못하는 인텔",
+        "time": "2025-12-25T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/12/25/ch_1766646725847_195309_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11454",
+        "summary": "엔비디아, 인텔 첨단 공정 활용한 칩 테스트 중단\n미 정부 전폭 지원에도 부진거듭\n데이터센터 CPU도 AMD에 뒤처져",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡, 개인정보 유출 전직 직원 진술 확보…\"외부 제공 정황 없어\"",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/12/25/2025122501002331300136291.jpg",
+        "url": "https://news.nate.com/view/20251225n11608",
+        "summary": "내부 보안 키 탈취해 접근\n3000개 계정 정보 저장\n제3자 제공 정황은 없어\n\"재발 방지 위한 방안 강구\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]쿠팡 \"결제·개인통관번호 접근 없어…실제 유출정보 3000개, 모두 삭제\"",
+        "time": "2025-12-25T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/12/25/news-p.v1.20251225.bf6ed283823b46169db80f67b79136b5_P1.png",
+        "url": "https://news.nate.com/view/20251225n11435",
+        "summary": "대규모 개인정보 유출 사태를 빚은 쿠팡이 유출자를 특정했고, 유출 정보는 3000개로 확인됐으며 이마저도 모두 삭제됐다고 말했다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "비수기·고환율 '이중고' 항공업계, 中노선 특수될까",
+        "time": "2025-12-25T16:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/12/25/2025122601002330800136271.jpg",
+        "url": "https://news.nate.com/view/20251225n11492",
+        "summary": "연간 영업익 절반 감소·적자전환\n고환율 지속·계절적 비수기 영향\n中무비자입국 시행·중일 갈등 수혜",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 쿠팡 \"정보 유출자 특정해 장치 회수…'외부전송 없다' 진술 확보\"",
+        "time": "2025-12-25T16:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/12/25/20251225501742.jpg",
+        "url": "https://news.nate.com/view/20251225n11140",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"고객 정보 유출자 특정…모든 장치 회수\"",
+        "time": "2025-12-25T16:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667228_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11329",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 서울 아파트값, 19년 만에 최고 상승률 예상?46주 연속 오름세",
+        "time": "2025-12-25T16:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/25/20251225506122.jpg",
+        "url": "https://news.nate.com/view/20251225n11286",
+        "summary": "올해 서울 아파트값 상승률이 2006년 이후 19년 만에 최고치를 기록할 것으로 보인다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'3년간 19만명 정보 유출' 신한카드…1000억 과징금 위기",
+        "time": "2025-12-25T16:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/25/mw_1766646065122_303544_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11100",
+        "summary": "신한카드가 대규모 개인정보 유출 사태로 고강도 제재 위기에 놓였다. 직원 일탈로 가맹점 대표자 19만명의 개인정보가 유출됐지만 회사는 3년이나 이를 인지하지 못했기 때문이다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 쿠팡 \"유출자 특정해 모든 장치 회수…외부 전송 없었다\"",
+        "time": "2025-12-25T16:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/25/news-p.v1.20251225.7f88a0538c5f4e8caa6cc9128a6580f9_P1.jpg",
+        "url": "https://news.nate.com/view/20251225n11334",
+        "summary": "[헤럴드경제=양대근 기자] 쿠팡은 개인정보 유출 사태와 관련 “포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정해 고객 정보를 접근 및 탈취하는 데 사용된 모든 장치와 하드디스크 드라이브를 모두 회수·확보했다”고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[쿠팡 정보 유출] 쿠팡 유출자 특정·포렌식 종료…보상안·정치권 압박이 다음 관문",
+        "time": "2025-12-25T16:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2025/12/25/2512242206459310.jpg",
+        "url": "https://news.nate.com/view/20251225n11276",
+        "summary": "유출 장치 전량 회수·외부 전송 없어…포렌식 조사 종료",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 쿠팡 \"실제 유출한 고객정보는 3천개⋯모두 삭제\"",
+        "time": "2025-12-25T16:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2025/12/25/e4a487a91ac107.jpg",
+        "url": "https://news.nate.com/view/20251225n11274",
+        "summary": "\"유출자 특정돼⋯3300만 고객정보 접근했지만 3천개만 저장\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"개인정보 유출자 특정…외부 유출·추가 피해 없어\"",
+        "time": "2025-12-25T16:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2025/12/25/2512242206459310_w.jpg",
+        "url": "https://news.nate.com/view/20251225n11249",
+        "summary": "포렌식 조사로 유출자 특정, 관련 장치·저장매체 전량 확보",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]쿠팡 \"유출자, 정보 3000개 저장…외부전송 없다고 진술\"",
+        "time": "2025-12-25T15:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/25/202507171045541058_l.jpg",
+        "url": "https://news.nate.com/view/20251225n11205",
+        "summary": "[파이낸셜뉴스]",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡, 고객정보 유출자 잡았다…\"저장 정보 모두 삭제\"",
+        "time": "2025-12-25T15:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/25/ae_1766645826245_157553_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11129",
+        "summary": "쿠팡, 고객정보 유출 직원 특정",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대기업은 AI로 쇳물공정 자동화…중기는 AI 카메라 도입도 못해[only이데일리]",
+        "time": "2025-12-25T15:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/25/PS25122500304.jpg",
+        "url": "https://news.nate.com/view/20251225n11149",
+        "summary": "<font color=\"gray\"><b>- AI 기술 확산에 갈수록 커지는 대중기 격차</b></font>\n<font color=\"gray\"><b>- 대기업 AI 전사적 활용 35%, 중기 15% 내외</b></font>\n<font color=\"gray\"><b>- A 철강 中企, 고비용에 AI카메라 도입 포기</b></font>\n<font color=\"gray\"><b>- 포스코, AI 영상인식시스템으로 조업시간 줄여</b></font>\n<font color=\"gray\"><b>- \"대중기·대학·연구소 결합 컨소시엄 지원 필요\"</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"유출자, 고객 정보 3000개만 저장…로그인·결제정보 포함 안 돼\"",
+        "time": "2025-12-25T15:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/12/25/SSC_20251225155520_V.jpg",
+        "url": "https://news.nate.com/view/20251225n11178",
+        "summary": "[서울신문]쿠팡은 최근 포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정해 고객 정보를 탈취하는 데 사용된 모든 장치와 하드디스크 드라이브를 모두 회수·확보했다고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"개인정보 유출자 특정…제3자 전달 정황 없어\"",
+        "time": "2025-12-25T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251218_0021100424_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11119",
+        "summary": "모든 장치 회수…외부 전송 흔적 없어",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재 진화작업하는 소방",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106350_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11748",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물서 화재 발생",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505810001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11743",
+        "summary": "(서울=연합뉴스) 서대연 기자 = 25일 오후 서울 중구 충무로역 인근 건물에서 화재가 발생했다. 소방대원들이 진화 작업을 하고 있다. 2025.12.25",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]서울 충무로역 인근 건물서 화재…소방 진압 중",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/12/25/6bb1b951-7927-4f14-9519-554a217a78c1.jpg",
+        "url": "https://news.nate.com/view/20251225n11752",
+        "summary": "25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물에 발생한 화재",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106347_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11751",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재 진화작업하는 소방",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106352_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11750",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물에 발생한 화재",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106349_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11731",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물에 발생한 화재",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106348_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11734",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물서 화재 발생",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505800001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11740",
+        "summary": "(서울=연합뉴스) 서대연 기자 = 25일 오후 서울 중구 충무로역 인근 건물에서 화재가 발생했다. 소방대원들이 진화 작업을 하고 있다. 2025.12.25",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106345_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11728",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106344_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11723",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]쿠팡 \"유출 직원, 3000개 계정정보 저장만 하고 외부전송 안 했다\"",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/25/133036263.2.jpg",
+        "url": "https://news.nate.com/view/20251225n11483",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "가스는 아직인데 고지서부터…울릉 LPG 사업 5년 지연에 주민 분노 '폭발'",
+        "time": "2025-12-25T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/12/25/20252091766644837.jpg",
+        "url": "https://news.nate.com/view/20251225n11479",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 충무로역 인근 하니빌딩 화재…인명피해는 확인 안돼",
+        "time": "2025-12-25T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/25/news-p.v1.20251225.1a753dc664ee4edabd98cf81d8ac8741_P1.jpg",
+        "url": "https://news.nate.com/view/20251225n11240",
+        "summary": "[ⓒ 매일경제 & mk.co.kr, 무단 전재, 재배포 및 AI학습 이용 금지]",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "울산 고려아연 공장서 화재, 50분 만에 진화 '인명 피해 없어'",
+        "time": "2025-12-25T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/12/25/news_1766645086_1590654_m_1.jpg",
+        "url": "https://news.nate.com/view/20251225n11634",
+        "summary": "데일리안 김윤일 기자 (eunice@dailian.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재 발생",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106334_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11611",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "전북도, 청년도전 지원사업 전국 '최우수' 선정",
+        "time": "2025-12-25T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7587348_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11712",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재 발생",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106332_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11603",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, 쿠팡 개인정보 유출 대책마련 회의 개최",
+        "time": "2025-12-25T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505530001301_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11580",
+        "summary": "(서울=연합뉴스) 김성민 기자 = 대통령실이 성탄절인 25일 오후 쿠팡의 대규모 개인정보 유출사태의 대책 마련을 위한 관계부처 장관급 회의를 연다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, 쿠팡 개인정보 유출 대책마련 회의 개최",
+        "time": "2025-12-25T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PYH2025122505510001301_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11571",
+        "summary": "(서울=연합뉴스) 김성민 기자 = 대통령실이 성탄절인 25일 오후 쿠팡의 대규모 개인정보 유출사태의 대책 마련을 위한 관계부처 장관급 회의를 연다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충무로역 인근 건물 화재 발생",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106333_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11594",
+        "summary": "[서울=뉴시스] 정병혁 기자 = 25일 서울 중구 충무로역 인근 건물에서 발생한 화재로 출동한 소방대원이 진화작업을 하고 있다. 2025.12.25. jhope@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "충남 보령시 서남서쪽 10㎞ 해역서 규모 2.0 지진 발생",
+        "time": "2025-12-25T16:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/12/25/2025122515551736219_1.jpg",
+        "url": "https://news.nate.com/view/20251225n11550",
+        "summary": "25일 오후 3시37분쯤 충남 보령시 서남서쪽 10㎞ 해역에서 규모 2.0의 지진이 발생했다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "19만 가맹점 유출 신한카드, 제재 수위는?",
+        "time": "2025-12-25T16:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/25/20251225506341.jpg",
+        "url": "https://news.nate.com/view/20251225n11500",
+        "summary": "신한카드에서 내부 직원이 3년 넘게 가맹점 대표의 개인정보를 빼돌린 사실이 드러나 금융당국이 현장검사와 전 업권 점검에 나섰다. 유출 규모가 19만 건에 달하고 3년간 미인지된 내부통제 허점으로 제재 수위가 높아질 전망이다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "인천항만공사 학업중단 위기 청소년 대상 AI 교육 지원사업 성료",
+        "time": "2025-12-25T16:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667502_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11496",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 쿠팡 \"유출자 특정해 모든 장치 회수…외부전송 없어\"",
+        "time": "2025-12-25T16:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/25/788277_1766646102.jpg",
+        "url": "https://news.nate.com/view/20251225n11541",
+        "summary": "쿠팡은 최근 개인정보 유출 사태와 관련해, 포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정해 고객 정보를 접근 및 탈취하는 데 사용된 모든 장치와 하드디스크 드라이브를 모두 회수·확보했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "쿠팡 \"고객 정보 유출자 특정해 모든 장치 회수…외부 유출 없다는 진술 확보\"",
+        "time": "2025-12-25T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/12/25/1766645351694cde6740573.jpg",
+        "url": "https://news.nate.com/view/20251225n11427",
+        "summary": "쿠팡이 최근 발생한 개인정보 유출 사태와 관련해 포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정했으며, 고객 정보 접근과 탈취에 사용된 모든 장치와 하드디스크 드라이브를 회수·확보했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "제주도 산지 대설주의보, 최대 15㎝ 눈…한라산 주요 탐방로 전면통제",
+        "time": "2025-12-25T16:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/5807137_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11358",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "울릉도·독도에 대설주의보…경북 북동산지 한파경보",
+        "time": "2025-12-25T16:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667504_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11379",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "SNT모티브, 車부품부터 총기류까지…K방산 기대주, 전세계서 러브콜",
+        "time": "2025-12-25T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/25/20251226_01110303000001_L00.jpg",
+        "url": "https://news.nate.com/view/20251225n11450",
+        "summary": "부산지역의 글로벌 자동차 부품업체이자 방산기업인 SNT모티브가 올해 매출 1조원 기업으로 복귀할 전망이다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "상설특검 \"쿠팡 무혐의 처분…수사검사 압박해 수사방해\"",
+        "time": "2025-12-25T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/25/202512251601510915_l.jpg",
+        "url": "https://news.nate.com/view/20251225n11417",
+        "summary": "[파이낸셜뉴스]관봉권·쿠팡 상설 특별검사팀(안권섭 특검)이 '쿠팡 불기소 처분 외압' 의혹과 관련해 엄희준 광주고검 검사와 김동희 부산고검 검사 압수수색 영장에 \"담당 검사에게 쿠팡 퇴직금 미지급 사건을 무혐의 처분하도록 압박해 수사권 행사를 방해했다\"는 내용을 적시한 것으로 파악됐다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"디지털헬스케어 시대 핵심\"…간호인재 키우는 '이 병원'",
+        "time": "2025-12-25T16:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251224_0002026473_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11267",
+        "summary": "의료기관 주도 현장 기반 간호 교육 모델",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "사진 속 동작 그대로…UNIST, 3D 캐릭터 움직이는 AI 개발",
+        "time": "2025-12-25T15:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0002027355_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11176",
+        "summary": "메타버스·애니메이션 등 3D 콘텐츠 제작 진입 장벽 낮춰",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "기상청 \"충남 보령 인근 바다서 규모 2.0 지진\"",
+        "time": "2025-12-25T15:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/25/news-p.v1.20251225.a721c33c634144d6a2aceb2b2ab7bd33_P1.png",
+        "url": "https://news.nate.com/view/20251225n11217",
+        "summary": "“지진 발생 깊이 19km…피해 없을 듯”",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 충무로역 인근 하니빌딩 화재",
+        "time": "2025-12-25T16:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aj/2025/12/25/20250915082800132562.jpg",
+        "url": "https://news.nate.com/view/20251225n11186",
+        "summary": "[속보] 충무로역 인근 하니빌딩 화재",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "고환율·고물가 '경고등'…글로벌 투자은행들 내년 韓 물가 전망치 줄상향",
+        "time": "2025-12-25T16:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/12/25/20251225506185.jpg",
+        "url": "https://news.nate.com/view/20251225n11336",
+        "summary": "글로벌 투자은행(IB)을 비롯한 국내외 주요 기관들이 내년 우리나라 소비자물가 상승률 전망치를 잇달아 상향 조정하고 있다. 최근 환율 급등이 국내 소비자 부담으로 이어질 수 있다는 우려가 확산된 것으로 분석된다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "기상청 \"충남 보령 서남서쪽 바다서 규모 2.0 지진\"",
+        "time": "2025-12-25T15:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/AKR20251225038000530_01_i.jpg",
+        "url": "https://news.nate.com/view/20251225n11131",
+        "summary": "\"지진 발생 깊이 19km…피해 없을 듯\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보]쿠팡 \"개인정보 유출 직원 특정…외부전송 없었다는 진술 확보\"",
+        "time": "2025-12-25T15:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/25/133036199.1.jpg",
+        "url": "https://news.nate.com/view/20251225n11089",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, '쿠팡 사태' 장관급 회의 소집",
+        "time": "2025-12-25T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106298_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11116",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터에 관계자들이 일을 하고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"가장 처참한 현장\"…제주항공 참사 과학수사관 17.6% PTSD 겪어",
+        "time": "2025-12-25T15:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/12/25/155ecb50-bfec-4214-92de-daff3bdb802d.jpg",
+        "url": "https://news.nate.com/view/20251225n11097",
+        "summary": "한류경 기자 (han.ryukyoung@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, '쿠팡 사태' 장관급 회의 소집",
+        "time": "2025-12-25T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106304_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11106",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터 모습.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, '쿠팡 사태' 장관급 회의 소집",
+        "time": "2025-12-25T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106299_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11109",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터에 관계자들이 일을 하고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, '쿠팡 사태' 장관급 회의 소집",
+        "time": "2025-12-25T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106300_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11114",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터 모습.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, 쿠팡 관계장관 회의 소집",
+        "time": "2025-12-25T15:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106301_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11093",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터에 관계자들이 일을 하고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, 쿠팡 관계장관 회의 소집",
+        "time": "2025-12-25T15:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106302_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11088",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터에 관계자들이 일을 하고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대통령실, 쿠팡 관계장관 회의 소집",
+        "time": "2025-12-25T15:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20251225_0021106303_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11086",
+        "summary": "[서울=뉴시스] 권창회 기자 = 25일 서울 시내 한 쿠팡 센터 모습.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[속보] 쿠팡 \"유출자 특정해 모든 장치 회수…외부전송 없단 진술 확보\"",
+        "time": "2025-12-25T15:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/25/news-p.v1.20251225.940dab4395a2401fb29ddcefa1b34f28_P1.jpg",
+        "url": "https://news.nate.com/view/20251225n10819",
+        "summary": "쿠팡은 최근 발생한 개인정보 유출 사태와 관련, 포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정해 고객 정보를 접근 및 탈취하는 데 사용된 모든 장치와 하드디스크 드라이브를 모두 회수·확보했다고 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"필요하면 행동 나서겠다\"…이스라엘, 이란 미사일 재무장에 '예방타격' 경고",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/25/ae_1766647144647_747415_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11720",
+        "summary": "\"가능한 모든 위협 고도로 주시 중\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "日다카이치 \"내년 조기 방미, 트럼프와 회담 조율 중\"",
+        "time": "2025-12-25T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/AKR20251225039900073_01_i.jpg",
+        "url": "https://news.nate.com/view/20251225n11766",
+        "summary": "\"중국과 대화 열려있어…국익·명예 등 지키는 관점서 적절히 대응\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "中관영지, '중국 위협 증가' 美보고서에 \"모순·과장\" 비난",
+        "time": "2025-12-25T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/25/NISI20221219_0001156580_web.jpg",
+        "url": "https://news.nate.com/view/20251225n11697",
+        "summary": "중국 관영 글로벌타임스, 사설 통해 미국 국방부 연례보고서 비판",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "카리브해 병력 늘린 미국, 군에 \"베네수 원유 봉쇄에 집중\" 지시",
+        "time": "2025-12-25T16:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/12/25/2025122515002825097_1.jpg",
+        "url": "https://news.nate.com/view/20251225n11808",
+        "summary": "미국 백악관이 군에 향후 최소 두 달 동안 베네수엘라 원유 봉쇄에 집중하라는 지시를 내렸다는 보도가 나왔다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"출항도 못할 것\" 트럼프 황금함대 경고…한화는 \"핵잠 건조 준비\"",
+        "time": "2025-12-25T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/12/25/71132693-e6e7-4c83-a87d-b793b4878881.jpg",
+        "url": "https://news.nate.com/view/20251225n11556",
+        "summary": "“‘트럼프급 전함’ 초도함 건조가 2030년대 초반에야 시작될 것, ‘황금함대’는 매우 먼 미래의 일”(더워존·TWZ)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'640명 사망' 스리랑카 사이클론 피해액 6조원 육박",
+        "time": "2025-12-25T16:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/25/AKR20251225161545yU1_01_i.jpg",
+        "url": "https://news.nate.com/view/20251225n11653",
+        "summary": "지난달 말 열대성 저기압, 사이클론 '디트와'가 강타해 640명이 숨진 스리랑카에서 6조원 가까운 재산 피해가 발생한 것으로 집계됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'대지진 전조 아니냐' 수면 뒤덮은 물고기 떼에…오사카 '술렁'",
+        "time": "2025-12-25T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/25/ae_1766646724575_967286_0.jpg",
+        "url": "https://news.nate.com/view/20251225n11270",
+        "summary": "수면 가득 채울 정도로 무리 지어 헤엄쳐\n전문가 \"조류 따라 먹이 찾아온 숭어일 듯\"",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "'640명 사망' 스리랑카 대홍수·산사태, 재산 피해액 6조원 육박",
+        "time": "2025-12-25T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/PAF20251201009001009_P2.jpg",
+        "url": "https://news.nate.com/view/20251225n11227",
+        "summary": "GDP 4% 해당…도로·다리 등 기반시설 피해액 2조5천억원대",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "日 다카이치 총리 \"트럼프 대통령과 내년 초 회담 조율중\"",
+        "time": "2025-12-25T16:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/25/PS25122500321.jpg",
+        "url": "https://news.nate.com/view/20251225n11593",
+        "summary": "<font color=\"gray\"><b>- 교도통신 \"3월 방미 일정 미국 측에 타진\"</b></font>\n<font color=\"gray\"><b>- 4월 트럼프 방중 전 만나려는 듯</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "대홍수로 '640명 사망' 재산 피해액만 6조원 육박…어디길래",
+        "time": "2025-12-25T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/25/news-p.v1.20251206.cf33697650b94c28a4017d5d2f75df2d_P1.jpg",
+        "url": "https://news.nate.com/view/20251225n11647",
+        "summary": "지난달 말 사이클론(열대성 저기압) ‘디트와’가 강타해 640명이 숨진 남아시아 섬나라 스리랑카에서 6조원 가까운 재산 피해가 발생한 것으로 집계됐다.",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "美 이민국, 불법체류자 구금에 민간 물류창고 이용 계획…8만여명 수용 가능",
+        "time": "2025-12-25T16:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/12/25/2025122501002331000136281.jpg",
+        "url": "https://news.nate.com/view/20251225n11493",
+        "summary": "WP, 민간기업 대상 입찰 공고 초안 입수\n버지니아·텍사스 등 주요 물류 허브 지역들",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[포토] 이스라엘 의회에서 '10월 위원회' 회원들 시위",
+        "time": "2025-12-25T16:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667431_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11494",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[포토] 시위 벌이는 이스라엘 '10월 위원회' 회원들",
+        "time": "2025-12-25T16:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667432_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11489",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "\"사람이 택배냐\"…불법이민자 물류창고에 넣어 추방한다는 트럼프 논란",
+        "time": "2025-12-25T16:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/12/25/133036253.1.jpg",
+        "url": "https://news.nate.com/view/20251225n11459",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[포토] 성탄절 기념 산타 추적 행사 참여한 트럼프",
+        "time": "2025-12-25T16:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667496_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11468",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "트럼프, 산타 찾는 아이에게 \"청정 석탄\" 찬양…동심보다 정책 홍보",
+        "time": "2025-12-25T16:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/25/7667496_high.jpg",
+        "url": "https://news.nate.com/view/20251225n11386",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "[영상] '산타 추적' 일일 상담원 트럼프 \"나쁜 산타 못 들어오게\"",
+        "time": "2025-12-25T15:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/25/AKR20251225038700704_01_i.jpg",
+        "url": "https://news.nate.com/view/20251225n11148",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 25일 목요일"
+      },
+      {
+        "title": "엔비디아, 그록과 29조원 계약 체결…'AI 추론 칩 경쟁' 대비",
+        "time": "2025-12-25T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/12/25/20251225501749.jpg",
+        "url": "https://news.nate.com/view/20251225n11141",
+        "summary": "google_ad_section_end(name=gad1)",
         "source": "nate",
         "date": "2025년 12월 25일 목요일"
       }
