@@ -3,6 +3,762 @@
     "date": "2025년 12월 28일 일요일",
     "articles": [
       {
+        "title": "코웨이, 정수기·공기청정기 등 'My, AI 인증' 11개 획득",
+        "time": "2025-12-28T10:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281044374496",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "무궁화복지월드 구포봉사단, 부산 북구에 성금 200만원 기탁",
+        "time": "2025-12-28T10:43:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281039414169",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "‘강추위’ 엄습한 부산…부산시, 취약계층 보호시설 긴급 점검",
+        "time": "2025-12-28T10:32:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281028571083",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[속보] 장동혁, 단식농성 시사..\"통일교 특검 위해 특단의 조치\"",
+        "time": "2025-12-28T10:45:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281026375087",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "인제군, 강원도민체육대회 63년 만에 유치 확정",
+        "time": "2025-12-28T10:32:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281020554310",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[속보] 장동혁 \"12.29 여객기 참사, 특검 통해서라도 진실 밝힐 것\"",
+        "time": "2025-12-28T10:20:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281018069436",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[속보] 장동혁 \"李, 내란재판부 재의요구해야..헌법소원 청구할 것\"",
+        "time": "2025-12-28T10:16:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281013094872",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[속보] 장동혁 \"통일교 특검법, 30일 처리해야\"",
+        "time": "2025-12-28T10:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512281009234440",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "2000명 인파로 북적.. 김종훈 울산 동구청장 출판기념회",
+        "time": "2025-12-28T10:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512280918117326",
+        "source": "Fn",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
+        "title": "인권위, 현실 외면한 ‘외국인 채용 확대’ 권고…\"중국인에 의한 개인정보 유출에도 외국인 타령\"",
+        "time": "2025-12-28T11:32:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=373097",
+        "source": "fntoday",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
+        "title": "유튜브에 AI 슬롭 '홍수'…저질 콘텐츠로 연 1천700억원 수익",
+        "time": "",
+        "img": "https://img7.yna.co.kr/photo/ap/2025/12/15/PAP20251215266701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251228003100009",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "경남도, 올해 지방세 세무조사로 탈루 세금 206억원 추징",
+        "time": "2025-12-28T09:37:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/12/28/AKR20251228011800052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251228011800052",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "부산은행, 30만원 미만 휴면예금 일괄 환급 추진",
+        "time": "2025-12-28T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2025/06/25/01/PCM20250625000001990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251226089700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "경남교육청 교육정보원, 정보보안 수준 11년 연속 '매우 우수'",
+        "time": "2025-12-28T09:03:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2024/02/20/25/PCM20240220000125990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251226115000052",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[속보] 경찰, '통일교 자금관리' 한학자 前비서실장 열흘 만에 재소환",
+        "time": "2025-12-28T10:06:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/12/28/AKR20251228013300004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251228013300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"산불 뉴스 보고 호기심에\"…야산 200평 태운 50대 2심도 실형",
+        "time": "2025-12-28T10:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2025/07/08/53/PCM20250708000053990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251226049100061",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"어려운 이웃에 써달라\"…폐지 모아 쌈짓돈 기부한 경주 어르신",
+        "time": "2025-12-28T09:52:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/12/28/AKR20251228012400053_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251228012400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "국회 압박에도 장고…오송참사 불기소 김영환 항고사건 향배는",
+        "time": "2025-12-28T09:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2024/07/08/PYH2024070808080006400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251223167300064",
+        "summary": "지난 2월 항고장 접수한 검찰, 11개월째 재수사 여부 결론 못내",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "서울시교육청 청렴도평가 2등급…전체 공공기관 평균 상회",
+        "time": "2025-12-28T09:00:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/12/26/AKR20251226091000530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251226091000530",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[내일날씨] 전국 곳곳에 눈·비…수도권 미세먼지 '나쁨'",
+        "time": "2025-12-28T09:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/12/03/PYH2025120303610001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251228003200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "이공계 풀뿌리 연구 지원 확대…비전임교원 기본연구 사업 신설",
+        "time": "2025-12-28T09:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2025/12/26/AKR20251226116500530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251226116500530",
+        "summary": "교육부 2026년 학술연구지원사업 종합계획…인문사회 박사에 해외연수 지원",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미얀마, 군사쿠데타 4년 10개월만에 총선 개시…1차투표 실시",
+        "time": "2025-12-28T09:01:00",
+        "img": "https://img5.yna.co.kr/photo/etc/af/2025/12/27/PAF20251227080001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251227040600084",
+        "summary": "내년 1월 2·3차 투표…'군사정권 지원' USDP 압승 관측",
+        "source": "yna",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
+        "title": "이재명 대통령, 청와대로 복귀...봉황기도 29일 0시 기점",
+        "time": "2025-12-28T10:29:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468032_3609955_3036_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468032",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "기초 군사 훈련 받고 있는 우크라이나 신병들",
+        "time": "2025-12-28T10:33:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468036_3609957_3212_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468036",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "마라라고 향하는 트럼프",
+        "time": "2025-12-28T09:37:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468012_3609932_3645_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468012",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "합동군 사령부 방문한 푸틴",
+        "time": "2025-12-28T10:35:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468038_3609958_3446_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468038",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미국 자동차의 매력, 쿠웨이트서 빛나다",
+        "time": "2025-12-28T10:47:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468043_3609964_4639_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468043",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "기초 군사 훈련 받는 우크라이나 군인들",
+        "time": "2025-12-28T10:38:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468040_3609961_3726_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468040",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미얀마 군부 주도 총선 개시",
+        "time": "2025-12-28T09:33:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468003_3609926_2835_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468003",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "CHINA-SHANGHAI-THEME EXHIBITION-MODEL TRAINS (CN)",
+        "time": "2025-12-28T09:26:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468004_3609925_2617_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468004",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "PALESTINIAN-ISRAEL-CONFLICT-DAILYLIFE",
+        "time": "2025-12-28T09:22:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3468000_3609922_222_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3468000",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "대만 북동부 강진 규모 7.0···피해 보고 없어",
+        "time": "2025-12-28T09:18:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3467993_3609917_188_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3467993",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "RING-V:-NIGHT-OF-THE-SAMURAI-FIGHT-NIGHT",
+        "time": "2025-12-28T09:21:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3467999_3609921_2117_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3467999",
+        "source": "Gukje",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
+        "title": "용인시, 대규모 개발사업 따른 이주 세대 위해 팔 걷어",
+        "time": "2025-12-28T07:30:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=294083&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
+        "title": "서울 금천구, 재난대응 안전한국훈련 평가 3년 연속 '우수기관' 선정",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/dailian/20251228105324684bjng.jpg",
+        "url": "https://v.daum.net/v/20251228105322530",
+        "summary": "재난안정통신망(PS-LTE) 활용 신속 상황전파, 유관기관 협업 등 높은 평가주민·직장어린이집 참여 확대... 재난취약계층 현장대응 역량 강화",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "이 대통령, 내일 청와대로 첫 출근…오늘밤 12시 봉황기 게양",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/kado/20251228113206516seae.jpg",
+        "url": "https://v.daum.net/v/20251228113205287",
+        "summary": "명칭도 ‘대통령실→청와대’ 환원 계엄·탄핵 얼룩진 용산시대 끝",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "'체포 방해' 10년 구형... 윤석열, 남은 재판만 6건 [12.3 내란 형사재판]",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/ohmynews/20251228113243122ulsm.jpg",
+        "url": "https://v.daum.net/v/20251228113242292",
+        "summary": "3특검 모두 기소... 내란우두머리·이적 혐의, 채해병·명태균 의혹 등 줄줄이 대기",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"한국, 아동 비율 높은 곳에 인구당 의사 수 적어…개선 필요\"",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/newsy/20251228105235859onnz.jpg",
+        "url": "https://v.daum.net/v/20251228105235520",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "日총리와 후쿠시마산 팝콘?…3년 전 붉은띠 저항, CPTPP 딜레마",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/joongang/20251228100152889uvuj.jpg",
+        "url": "https://v.daum.net/v/20251228100151681",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“훌륭한 회사” 트럼프 한마디에…조선·방산 ETF ‘불기둥’[펀드와치]",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/Edaily/20251228101304920ywfx.jpg",
+        "url": "https://v.daum.net/v/20251228101303898",
+        "summary": "트럼프, ‘황금함대’ 협력사로 한화 지목한화오션 포함한 ETF 수익률 일제히 ‘쑥’조선주 전반 관심 환기…“리레이팅 기대”",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "‘공동설계·기술이전’…페루-韓 방산협력 본격화",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/ned/20251228112500156ywib.jpg",
+        "url": "https://v.daum.net/v/20251228112459167",
+        "summary": "K-2 전차 54대, 차륜형 장갑차 141대 등 공급KAI, 페루 공군 차기전투기 획득사업 수주 박차",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "휴대전화 개통 안면인증 도입…쿠팡 \"유출 규모 제한적\"[뉴스잇(IT)쥬]",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/NEWS1/20251228113142244ilku.jpg",
+        "url": "https://v.daum.net/v/20251228113140270",
+        "summary": "신분증·실제얼굴 대조 안면인증 시범도입…대포폰 차단 승부수쿠팡 \"전체 고객 DB 3370만개 중 유출정보 0.01% 수준\" 해명",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "한중 FTA 10년, 흑자에서 적자로…'서비스·투자' 교역 확대 총력",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/newsy/20251228111525243iwwh.jpg",
+        "url": "https://v.daum.net/v/20251228111525957",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "금감원, 초유의 회계기준원장 선거 개입 논란에도 '묵묵부답'",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/Edaily/20251228112806637fpft.jpg",
+        "url": "https://v.daum.net/v/20251228112805213",
+        "summary": "선거 과정서 금융 관련 단체에 영향력 행사했다는 의혹탈락한 한종수 교수 \"감사원에 진정서 제출 등 다각 검토\"금감원, 논란 이후 이렇다 할 입장 표명 없는 상황",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "2000명 인파로 북적.. 김종훈 울산 동구청장 출판기념회",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/fnnewsi/20251228104608488bflj.jpg",
+        "url": "https://v.daum.net/v/20251228104608423",
+        "summary": "주민, 노동자 등 정치적 지지자들 발길 이어져진보당, 범여권, 노동계 주요 인사들 참석울산시장 선거 앞두고 지지세 확인더불어민주당 울산시장 후보들도 참석해 축하 인사",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "李대통령, 내일 靑 첫 출근…'청와대 시대' 다시 열린다",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/yonhap/20251228112344633deqz.jpg",
+        "url": "https://v.daum.net/v/20251228112344142",
+        "summary": "오늘밤 12시 봉황기 게양…명칭도 '대통령실→청와대' 환원 계엄·탄핵 얼룩진 용산시대 끝…'구중궁궐 우려' 해소 숙제",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "산불·환경오염 막는다…세종시 폐차광막 방문 집중수거",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/daejonilbo/20251228112942688dore.jpg",
+        "url": "https://v.daum.net/v/20251228112941231",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“강선우에 김병기…썩은 생태계 갈아엎자” 윤희숙 ‘국회의원범죄처벌특별법’ 제안",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/dt/20251228110835922uyng.png",
+        "url": "https://v.daum.net/v/20251228110834837",
+        "summary": "前보좌진 폭로에…원외서 김병기방지법 요구‘의원 갑질·처벌, 피선거권·보조금 박탈’ 규정“金, 국감앞 고액접대 뇌물의혹도 소소할 지경”“국회가 나라 전체 뜯어먹는 힘센 기생충집단”“‘선거로 심판’? 옛시대 억지…의법 처벌해야”장진영도 ‘동작구의회 법카’ 리스크 정면겨냥",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "대만서 7.0 지진…TSMC \"안전시스템 정상작동\"",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/sbscnbc/20251228091502919dsyh.jpg",
+        "url": "https://v.daum.net/v/20251228090902071",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "中 방문하고 지방 곳곳 순찰…北김정은, 공개활동 9년래 최다",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/Edaily/20251228100904892hpdk.jpg",
+        "url": "https://v.daum.net/v/20251228100903851",
+        "summary": "통일연구원 데이터베이스 분석…올해 공개활동 131회2016년 이후 9년만에 가장 활동적인 한 해 보내내년 9차 당대회 앞두고 지방사업 챙기며 공사현장 시찰↑9월 中 전승절 찾고 푸틴과 전화 등 정상회담도 5차례",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "올해 한국인이 가장 많이 사용한 SNS는 유튜브·카톡…독주 체제 굳혀",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/newsy/20251228105843543zsfi.jpg",
+        "url": "https://v.daum.net/v/20251228105843631",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"아들과 절연은 네탓\" 며느리 흉기로 찔러…2심도 징역 3년",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/yonhap/20251228111103341wfvk.jpg",
+        "url": "https://v.daum.net/v/20251228111103885",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "경북도 \"글로벌 경쟁력 AI로 승부수\"",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/551749-b6x3I4h/20251228103532306lcni.jpg",
+        "url": "https://v.daum.net/v/20251228103531237",
+        "summary": "2025 정책자문위원회 총회전문가 10명 특별위원 위촉장영재 카이스트 교수 특강\"AI 기반 혁신·정책 필수적\"",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미모의 승무원 아내, 호텔서 잔혹 살해…체포된 前남편 “VIP 콜걸이라 의심”",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/ned/20251228111208687uwgv.jpg",
+        "url": "https://v.daum.net/v/20251228111208910",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“때 밀러 한국가요” 한국 관광 필수 된 K때밀이",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/chosun/20251228113006171nmne.jpg",
+        "url": "https://v.daum.net/v/20251228110305767",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "5대금융 조직개편…생산금융·AI ‘앞으로’",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/dt/20251228112904922juuo.jpg",
+        "url": "https://v.daum.net/v/20251228112904226",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "감사원, 2746억건 행정자료 소실 '국정자원 화재 사태' 감사 착수",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/NEWS1/20251228105435119fevb.jpg",
+        "url": "https://v.daum.net/v/20251228105434545",
+        "summary": "내년 1월30일까지 진행\"재난복구시스템 구축 및 작동실태 점검\"",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "유튜브에 AI 제작 저질 영상 홍수…연 1700억원 수익",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/dt/20251228102638514pvnn.jpg",
+        "url": "https://v.daum.net/v/20251228102637074",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "제천시장 연루 의혹 ‘선거 지지자 명부’ 유출 논란…지방선거 앞두고 파장",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/551720-1mNJJLP/20251228112359226bkoi.jpg",
+        "url": "https://v.daum.net/v/20251228112358148",
+        "summary": "실명·직업·동원 가능 인원까지 기재…사전선거운동·개인정보 침해 여부 쟁점",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "美국무, 부정선거 의혹 받는 온두라스 당선인에 “명확한 승리 축하”",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/munhwa/20251228091105339ndif.png",
+        "url": "https://v.daum.net/v/20251228091104075",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"고수익 유혹에 '도그푸셔' 된 한국인들… 아직도 동남아서 범죄에 동원\" [외교안보 문·지·방]",
+        "time": "2025-12-28T02:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/hankooki/20251228110128679ujrn.jpg",
+        "url": "https://v.daum.net/v/20251228110126691",
+        "summary": "함중영 한양대 국제대학원 겸임교수 인터뷰동남아 자리잡은 중국계 초국경 범죄동원된 한국인들 대다수가 '도그푸셔'온라인 계몽 및 국제사회 공론화 필요",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미얀마 쿠데타 후 첫 총선, 최종결과는 한달 뒤…'군부 집권' 장기화?",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/moneytoday/20251228105806624yvmy.jpg",
+        "url": "https://v.daum.net/v/20251228105805615",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "트럼프, 네타냐후와 29일 '가자 2단계' 회담…소말릴란드 인정에 딴지",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/NEWS1/20251228101439144utjl.jpg",
+        "url": "https://v.daum.net/v/20251228101437909",
+        "summary": "미국 플로리다주 마러라고서 오후 3시 30분 만나하마스 무장 해제·이스라엘군 철수·국제안정화군 파병 논의",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "중국의 ‘한일령’, 일본을 누르는 모든 방식…공격만 빼고 사실상 다했다? 중국의 일본 압박 총정리 [특파원 토크, 특톡]",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/Channela/20251228090304421psvu.jpg",
+        "url": "https://v.daum.net/v/20251228090303010",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "트럼프 \"가짜뉴스\" 대놓고 면박…언론통제 먼 나라 얘기 아니다",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/joongang/20251228090221830mlcd.jpg",
+        "url": "https://v.daum.net/v/20251228090220974",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "日기시다 전 총리 “대사관앞 소녀상 적절 대응 요구돼”",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/dt/20251228111835701litt.jpg",
+        "url": "https://v.daum.net/v/20251228111834041",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "日, 광역·기초 지자체 업무 통합 검토…\"지방분권 전환점\"",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/yonhap/20251228110256831xdls.jpg",
+        "url": "https://v.daum.net/v/20251228110256754",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미국·우크라 정상 담판 D-1...'한반도식 종전' 적용될까?",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/YTN/20251228091910779nufp.jpg",
+        "url": "https://v.daum.net/v/20251228091909165",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미·우 정상회담 하루 앞두고 러, 공습…최소 1명 사망(종합)",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/newsis/20251228100202453pnjk.jpg",
+        "url": "https://v.daum.net/v/20251228100202690",
+        "summary": "젤렌스키 \"푸틴, 평화 의지 없어\"…안보 보장·영토 문제 논의 앞두고 긴장 고조러시아, 키이우에 드론 519기·미사일 40기 발사…민간 피해·대규모 정전 발생",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "일본선 '지미혼'도 안한다…식 없는 결혼 나시혼·포토혼 대세",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/joongang/20251228090226013nfdo.jpg",
+        "url": "https://v.daum.net/v/20251228090224978",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "5년 동안 패스트푸드만…印 소녀 사망, 장에서 나온 ‘6리터’ 물질",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/seoul/20251228105010101zaga.png",
+        "url": "https://v.daum.net/v/20251228105005478",
+        "summary": "“5~6년 동안 집밥 안 먹고 정크푸드만”장 협착 수술 후 장티푸스 등 합병증에 사망“잘못된 식습관이 소화기 건강 망쳤을 수도”",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "이란 대통령 \"현재 우리는 美·이스라엘·유럽과 전쟁 중\"",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/yonhap/20251228103742617csbv.jpg",
+        "url": "https://v.daum.net/v/20251228103742271",
+        "summary": "무력행사·제재 따른 긴장악화 속 위기국면 자체 진단이스라엘 예방타격 시사에 트럼프·네타냐후 논의 촉각",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "韓·中·이란·우크라인 참여 토론토 다인종우호협회 ‘동짓날 팥죽 나누기 행사’ … 평화와 연대 다짐",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/munhwa/20251228101238910wfvt.jpg",
+        "url": "https://v.daum.net/v/20251228101237893",
+        "summary": "한인·중국·이란·우크라이나 커뮤니티 한자리서 정의·평화 기원 토론토 민주평통 이병룡 회장 특별 참석, 다문화 화합 강조최고령 88세 어르신 사모가 직접 만든 팥죽 나눠",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“탄핵당한 한국 대통령은 야생돼지? 윤석열?” 영국 신문 퀴즈…“어렵네”",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/hani/20251228103641518bsxh.jpg",
+        "url": "https://v.daum.net/v/20251228103640253",
+        "summary": "‘가디언’ 연말 퀴즈에 한국 관련 문항‘Yasaeng Dwaeji’ 보기 넣어 풍자 한국 누리꾼들 “복수 정답” “어렵다”",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미얀마, 쿠데타 이후 4년여만에 총선…국제사회 “군부통치 포장 쇼”",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/munhwa/20251228105607178uvba.jpg",
+        "url": "https://v.daum.net/v/20251228105605573",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "폴란드, 러시아 영공침범 대비해 국경에 '드론 장벽' 구축",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251228095101519",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"푸틴 축출\" 우크라 편서 싸우던 러 무장 단체 지도자 사망",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/NEWS1/20251228014524701blfj.jpg",
+        "url": "https://v.daum.net/v/20251228014523018",
+        "summary": "우크라 전선서 드론 공격으로 사망…RVC \"반드시 복수\"",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "트럼프 \"젤렌스키 수정안, 내가 승인해야\"…러는 키이우 초토화(종합)",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/NEWS1/20251228110943019kest.jpg",
+        "url": "https://v.daum.net/v/20251228110942859",
+        "summary": "트럼프-젤렌스키, 28일 오후 美 마러라고서 회담우크라이나 수정 평화안 논의 전망…쟁점은 여전",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "미얀마, 군사쿠데타 4년 10개월만에 총선 개시…1차투표 실시",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/yonhap/20251228090248584peux.jpg",
+        "url": "https://v.daum.net/v/20251228090248000",
+        "summary": "내년 1월 2·3차 투표…'군사정권 지원' USDP 압승 관측수치 고문의 NLD 등 야당은 배제…국제사회 \"군정 집권연장 요식행위\"",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "\"트럼프 임기 내 다시 달에 간다\"…억만장자 NASA 수장의 자신감",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/ked/20251228100751185natn.jpg",
+        "url": "https://v.daum.net/v/20251228100749833",
+        "summary": "재러드 아이작먼 NASA 신임 국장 CNBC 인터뷰",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“큰 지진이다!” 비명 지르며 대피…타이완 ‘규모 7.0’ 강진 순간 [지금뉴스]",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/kbs/20251228110502410rbgo.png",
+        "url": "https://v.daum.net/v/20251228110459788",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "[크랩] 올해도 노벨상 못 탄 트럼프, 그런데 오히려 좋다고?",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/kbs/20251228110709116wnta.jpg",
+        "url": "https://v.daum.net/v/20251228110705823",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      },
+      {
+        "title": "“美 입국 심사, 미용실 사장이?” 트럼프 인사에 여론 들끓어 [핫이슈]",
+        "time": "2025-12-28T02:34:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/28/seoul/20251228111106259ofot.jpg",
+        "url": "https://v.daum.net/v/20251228111103886",
+        "summary": "비자·여권 총괄 요직에 민간 사업가 출신 임명…댓글 3000개 넘겨",
+        "source": "daum",
+        "date": "2025년 12월 28일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 12월 28일 일요일",
+    "articles": [
+      {
         "title": "\"TV서 경북 산불 보고…\" 호기심에 산에 불 지른 50대 2심도 실형",
         "time": "2025-12-28T10:01:00",
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/28/7195424_high.jpg",
