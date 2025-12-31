@@ -753,6 +753,54 @@
         "url": "https://www.fnnews.com/news/202512311732037889",
         "source": "Fn",
         "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "저무는 '예대마진 시대'… 4대금융, 비이자수익 영토 확장",
+        "time": "2025-12-31T18:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311844104968",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "美 조선업 심장부에 K기업…'마스가' 대항해 닻올린다",
+        "time": "2025-12-31T18:40:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311839402577",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "양자컴으로 미래 난제 푼다… 기술 주도하는 'IBM의 두뇌' [AI 르네상스 시대]",
+        "time": "2025-12-31T18:36:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311835430061",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "檢, '쪼개기 후원' UPF 회장 송광석 기소...한학자 등은 보완수사 요구",
+        "time": "2025-12-31T18:49:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311832201861",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "K-OTC, 시총 21조 넘기며 2025년 마무리… ‘새내기’ 케이조선 견인, 일주일 만에 4조",
+        "time": "2025-12-31T18:49:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311848556698",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"AI·HBM 수요 폭발\"… 반도체株, 올해 ‘랠리 2막’ 열린다",
+        "time": "2025-12-31T18:49:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202512311848492797",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
       }
     ]
   },
@@ -3027,6 +3075,69 @@
         "img": "https://img7.yna.co.kr/photo/ap/2025/12/31/PAP20251231085201009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20251231123600084",
         "summary": "'캄보디아 드론 태국 침입' 마찰 끝 휴전합의 이행",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "경찰, 예정 없던 '숙박권' 고발까지 조사…김병기 수사 속도(종합2보)",
+        "time": "2025-12-31T18:43:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/12/30/PYH2025123011040001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231070552004",
+        "summary": "'강선우 1억' 등 고발 10건 서울청 이첩…곧 강제수사 전망",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[신년사] 장동혁 \"자유민주주의 지키고 화해·통합의 미래 열겠다\"",
+        "time": "2025-12-31T18:20:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/12/31/PYH2025123105450001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231113200001",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[신년사] 우주청장 \"우주항공 생태계 현실로 구현할 것\"",
+        "time": "2025-12-31T18:40:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/12/12/PYH2025121204160001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231126800017",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "오토바이가 횡단보도 건너던 어린이 2명 치고 도주…경찰 추적",
+        "time": "2025-12-31T18:35:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2019/10/24/69/PCM20191024000269990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231126600064",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "부산 금정산서 아궁이에 불 피우다가 화재…60대 입건",
+        "time": "2025-12-31T18:35:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/12/31/AKR20251231127500051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231127500051",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[인사] 행정안전부",
+        "time": "2025-12-31T18:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20251231126900530",
+        "summary": "◇ 과장급 전보",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "이탈리아서 '낙태 반대' 교회종 매일 타종 논란",
+        "time": "2025-12-31T18:28:00",
+        "img": "https://img2.yna.co.kr/photo/ap/2025/12/15/PAP20251215305001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20251231124700109",
+        "summary": "산레모 교구, '태어나지 못한 아이' 위해 매일 저녁 타종",
         "source": "yna",
         "date": "2025년 12월 31일 수요일"
       }
@@ -6146,6 +6257,69 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/NEWS1/20251231181039420zzwx.jpg",
         "url": "https://v.daum.net/v/20251231181037582",
         "summary": "러시아 반정부 단체 폭로…\"크림반도 연안에 초호화 궁전\"",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[단독] 대통령실 ‘윤석열 사우나’ 진짜 있었다…실물 최초 공개",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/kbs/20251231184707333mqet.png",
+        "url": "https://v.daum.net/v/20251231184705419",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"이러다 소수당 전락할라\"···장동혁 리더십 도마에",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/seouleconomy/20251231184045475fqtv.jpg",
+        "url": "https://v.daum.net/v/20251231184043280",
+        "summary": "■ 與 악재에도 힘 못쓰는 국힘보수인사 빼가기 與 외연확장에도張, 한동훈 징계 등 집안싸움 골몰당 쇄신안에 尹 절연 담길지 관심",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "태백시의회·시 집행부 간담회 참석 여부 두고 논란 가중",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/kukinews/20251231183906652qycp.jpg",
+        "url": "https://v.daum.net/v/20251231183905255",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "'尹 대통령실 사우나 시설' KBS 단독보도 삭제 왜?",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/journalist/20251231184438773dizz.png",
+        "url": "https://v.daum.net/v/20251231184437357",
+        "summary": "KBS \"촬영시점이 경호구역 해제 전... 청와대 삭제 요구\"",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "美 조선업 심장부에 K기업…'마스가' 대항해 닻올린다",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/fnnewsi/20251231184208225gllh.jpg",
+        "url": "https://v.daum.net/v/20251231184208320",
+        "summary": "한화오션이 인수한 필리조선소2개 도크서 선박 3척 동시 건조블록공장에선 부품들 생산 분주트럼프 보호무역 강화 속에서도韓 해운기업들, 美서 도약 준비",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "저무는 '예대마진 시대'… 4대금융, 비이자수익 영토 확장",
+        "time": "2025-12-31T09:50:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/fnnewsi/20251231184639349agho.jpg",
+        "url": "https://v.daum.net/v/20251231184639397",
+        "summary": "이자수익 5년만에 감소세 전망올해 미래 먹거리 확보에 '총력'기업 키우는 생산적 금융에 집중시니어 서비스·AX도 적극 추진",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"정통망법에 기술협력 위태\"···美국무부 '이례적 대응'",
+        "time": "2025-12-31T09:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202512/31/seouleconomy/20251231184246404uped.png",
+        "url": "https://v.daum.net/v/20251231184244327",
+        "summary": "\"당국 검열 대신 민자구제책 적합\"韓 디지털규제에 민감한 반응한미 통상마찰 뇌관될수도",
         "source": "daum",
         "date": "2025년 12월 31일 수요일"
       }
@@ -18976,6 +19150,474 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/31/news-g.v1.20251231.00f3592aa15f44118b53950401abf13f_P1.jpg",
         "url": "https://news.nate.com/view/20251231n24661",
         "summary": "싱가포르 ‘젠프라임(GenPrime)’의 배아 배양실. 펨테크(FemTech)를 기반으로 한 난임 클리닉이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "쿠팡 \"국정원 직원이 강에서 노트북 건지라 말해\"",
+        "time": "2025-12-31T18:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/31/2H1Y11YF5D_2.jpg",
+        "url": "https://news.nate.com/view/20251231n25934",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "우주청 NASA 출신 모두 떠났다…김현대 항공혁신부문장 사직",
+        "time": "2025-12-31T18:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/31/7675905_small.jpg",
+        "url": "https://news.nate.com/view/20251231n25921",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "美 조선업 심장부에 K기업…'마스가' 대항해 닻올린다",
+        "time": "2025-12-31T18:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/31/202512311839449169_l.jpg",
+        "url": "https://news.nate.com/view/20251231n25938",
+        "summary": "【파이낸셜뉴스 필라델피아(펜실베이니아)·요크타운하이츠(뉴욕)=이병철 특파원】 2026년을 여는 세계 경제의 출발선은 결코 평탄하지 않다. 트럼프 2기 행정부 출범 2년차를 맞아 글로벌 무역환경은 여전히 높은 관세장벽과 추가 보호무역 정책이 우려되고 있다. 국내 산업환경도 녹록지 않다. 경기둔화의 여진이 채 가시지 않은 가운데 노란봉투법, 상법 개정안 등 제도적 변화가 기업 경영의 변수로 등장했다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[신년사] 우주청장 \"우주항공 생태계 현실로 구현할 것\"",
+        "time": "2025-12-31T18:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/PYH2025121204160001300_P2.jpg",
+        "url": "https://news.nate.com/view/20251231n25930",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "쿠팡 \"국정원 직원 3명 만났다…용의자 연락 취해 달라 요청\"",
+        "time": "2025-12-31T18:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/31/7675717_high.jpg",
+        "url": "https://news.nate.com/view/20251231n25687",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "한화시스템, 필리핀 호위함 2척에 '함정 두뇌' 전투체계 공급",
+        "time": "2025-12-31T18:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/31/2H1XZCL75I_3.jpg",
+        "url": "https://news.nate.com/view/20251231n09999",
+        "summary": "독자 기술로 개발해 국산화;\"美·중동 등으로 수출 확대\"",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"미국 대학생 K-웹툰 배운다\"…툰스퀘어 '투닝플러스', 뉴욕대학교 정식 교과 확정",
+        "time": "2025-12-31T18:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ht/2025/12/31/A202512310311_1.png",
+        "url": "https://news.nate.com/view/20251231n25677",
+        "summary": "AI 기반 웹툰 제작 플랫폼 기업 툰스퀘어(Toonsquare)가 개발한 창작 도구 ‘투닝플러스(Tooning Plus)’가 미국 뉴욕대학교(New York University, NYU)의 정식 교과 과정에 2027년부터 적용되는 것이 확정됐다. 해당 과정은 NYU 여름학기(Summer Session)에서 운영될 예정이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "쿠팡 \"국정원 직원이 강에서 증거 건지라 말해…협조 지시 따른 것\"",
+        "time": "2025-12-31T18:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/31/AKR20251231183104PnW_01_i.jpg",
+        "url": "https://news.nate.com/view/20251231n25728",
+        "summary": "쿠팡은 최근 발표한 개인정보유출의 자체 조사 결과와 발표해 국가정보원과 협조에 따른 것이라고 거듭 주장했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "테슬라, 韓서 모델3 '940만원' 전격 인하…공격적 행보 나서",
+        "time": "2025-12-31T18:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/31/202512311829177666_l.jpg",
+        "url": "https://news.nate.com/view/20251231n25725",
+        "summary": "[파이낸셜뉴스] 테슬라코리아가 테슬라 중형 전기 세단 '모델3'와 중형 전기 SUV '모델Y' 가격을 최대 940만원 기습 인하하면서 한국 시장에서 공격적인 행보를 펼쳤다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "공인노무사회장에 이완영 前 국회의원",
+        "time": "2025-12-31T18:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/31/AA.42827536.1.jpg",
+        "url": "https://news.nate.com/view/20251231n25584",
+        "summary": "한국공인노무사회는 제21대 회장에 이완영 노무사(사진)가 취임한다고 31일 밝혔다. 이 신임 회장 임기는 1월 1일부터 2년이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "쿠팡 \"국정원 직원 3명 만나…강에서 증거 건지라 말해\"(종합)",
+        "time": "2025-12-31T18:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/PYH2025123103880001301_P2.jpg",
+        "url": "https://news.nate.com/view/20251231n25308",
+        "summary": "국회 청문회…\"이달 초 '용의자 직접 만날 수 없다'며 요청\"",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "풍력·태양광 늘린 獨, 전력 병목 시달려…스페인도 저장설비 부족 [에너지 자립을 위한 골든타임]",
+        "time": "2025-12-31T18:22:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25478",
+        "summary": "전 세계가 탄소배출 감축·에너지 안보 강화·경제성 확보를 목표로 에너지 믹스 전환에 속도를 내왔다. 유럽, 일본 등 주요 선진국은 재생에너지 비중 확대와 안정적 저탄소 발전원 통합을 통해 대량의 재생에너지 설치용량을 확보해 왔다. 다만 재생에너지를 늘린 대가로 계통 안정성·저장 능력 확보·전기요금 등의 새로운 도전에 직면하고 있다는 점은 우리나라에 선행지표를 제시하고 있다는 분석이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "한국석유유통協 회원사 대표 4명…석유유통질서 확립 기여",
+        "time": "2025-12-31T18:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/en/2025/12/31/1693402_712710_1450.png",
+        "url": "https://news.nate.com/view/20251231n25284",
+        "summary": "[출처=한국석유유통협회]",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "현직 경찰관 부하 직원 추행 의혹…경찰 수사",
+        "time": "2025-12-31T18:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/31/202512311726088147_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25959",
+        "summary": "\"부하 경찰 직원들을 추행했다\"는 고소장이 접수돼 경찰이 수사에 나섰다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "경찰청장 직대 \"수사·기소 분리 앞두고 책임 있게 준비할 것\" [세상&]",
+        "time": "2025-12-31T18:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/12/31/rcv.YNA.20251201.PYH2025120102910001300_P1.jpg",
+        "url": "https://news.nate.com/view/20251231n25914",
+        "summary": "유재성 경찰청장 직무대행, 2026년 신년사",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[인사] 우주항공청",
+        "time": "2025-12-31T18:40:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25897",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "목욕탕에서 도시를 읽다…한·일 기록자들, 부산서 '체류형 관광' 실험",
+        "time": "2025-12-31T18:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2025/12/31/20251231183458_2275675_437_655.JPG",
+        "url": "https://news.nate.com/view/20251231n25963",
+        "summary": "[이투데이/영남취재본부 서영인 기자]",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"와 이리 춥노\"…강릉역, 동해선 KTX 내린 해맞이객들로 붐벼",
+        "time": "2025-12-31T18:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/31/7675890_high.jpg",
+        "url": "https://news.nate.com/view/20251231n25872",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "2026년 병오년(丙午年), 대한민국 해군이 이끄는 '해양 강국'의 새 지평",
+        "time": "2025-12-31T18:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/31/01.42823236.1.jpg",
+        "url": "https://news.nate.com/view/20251231n25815",
+        "summary": "연말연시 엄중한 '연말 대비태세' 속에서 경남 창원시 진해구 해군잠수함사령부 부두에 정박한 국내 독자 설계 및 건조 3,000톤급 잠수함 신채호함 함상에서 해군 장병이 해군기를 힘차게 펼쳐 보이고 있다. 지난 16일 신채호함 뒤로 떠오른 일출은 해양 강국을 향한 우리 군의 굳건한 의지를 환하게 밝히고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "부산 금정산서 아궁이에 불 피우다가 화재…60대 입건",
+        "time": "2025-12-31T18:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/AKR20251231127500051_01_i.jpg",
+        "url": "https://news.nate.com/view/20251231n25780",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "사회복무요원 시절 '근무 태만' 송민호…병역법 위반 불구속 기소",
+        "time": "2025-12-31T18:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/12/31/20251231181601642894.jpg",
+        "url": "https://news.nate.com/view/20251231n25721",
+        "summary": "임예은 기자 (im.yeeun@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "檢, '쪼개기 후원' 송광석 기소…한학자 등 보완수사 요구",
+        "time": "2025-12-31T18:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/12/31/2025123101002779100162551.jpg",
+        "url": "https://news.nate.com/view/20251231n25646",
+        "summary": "송씨 기소로 공소시효 정지",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "중등 임용시험 일정 그대로…법원, 집행정지 신청 기각",
+        "time": "2025-12-31T18:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/12/31/4571965_high.jpg",
+        "url": "https://news.nate.com/view/20251231n25651",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "'100만' 먹방 유튜버, 여친 폭행·신고하자 또 폭행…2심도 집행유예",
+        "time": "2025-12-31T18:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/31/ae_1767173405375_702131_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25663",
+        "summary": "검찰 항소했으나 재판부 기각…원심 유지",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "검찰, '쪼개기 후원' 송광석 기소…한학자는 보완수사 요구",
+        "time": "2025-12-31T18:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/31/ZA.42776748.1.jpg",
+        "url": "https://news.nate.com/view/20251231n25700",
+        "summary": "정치권을 상대로 '쪼개기 후원' 의혹을 받는 송광석 전 천주평화연합(UPF) 회장이 재판에 넘겨졌다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[포토] 대한민국 해군, 밝은 미래를 꿈꾸다",
+        "time": "2025-12-31T18:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/12/31/01.42823226.1.jpg",
+        "url": "https://news.nate.com/view/20251231n25574",
+        "summary": "연말연시 엄중한 '연말 대비태세' 속에서 경남 창원시 진해구 해군잠수함사령부 부두에 정박한 국내 독자 설계 및 건조 3,000톤급 잠수함 도산안창호함 함상에서 해군 장병들이 해군기를 힘차게 펼쳐 보이고 있다. 지난 16일 도산안창호함 뒤로 떠오른 일출은 해양 강국을 향한 우리 군의 굳건한 의지를 환하게 밝히고 있다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[속보] \"혼자 갈 수 없었다\"…생활고에 치매 노모 살해한 50대 남성, 구속 기소",
+        "time": "2025-12-31T18:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/12/31/SSC_20250731164310_V.jpg",
+        "url": "https://news.nate.com/view/20251231n25589",
+        "summary": "[서울신문]울산 북구의 한 주택에서 치매를 앓던 노모를 살해한 50대 남성이 구속 상태로 재판에 넘겨졌다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[단독] 정치권 로비 핵심 송광석 전 UPF 회장, 의원 등 최소 10명 접촉 기록",
+        "time": "2025-12-31T18:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/12/31/202512311720407867_t.jpg",
+        "url": "https://news.nate.com/view/20251231n25522",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "부산 기장군, 15년 만에 씨름단 재창단",
+        "time": "2025-12-31T18:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/12/31/kuk20251231000316.800x.0.jpg",
+        "url": "https://news.nate.com/view/20251231n25578",
+        "summary": "부산 기장군은 '기장갈매기 씨름단'을 공식 재창단한다고 31일 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "대구 앞산 해넘이전망대 북적…을사년 마지막 해 배웅",
+        "time": "2025-12-31T18:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/31/NISI20251231_0002031281_web.jpg",
+        "url": "https://news.nate.com/view/20251231n25557",
+        "summary": "[대구=뉴시스] 이상제 기자 = 31일 대구 남구 앞산빨래터공원에 있는 해넘이전망대에서 시민들이 2025년 마지막 일몰을 촬영하고 있다. 2025.12.31. king@newsis.com",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "'손발 묶인 채 사망한 환자' 양재웅 병원, 3개월 업무정지 처분",
+        "time": "2025-12-31T18:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2025/12/31/aa15e4c85a58b9.jpg",
+        "url": "https://news.nate.com/view/20251231n25543",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "檢, '쪼개기 후원' 송광석 기소…한학자 등 3명은 보완수사 요구(종합)",
+        "time": "2025-12-31T18:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/PYH2025122403000000401_P2.jpg",
+        "url": "https://news.nate.com/view/20251231n25568",
+        "summary": "통일교 관련 단체 자금 1천300만원 국회의원 11명 후원회에 기부한 혐의",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "한수원, 내부통제 운영 성과 점검…선제적 관리체계 구축",
+        "time": "2025-12-31T18:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/31/202512311813556622_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25504",
+        "summary": "한국수력원자력은 31일 경주 본사에서 '2025년 제2차 내부통제위원회'를 열고 내부통제 운영 성과를 점검하며 실질적인 통제 강화 방안을 논의했다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "보성군, 청년공동체 성과공유회 및 제4기 청년협의체 발대식",
+        "time": "2025-12-31T18:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/31/202512311411369269_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25503",
+        "summary": "보성 청년 성과 한자리에! 청년 주도 지역 활동 확대",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "고흥군, 스마트수산업 혁신 선도지구 최종 선정",
+        "time": "2025-12-31T18:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/12/31/202512311356407999_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25496",
+        "summary": "총사업비 1900억 원 투입, 2030년까지 미래형 수산업 거점 조성",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[인사] 경북대",
+        "time": "2025-12-31T18:22:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25498",
+        "summary": "▲경북대",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "영하 날씨에 폐지 줍던 70대 쓰러져 사망",
+        "time": "2025-12-31T18:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/31/AKR20251231182041DeN_01_i.jpg",
+        "url": "https://news.nate.com/view/20251231n25473",
+        "summary": "어젯(30일) 밤 9시 25분쯤 전북 군산시 조촌동 한 길가에서 \"노인이 쓰러져 있다\"는 시민들의 신고가 접수됐습니다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "정대철 헌정회장, 전북대서 '용서의 힘' 주제 특강",
+        "time": "2025-12-31T18:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/12/31/AKR20251231182023gGH_01_i.jpg",
+        "url": "https://news.nate.com/view/20251231n25472",
+        "summary": "정대철 대한민국헌정회장이 오늘(31일) 전북대학교를 찾아 캠퍼스 주요 시설을 둘러보고 '용서'를 주제로 특강을 진행했습니다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "시진핑 \"안정 속 성장…더 성과 지향적 정책 시행\"",
+        "time": "2025-12-31T18:34:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25764",
+        "summary": "중국의 경제 성장 둔화 속에서 시진핑 중국 국가주석이 내년부터 더 성과 지향적인 거시 정책을 시행하겠다는 뜻을 밝혔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "검찰, 구치소서 강제로 불법 의료 시술한 MZ 조폭 기소",
+        "time": "2025-12-31T18:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/12/31/ae_1767173825700_672783_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25823",
+        "summary": "성기확대 시술한 수용자 4명 기소\n같은 방 재소자 협박해 상해 혐의",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "미세스 그린 애플, '달링'으로 日 레코드대상 3연패…밴드 사상 처음",
+        "time": "2025-12-31T18:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/31/NISI20250216_0020702350_web.jpg",
+        "url": "https://news.nate.com/view/20251231n25696",
+        "summary": "[서울=뉴시스]최현호 기자 = 일본 최상위급 음악상인 '일본 레코드 대상'에서 록 밴드 '미세스 그린 애플(Mrs. GREEN APPLE)'이 '달링(ダーリン)'으로 3회 연속 대상을 수상했다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "이탈리아서 '낙태 반대' 교회종 매일 타종 논란",
+        "time": "2025-12-31T18:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/PAP20251215305001009_P2.jpg",
+        "url": "https://news.nate.com/view/20251231n25622",
+        "summary": "산레모 교구, '태어나지 못한 아이' 위해 매일 저녁 타종",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"정통망법에 기술협력 위태\"···美국무부 '이례적 대응'",
+        "time": "2025-12-31T18:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/12/31/2H1Y1I0E35_1.png",
+        "url": "https://news.nate.com/view/20251231n25948",
+        "summary": "\"당국 검열 대신 민자구제책 적합\";韓 디지털규제에 민감한 반응;한미 통상마찰 뇌관될수도",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "반복되는 안전·환경 문제에···독일서 '새해 불꽃놀이 금지' 여론 확산",
+        "time": "2025-12-31T18:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/12/31/rcv.YNA.20251230.PAF20251230002001009_P1.jpg",
+        "url": "https://news.nate.com/view/20251231n25609",
+        "summary": "독일의 오랜 전통인 새해맞이 불꽃놀이를 앞두고 폭죽 판매를 금지해야 한다는 여론이 다시 확산하고 있다. 매년 이 기간 불꽃놀이로 인한 인명 피해와 폭력 사태, 환경 오염 문제가 반복돼 왔다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "타이완 해경 \"중국 군함 철수 중…훈련 끝난 듯\"",
+        "time": "2025-12-31T18:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25365",
+        "summary": "중국 인민해방군이 실시한 타이완 포위 훈련이 종료 단계에 들어간 것으로 보인다는 타이완 당국의 관측이 나왔습니다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "러 외무부 대변인 \"北김여정과 새해 선물 교환…초상화 전달\"",
+        "time": "2025-12-31T18:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/12/31/PYH2025123105210008000_P2.jpg",
+        "url": "https://news.nate.com/view/20251231n25567",
+        "summary": "(모스크바=연합뉴스) 마리야 자하로바 러시아 외무부 대변인은 김정은 북한 국무위원장의 동생인 김여정 노동당 부부장과 새해 선물을 교환했다고 30일(현지시간) 밝혔다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "양자컴으로 미래 난제 푼다…기술 주도하는 'IBM의 두뇌' [AI 르네상스 시대]",
+        "time": "2025-12-31T18:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/12/31/202512311835453778_l.jpg",
+        "url": "https://news.nate.com/view/20251231n25832",
+        "summary": "\"양자컴퓨터마다 고유한 소리가 있습니다. 마치 심장박동 같죠.\" IBM 왓슨연구소에서 45년 넘게 양자 연구를 해온 로버트 샌드스트롬 연구원의 설명이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"中기업, H200 200만개 이상 주문…개당 3900만원\"",
+        "time": "2025-12-31T18:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/12/31/PS25123100986.jpg",
+        "url": "https://news.nate.com/view/20251231n25763",
+        "summary": "<font color=\"gray\"><b>- 로이터 보도…엔비디아, TSMC에 추가 생산 요청</b></font>\n<font color=\"gray\"><b>- 중국 정부 H200 수입 승인 여부는 미지수</b></font>",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[2026 신년사] 윤영빈 우주청장 \"우주항공 5대 강국 도약 본격화…민간 주도 생태계 확대\"",
+        "time": "2025-12-31T18:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/12/31/cz_1767173106416_263863_0.jpg",
+        "url": "https://news.nate.com/view/20251231n25345",
+        "summary": "윤영빈 우주항공청장이 2026년을 ‘우주항공 5대 강국’ 도약을 위한 본격 실행의 해로 규정하고, 우주·항공 통합 거버넌스 정비, 민간 중심 산업 생태계 확대, 우주수송·위성·탐사 분야 도약, 차세대 항공기술 확보를 새해 핵심 과제로 제시했다. 특히 누리호 5차 발사와 반복 발사체계 구축, 달 통신 인프라 단계적 조성 등을 통해 상업 발사·탐사 역량을 끌어올리겠다는 구상이다.",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[인사]우주항공청",
+        "time": "2025-12-31T18:41:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251231n25924",
+        "summary": "[이데일리 강민구 기자] ●우주항공청",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "윤영빈 우주청장 \"내년은 우주항공 5대 강국 도약 실천의 해\"",
+        "time": "2025-12-31T18:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/12/31/NISI20251107_0021048068_web.jpg",
+        "url": "https://news.nate.com/view/20251231n25707",
+        "summary": "2026년 신년사…\"우주항공 생태계 현실로 구현해 나갈 것\"\n\"국가우주항공위원회 확대 개편·민간 주도 산업 생태계 확장\"\n\"누리호 5차 발사·재사용발사체 준비로 우주수송 역량 강화\"",
+        "source": "nate",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"학생, 딱 보니 그 쪽으론 재능이 없어\"…AI가 내 미래 설계해주는 시대",
+        "time": "2025-12-31T18:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/12/31/news-p.v1.20251231.e046a04e235540daa5d40fd76d05ce17_P2.png",
+        "url": "https://news.nate.com/view/20251231n25536",
+        "summary": "인공지능(AI) 기술은 눈에 보이지 않는 공기처럼, 거스를 수 없는 중력처럼 우리 곁에 이미 다가왔다. 머지않아 인간의 삶 자체를 지탱하는 거대한 인프라스트럭처가 된다.",
         "source": "nate",
         "date": "2025년 12월 31일 수요일"
       }
