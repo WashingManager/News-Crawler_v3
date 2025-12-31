@@ -993,6 +993,14 @@
         "url": "https://www.fnnews.com/news/202512311733309578",
         "source": "Fn",
         "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "트럼프 변수부터 반유대 논란까지…험로에 오른 맘다니",
+        "time": "2026-01-01T00:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601010044045688",
+        "source": "Fn",
+        "date": "2025년 12월 31일 수요일"
       }
     ]
   },
@@ -3574,6 +3582,15 @@
         "summary": "레빗 대변인, 복지지원금 부정수급 스캔들 조사 확대 예고",
         "source": "yna",
         "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "李대통령 방중 앞두고 한중 외교장관 통화…\"실질 성과 준비\"",
+        "time": "2025-01-01T00:25:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2025/09/17/PYH2025091720810008300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260101000500504",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 12월 31일 수요일"
       }
     ]
   },
@@ -3665,6 +3682,30 @@
         "time": "2025-12-31T19:26:00",
         "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3471008_3613113_2622_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471008",
+        "source": "Gukje",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "2026학년도 중앙대·한국외대·성균관대 대학 정시 마감 경쟁률",
+        "time": "2026-01-01T00:27:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3471102_3613222_354_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471102",
+        "source": "Gukje",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "[속보] 카카오톡(카톡) 2026년 1월 1일 밝자 '오류'",
+        "time": "2026-01-01T00:02:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3471163_3613275_158_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3471163",
+        "source": "Gukje",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "\"일출·해맞이 보러 고속도로 가시나요?...'이것' 조심하세요\"",
+        "time": "2026-01-01T00:19:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202512/3470990_3613087_2846_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3470990",
         "source": "Gukje",
         "date": "2025년 12월 31일 수요일"
       }
@@ -8013,6 +8054,96 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/imbc/20260101000413228pjjd.jpg",
         "url": "https://v.daum.net/v/20260101000413604",
         "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "“AI산업, 이익 사이클에 본격 진입… 핵심 수혜국으로 한국 떠올라”",
+        "time": "2025-12-31T15:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/chosun/20260101003505079sewh.jpg",
+        "url": "https://v.daum.net/v/20260101003503037",
+        "summary": "글로벌 IB들이 보는 투자 전략",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "AI 빅테크 “뭉쳐야 산다”…  명운 건 인수·합병 전쟁",
+        "time": "2025-12-31T15:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/kukminilbo/20260101003751186wwii.jpg",
+        "url": "https://v.daum.net/v/20260101003749079",
+        "summary": "엔비디아 투자 러시… 파운드리 지형 변화 경쟁 뒤처진 메타, 공격적 인수로 열세 만회알파벳, 데이터센터 확장에 필요 전력 확보",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "AI 도움 받는 로봇, 절단→정렬→용접 스스로 처리",
+        "time": "2025-12-31T15:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://img1.daumcdn.net/kakaotv/dn/static/default/thumbnail.png",
+        "url": "https://v.daum.net/v/20260101003324015",
+        "summary": "[제조업 ‘AI 전환’ 현장을 가다]<1> HD현대중공업 용연 공장",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "한중 외교장관 통화···“정상회담 성과 면밀히 준비”",
+        "time": "2025-12-31T15:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/seouleconomy/20260101003236406xdsa.jpg",
+        "url": "https://v.daum.net/v/20260101003035933",
+        "summary": "한반도·동북아 정세 대한 의견도 교환",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "“中, 반도체 공장 만들 때… 中장비 50%사용 의무화”",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260101003209974",
+        "summary": "로이터 “해외의존도 낮추려는 조치”반도체 자급자족 위해 투자도 강화",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "국내외 격변 속에 새해 맞이하는 일본...시민들 \"좀더 나은 삶과 평화를\"",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/YTN/20260101003715461iiqg.jpg",
+        "url": "https://v.daum.net/v/20260101003714073",
+        "summary": "일본 시민들, 신사·재래시장 찾으며 새해 준비장바구니 물가 등 경제 상황 나아지길 소망일본, 헌정 사상 처음으로 여성 총리 배출한일 관계 개선 분위기 새해에도 이어갈 듯",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "희망과 우려 속 건국 250주년, 트럼프 도전 과제는?",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/YTN/20260101003413941msgt.jpg",
+        "url": "https://v.daum.net/v/20260101003413024",
+        "summary": "트럼프 대통령, 오늘 저녁 새해 맞이 행사 참여차분한 분위기 속 신년맞이…내년 건국 250주년'미국 우선주의' 트럼프 2기 리더십 내년 시험대물가인상·강경 이민정책으로 트럼프 지지율 하락",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "이란에도 ‘MZ 분노’ 상륙… 청년들 “고물가에 못 살겠다” 거리로",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/chosun/20260101004351967nopl.jpg",
+        "url": "https://v.daum.net/v/20260101004349178",
+        "summary": "상인들도 합세, 정권 퇴진 시위대통령은 중앙은행 총재 경질",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "전쟁 속 새해 맞이하는 유럽...\"화합 이루는 세상 찾아오길\"",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/YTN/20260101003714003mkcb.jpg",
+        "url": "https://v.daum.net/v/20260101003713072",
+        "summary": "",
+        "source": "daum",
+        "date": "2025년 12월 31일 수요일"
+      },
+      {
+        "title": "“유튜버가 쏘아 올린 대형 복지 스캔들”… 美 보건부, 2600억 보육 지원 중단",
+        "time": "2025-12-31T15:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/01/etimesi/20260101003751671tkeu.jpg",
+        "url": "https://v.daum.net/v/20260101003750080",
+        "summary": "美 보건복지부, 연방 보육 지원금 지급 동결",
         "source": "daum",
         "date": "2025년 12월 31일 수요일"
       }
