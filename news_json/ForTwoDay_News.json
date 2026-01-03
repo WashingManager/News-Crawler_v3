@@ -81,6 +81,30 @@
         "url": "https://www.fnnews.com/news/202601031359239312",
         "source": "Fn",
         "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"베네수엘라 수도서 7차례 폭발음..항공기 저공비행\"",
+        "time": "2026-01-03T16:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031604571471",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수엘라 수도서 7차례 폭발음..항공기 저공비행\"",
+        "time": "2026-01-03T15:50:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031547076323",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "강원 동해 해역서 규모 2.2 지진 발생...\"피해 없을 듯\"",
+        "time": "2026-01-03T15:48:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031543547560",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
       }
     ]
   },
@@ -468,6 +492,24 @@
         "summary": "",
         "source": "yna",
         "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "의협, 한방 난임치료 지원 중단 촉구…\"과학적 검증이 먼저\"",
+        "time": "2026-01-03T16:04:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/03/AKR20260103029500530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103029500530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "동해남부먼바다에 풍랑주의보 해제",
+        "time": "2026-01-03T15:59:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103029900527",
+        "summary": "울산서부·울산동부에 건조경보 유지",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
       }
     ]
   },
@@ -575,6 +617,14 @@
         "time": "2026-01-03T14:53:00",
         "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472595_3614915_5327_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472595",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "이별 통보에 여성 살해…60대男 현행범 체포",
+        "time": "2026-01-03T15:54:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472611_3614933_5337_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472611",
         "source": "Gukje",
         "date": "2026년 01월 03일 토요일"
       }
@@ -1705,6 +1755,258 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/NEWS1/20260103152543885fwhm.jpg",
         "url": "https://v.daum.net/v/20260103152542088",
         "summary": "NYT \"매달 수백~수천 달러 추가 부담 발생…보험 해지하기도\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "AI 대전환에 머니무브까지…4대금융 회장 신년사에 드러난 '위기감'",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/moneytoday/20260103155206194vuwe.jpg",
+        "url": "https://v.daum.net/v/20260103155150293",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "대전충남·광주전남 '초광역 통합' 가속…전주·완주는 교착 '전북 샌드위치' 위기",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/pressian/20260103155542183cyux.jpg",
+        "url": "https://v.daum.net/v/20260103155540347",
+        "summary": "타 시·도 초광역 재편 속 인구·기능 유출 압박 커지는데 전주·완주 통합은 답보",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'강선우 공천헌금 수수' 의혹에 정청래 \"불미스러운 사건, 사과드린다\"",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ohmynews/20260103155244608bosc.jpg",
+        "url": "https://v.daum.net/v/20260103155242303",
+        "summary": "6월 지방선거 '깨끗한 공천' 다짐... '클린 선거 암행어사단' 발족 \"비리 적발시 직권 일벌백계\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "윤석열의 신년 메시지 “적토마처럼 나아가자”",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/chosun/20260103160008409qqqm.jpg",
+        "url": "https://v.daum.net/v/20260103153950188",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[지구촌톡톡] '주우면 임자'…치솟는 금값에 호주 금 사냥꾼 인기",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103155527242smon.jpg",
+        "url": "https://v.daum.net/v/20260103155527343",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종착역으로 향하는 윤석열 '내란 재판' 열차",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ohmynews/20260103161245108ixkb.jpg",
+        "url": "https://v.daum.net/v/20260103161243474",
+        "summary": "[주간내란재판 리포트] 2025년 12월 5주차(2025년 12월 29일~2026년 1월 2일)",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“남처럼 거부·남달리 열정·남다른 성공” 소상공인 지원 ‘AI 새바람’ [2026 신년특집]",
+        "time": "2026-01-03T07:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kyeonggi/20260103160121671dkgl.png",
+        "url": "https://v.daum.net/v/20260103160120391",
+        "summary": "경기중기청·디지털커머스 전문기관 ‘소담스퀘어 당산’ 변신 주도라이브커머스·상세페이지 제작·온·오프라인 기획전 프로그램",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수 수도서 최소 7차례 폭발음…항공기 저공비행\" < AP>",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mbn/20260103162144627hzks.jpg",
+        "url": "https://v.daum.net/v/20260103162142542",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "반(反) 트럼프 vs 트럼프 [지금은 기후위기]",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/inews24/20260103162305324lvku.jpg",
+        "url": "https://v.daum.net/v/20260103162303548",
+        "summary": "다자주의 vs MAGA 대치 속에 기후위기 해법 지지부진",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "아스피린 권장량 4배 복용하는 트럼프…전문가들 부작용 경고",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/NEWS1/20260103161341419jlvz.jpg",
+        "url": "https://v.daum.net/v/20260103161341482",
+        "summary": "의료계 \"이득 없이 출혈 위험만 증가\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]AP “베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행”",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/donga/20260103155443311noif.jpg",
+        "url": "https://v.daum.net/v/20260103155442324",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 수도서 최소 7차례 폭발음, 항공기 저공 비행",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/chosun/20260103161702473epve.jpg",
+        "url": "https://v.daum.net/v/20260103161701512",
+        "summary": "美 연방항공청 “베네수엘라 영공 내 미 항공기 운항 전면 금지”베네수엘라 공군 전력 핵심 기지 노려軍 전문가들 “고도의 은밀 작전, 전면전으로 가는 듯”",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "캄보디아 \"태국, 휴전 상황서 국경마을 불법 합병 시도\"",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mbn/20260103155926444vblh.jpg",
+        "url": "https://v.daum.net/v/20260103155923375",
+        "summary": "-태국 \"캄보디아가 태국 영토 점령\" 반박",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]\"베네수 수도서 최소 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/akn/20260103155442740kvht.png",
+        "url": "https://v.daum.net/v/20260103155442323",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "극우 마차도에게 간 메달, 오간 데 없는 노벨의 유지",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hani21/20260103155435617kpwe.jpg",
+        "url": "https://v.daum.net/v/20260103155432321",
+        "summary": "노벨재단 고발한 어산지 “‘전쟁범죄 조장’ 금지 위반”… 마두로 정권 향한 ‘선전포고’는 트럼프의 ‘사심’?",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수엘라 수도서 7차례 폭발음..항공기 저공비행\"",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/fnnewsi/20260103155207237hjcl.jpg",
+        "url": "https://v.daum.net/v/20260103155207294",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] AP “베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행”",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103161407472iqnu.jpg",
+        "url": "https://v.daum.net/v/20260103161101461",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수 수도서 최소 7차례 폭발음…항공기 저공비행\" < AP>",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103154444338lnzb.jpg",
+        "url": "https://v.daum.net/v/20260103154444221",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"매달 보험료 390만원 더 내라\" 소식에···서민들 곡소리 나는 미국, 왜?",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/seouleconomy/20260103160647974icnh.jpg",
+        "url": "https://v.daum.net/v/20260103160645433",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“총 숨기라고? 그게 위헌이다!”…‘트럼프 판사’의 판결 [이런뉴스]",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103162308820hiyo.png",
+        "url": "https://v.daum.net/v/20260103162305549",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]“베네수 수도서 7차례 폭발음…항공기 저공비행”",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Channela/20260103161551725aktk.jpg",
+        "url": "https://v.daum.net/v/20260103161550505",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "예멘 분리주의세력 '독립 선언'…사우디는 직접 타격",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hankooki/20260103155806550kthu.jpg",
+        "url": "https://v.daum.net/v/20260103155804361",
+        "summary": "남부과도위, 독립 헌법 발표 \"2년 후 투표\"사우디, 접경지 탈환 공세에 긴장감 고조",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]“베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행”",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/donga/20260103162502847yltt.jpg",
+        "url": "https://v.daum.net/v/20260103160549425",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[영상구성] “잘 봐 어른들 싸움이다” 스페인 밀가루 전투",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103155845637ydij.jpg",
+        "url": "https://v.daum.net/v/20260103155845371",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 베네수엘라 수도서 7차례 폭발음…항공기 저공비행 포착",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kedtv/20260103161542885wyel.png",
+        "url": "https://v.daum.net/v/20260103161542504",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"중국 국민, 한국·미국 호감도 높아져…일본은 최하\"",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mbn/20260103160124874yxza.png",
+        "url": "https://v.daum.net/v/20260103160123392",
+        "summary": "한국, 작년에 비해 0.51점 상승…러시아·영국·유럽연합·아세안 이어 5번째다카이치 총리 영향으로 일본은 호감도 가장 낮아",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“홍콩 ‘아파트 보수공사’ 비리 혐의로 21명 체포”",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103155905492dgcr.jpg",
+        "url": "https://v.daum.net/v/20260103155805365",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 수도에서 7차례 폭발음...항공기 저공비행 포착",
+        "time": "2026-01-03T07:28:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260103162100533",
+        "summary": "",
         "source": "daum",
         "date": "2026년 01월 03일 토요일"
       }
@@ -6669,6 +6971,276 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103504096.jpg",
         "url": "https://news.nate.com/view/20260103n06081",
         "summary": "불가리아의 유명 예언가 바바 반가의 ‘2026년 예언’이 재주목받고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "AI 대전환에 머니무브까지…4대금융 회장 신년사에 드러난 '위기감'",
+        "time": "2026-01-03T15:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/mt_1767423064466_733628_0.jpg",
+        "url": "https://news.nate.com/view/20260103n06308",
+        "summary": "4대 금융그룹 회장들이 2026년 병오년 키워드로 AI(인공지능) 등 첨단기술 발전으로 인한 금융시장 패러다임 변화를 꼽으며 위기감을 드러냈다. 은행 예금 중심의 수익 구조가 흔들리는 데다 은행 자금이 증권으로 빠져나가는 '머니 무브' 현상까지 가속화한 데 따른 것이다. 4대 금융 수장들은 생존을 위해 체질을 바꾸는 한편, 정부가 강조하는 생산적 금융을 새로운 비즈니스 창출 기회로 활용한다는 방침이다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 약값 압박에도 美 제약사들 가격 인상…350개 의약품 줄줄이 올라",
+        "time": "2026-01-03T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/en/2026/01/03/1693657_713004_1047.png",
+        "url": "https://news.nate.com/view/20260103n06504",
+        "summary": "도널드 트럼프 행정부가 제약업계를 향해 약가 인하를 압박하고 있음에도, 미국 시장에서는 주요 의약품 가격 인상 기조가 되레 뚜렷해지고 있다. [출처=오픈 AI]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "김병기 금품수수도 경찰 수사…접수 의혹만 12건",
+        "time": "2026-01-03T15:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601031552428544_t.jpg",
+        "url": "https://news.nate.com/view/20260103n06375",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "오늘 밤 우주쇼 펼쳐진다…올해 '첫 보름달'에 유성우까지",
+        "time": "2026-01-03T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/03/01.42848979.1.jpg",
+        "url": "https://news.nate.com/view/20260103n06341",
+        "summary": "3일 밤 올해 첫 보름달이 떠오른다. 또한 첫 유성우를 관측할 수 있을 것으로 예상된다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]\"베네수엘라 수도서 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T15:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300295.jpg",
+        "url": "https://news.nate.com/view/20260103n06338",
+        "summary": "[이데일리 송승현 기자]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수 수도서 수차례 폭발음…항공기 저공비행(상보)",
+        "time": "2026-01-03T16:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767424264714_931734_0.jpg",
+        "url": "https://news.nate.com/view/20260103n06471",
+        "summary": "최동현 기자 nell@asiae.co.kr",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "아스피린 권장량 4배 복용하는 트럼프…전문가들 부작용 경고",
+        "time": "2026-01-03T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7657999_high.jpg",
+        "url": "https://news.nate.com/view/20260103n06483",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 베네수엘라 수도서 7차례 폭발음…항공기 저공비행 포착",
+        "time": "2026-01-03T16:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/03/dc21c498-50a7-4cca-b3ee-4f39f55a98a7.jpg",
+        "url": "https://news.nate.com/view/20260103n06465",
+        "summary": "3일(현지시간) 새벽 베네수엘라 수도 카라카스에서 여러차례 폭발음이 들렸다고 AP, AFP, 로이터 통신 등 외신들이 일제히 보도했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"베네수엘라 수도서 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601031552569005_l.jpg",
+        "url": "https://news.nate.com/view/20260103n06499",
+        "summary": "[파이낸셜뉴스] 3일(현지시간) 새벽 베네수엘라 수도 카라카스에서 여러 차례 폭발음이 들렸다고 AP, AFP, 로이터 통신 등 외신들이 일제히 보도했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"구글 'AI 오버뷰', 잘못된 건강 조언으로 위험 초래 가능성\"",
+        "time": "2026-01-03T16:14:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n06497",
+        "summary": "구글의 인공지능(AI) 요약 기능이 잘못된 건강 정보를 제공해 사람들에게 위험을 초래할 가능성이 있다고 영국 일간 가디언이 현지시간 2일 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"구글 'AI 오버뷰', 잘못된 건강 정보로 위험 초래 우려\"",
+        "time": "2026-01-03T16:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/news-p.v1.20250422.14c6c620bfd94fa4a55a4db1d78a76d4_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n06454",
+        "summary": "英가디언 “부정확한 정보를 검색 최상단에 표시”",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "中 피임약·콘돔에 세금 13% 부활…\"출산율 높이기 위해\"",
+        "time": "2026-01-03T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20250103_0001742327_web.jpg",
+        "url": "https://news.nate.com/view/20260103n06463",
+        "summary": "[서울=뉴시스]박지혁 기자 = 중국이 출산율을 높이기 위해 안간힘이다. 그동안 면세였던 피임약, 콘돔 등에 13%의 세금을 매기기로 했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수 수도서 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20260103n06420",
+        "summary": "후속기사가 이어집니다",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "홍콩 '아파트 보수공사' 비리혐의 21명 체포…일부는 조폭과 관련",
+        "time": "2026-01-03T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/03/20260103500381.jpg",
+        "url": "https://news.nate.com/view/20260103n06462",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "유명인도 납치…\"무서워서 못 가겠네\" 흔들리는 '관광 대국' 태국",
+        "time": "2026-01-03T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767424205319_137135_0.jpg",
+        "url": "https://news.nate.com/view/20260103n06266",
+        "summary": "작년 외국인 여행객 7% 감소\n범죄·전쟁이 영향 미친 듯\n베트남으로 관광객은 역대 최대",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행",
+        "time": "2026-01-03T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/rcv.YNA.20260103.PAP20260103091101009_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n06433",
+        "summary": "[헤럴드경제=권제인 기자] 3일(현지시간) 새벽 베네수엘라 수도 카라카스에서 최소 7차례 폭발음이 들렸다고 외신들이 일제히 보도했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 수도 카라카스에서 최소 7차례 폭발음",
+        "time": "2026-01-03T16:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/03/2K75RTCE60_1.jpg",
+        "url": "https://news.nate.com/view/20260103n06425",
+        "summary": "저공 비행하는 항공기 소리도 들려;수도 곳곳 폭발음과 함께 연기 목격",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]\"베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T16:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/03/133085584.1.jpg",
+        "url": "https://news.nate.com/view/20260103n06417",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"매달 보험료 390만원 더 내라\" 소식에···서민들 곡소리 나는 미국, 왜?",
+        "time": "2026-01-03T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/03/2K75RA93L4_1.jpg",
+        "url": "https://news.nate.com/view/20260103n06429",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]\"베네수 수도서 최소 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T16:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767423964586_807300_0.png",
+        "url": "https://news.nate.com/view/20260103n06324",
+        "summary": "최동현 기자 nell@asiae.co.kr",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[영상구성] \"잘 봐 어른들 싸움이다\" 스페인 밀가루 전투",
+        "time": "2026-01-03T15:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/808983_1767423446.jpg",
+        "url": "https://news.nate.com/view/20260103n06374",
+        "summary": "서로에게 밀가루 뿌리고",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"중국 국민, 한국·미국 호감도 높아져…일본은 최하\"",
+        "time": "2026-01-03T16:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/17674223446958b98855037.png",
+        "url": "https://news.nate.com/view/20260103n06397",
+        "summary": "이재명 대통령의 중국 국빈 방문을 앞둔 와중에 중국 국민의 한국에 대한 호감도가 높아졌다는 조사 결과가 공개됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "캄보디아 \"태국, 휴전 상황서 국경마을 불법 합병 시도\"",
+        "time": "2026-01-03T15:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/17674226916958bae343d55.jpg",
+        "url": "https://news.nate.com/view/20260103n06370",
+        "summary": "캄보디아가 최근 20일 동안 교전을 벌인 태국이 휴전에 합의한 뒤에도 국경 마을을 불법으로 합병하고 있다고 주장했습니다. 태국은 애초 자국 땅에 캄보디아 민간인들이 침입해 오랫동안 살았다고 맞섰습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 베네수엘라 수도 카라카스서 최소 7차례 폭발음·항공기 저공 비행",
+        "time": "2026-01-03T15:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103504261.jpg",
+        "url": "https://news.nate.com/view/20260103n06311",
+        "summary": "베네수엘라의 수도 카라카스에서 3일(현지시간) 오전 2시쯤 최소 7건의 폭발음과 저공 비행하는 항공기 소리가 들렸다고 AP통신이 보도했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"中국민, 한국에 대한 호감도 높아져…日 호감도 가장 낮아\"",
+        "time": "2026-01-03T15:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/03/ch_1767423424680_441271_0.jpg",
+        "url": "https://news.nate.com/view/20260103n06365",
+        "summary": "중국 싱크탱크가 실시한 설문조사 결과 중국 국민 사이에서 한국에 대한 호감도가 높아진 것으로 나타났다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "예멘 분리주의세력 '독립 선언'…사우디는 직접 타격",
+        "time": "2026-01-03T15:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/03/1f076246-6595-49cc-9ff5-4d8c13771530.jpg",
+        "url": "https://news.nate.com/view/20260103n06361",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[지구촌톡톡] '주우면 임자'…치솟는 금값에 호주 금 사냥꾼 인기",
+        "time": "2026-01-03T15:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/808954_1767423242.jpg",
+        "url": "https://news.nate.com/view/20260103n06354",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]AP \"베네수엘라 수도서 최소 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T15:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/03/125588468.1.jpg",
+        "url": "https://news.nate.com/view/20260103n06343",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"베네수엘라 수도서 7차례 폭발음…항공기 저공비행\"",
+        "time": "2026-01-03T15:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202507171045541058_l.jpg",
+        "url": "https://news.nate.com/view/20260103n06305",
+        "summary": "[파이낸셜뉴스]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"살려달라던 눈빛 못잊어\" 스위스 화재서 맨몸으로 10명 구한 '시민 영웅'",
+        "time": "2026-01-03T15:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/2026010315272526794_1.jpg",
+        "url": "https://news.nate.com/view/20260103n06350",
+        "summary": "새해 첫날 스위스 유명 휴양지 술집에서 발생한 화재로 최소 40명이 사망하고 119명이 부상을 입은 가운데 맨몸으로 불길에서 청년들을 구한 시민 영웅이 화제다.",
         "source": "nate",
         "date": "2026년 01월 03일 토요일"
       }
