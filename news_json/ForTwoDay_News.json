@@ -3,6 +3,748 @@
     "date": "2026년 01월 03일 토요일",
     "articles": [
       {
+        "title": "새해 첫 주말, 해맞이 차량 북새통.. 전국 505만대",
+        "time": "2026-01-03T11:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031048593826",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, '종각역 추돌사고' 운전자 긴급체포…약물 양성 반응",
+        "time": "2026-01-03T10:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031020127058",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 경찰, '종각역 추돌사고' 운전자 긴급체포…약물 양성 반응",
+        "time": "2026-01-03T09:51:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601030947058991",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "분실물 찾아주려다 '경악'…마약 유통 정황 담긴 태블릿 PC, 마약 사범 대거 소탕",
+        "time": "2026-01-03T10:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601030921012960",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "케데헌 '골든', 영국 싱글차트 8위..로제 '아파트' 재진입",
+        "time": "2026-01-03T10:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031020233274",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 01월 03일 토요일",
+    "articles": [
+      {
+        "title": "부산 수돗물 관리에도 인공지능 기술 적용",
+        "time": "2026-01-03T09:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/04/11/06/PCM20240411000006990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260102104300051",
+        "summary": "빅데이터 수집 상수도 누수 등 사고 예측",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "청주 등 충북 11곳 한파주의보 해제",
+        "time": "2026-01-03T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "인천·강화에 한파주의보 해제",
+        "time": "2026-01-03T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019400527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "천안 등 충남 6곳 한파주의보 해제",
+        "time": "2026-01-03T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019300527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "진안 등 전북 3곳 한파주의보 해제",
+        "time": "2026-01-03T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "세종에 한파주의보 해제",
+        "time": "2026-01-03T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "의성 등 경북 5곳 한파경보 해제…안동 등 5곳 한파주의보 해제",
+        "time": "2026-01-03T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103018900527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "대전에 한파주의보 해제",
+        "time": "2026-01-03T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103018800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "파주 등 경기 4곳 한파주의보…양주·동두천에 한파경보 해제",
+        "time": "2026-01-03T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103018700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "서울 전역에 한파주의보 해제",
+        "time": "2026-01-03T10:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103019200527",
+        "summary": "동남·동북·서남권에 건조주의보 유지",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "철원 등 강원 3곳 한파주의보…춘천 등 10곳 한파경보 해제",
+        "time": "2026-01-03T10:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103018600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[내주날씨] 아침 영하권 추위 계속…수도권 금요일 눈 또는 비",
+        "time": "2026-01-03T10:00:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/12/31/PYH2025123102440001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103016500530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] '1명 사망' 종각역 70대 택시기사 긴급체포…모르핀 양성",
+        "time": "2026-01-03T09:49:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/01/02/PYH2026010216860001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260102152900004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "제주도산지 등 5곳 강풍주의보 해제",
+        "time": "2026-01-03T09:09:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103015900527",
+        "summary": "제주 북부 앞바다·남해 먼바다에 풍랑주의보 해제",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "전남 거문도·초도·흑산도·홍도에 강풍주의보 해제",
+        "time": "2026-01-03T09:09:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103015800527",
+        "summary": "전남 서해 먼바다 등 4곳 풍랑주의보 해제",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "동해남부먼바다에 풍랑주의보 해제",
+        "time": "2026-01-03T09:08:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103016000527",
+        "summary": "울산서부·울산동부에 건조경보 유지",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[충북소식] 고교 학업설계 지원단 신설…\"맞춤형 지도\"",
+        "time": "2026-01-03T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2022/10/19/23/PCM20221019000223064_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260102130900064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[내일날씨] 한파 약해지는 일요일…낮 최고기온 10도",
+        "time": "2026-01-03T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/01/02/PYH2026010216230005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103005700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "대전남부순환선 구봉터널 화재 진화…차량 통행 2시간 만에 재개(종합)",
+        "time": "2026-01-03T08:55:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2026/01/03/01/PCM20260103000001990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103004851063",
+        "summary": "고장 난 차 추돌 4t 화물차서 불…운전자 대피해 인명피해 없어",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새해 첫 주말 아침도 '꽁꽁'…낮부터 평년 기온 되찾아",
+        "time": "2026-01-03T08:37:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/01/PYH2026010108540034301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103015000530",
+        "summary": "아침 영하 10도 안팎, 낮엔 최고 8도…전국 곳곳 비 또는 눈",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "대구 효성병원 별관서 불, 1시간여 만에 진화…인명피해 없어",
+        "time": "2026-01-03T08:36:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2019/07/18/75/PCM20190718000175990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103014700053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 01월 03일 토요일",
+    "articles": [
+      {
+        "title": "이재명 대통령, 중국 방문 앞두고 “‘하나의 중국’ 존중” 입장",
+        "time": "2026-01-03T10:53:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472510_3614827_5340_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472510",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "목포해경, 대조기 연안사고 대비  진도군 위험예보제 '관심' 발령",
+        "time": "2026-01-03T09:34:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472478_3614799_3414_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472478",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 종각역 사고 70대 운전자 긴급체포...약물 반응 '양성'",
+        "time": "2026-01-03T09:54:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472488_3614807_5418_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472488",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종각역 교통사고 택시 운전자 모르핀 양성 반응으로 '긴급 체포'",
+        "time": "2026-01-03T10:02:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472492_3614811_233_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472492",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 알프스 리조트 화재...40명 사망, 100명 부상",
+        "time": "2026-01-03T10:06:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472494_3614813_630_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472494",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "자연과 역사 어우러진 그리스 정교회의 유산",
+        "time": "2026-01-03T10:15:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472503_3614818_1549_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472503",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "Temperature drops to minus 11 degrees Celsius in Turkiye's Ankar",
+        "time": "2026-01-03T09:31:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472477_3614798_3121_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472477",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "INDIA-WEATHER",
+        "time": "2026-01-03T09:25:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472468_3614793_2551_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472468",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "눈 속에 드러난 수멜라 수도원의 신비",
+        "time": "2026-01-03T10:10:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472497_3614815_1045_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472497",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "NBL-RD-15-ADELAIDE-36ERS-V-SYDNEY-KINGS",
+        "time": "2026-01-03T09:30:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472476_3614796_305_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472476",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "도쿄 황궁, 수많은 인파로 북적",
+        "time": "2026-01-03T09:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3472454_3614784_1042_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3472454",
+        "source": "Gukje",
+        "date": "2026년 01월 03일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 01월 03일 토요일",
+    "articles": [
+      {
+        "title": "MB 우군 만들러 갔다가 지적만 받고 돌아온 장동혁 [노변정담]",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hankooki/20260103100112045cwjc.jpg",
+        "url": "https://v.daum.net/v/20260103100110162",
+        "summary": "\"선출된 대표 중심, 하나 돼야 한다\"던 MB장동혁 만나 “수구 보수 되는 것은 퇴보”\"꼭 그렇게 해. 그래야 실망 안 해\" 당부",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'청년애국자' 강조한 김정은…중러 정상 신년 연설도 보도[데일리 북한]",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/NEWS1/20260103095141599jqzo.jpg",
+        "url": "https://v.daum.net/v/20260103095141060",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "李대통령 “하나의 중국 존중…한‧중 정상 매년 만나야”",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kukinews/20260103101104599gblp.jpg",
+        "url": "https://v.daum.net/v/20260103101103303",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "文 “지방선거 승리”, MB “미래 향한 보수”…전직 대통령들의 신년 조언은 [이런 정치]",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103100156289swpk.jpg",
+        "url": "https://v.daum.net/v/20260103100156193",
+        "summary": "文, 정청래·조국에 “극우 내란 세력 정치적 심판”MB, 장동혁에 “개인 생각 버리고 나라 위한 정치”",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“죽었다고 단정하지 말라”…한파에 얼어붙은 이구아나, 사실은",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mk/20260103110904713dnka.jpg",
+        "url": "https://v.daum.net/v/20260103110903869",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"지하철 뚫고 하늘길 연다\"…충북 '교통 거점' 도약",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103105243703emgk.jpg",
+        "url": "https://v.daum.net/v/20260103105243689",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새해 전날 몰아친 한파에 美이구아나 '꽁꽁'…땅에 널브러져(영상)",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsis/20260103102954468nezu.gif",
+        "url": "https://v.daum.net/v/20260103102954484",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "호주 ‘제로웨이스트'에 진심, 시장 진입에 친환경 필수",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hani/20260103090650908ipuc.jpg",
+        "url": "https://v.daum.net/v/20260103090649699",
+        "summary": "이코노미 인사이트 _ Economy insight세계는 지금",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "中 TCL, R 빠진 RGB TV, QD 빠진 QLED TV 논란",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103110206823dwtx.png",
+        "url": "https://v.daum.net/v/20260103110206797",
+        "summary": "비싼 R(레드)칩 빼고 G(그린)· B(블루) 칩 사용QD 빠진 QLED TV, 韓 공정위에 제소 되기도",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[청기홍기]새해에도 AI반도체...'16만전자·95만닉스' 전망",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/BUSINESSWATCH/20260103090126267grfy.jpg",
+        "url": "https://v.daum.net/v/20260103090123589",
+        "summary": "한 주간 증권가 목표주가 상향·하향 종목 리뷰삼전 목표주가, 다올 16만·NH·IBK 15만5000원SK하이닉스, 연간 영업이익 100조원 시대 기대이차전지는 실적 부담에 목표가 하향 잇따라",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "증권가 수장들, 생산적 금융 확대 전면에…\"내부통제는 전제조건\"",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ked/20260103110901615zadc.jpg",
+        "url": "https://v.daum.net/v/20260103110900864",
+        "summary": "증권사 CEO들 병오년 신년사 속 키워드정부 정책 '생산적 금융' 조력자 자처내부통제 강화 주요 경영 과제로",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'서해 피격' 유족 측 \"檢, 반쪽 항소…박지원 제외 경위 밝혀야\"",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsis/20260103101704213nutj.jpg",
+        "url": "https://v.daum.net/v/20260103101704360",
+        "summary": "유족 측 김기윤 변호사, 검찰 일부 항소에 입장\"박지원, 법무부 장관 상대로 공소 취소 압박해\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "탄원서로 불거진 김병기 '공천헌금'…경찰 수사 착수",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103111308179krsq.jpg",
+        "url": "https://v.daum.net/v/20260103111307910",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[글로컬] 시진핑, 한한령 풀고 '라우펑여우' 언급할까",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/yonhap/20260103103156702geul.jpg",
+        "url": "https://v.daum.net/v/20260103103156503",
+        "summary": "박근혜 전 대통령 라우펑여우라 부르며 양국 관계 돈독국빈방중, 전략적 동반자 가치의 재발견에 초점 맞춰야",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"수의사, 국가 재난 예방하고 국민 보호하는 동물의료 전문가\"",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/NEWS1/20260103090124339zhrn.jpg",
+        "url": "https://v.daum.net/v/20260103090122588",
+        "summary": "대한수의사회, 동물의료 1월호 발간…신년사 공개",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "尹 부부 수사 남았다…경찰 국수본 속도전이냐, 2차 종합특검이냐",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/NEWS1/20260103095847108blwp.jpg",
+        "url": "https://v.daum.net/v/20260103095845126",
+        "summary": "檢 '김건희 수사 무마' 의혹 압색 후 관련자 소환은 불발'양평 고속道' 원희룡 등 윗선 개입 여부도 국수본 손에",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[여론 속의 여론] 새해 목표 단골인 '다이어트'… 한국인 89% \"체중 조절은 사회 관심사\"",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hankooki/20260103110127736cuip.jpg",
+        "url": "https://v.daum.net/v/20260103110126783",
+        "summary": "61%가 \"현재 체중에 만족 못한다\"남성 49%·여성 67% \"스트레스\"감량 방법 '식사량 줄이기' 68%야외 활동 65%, 집에서 운동 50%",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "육군 모사단, 위병소 근무에 '총기 대신 삼단봉 휴대' 지침 내렸다 철회",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsis/20260103105142648ddak.jpg",
+        "url": "https://v.daum.net/v/20260103105142679",
+        "summary": "합참 \"부대별 작전환경 고려해 총기 대체 지침 하달\"해당 사단, 언론 보도와 SNS 통해 논란 확산하자 지침 철회",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "2025 마마 시상식 가보니…홍콩은 ‘메가 이벤트 허브’ 꿈꾸는데 한국은?",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hani/20260103090639900ofwg.jpg",
+        "url": "https://v.daum.net/v/20260103090637695",
+        "summary": "이코노미 인사이트 _ Economy insightCULTURE & BIZ",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경기 시민사회 “법은 외면하고 피해자는 버렸다”…경기도의회 성매매피해자 예산 전액 삭감 규탄",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/pressian/20260103093151612mwkc.jpg",
+        "url": "https://v.daum.net/v/20260103093149887",
+        "summary": "도비 삭감에 국비·시비까지 중단 위기…“피해자 지원체계 사실상 붕괴”",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“코인 멍청? 무가치? 금융 핵심 됐다” 포브스 5대 낙관론",
+        "time": "2026-01-03T02:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Edaily/20260103104505634soir.jpg",
+        "url": "https://v.daum.net/v/20260103104504624",
+        "summary": "2026년 트렌드 전망①제도권 추가 편입②속도 붙는 토큰화③스테이블코인 발전④전통금융 합종연횡⑤디지털자산+AI 출현",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[취재파일] AI 기술, 감시 사회 앞당긴다",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/sbsi/20260103090302668klpe.jpg",
+        "url": "https://v.daum.net/v/20260103090300654",
+        "summary": "그리스의 놀라운 성과가 보여주는 충격과 공포",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美국방부 “주한미군 아파치 부대 중단, 결정된 것 없어”",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/chosun/20260103111151766evqk.jpg",
+        "url": "https://v.daum.net/v/20260103102950483",
+        "summary": "美 의회 보고서와 엇박자",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "첫 무슬림 뉴욕시장 맘다니 취임 직후 이스라엘과 갈등",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kukminilbo/20260103105951864qsdg.jpg",
+        "url": "https://v.daum.net/v/20260103105949749",
+        "summary": "전임 시장 이스라엘 관련 행정명령 무효화이스라엘 “반유대주의 폭력 증가 우려”",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프, 이란 시위 탄압 경고…\"즉각 행동할 준비 됐다\"",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hankooki/20260103105706120xlva.jpg",
+        "url": "https://v.daum.net/v/20260103105703723",
+        "summary": "트럼프, 시위대 구출 시사 경고이란 \"내정 간섭 말라\" 반발",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"보험 감당 못 한다\" 오바마케어 후폭풍에 무보험자 늘어",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/sbsi/20260103100903036rtwh.jpg",
+        "url": "https://v.daum.net/v/20260103100901283",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "직접 '대리석 쇼핑'한 트럼프…5700억짜리 연회장 논란",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/akn/20260103110924097bjqa.jpg",
+        "url": "https://v.daum.net/v/20260103110922871",
+        "summary": "개인 비용 들여 직접 개입…동관 연회장 재건역사적 건축물 훼손·절차 무시 등으로 논란",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 화재 원인 '폭죽 샴페인'에 무게…\"최소 80명 위독\"",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/moneytoday/20260103091407186ueov.jpg",
+        "url": "https://v.daum.net/v/20260103091405745",
+        "summary": "주 검찰총장 \"폭죽 샴페인, 천장에 너무 가까이 붙었던 듯\" 소유주 프랑스인 부부 등 조사",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 화재 참사서 맨손 구조… \"고통이나 연기, 위험은 생각할 겨를이 없었다\"",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mbn/20260103104043778hhmf.jpg",
+        "url": "https://v.daum.net/v/20260103104042580",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프, ‘권장량 4배’ 아스피린 복용에 부작용 우려",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Edaily/20260103110706019kgyh.jpg",
+        "url": "https://v.daum.net/v/20260103110704850",
+        "summary": "트럼프 대통령, 2일 NYT 인터뷰매일 325mg 아스피린 복용 사실 밝혀심혈관 질환 예방차원…의료계선 부작용 경고급성 내부 출혈 위험…트럼프 오른손 멍 자국 포착",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[트럼프 스톡커] 스페이스X에 앤스로픽, 4000조 '슈퍼 IPO' 뜬다",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/seouleconomy/20260103090206990dvtv.png",
+        "url": "https://v.daum.net/v/20260103090204622",
+        "summary": "■윤경환 특파원의 트럼프 스톡커(Stocker) <109>머스크 스페이스X '1.5조 달러'···상장시 사상 최대오픈AI도 잠재적 후보···앤스로픽, IB들과 논의 시작中빅테크도 줄줄이 홍콩 상장···월가 \"올해도 상승장\"AI 낙관론 '솔솔'···미중은 새해 벽두부터 패권 경쟁트럼프의 국가 총동원 전략에 시진핑도 자립화 '맞불'",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "FBI \"ISIS 추종자, 새해 전야 테러 공격 계획해 저지\"",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/moneytoday/20260103105350997slat.jpg",
+        "url": "https://v.daum.net/v/20260103105349695",
+        "summary": "노스캐롤라이나 주에서 테러 계획…\"최소 20명 습격\" 문건에 흉기 발견",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "中-러시아간 LNG 거래, 美 제재서 예외된 이유[디브리핑]",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103090307050icia.jpg",
+        "url": "https://v.daum.net/v/20260103090306663",
+        "summary": "러시아 에너지 차단 속 중국엔 예외 적용우크라戰·美中갈등 속 미묘한 균형 잡기",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "日지방체류 '베트남인＞중국인' 흐름 뚜렷…중국인은 도시 집중",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/yonhap/20260103093356105lltm.jpg",
+        "url": "https://v.daum.net/v/20260103093356916",
+        "summary": "광역지자체 47곳 중 33곳서 장기 체류 외국인 중 베트남인 최다",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"관세 없으면 심각한 타격\"…새해 벽두 여론전",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103090546533ktae.jpg",
+        "url": "https://v.daum.net/v/20260103090546685",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“캄보디아도 그 난리더니” 못믿을 해외 일자리...러시아서 용병으로 전쟁터 보내",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103110213430exjj.jpg",
+        "url": "https://v.daum.net/v/20260103110213800",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“부작용이 더 크다”…트럼프 ‘아스피린 고용량 복용법’에 의료계 우려",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103111706069mxaw.jpg",
+        "url": "https://v.daum.net/v/20260103111704939",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "백악관 AI차르도 '억만장자세' 캘리포니아 떠나 텍사스로 이주",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/sbscnbc/20260103105102624iszv.jpg",
+        "url": "https://v.daum.net/v/20260103105100668",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“2경3000조 ‘희·망’ 캐자”… 강대국들 물밑 전쟁 [세계는 지금]",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/segye/20260103102012274vbvm.jpg",
+        "url": "https://v.daum.net/v/20260103102012392",
+        "summary": "심해로 번진 자원 패권 쟁탈전트럼프가 방아쇠… 중·일·유럽 가세망간·희토류·코발트·구리 매장 ‘보고’미래산업 필수 소재… 패권까지 좌우태평양 CCZ가 최대 자원지로 꼽혀한국, 3개 광구 탐사권 보유 ‘자원국’일각 사업 채굴 놓고 환경 파괴 경고“생태계에 수만년짜리 상처될 가능성”",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "젤렌스키, 6개월 만에 국방장관 교체...34세 부총리 후보 낙점",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/hankooki/20260103105439035olsz.jpg",
+        "url": "https://v.daum.net/v/20260103105437701",
+        "summary": "'34세' 디지털부장관 국방장관에 임명젤렌스키 \"드론 프로그램 주도할 것\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "연초부터 中·日 잇달아 방문하는 李… 본격 시험대 오른 ‘이재명식 실용외교’",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/segye/20260103101916062ozhy.jpg",
+        "url": "https://v.daum.net/v/20260103101915384",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“내 빵 얘기 좀 들어 볼려?” 보이스피싱범 혼 뺀 78세 AI 할머니",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/chosun/20260103111704380qzom.jpg",
+        "url": "https://v.daum.net/v/20260103111703938",
+        "summary": "英 통신사가 2024년 개발",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "국가대표 AI 서바이벌 전략 다 달랐다…첫 탈락자 누가 될까?",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/mk/20260103092101931wwfp.png",
+        "url": "https://v.daum.net/v/20260103092100795",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 3중 추돌' 택시운전자 긴급체포…모르핀 양성",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103110945301nhcy.jpg",
+        "url": "https://v.daum.net/v/20260103110945876",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "이혜훈, 이번엔 외국인 혐오 발언...“한 지역에 이슬람 인구 5% 넘어가면 성폭력 37.8배”",
+        "time": "2026-01-03T02:18:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/munhwa/20260103094835460ahhb.jpg",
+        "url": "https://v.daum.net/v/20260103094833038",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 01월 03일 토요일",
+    "articles": [
+      {
         "title": "일본 총리, 트럼프와 연초 전화 통화···\"올 봄 방미 조율중\"",
         "time": "2026-01-03T09:43:00",
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/03/20251208111147_2265283_1199_914.jpg",
@@ -2114,6 +2856,1275 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601030528514977_t.jpg",
         "url": "https://news.nate.com/view/20260103n00998",
         "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "10대 그룹 신년사 키워드 1위는 'AI'…'고객'·'변화'도 상위권",
+        "time": "2026-01-03T11:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/en/2026/01/03/1693649_712996_5712.jpeg",
+        "url": "https://news.nate.com/view/20260103n03056",
+        "summary": "ⓒEBN 자료 사진",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"언제 나와\"…1년간 군불만 지핀 애플페이, 새해엔 확대되나?",
+        "time": "2026-01-03T11:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/mt_1767407764953_82150_0.jpg",
+        "url": "https://news.nate.com/view/20260103n01116",
+        "summary": "1년간 군불만 지핀 애플페이 확대가 새해에는 이뤄질지 주목된다. 신한카드와 KB국민카드는 애플페이를 위한 기술적 준비는 거의 마쳤지만 대외적인 영향 등으로 끝내 도입하지 못했다. 양사의 애플페이 도입 준비가 상당한 시일이 지난 만큼 업계는 새해에는 어떻게든 결론이 날 것으로 예상한다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "나주 종오리농장서 H5형 AI 항원…고병원성 검사 중",
+        "time": "2026-01-03T11:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/AKR20260103022600054_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04175",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"제주도 가느니 여기 갈래\"…한해에만 韓 882만명 다녀간 이곳",
+        "time": "2026-01-03T11:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/03/623e72f8-d769-42c2-b140-4eb03ed7e109.jpg",
+        "url": "https://news.nate.com/view/20260103n03828",
+        "summary": "해외여행 커뮤니티에서는 일본 오사카나 베트남 다낭이 ‘경기도 오사카시’, ‘경기도 다낭시’라는 별칭으로 불린다. 한국인이 워낙 많아 마치 국내 여행을 온 것 같다는 의미다. 실제 통계도 이를 뒷받침한다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "AI 데이터센터가 빨아들인 메모리 반도체…PC·콘솔 가격 다 오른다",
+        "time": "2026-01-03T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/news-p.v1.20251230.c1fc9d6856624c81ae1a6ee19d027b00_P1.png",
+        "url": "https://news.nate.com/view/20260103n04132",
+        "summary": "램·SSD·GPU 줄줄이 상승\r\n클라우드 게임 대안으로 주목",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "극심한 한파 속에 한강 얼어붙었다···평년보다 7일 빨라",
+        "time": "2026-01-03T11:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/03/20260103111931_2276551_860_645.jpg",
+        "url": "https://news.nate.com/view/20260103n04028",
+        "summary": "[이투데이/송석주 기자]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "증권가 수장들, 생산적 금융 확대 전면에…\"내부통제는 전제조건\"",
+        "time": "2026-01-03T11:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/03/01.42846469.1.jpg",
+        "url": "https://news.nate.com/view/20260103n03891",
+        "summary": "증권사 CEO들 병오년 신년사 속 키워드\r\n \n정부 정책 '생산적 금융' 조력자 자처\r\n내부통제 강화 주요 경영 과제로",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "정우진 NHN 대표 \"2026년은 증명의 시간…전 사업에 AI 입힌다\"",
+        "time": "2026-01-03T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/so/2026/01/03/118204_234763_137.jpg",
+        "url": "https://news.nate.com/view/20260103n03867",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "대 그룹 신년사 최다 언급 단어는 'AI'",
+        "time": "2026-01-03T11:04:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n03866",
+        "summary": "국내 10대 그룹의 올해 신년사 최대 화두는 AI, 인공지능으로 나타났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "中 TCL, R 빠진 RGB TV, QD 빠진 QLED TV 논란",
+        "time": "2026-01-03T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/news-p.v1.20260102.cb7fc97ab37540ffaad463809b698f2e_P1.png",
+        "url": "https://news.nate.com/view/20260103n03827",
+        "summary": "비싼 R(레드)칩 빼고 G(그린)· B(블루) 칩 사용\r\nQD 빠진 QLED TV, 韓 공정위에 제소 되기도",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"코인 멍청? 무가치? 금융 핵심 됐다\" 포브스 5대 낙관론",
+        "time": "2026-01-03T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300207.jpg",
+        "url": "https://news.nate.com/view/20260103n03638",
+        "summary": "<font color=\"gray\"><b>- 2026년 트렌드 전망</b></font>\n<font color=\"gray\"><b>- ①제도권 추가 편입</b></font>\n<font color=\"gray\"><b>- ②속도 붙는 토큰화</b></font>\n<font color=\"gray\"><b>- ③스테이블코인 발전</b></font>\n<font color=\"gray\"><b>- ④전통금융 합종연횡</b></font>\n<font color=\"gray\"><b>- ⑤디지털자산+AI 출현</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종각 3중 추돌 사고, 70대 택시 기사 긴급체포…약물 검사 '모르핀 성분' 검출",
+        "time": "2026-01-03T10:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/03/20260102194353_2276478_1200_800.jpg",
+        "url": "https://news.nate.com/view/20260103n03600",
+        "summary": "[이투데이/송석주 기자]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "돌아오는 '혁신'의 애플?…20주년 아이폰, 스마트폰 패러다임 바꿀까",
+        "time": "2026-01-03T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20190316_0014995238_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03142",
+        "summary": "아이폰20 프로, 카메라 렌즈·노치 등 화면에서 완전히 숨길 듯\n새 아이폰 디스플레이 디자인에 中업체 등도 추격 연구 불 붙어",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[날씨] '한파 기승' 새해 첫 주말···찬바람 불어 체감 온도 더 낮다",
+        "time": "2026-01-03T10:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/03/20260103102012_2276535_1000_598.jpg",
+        "url": "https://news.nate.com/view/20260103n03427",
+        "summary": "[이투데이/송석주 기자]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "가장 깨끗한 도시라더니…\"9명 사망·200명 입원\"",
+        "time": "2026-01-03T10:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/03/99.39294263.1.jpg",
+        "url": "https://news.nate.com/view/20260103n03143",
+        "summary": "인도 중부 도시에서 식수 오염으로 집단 설사병이 발생해 사상자가 발생했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "韓 기술 리더십 격상…CES 중심에 우뚝[CES 2026]",
+        "time": "2026-01-03T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20241209_0001723966_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03112",
+        "summary": "160여개국 4500개 이상 기업 참여\n한국 853개…美·中 이어 3번째 규모\n혁신상, 약 60% 비중…압도적 1위",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'1명 사망' 종각역 70대 택시기사 긴급체포…모르핀 양성",
+        "time": "2026-01-03T11:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/03/ZN.42845074.1.jpg",
+        "url": "https://news.nate.com/view/20260103n03156",
+        "summary": "지난 2일 퇴근길 종각역 인근에서 3중 추돌 사고를 일으켜 1명을 숨지게 한 70대 후반 택시 기사가 경찰에 긴급체포됐다. 택시 기사는 약물 운전 정황이 포착됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"라이터로 불질러\"…광주 아파트 화재 80명 긴급대피·3명 병원 이송",
+        "time": "2026-01-03T11:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103503021.jpg",
+        "url": "https://news.nate.com/view/20260103n04235",
+        "summary": "새벽시간대 광주 북구 한 아파트에서 불이나 주민 80명이 대피한 가운데 경찰이 방화에 의한 범죄로 추정, 수사에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'15명 사상' 종각역 사고 택시기사 긴급체포…\"모르핀 양성\"",
+        "time": "2026-01-03T11:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/03/202630531767406807.jpg",
+        "url": "https://news.nate.com/view/20260103n04225",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사 약물 양성…경찰, 조사 후 구속 영장 신청 방침",
+        "time": "2026-01-03T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103502959.jpg",
+        "url": "https://news.nate.com/view/20260103n04220",
+        "summary": "서울 종각역 인근에서 발생한 택시 다중 추돌 사고를 낸 70대 남성 운전자가 경찰에 붙잡혔다. 경찰은 추가 조사를 거쳐 구속영장 신청을 검토하겠다는 방침이다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[신년사] 이환주 국민은행장 \"리테일 넘어 IB·WM 선도해야…금융영토 확장\"",
+        "time": "2026-01-03T11:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2026/01/03/2026010311105564175_l.jpg",
+        "url": "https://news.nate.com/view/20260103n04224",
+        "summary": "AI 기반 영업 전환 주문\n생산적·포용금융 인재 육성",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종각역 사고 택시기사 모르핀 양성반응 '긴급체포'",
+        "time": "2026-01-03T11:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/rcv.YNA.20260102.PYH2026010217650001300_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03076",
+        "summary": "[헤럴드경제=최정호·김현경 기자]서울 종각역 부근에서 발생한 교통사고와 관련, 사고 운전자가 약물 양성 반응으로 긴급 체포됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'서해 피격' 유족 측 \"반쪽 항소는 대통령 등 정치적 압박 때문\"",
+        "time": "2026-01-03T11:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/03/20266337176740751200.jpg",
+        "url": "https://news.nate.com/view/20260103n04142",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "전북 한파주의보 모두 해제…낮 기온 영상권 회복",
+        "time": "2026-01-03T11:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7631824_high.jpg",
+        "url": "https://news.nate.com/view/20260103n04121",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'3명 부상·80명 대피' 광주 북구 아파트 화재 방화 추정…경찰 수사",
+        "time": "2026-01-03T11:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/4120898_high.jpg",
+        "url": "https://news.nate.com/view/20260103n04169",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "통영 견유항 계류 어선 화재…인명피해 없어",
+        "time": "2026-01-03T11:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2026/01/03/kuk20260103000005.800x.0.jpg",
+        "url": "https://news.nate.com/view/20260103n04187",
+        "summary": "3일 오전 3시 44분께 통영시 용남면 견유항에 계류 중이던 어선 A호(2.99톤, 통영선적, 연안통발)에서 화재가 발생했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 종각역 추돌사고…택시 기사 '약물 양성'에 긴급체포",
+        "time": "2026-01-03T11:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601031036238380_t.jpg",
+        "url": "https://news.nate.com/view/20260103n04050",
+        "summary": "경찰은 사상 사고를 낸 70대 기사 A 씨를 오늘 새벽 3시 15분쯤 교통사고처리 특례법상 치사상 혐의로 긴급체포했다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, 종각역 택시 추돌 사고 70대 운전자 긴급체포…약물 '양성' 반응",
+        "time": "2026-01-03T11:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2026/01/03/kuk20260103000004.800x.0.jpg",
+        "url": "https://news.nate.com/view/20260103n04087",
+        "summary": "서울 종각역 인근 추돌 사고로 14명의 사상자를 낸 70대 택시 운전자 A씨가 경찰에 긴급체포됐다. 약물 간이검사에서 양성 판정이 나온 것으로 확인됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종각역서 보행자 덮친 70대 택시 기사 체포…'모르핀' 양성 반응",
+        "time": "2026-01-03T11:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/js/2026/01/03/17674072151767407215_shhappylife2001.jpg",
+        "url": "https://news.nate.com/view/20260103n04094",
+        "summary": "경찰, 처방약 가능성 열어두고 정밀 검사 의뢰",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"수능서 1분 일찍 울린 시험 종료 벨은 '불법행위'…수험생들 혼란 컷을 것\"",
+        "time": "2026-01-03T11:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103502159.jpg",
+        "url": "https://news.nate.com/view/20260103n04068",
+        "summary": "2024학년도 대학수학능력시험 당시 시험 종료를 알리는 고사장 벨이 1분 일찍 울린 사고와 관련해 국가가 수험생들에게 손해를 배상해야 한다는 법원 판단이 유지됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "추워야 제맛!…새해 첫 주말, 도심 겨울놀이터 '북적'",
+        "time": "2026-01-03T11:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601031124181774_t.jpg",
+        "url": "https://news.nate.com/view/20260103n04099",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경북 예천 양계장에서 불…닭 11만 마리 폐사",
+        "time": "2026-01-03T11:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601031021150517_t.jpg",
+        "url": "https://news.nate.com/view/20260103n03416",
+        "summary": "어제(2일) 오전 11시쯤 경북 예천군 풍양면에 있는 양계장에서 불이 나 2시간여 만에 꺼졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "케데헌 '골든' 영국 싱글차트 8위…캐럴 순위 하락하며 '톱10' 재진입",
+        "time": "2026-01-03T11:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n04001",
+        "summary": "애니메이션 영화 '케이팝 데몬 헌터스' OST '골든'이 영국 오피셜 싱글차트 '톱 100'에서 반등하며 다시 10위 안에 재진입했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "나주 종오리농장 H5형 AI 항원 검출…살처분·이동중지",
+        "time": "2026-01-03T11:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0002032644_web.jpg",
+        "url": "https://news.nate.com/view/20260103n04029",
+        "summary": "[나주=뉴시스]변재훈 기자 = 전남 나주 한 종오리 농장에서 H5형 조류인플루엔자(AI) 항원이 검출돼 당국이 긴급 방역 조치에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "매서운 한파에 한강도 얼었다…평년보다 7일 빨라",
+        "time": "2026-01-03T11:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601031051006617_l.jpg",
+        "url": "https://news.nate.com/view/20260103n04013",
+        "summary": "[파이낸셜뉴스] 기상청은 3일 매서운 한파가 지속되면서 이번 겨울 처음으로 한강이 얼었다고 밝혔다. 평년(한강 결빙일 1월 10일)보다는 일주일 가량 빠르다. 지난 겨울(2월 9일)보다는 37일 이르게 한강이 얼었다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새벽 광주 아파트 화재 28분 만에 진압…주민 방화 추정",
+        "time": "2026-01-03T11:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/176740634469587b0869c11.jpg",
+        "url": "https://news.nate.com/view/20260103n03992",
+        "summary": "오늘(3일)3일 오전 4시 1분쯤 광주 북구 운암동 아파트에서 불이 나 소방 당국 출동 후 28분여 만에 진압됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'사흘째 영하권 한파' 올 겨울 처음 한강 얼었다···평년보다 7일 빨라",
+        "time": "2026-01-03T11:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/03/news-p.v1.20260103.1743e368bce346ebbf7e95226797a890_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03880",
+        "summary": "한파가 지속되면서 3일 이번 겨울 처음으로 한강이 얼었다. 기상청은 평년보다 일주일 이른 3일 한강이 결빙됐다고 이날 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] \"라이터로 불질러\"…광주 아파트 화재 80명 긴급대피·3명 병원 이송",
+        "time": "2026-01-03T11:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/03/SSC_20260103105952_V.jpg",
+        "url": "https://news.nate.com/view/20260103n03824",
+        "summary": "[서울신문]광주의 한 아파트에서 방화로 추정되는 불이 나 경찰이 수사에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 추돌 사고' 70대 택시 기사 긴급체포…모르핀 양성",
+        "time": "2026-01-03T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/03/20260103500183.jpg",
+        "url": "https://news.nate.com/view/20260103n03186",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "광주서 새벽 아파트 불, 3명 이송·80명 대피…방화 수사(종합)",
+        "time": "2026-01-03T11:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20210531_0000757221_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03901",
+        "summary": "구조된 50대 남성 \"친척 집에 불 질렀다\" 주장",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "한파 지속으로 한강 얼어…평년보다 7일 일러",
+        "time": "2026-01-03T11:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767406384568_779603_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03941",
+        "summary": "황서율 기자 chestnut@asiae.co.kr",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 3중 추돌' 택시운전자 긴급체포…모르핀 양성",
+        "time": "2026-01-03T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/808442_1767406079.jpg",
+        "url": "https://news.nate.com/view/20260103n03916",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새해 첫 주말, 해맞이 차량 북새통…전국 505만대",
+        "time": "2026-01-03T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601030911388327_l.jpg",
+        "url": "https://news.nate.com/view/20260103n03825",
+        "summary": "[파이낸셜뉴스] 새해 첫 주말인 3일 해맞이 징검다리 연휴로 고속도로 교통량이 지난주보다 증가할 것으로 예상된다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "캐럴 순위 하락하자 다시 반등…케데헌 '골든', 英 싱글차트 8위",
+        "time": "2026-01-03T11:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/03/460dbff8-7016-4f20-891f-672bb40ce8e0.jpg",
+        "url": "https://news.nate.com/view/20260103n03807",
+        "summary": "연말 크리스마스 시즌 캐럴에 밀려 상위권을 벗어났던 넷플릭스 애니메이션 영화 '케이팝 데몬 헌터스' 오리지널사운드트랙(OST) '골든'(Golden)이 영국 오피셜 싱글차트 '톱 100'에서 반등했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "안홍윤 경북 상주시 제46대 외서면장 '취임'",
+        "time": "2026-01-03T11:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/03/1317648_1507495_5821.jpg",
+        "url": "https://news.nate.com/view/20260103n03800",
+        "summary": "안홍윤 상주시 외서면장. 사진=김철희 기자",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 추돌사고' 70대 택시기사 체포…약물 양성 반응(종합)",
+        "time": "2026-01-03T11:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/03/202601031100415436_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03893",
+        "summary": "3중 추돌 사고로 1명 사망, 14명 부상\n경찰, 사고 낸 70대 택시기사 긴급체포\n약물 간이검사에서 모르핀 성분 검출\n경찰, 국과수에 정밀감정 의뢰할 예정",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'14명 사상' 종각 택시기사 모르핀 양성…경찰 긴급체포",
+        "time": "2026-01-03T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/03/133085127.2.jpg",
+        "url": "https://news.nate.com/view/20260103n03347",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"매일 325mg씩\"…트럼프식 아스피린 복용법 괜찮나 [건강!톡]",
+        "time": "2026-01-03T10:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/03/AA.42724259.1.jpg",
+        "url": "https://news.nate.com/view/20260103n03731",
+        "summary": "도널드 트럼프 미국 대통령의 아스트린 복용법을 두고 우려의 목소리가 많다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "안성기 닷새째 의식불명…쓰러지기 전 회의서 \"건강하자\" 발언",
+        "time": "2026-01-03T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/2026010310351470846_1.jpg",
+        "url": "https://news.nate.com/view/20260103n03747",
+        "summary": "국민 배우 안성기(73)가 건강 악화로 응급실에 이송돼 중환자실에 입원한 가운데, 그가 쓰러지기 전까지도 회의에 나섰던 근황이 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, 종각역 택시 추돌 70대 운전자 긴급체포…약물 '양성' 반응",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7679115_high.jpg",
+        "url": "https://news.nate.com/view/20260103n03096",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "G마켓 무단결제 피해신고 45건…경기남부경찰 수사",
+        "time": "2026-01-03T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7553712_high.jpg",
+        "url": "https://news.nate.com/view/20260103n03760",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰 \"종각역 추돌 택시기사 체포…약물 간이검사 양성\"",
+        "time": "2026-01-03T10:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n03682",
+        "summary": "경찰은 어제저녁 서울 종각역 인근에서 1명이 숨지는 연쇄추돌 사고를 낸 혐의를 받는 70대 택시 운전자를 오늘(3일) 새벽 병원 응급진료 직후 긴급체포했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] '1명 사망' 종각역 70대 택시기사 긴급체포…모르핀 양성",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2026/01/03/cz_1767405124685_317386_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03042",
+        "summary": "서울 종로구 종각역 앞 도로에서 추돌 사고로 14명 사상자를 낸 70대 택시기사 A씨가 경찰에 긴급체포됐다. A씨에 대한 약물 간이 시약 검사 결과 모르핀이 검출된 것으로 알려졌다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[단독] '화재 대비 불량' 고층 건축물, 경기·대전 집중…서울은 미미 [박진영의 뉴스 속 뉴스]",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260102510789.jpg",
+        "url": "https://news.nate.com/view/20260103n03054",
+        "summary": "소방청이 지난해 홍콩 아파트 화재를 계기로 실시한 특별소방검사 결과, 화재 예방 대비 ‘불량’ 판정을 받은 고층 건축물 절반가량이 경기와 대전에 집중돼 있는 것으로 나타났다. 전국에서 고층 건축물이 가장 많은 서울은 미미했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사, 모르핀 양성 반응…긴급체포",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/03/SSC_20260103095513_V.jpg",
+        "url": "https://news.nate.com/view/20260103n03045",
+        "summary": "[서울신문]서울 지하철 1호선 종각역 인근에서 3중 추돌 사고를 일으켜 1명을 숨지게 한 70대 택시기사가 경찰에 긴급체포됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"지하철 뚫고 하늘길 연다\"…충북 '교통 거점' 도약",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/808387_1767405044.jpg",
+        "url": "https://news.nate.com/view/20260103n03710",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[부고] 오부명(경북경찰청장)씨 부친상(종합)",
+        "time": "2026-01-03T10:47:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n03668",
+        "summary": "▲오만득(향년 83세)씨 별세, 오애란·오부현·오부경·오부명(경북경찰청장)씨 부친상, 박미옥·임경숙씨 시부상 = 3일 0시55분, 쉴낙원 양산시민장례식장 VIP 1호실, 발인 5일 오전 10시30분, 장지 울산하늘공원. ☎ 055-381-4444 (서울=연합뉴스)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 급가속 사망사고' 70대 택시 기사 체포…약물 운전 정황 포착",
+        "time": "2026-01-03T10:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143476_700.jpg",
+        "url": "https://news.nate.com/view/20260103n03658",
+        "summary": "어제(2일) 퇴근길 서울 종각역 인근에서 3중 추돌 사고를 낸 70대 후반 택시 기사가 경찰에 긴급체포됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "14명 사상 '종각역 돌진' 70대 택시기사 긴급체포··· 모르핀 검출",
+        "time": "2026-01-03T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/03/ch_1767404648795_758671_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03380",
+        "summary": "사망자 1명, 부상자 13명이 발생한 서울 지하철 1호선 종각역 차량 돌진 사고를 낸 70대 남성이 3일 경찰에 긴급 체포됐다. 사고를 낸 택시 기사는 간이 시약 검사에서 약물 양성 반응이 나온 것으로 확인됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사 체포…약물 양성",
+        "time": "2026-01-03T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/rcv.YNA.20260102.PYH2026010217650001300_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03648",
+        "summary": "국과수 정밀검사 의뢰…감기약 복용 가능성도\r\n1명 사망·14명 부상…고령자·약물운전 도마",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "인도 올라타더니 그대로 '쾅'…유명 여성 BJ, '수면유도제' 운전",
+        "time": "2026-01-03T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103502615.jpg",
+        "url": "https://news.nate.com/view/20260103n03619",
+        "summary": "유명 인터넷방송인(BJ)이 약물에 취한 상태로 운전하다 사고를 내 경찰에 붙잡혔다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, 종각 전기택시 사고 낸 70대 운전자 체포…약물 '양성' 반응",
+        "time": "2026-01-03T10:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2026/01/03/2026010310384870717_1.jpg",
+        "url": "https://news.nate.com/view/20260103n03610",
+        "summary": "경찰이 서울 종로구 지하철 1호선 종각역 인근에서 행인들을 들이받는 사고를 낸 70대 택시 운전자를 체포했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[부고] 오부명(경상북도경찰청장)씨 부친상",
+        "time": "2026-01-03T10:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n03583",
+        "summary": "▲ 오만득(향년 82세)씨 별세, 오부명(경상북도경찰청장)씨 부친상 = 3일 0시 55분, 쉴낙원 양산시민장례식장 VIP-1호실(3일 오후 2시부터 조문 가능), 발인 5일 오전 10시 30분. ☎ 055-381-4444 (안동=연합뉴스)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사 긴급체포···약물 양성 확인",
+        "time": "2026-01-03T10:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/03/news-p.v1.20260103.e401e18357a34ce8b30966070e5aca2f_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03232",
+        "summary": "2일 퇴근길 서울 종각역에서 3중 추돌사고를 일으켜 1명을 숨지게 한 70대 후반 택시기사가 경찰에 긴급체포됐다. 이 택시기사는 약물운전 정황이 포착된 것으로 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'김병기 공천헌금' 수사 속도…통일교 '검찰로비'도 수사",
+        "time": "2026-01-03T10:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/808308_1767404181.jpg",
+        "url": "https://news.nate.com/view/20260103n03582",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'1명 사망' 종각역 70대 택시기사 긴급체포···모르핀 양성",
+        "time": "2026-01-03T10:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/03/2K75Q0EPYQ_3.jpg",
+        "url": "https://news.nate.com/view/20260103n03181",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "李대통령 국수본 수사 통제 '법제화' 지시에…\"독립성 훼손 우려\"",
+        "time": "2026-01-03T10:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7673044_high.jpg",
+        "url": "https://news.nate.com/view/20260103n03579",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, '종각역 사망사고' 택시기사 긴급체포…약물 반응 양성",
+        "time": "2026-01-03T10:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aj/2026/01/03/20260103102750244313.jpg",
+        "url": "https://news.nate.com/view/20260103n03489",
+        "summary": "퇴근길 종각역 인근에서 3중 추돌 사고를 내 1명을 숨지게 한 70대 후반 택시 기사가 경찰에 긴급체포됐다. 이 택시 기사는 약물 운전 정황이 포착된 것으로 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "김진균 청주시체육회장 출연금 '건너뛰기' 논란…시 감사서 드러나",
+        "time": "2026-01-03T10:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7678941_high.jpg",
+        "url": "https://news.nate.com/view/20260103n01643",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보]경찰, '종각역 사고' 70대 택시기사 긴급체포…약물 양성",
+        "time": "2026-01-03T10:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767403924941_903875_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03481",
+        "summary": "황서율 기자 chestnut@asiae.co.kr",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "종각역 사고 낸 70대 택시기사 긴급체포…약물 양성",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/03/news_1767403446_1593859_m_1.jpg",
+        "url": "https://news.nate.com/view/20260103n03511",
+        "summary": "모르핀 성분 검출…감기약 등 처방약일 수도 있어 정밀 감정 의뢰",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "케데헌 '골든', 영국 싱글차트 8위…로제 '아파트' 재진입",
+        "time": "2026-01-03T10:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601030706040545_l.jpg",
+        "url": "https://news.nate.com/view/20260103n03488",
+        "summary": "[파이낸셜뉴스] 넷플릭스 애니메이션 영화 '케이팝 데몬 헌터스' 오리지널사운드트랙(OST) '골든'(Golden)이 영국 오피셜 싱글차트 '톱 100'에 재 진입했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'15명 사상' 종각역 교통사고 운전자 긴급체포…모르핀 양성",
+        "time": "2026-01-03T10:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300194.jpg",
+        "url": "https://news.nate.com/view/20260103n03155",
+        "summary": "<font color=\"gray\"><b>- 70대 택시운전자 응급진료 후 긴급체포</b></font>\n<font color=\"gray\"><b>- 1명 사망·14명 부상</b></font>\n<font color=\"gray\"><b>- 간이검사서 모르핀 검출, 처방약 등 의심…국과수 의뢰</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, '종각역 추돌사고' 운전자 긴급체포…약물 양성 반응",
+        "time": "2026-01-03T10:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601031024595420_l.jpg",
+        "url": "https://news.nate.com/view/20260103n03462",
+        "summary": "[파이낸셜뉴스] 서울 종로구 종각역 인근에서 3중 추돌사고를 내 행인 1명을 숨지게 한 70대 택시 운전자가 경찰에 긴급체포됐다. 이 운전자는 약물 간이 검사에서 양성 반응이 나온 것으로 파악됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, '종각역 사망사고' 70대 택시기사 긴급체포…약물 양성",
+        "time": "2026-01-03T10:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/AKR20260103102351Viv_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n03417",
+        "summary": "종각역 인근에서 3중 추돌 사고를 일으켜 1명을 숨지게 한 70대 택시 기사가 경찰에 긴급체포됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사 약물검사 양성…긴급체포",
+        "time": "2026-01-03T10:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/mt_1767403564989_866937_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03376",
+        "summary": "경찰이 서울 종로구 지하철 1호선 종각역 인근에서 보행자들을 추돌한 택시 운전자를 긴급 체포했다. 운전자에 대한 약물 검사 결과 양성 반응이 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 사망사고' 70대 택시기사 체포…모르핀 양성",
+        "time": "2026-01-03T10:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/176740225669586b10d925a.jpg",
+        "url": "https://news.nate.com/view/20260103n03411",
+        "summary": "어제(2일) 종각역 인근에서 3중 추돌 사고를 내 1명을 숨지게 한 70대 택시기사가 긴급 체포된 가운데, 약물 검사에서 양성 반응이 나왔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'종각역 추돌사고' 70대 택시기사 긴급체포…모르핀 '양성'",
+        "time": "2026-01-03T10:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/03/202601031018598990_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03406",
+        "summary": "새해 종각역서 '3중 추돌'…결국 1명 사망·9명 부상\n경찰, 70대 택시기사 긴급체포…모르핀 '양성' 반응",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "방중 앞둔 李대통령 \"'하나의 중국' 존중…한중 정상 매년 만나야\"",
+        "time": "2026-01-03T10:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103502361.jpg",
+        "url": "https://news.nate.com/view/20260103n03395",
+        "summary": "이재명 대통령이 오는 4일부터 시작되는 중국 국빈 방문을 앞두고 중국 관영 CCTV와의 인터뷰를 통해 대만 문제와 한중 관계의 미래에 대한 명확한 구상을 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[신년사] 빈대인 BNK금융 회장 \"미래성장 위한 금융 전환…AI·비이자 강화\"",
+        "time": "2026-01-03T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2026/01/03/2026010310200226188_l.jpg",
+        "url": "https://news.nate.com/view/20260103n03371",
+        "summary": "예대마진 탈피·지역 특화 금융허브 강조\nAI 경영·소비자 보호·내부통제도 최우선",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"농약 검사 철저하게\" 충북도, 농수산물 검사 항목 확대",
+        "time": "2026-01-03T10:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0002032628_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03320",
+        "summary": "잔류농약 400종, 수산물 동물용의약품 124종 검사",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'15명 사상' 종각역 사고…'약물 양성' 운전자 긴급체포",
+        "time": "2026-01-03T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/03/202601031012245101_t.jpg",
+        "url": "https://news.nate.com/view/20260103n03338",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "한파 속 한강 첫 결빙 '작년보다 37일 빨라'",
+        "time": "2026-01-03T10:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7679390_high.jpg",
+        "url": "https://news.nate.com/view/20260103n03326",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "한파 속 한강 첫 결빙 '작년보다 37일 빨라'",
+        "time": "2026-01-03T10:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7679389_high.jpg",
+        "url": "https://news.nate.com/view/20260103n03325",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "분실물 찾아주려다 '경악'…마약 유통 정황 담긴 태블릿 PC, 마약 사범 대거 소탕",
+        "time": "2026-01-03T10:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202502061302022237_l.jpg",
+        "url": "https://news.nate.com/view/20260103n03312",
+        "summary": "[파이낸셜뉴스] 마약 유통 정황이 담긴 태블릿 PC를 분실해 마약 사범 대거 소탕에 단초를 제공한 20대 밀반입책 두 명이 나란히 중형을 선고받았다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경북 칠곡 기산면 창고서 불…담배꽁초 불티 발화 추정",
+        "time": "2026-01-03T10:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0002032624_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03311",
+        "summary": "[칠곡=뉴시스]송종욱 기자 = 2일 낮 12시51분께 경북 칠곡군 기산면 한 창고에서 불이 나 1시간여 만에 진화됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "경찰, 종각역 사고 70대 택시 기사 체포…약물 운전 정황",
+        "time": "2026-01-03T10:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/03/1317642_1507491_1258.jpg",
+        "url": "https://news.nate.com/view/20260103n03299",
+        "summary": "사진=연합뉴스",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美연방법원 \"총기 공개휴대 금지는 위헌\"",
+        "time": "2026-01-03T11:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/rcv.YNA.20251207.PGT20251207191601009_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n04212",
+        "summary": "“총기 공개휴대는 역사와 전통의 일부”",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"4인 가족 월보험료 390만원 폭등\"…오바마케어 폐지에 미국민 '비명'",
+        "time": "2026-01-03T11:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/03/20260103500253.jpg",
+        "url": "https://news.nate.com/view/20260103n04239",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "마이크론 사상 최고가 경신…미국 반도체주 동반 상승",
+        "time": "2026-01-03T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/03/789dea6a-bb0b-476c-93c0-7306d3e63412.jpg",
+        "url": "https://news.nate.com/view/20260103n03079",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"피 맑게 할 거야\"…'정량의 4배' 트럼프 아스피린 복용 논란",
+        "time": "2026-01-03T11:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143537_700.jpg",
+        "url": "https://news.nate.com/view/20260103n04244",
+        "summary": "도널드 트럼프 미국 대통령의 이른바 '마이웨이' 아스피린 복용법을 두고 의료계에서 우려의 목소리가 나오고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "뚱보 미국 남성과 결혼, 돈 노렸나?…필리핀女 \"사실 아냐\"",
+        "time": "2026-01-03T11:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20251206_0002011803_web.jpg",
+        "url": "https://news.nate.com/view/20260103n04183",
+        "summary": "[서울=뉴시스]정우영 인턴 기자 = 필리핀 여성이 온라인 데이팅 앱으로 2년간 교제한 미국 남성과 결혼한 것을 두고, 온라인 상에서 \"남편의 돈을 노리고 결혼한 것이 아니냐\"는 비난이 이어지고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "xAI '그록', 아동성착취 이미지 올렸다 삭제…안전장치 '허점'",
+        "time": "2026-01-03T11:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/AKR20260103113636blL_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04177",
+        "summary": "일론 머스크 테슬라 최고경영자(CEO)가 이끄는 인공지능(AI) 기업 xAI의 챗봇 '그록'이 비키니 수영복 등을 입은 아동의 이미지를 게시했다가 신고를 받고 삭제했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "중간선거 앞두고…\"트럼프 슈퍼팩, 4천억원 이상 보유\"",
+        "time": "2026-01-03T11:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/AKR20260103113559xYE_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04168",
+        "summary": "도널드 트럼프 미국 대통령의 슈퍼팩(특별정치활동위원회)이 올해 11월 중간선거를 앞두고 3억 달러(약 4,338억원)가 넘는 현금을 보유한 것으로 나타났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새해전야 'IS 순교작전' 계획한 미국 청년, FBI 위장수사에 덜미",
+        "time": "2026-01-03T11:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/AKR20260103113512JnR_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04161",
+        "summary": "새해 전야에 마을 사람들을 무차별 살해하려고 준비하던 18세 미국 청년이 경찰의 위장 수사로 범행 직전 덜미가 잡혔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "오바마케어보조금 폐지로 미국서 '비명'…\"건강보험료 감당못해\"",
+        "time": "2026-01-03T11:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/03/AKR202601031135415Dl_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04166",
+        "summary": "미국 '오바마케어'(ACA·건강보험개혁법)에 따른 건강보험료 보조금 지급이 종료되면서 당면한 보험료 폭등에 어려움을 겪는 미국인들이 늘어나고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"돈과 영주권 노렸다\"…'뚱뚱한 남자 결혼' 필리핀 미모女, 비난 쏟아지자 한 말",
+        "time": "2026-01-03T11:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/03/news-p.v1.20260103.23ad5f960c5144e9aa2afcdf84c0361f_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n04154",
+        "summary": "뚱뚱한 미국인과 결혼한 한 미모의 필리핀 여성이 “돈과 영주권을 노린 위장 결혼 아니냐”는 주변의 곱지 않은 시선에 “사랑해서 결혼한 것”이라며 색안경을 끼고 보지 말라고 호소했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "휴가 중 직접 '대리석 쇼핑'…5700억짜리 연회장 재건하는 트럼프 '논란'",
+        "time": "2026-01-03T11:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767407524767_852784_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03898",
+        "summary": "개인 비용 들여 직접 개입…동관 연회장 재건\n역사적 건축물 훼손·절차 무시 등으로 논란",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "日다이이치산쿄, 항암제에 2.8조원 투자…美·中 등에 공장 신설",
+        "time": "2026-01-03T11:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/AKR20260103022500073_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04134",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "백악관 AI차르도 '억만장자세' 캘리포니아 떠나 텍사스로",
+        "time": "2026-01-03T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143593_700.jpg",
+        "url": "https://news.nate.com/view/20260103n04126",
+        "summary": "미국 도널드 트럼프 행정부의 인공지능(AI) 정책을 총괄하는 'AI 차르' 데이비드 색스 백악관 과학기술자문위원회 위원장마저 캘리포니아의 이른바 '억만장자세'를 피해 텍사스로 이주를 택한 것으로 나타났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'권장량 4배'…트럼프, 아스피린 고용량 복용 괜찮나",
+        "time": "2026-01-03T11:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/176740678369587cbfc4958.png",
+        "url": "https://news.nate.com/view/20260103n04088",
+        "summary": "도널드 트럼프 미국 대통령의 '아스피린 고용량 복용법'을 둘러싸고 현지 의료계에서 우려의 목소리가 나오고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美항소법원 \"총기 외부로 드러내는 공개휴대 금지는 위헌\"",
+        "time": "2026-01-03T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/PRU20260103055001009_P2.jpg",
+        "url": "https://news.nate.com/view/20260103n04123",
+        "summary": "연방대법원 판례 언급하며 \"총기 공개휴대는 역사와 전통의 일부\"",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "머스크의 AI '그록', 미성년자 노출 이미지 생성 논란…안전장치 '구멍'",
+        "time": "2026-01-03T11:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/03/7379901_high.jpg",
+        "url": "https://news.nate.com/view/20260103n04067",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"내 빵 얘기 좀 들어 볼려?\" 보이스피싱범 혼 뺀 78세 AI 할머니",
+        "time": "2026-01-03T11:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/03/ch_1767406867478_559279_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03969",
+        "summary": "英 통신사가 2024년 개발",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "캄보디아 \"태국, 휴전 합의 후 국경마을 불법으로 합병 시도\"",
+        "time": "2026-01-03T11:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/AKR20260103022200104_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n04003",
+        "summary": "태국 \"원래 우리 땅인데 캄보디아 민간인들이 침입해 살아\"",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "납치에 전쟁까지 \"가도 괜찮나\" 공포 확산···'관광대국' 태국, 관광객 7% 감소",
+        "time": "2026-01-03T11:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/03/2K75QP09HB_2.jpg",
+        "url": "https://news.nate.com/view/20260103n03146",
+        "summary": "베트남은 반사 효과로 관광객 사상 최대",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"돈·영주권 노렸지?\" 뚱뚱한 美남성과 결혼한 20대 미녀 \"사랑해서 결혼한 것\"",
+        "time": "2026-01-03T11:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/03/202601031118430933_l.jpg",
+        "url": "https://news.nate.com/view/20260103n04034",
+        "summary": "[파이낸셜뉴스] 미국인과 결혼한 한 필리핀 여성이 \"돈과 영주권을 노린 위장 결혼 아니냐\"는 의혹에 대해 \"사랑해서 결혼한 것\"이라며 반박한 가운데 이들 부부의 사연이 온라인상에서 화제가 되고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"부작용이 더 크다\"…트럼프 '아스피린 고용량 복용법'에 의료계 우려",
+        "time": "2026-01-03T11:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/news-p.v1.20251219.df1d0f73af6e44e0885a8a141ae3b763_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03980",
+        "summary": "[헤럴드경제=권제인 기자] 도널드 트럼프 미국 대통령의 아스피린 복용법을 둘러싸고 논란이 커지고 있다. 의료계는 심장마비나 뇌졸중 병력이 없는 고령자가 고용량의 아스피린을 정기 복용하는 것은 사망 위험을 높일 수 있다고 우려했다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美국방부 \"주한미군 아파치 부대 중단, 결정된 것 없어\"",
+        "time": "2026-01-03T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/03/ch_1767406209153_106629_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03467",
+        "summary": "美 의회 보고서와 엇박자",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프, '권장량 4배' 아스피린 복용에 부작용 우려",
+        "time": "2026-01-03T11:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300224.jpg",
+        "url": "https://news.nate.com/view/20260103n03882",
+        "summary": "<font color=\"gray\"><b>- 트럼프 대통령, 2일 NYT 인터뷰</b></font>\n<font color=\"gray\"><b>- 매일 325mg 아스피린 복용 사실 밝혀</b></font>\n<font color=\"gray\"><b>- 심혈관 질환 예방차원…의료계선 부작용 경고</b></font>\n<font color=\"gray\"><b>- 급성 내부 출혈 위험…트럼프 오른손 멍 자국 포착</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "인도서 식수 오염에 집단 설사…9명 사망·200명 입원",
+        "time": "2026-01-03T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/03/news_1767404352_1593862_m_1.jpg",
+        "url": "https://news.nate.com/view/20260103n03868",
+        "summary": "상수도가 누수로 오염…수질 검사 결과 배관서 세균 검출",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"죽었다고 단정하지 말라\"…한파에 얼어붙은 이구아나, 사실은",
+        "time": "2026-01-03T11:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/03/news-p.v1.20260103.2155d74ac5c848f7b8feb801084af2c0_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03909",
+        "summary": "2025년 마지막날인 31일 미국 플로리다주를 덮친 한파로 거리 곳곳에 이구아나가 언 채로 발견됐다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"캄보디아도 그 난리더니\" 못믿을 해외 일자리…러시아서 용병으로 전쟁터 보내",
+        "time": "2026-01-03T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/news-p.v1.20260102.4d1b13e0024445a19506d1b36aafc782_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03834",
+        "summary": "[헤럴드경제=도현정 기자]“상트페테르부르크에서 열리는 육상 경주에 참가하라는 제안을 받고 서류에 사인을 했는데, 도착해보니 전장으로 가야한다며 협박을 당했습니다.”",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "크리스마스 지나니…'골든' 영국 싱글차트 8위·'아파트' 재진입",
+        "time": "2026-01-03T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/17674041856958729906c52.jpg",
+        "url": "https://news.nate.com/view/20260103n03774",
+        "summary": "넷플릭스 애니메이션 영화 '케이팝 데몬 헌터스' OST '골든'이 지난 크리스마스 시즌 캐럴에 순위가 밀려났다가 '톱 10'에 재진입했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프, 이란 시위 탄압 경고…\"즉각 행동할 준비 됐다\"",
+        "time": "2026-01-03T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/03/178ba15d-ec3d-4713-b409-56124a268188.jpg",
+        "url": "https://news.nate.com/view/20260103n03756",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "젤렌스키, 6개월 만에 국방장관 교체…34세 부총리 후보 낙점",
+        "time": "2026-01-03T10:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/03/7f6c01d4-f81b-4f86-8f77-673544e40f68.jpg",
+        "url": "https://news.nate.com/view/20260103n03735",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "FBI \"ISIS 추종자, 새해 전야 테러 공격 계획해 저지\"",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/03/2026010310304487475_1.jpg",
+        "url": "https://news.nate.com/view/20260103n03714",
+        "summary": "미 연방수사국(FBI)이 불특정 다수를 대상으로 테러 공격을 계획한 테러단체 ISIS(이슬람국가) 추종자를 체포했다고 2일 밝혔다. 2주 전에는 호주 본다이 해변에서 ISIS 추종자가 총기 난사를 벌인 사건이 있었다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "젤린스키, 6개월만에 제1부총리 국장부 장관 후보 지명",
+        "time": "2026-01-03T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/03/1317647_1507494_5034.jpg",
+        "url": "https://news.nate.com/view/20260103n03711",
+        "summary": "볼로디미르 젤렌스키 우크라이나 대통령. 사진=연합뉴스",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 화재 참사서 맨손 구조…\"고통이나 연기, 위험은 생각할 겨를이 없었다\"",
+        "time": "2026-01-03T10:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/03/17674038256958713160a93.jpg",
+        "url": "https://news.nate.com/view/20260103n03588",
+        "summary": "새해 첫날 스위스 유명 스키 리조트 술집에서 발생한 화재로 160여명의 사상자가 발생한 가운데, 참사 당시 맨손으로 불길에 뛰어들어 청년 10명을 구해낸 주민의 이야기가 화제를 모으고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 술집 화재서 맨손으로 10명 구한 남성…부상자 최소 80명 위독",
+        "time": "2026-01-03T10:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143508_700.jpg",
+        "url": "https://news.nate.com/view/20260103n03194",
+        "summary": "새해 첫날 스위스의 한 유명 휴양지 술집에서 불이 나 100명이 넘는 사상자가 발생한 가운데, 참사 당시 맨손으로 불길 속에 뛰어들어 청년 10명을 구해낸 주민의 이야기가 전해졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"캘리포니아 억만장자세 피하자\"…백악관 AI차르도 텍사스로",
+        "time": "2026-01-03T10:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/03/rcv.YNA.20251212.PRU20251212175701009_P1.jpg",
+        "url": "https://news.nate.com/view/20260103n03567",
+        "summary": "“오스틴이 샌프란 대신해 기술 수도 될 것”",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "팔레스타인 소녀 안아주는 앤젤리나 졸리",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0000892808_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03526",
+        "summary": "[라파=AP/뉴시스] 미국 배우 겸 영화 제작자 앤젤리나 졸리가 2일(현지 시간) 가자지구 라파 검문소의 이집트 측 엘아리시 병원에서 한 팔레스타인 소녀를 안고 있다. 유엔아동기금(UNICEF·유니세프) 친선 대사이기도 한 졸리는 이날 가자지구의 팔레스타인 부상자 상태를 확인하고 지원 물자 전달 상황을 살펴보기 위해 이곳을 방문한 것으로 알려졌다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "러 진지로 발사되는 우크라군 다연장로켓포",
+        "time": "2026-01-03T10:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0000892601_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03534",
+        "summary": "[자포리자=AP/뉴시스] 우크라이나 제65기계화여단이 제공한 사진에 2일(현지 시간) 자포리자에서 우크라이나 군의 BM-21 ‘그라드’ 다연장로켓포(MRLS)가 러시아군 진지를 향해 발사되고 있다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "러 공습으로 발생한 화재 진압하는 우크라 소방관",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260102_0000892544_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03521",
+        "summary": "[하르키우=AP/뉴시스] 2일(현지 시간) 우크라이나 하르키우에서 소방관들이 러시아의 미사일 공격으로 발생한 주거 지역 화재를 진화하고 있다. 이 공격으로 아기 포함, 최소 25명이 부상한 것으로 알려졌다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "다연장로켓포 장전하는 우크라이나 군인들",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0000892600_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03524",
+        "summary": "[자포리자=AP/뉴시스] 우크라이나 제65기계화여단이 제공한 사진에 2일(현지 시간) 자포리자에서 우크라이나 군인들이 러시아군 진지를 향해 발사할 BM-21 ‘그라드’ 다연장로켓포(MRLS)를 장전하고 있다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "하르키우 공습 화재 진화하는 우크라 소방관들",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260102_0000892541_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03518",
+        "summary": "[하르키우=AP/뉴시스] 2일(현지 시간) 우크라이나 하르키우에서 소방관들이 러시아의 미사일 공격으로 발생한 주거 지역 화재를 진화하고 있다. 이 공격으로 아기 포함, 최소 25명이 부상한 것으로 알려졌다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "러 미사일 공격으로 파괴된 하르키우 주거 지역",
+        "time": "2026-01-03T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260102_0000892545_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03520",
+        "summary": "[하르키우=AP/뉴시스] 2일(현지 시간) 우크라이나 하르키우에서 소방관들이 러시아의 미사일 공격으로 발생한 주거 지역 화재를 진화하고 있다. 이 공격으로 아기 포함, 최소 25명이 부상한 것으로 알려졌다. 2026.01.03.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "새해 전날 몰아친 한파에 美이구아나 '꽁꽁'…땅에 널브러져(영상)",
+        "time": "2026-01-03T10:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20260103_0002032614_web.gif",
+        "url": "https://news.nate.com/view/20260103n03477",
+        "summary": "[서울=뉴시스]정우영 인턴 기자 = 새해 전날 몰아친 한파로 미국 플로리다주의 이구아나들이 굳은 채로 발견돼 화제다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[글로컬] 시진핑, 한한령 풀고 '라우펑여우' 언급할까",
+        "time": "2026-01-03T10:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/PYH2025110100850001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260103n03483",
+        "summary": "박근혜 전 대통령 라우펑여우라 부르며 양국 관계 돈독",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"보이스 피싱 낚는 78세 AI 할머니\"…일부러 시간 끌기",
+        "time": "2026-01-03T10:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/03/NISI20250929_0001956746_web.jpg",
+        "url": "https://news.nate.com/view/20260103n03468",
+        "summary": "[서울=뉴시스]박지혁 기자 = 영국에서 시간을 지연하며 보이스 피싱으로 인한 피해를 줄이는 인공지능(AI) 할머니가 화제다. 전화로 속이기 위한 사기꾼이 실제 사람과 통화하는 것처럼 느끼지만 실제로는 AI가 영리하게 시간을 끄는 방식이다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 화재참사서 10명 맨손 구조…\"아이들이 살려달라 외쳤다\"",
+        "time": "2026-01-03T10:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143219_700.jpg",
+        "url": "https://news.nate.com/view/20260103n03438",
+        "summary": "새해 첫날 스위스 유명 휴양지 술집에서 발생한 화재로 100명이 넘는 사상자가 발생한 가운데, 참사 당시 맨손으로 불길에 뛰어들어 청년 10명을 구해낸 주민의 영웅담이 전해졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"2경3000조 '희·망' 캐자\"…강대국들 물밑 전쟁 [세계는 지금]",
+        "time": "2026-01-03T10:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260101510145.jpg",
+        "url": "https://news.nate.com/view/20260103n03354",
+        "summary": "지난해 4월 도널드 트럼프 미국 대통령은 해저 중요 광물 탐사를 대폭 확대하는 행정명령에 서명했다. 핵심 광물을 “국가 안보와 경제 패권의 심장부”로 못 박으면서 사실상 바닷속 자원전쟁의 방아쇠를 당겼다는 평가다. 중국 역시 2025년 초 심해저 망간단괴(다금속 결절)·다금속 황화광상 탐사 프로그램을 강화했고, 한국·일본과 유럽 주요국 등도 앞다퉈 해저 탐사 대열에 합류하고 있다. 자동차, 반도체, 배터리 등 미래 산업을 좌우할 니켈·코발트·희토류의 육상 공급이 치솟는 가격과 공급망 불안으로 안보를 위협하면서 깊은 바다에 존재하는 망간단괴 등 광물이 새로운 ‘전략 무기’로 떠오르고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "스위스 화재참사 10명 맨손 구조…\"아이들 외침에 달려갔다\"",
+        "time": "2026-01-03T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300188.jpg",
+        "url": "https://news.nate.com/view/20260103n03341",
+        "summary": "<font color=\"gray\"><b>- 딸 전화 받고 현장으로 달려가 맨손 구조</b></font>\n<font color=\"gray\"><b>- 구조 중 유독가스 흡입해 병원 치료 중</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"네타냐후 뉴욕 오면 체포\" 공언한 맘다니, 親이스라엘 정책 폐기",
+        "time": "2026-01-03T10:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/03/20260103502507.jpg",
+        "url": "https://news.nate.com/view/20260103n03267",
+        "summary": "베냐민 네타냐후 이스라엘 총리가 미국 뉴욕을 방문하는 경우 경찰을 시켜 그를 체포할 것이라고 공언한 조란 맘다니 신임 뉴욕시장이 전임 시장의 친(親)이스라엘 정책을 모조리 폐기했다. 네타냐후 총리는 국제형사재판소(ICC)에 의해 체포영장이 발부돼 외국 방문이 자유롭지 못한 상태다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"보험 감당 못 한다\" 오바마케어 후폭풍에 무보험자 늘어",
+        "time": "2026-01-03T10:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/03/202143589_700.jpg",
+        "url": "https://news.nate.com/view/20260103n03249",
+        "summary": "미국의 오바마케어에 따른 건강보험료 보조금 지급이 종료되면서 보험료 폭등을 겪는 미국인들이 늘고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "머스크의 AI '그록', 미성년자 노출 이미지 생성 논란",
+        "time": "2026-01-03T10:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767402424911_159199_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03203",
+        "summary": "이용자 요청에 노출 높은 사진 생성\nxAI \"시스템 허점 확인…긴급 수정\"",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "인도 식수 오염에 집단 설사…9명 사망·200명 입원",
+        "time": "2026-01-03T09:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260103n03067",
+        "summary": "최근 인도 중부 마디아프라데시 주 인도르 시에서 누수에 따른 식수 오염으로 집단 설사병이 발생해 9명이 숨졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "인도서 식수 오염으로 집단 설사병…9명 사망·200명 입원",
+        "time": "2026-01-03T09:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/03/AKR20260103017800104_01_i.jpg",
+        "url": "https://news.nate.com/view/20260103n02886",
+        "summary": "\"누수로 상수도 오염, 배관서 세균 검출\"…식수 정화 작업 중",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'개인정보 유출' KT, 위약금 면제에 사흘간 3만1734명 이탈",
+        "time": "2026-01-03T11:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/03/PS26010300230.jpg",
+        "url": "https://news.nate.com/view/20260103n04064",
+        "summary": "<font color=\"gray\"><b>- KT, 지난달 31일부터 위약금 면제…일평균 1만명 이동</b></font>\n<font color=\"gray\"><b>- 대부분 SK텔레콤으로…가입자 유치 정책 영향</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[AI혁명](181)엔닷라이트 \"피지컬 AI 시장으로\" 로봇 학습 위한 3D 데이터 생성",
+        "time": "2026-01-03T10:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767404824936_966721_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03670",
+        "summary": "로보틱스·디지털 트윈 등에 3D 기술 적용 \n2022년부터 엔비디아 협력…대기업 러브콜",
+        "source": "nate",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[과학을읽다]2026년, AI 이후의 노동은 어떻게 재설계되는가",
+        "time": "2026-01-03T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/03/ae_1767404644487_823097_0.jpg",
+        "url": "https://news.nate.com/view/20260103n03640",
+        "summary": "수행을 넘어서 '판단의 구조'로 이동한 인간의 일",
         "source": "nate",
         "date": "2026년 01월 03일 토요일"
       }
