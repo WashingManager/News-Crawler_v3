@@ -145,6 +145,46 @@
         "url": "https://www.fnnews.com/news/202601031832329565",
         "source": "Fn",
         "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"베네수엘라 체류 한국인 70여명 피해 없어\"..외교2차관 주재 상황점검회의",
+        "time": "2026-01-03T19:20:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031916529585",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라 공격 성공\"... 李 \"신속한 교민 철수계획 수립하라\"",
+        "time": "2026-01-03T19:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031908382242",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 李대통령 “베네수엘라에 우리 국민 70여명…철수계획 수립 지시”",
+        "time": "2026-01-03T19:08:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031900428034",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라, 군·민병대 총동원령…\"美, 중대한 침공\"",
+        "time": "2026-01-03T19:01:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031855349076",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수 공격 성공…마두로 대통령 부부 체포해 국외로 이송\"",
+        "time": "2026-01-03T18:55:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601031852231269",
+        "source": "Fn",
+        "date": "2026년 01월 03일 토요일"
       }
     ]
   },
@@ -156,6 +196,14 @@
         "time": "2026-01-03T12:57:00",
         "img": "",
         "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=373617",
+        "source": "fntoday",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "미국, 베네수엘라 전격 군사 작전…마두로 대통령 부부 체포",
+        "time": "2026-01-03T18:57:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=373624",
         "source": "fntoday",
         "date": "2026년 01월 03일 토요일"
       }
@@ -694,6 +742,69 @@
         "summary": "",
         "source": "yna",
         "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 靑 \"외교부, 재외국민보호대책반 가동…교민 안전 확보에 만전\"",
+        "time": "2026-01-03T19:06:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103038200001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 靑 \"베네수엘라 체류 교민 70여명…현재까지 피해 접수 없어\"",
+        "time": "2026-01-03T19:00:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103038000001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美 베네수 공격에…李대통령 \"교민보호 철저…필요시 신속 철수\"",
+        "time": "2026-01-03T18:43:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2025/12/30/PYH2025123005200001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103037000001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "러, 작년 우크라 영토 0.9% 더 장악…우크라, 전방대피령 확대",
+        "time": "2026-01-03T18:50:00",
+        "img": "https://img2.yna.co.kr/photo/ap/2026/01/02/PAP20260102044001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103037200085",
+        "summary": "공습도 계속…연초 하르키우 공습 사망자 늘어",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[美 베네수 공격] \"중대한 침공\"…베네수, 군·민병대 총동원령(종합)",
+        "time": "2026-01-03T18:40:00",
+        "img": "https://img3.yna.co.kr/photo/etc/af/2026/01/03/PAF20260103061901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103034251009",
+        "summary": "마두로 정부 명의 성명 발표…\"유엔 헌장 따라 정당한 방어권 행사할 것\"",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "이별 통보한 연인 찾아가 흉기로 살해한 60대 구속영장",
+        "time": "2026-01-03T19:14:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/03/AKR20260103038500063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260103038500063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[부고] 김정억(전 전자신문 정보사업국 부국장)씨 모친상",
+        "time": "2026-01-03T19:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260103038100505",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 03일 토요일"
       }
     ]
   },
@@ -862,6 +973,15 @@
         "time": "2026-01-03T07:39:00",
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=294462&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "정청래, ‘공천헌금 의혹’ 사과… “환부 도려내겠다”",
+        "time": "2026-01-03T19:06:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=294465&search=",
         "summary": "",
         "source": "skyDaily",
         "date": "2026년 01월 03일 토요일"
@@ -3171,6 +3291,249 @@
         "time": "2026-01-03T09:45:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/YTN/20260103183416637oebb.jpg",
         "url": "https://v.daum.net/v/20260103183415010",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"마두로 생포해 베네수엘라 밖으로 이송\" 〈CNN〉",
+        "time": "2026-01-03T10:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/sbscnbc/20260103184202677lmzk.jpg",
+        "url": "https://v.daum.net/v/20260103183900054",
+        "summary": "트럼프 \"베네수 공격 성공…마두로 부부 체포해 국외로 이송\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "외교부 \"미 베네수엘라 공습, 한국 교민 피해 접수 없어\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Edaily/20260103192105087lhvx.jpg",
+        "url": "https://v.daum.net/v/20260103191304394",
+        "summary": "오후 6시 기준 70여명 체류 교민 피해 접수 없어외교부 \"현지 공관과 교민 안전 확보 위해 만전\"李대통령, 현지 교민 보호 지시트럼프 \"마두로 체포해 이송\" 밝혀",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“트럼프 대통령, 베네수엘라 공격 명령”…베네수엘라 국가비상사태 선언",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103190553265kcha.jpg",
+        "url": "https://v.daum.net/v/20260103190551322",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "이 대통령 \"'하나의 중국' 존중…한중 정상 매년 만나야\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsy/20260103191127617ajcx.jpg",
+        "url": "https://v.daum.net/v/20260103191127384",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "육군 모사단, “총기 대신 삼단봉” 지침 내렸다 철회",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/munhwa/20260103190807784jndp.jpg",
+        "url": "https://v.daum.net/v/20260103190805346",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 공습, 의회에 사전 공유 없었나…\"트럼프 의회에 안 알려\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/moneytoday/20260103191104754fubw.jpg",
+        "url": "https://v.daum.net/v/20260103191103381",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美, 베네수 대대적 공습 시작…“마두로 생포”",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/seoul/20260103192045286biuk.jpg",
+        "url": "https://v.daum.net/v/20260103192038448",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "'美 베네수 공격' 李대통령 \"교민보호 철저\"…외교부, 교민 안전 확보 만전",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/nocut/20260103193001900anha.jpg",
+        "url": "https://v.daum.net/v/20260103193001493",
+        "summary": "李대통령 \"철수 계획 치밀하게 준비…필요시 신속 집행\"외교부, 긴급 대책회의 계회 예정…재외국민보호대책반 가동베네수엘라 체류 중인 국민 70여 명…피해 접수 無",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라, 군·민병대 총동원령…\"美, 중대한 침공\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/fnnewsi/20260103190305766jowu.jpg",
+        "url": "https://v.daum.net/v/20260103190305299",
+        "summary": "마두로 정부 명의 성명 발표…\"유엔 헌장 따라 정당한 방어권 행사할 것\"",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "미, 베네수엘라 공격 전격 단행",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Channela/20260103193208407rgtw.jpg",
+        "url": "https://v.daum.net/v/20260103193207513",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 “마두로 생포해 이송…베네수엘라 공격 성공”",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103190904991zvxp.jpg",
+        "url": "https://v.daum.net/v/20260103190902350",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수 공격 성공…마두로 부부 체포\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/551725-bDDlA7g/20260103192631765uhbu.png",
+        "url": "https://v.daum.net/v/20260103192630476",
+        "summary": "한국시간 4일 오전 1시 기자회견 예고",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "美 \"베네수 내 미국인, 안전한 실내서 대기하라\"…항공기도 통제",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/newsis/20260103191142646dwnk.jpg",
+        "url": "https://v.daum.net/v/20260103191142385",
+        "summary": "\"대사관 철수, 서비스제공 불가\"베네수 영공 내 운항 금지 발령",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라, 군·민병대 총동원령…“미, 중대한 침공”",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103191751824aplq.jpg",
+        "url": "https://v.daum.net/v/20260103191550421",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "“트럼프도 경고했는데” 사망자만 최소 10명…이란, 반정부 시위 격화",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/ned/20260103192008679pmnt.jpg",
+        "url": "https://v.daum.net/v/20260103192006447",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "러, 작년 우크라 영토 0.9% 더 장악…우크라, 전방대피령 확대",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kbs/20260103190806628ucsw.jpg",
+        "url": "https://v.daum.net/v/20260103190553325",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"오전 11시 기자회견\"…'베네수엘라 공격' 직접 발표",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/yonhap/20260103183500011yjxb.jpg",
+        "url": "https://v.daum.net/v/20260103183442015",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 \"美, 중대한 군사침공…국가비상사태 선포\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/nocut/20260103190905272sclp.jpg",
+        "url": "https://v.daum.net/v/20260103190904356",
+        "summary": "베네수엘라 \"美, 자국 영토와 국민 공격했다\" 비난마두로 대통령 \"모든 국가 방어 계획 가동\" 지시유엔 안전보장이사회 등 기타 국제기구에 제소 예정",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 '개입' 경고에도 \"이렇게는 못살아\"…민심 '대폭발'",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/kedtv/20260103192725227okgr.jpg",
+        "url": "https://v.daum.net/v/20260103192725485",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"베네수엘라 공격 성공…마두로 체포해 국외 이송\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/joongang/20260103190703905lrnu.jpg",
+        "url": "https://v.daum.net/v/20260103190703331",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프 \"마두로 생포해 해외로 이송, 대규모 공격 성공 수행\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/JTBC/20260103193133832mnof.jpg",
+        "url": "https://v.daum.net/v/20260103193131505",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "베네수엘라 \"마두로 대통령 부부 행방 모르고 있다\"",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/moneytoday/20260103192501470ywlu.jpg",
+        "url": "https://v.daum.net/v/20260103192103451",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "Lee orders safety measures for Koreans in Venezuela after US attack",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/koreaherald/20260103191551200scey.jpg",
+        "url": "https://v.daum.net/v/20260103191550422",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[아는기자]왜 못 걸러냈나?…민주, 속타는 심정?",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/Channela/20260103191609653xihp.jpg",
+        "url": "https://v.daum.net/v/20260103191608425",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "트럼프, 반정부 시위 '개입 시사'…이란 \"내정 간섭\" 맞불 예고",
+        "time": "2026-01-03T10:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/JTBC/20260103193114181gziu.jpg",
+        "url": "https://v.daum.net/v/20260103193112502",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "[美 베네수 공격] 마두로 축출…'돈로주의'로 중남미 패권 다지나",
+        "time": "2026-01-03T10:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/yonhap/20260103191954681naad.jpg",
+        "url": "https://v.daum.net/v/20260103191954443",
+        "summary": "군사공격에 더해 마두로 체포·국외로 이송…충격속 국제법위반 논란베네수엘라 좌파 정권 교체가 목표인 듯…중남미 中영향력 차단 포석도",
+        "source": "daum",
+        "date": "2026년 01월 03일 토요일"
+      },
+      {
+        "title": "\"비명 속 하늘이 붉게 물들었다\"…美, 베네수엘라 수도 전격 공습",
+        "time": "2026-01-03T10:31:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/03/joongang/20260103190550819hzjb.jpg",
+        "url": "https://v.daum.net/v/20260103190304297",
         "summary": "",
         "source": "daum",
         "date": "2026년 01월 03일 토요일"
