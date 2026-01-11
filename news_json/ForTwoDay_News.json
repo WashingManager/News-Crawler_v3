@@ -785,6 +785,22 @@
         "url": "https://www.fnnews.com/news/202601120545355105",
         "source": "Fn",
         "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "美 도착한 통상본부장, 쿠팡 문제 \"통상-외교와 분리해야\"",
+        "time": "2026-01-12T06:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601120624077196",
+        "source": "Fn",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "[르포] 로봇이 용접하고, AI가 굴착기 점검…피지컬AI, 종횡무진 [CES 2026]",
+        "time": "2026-01-12T06:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601111426409879",
+        "source": "Fn",
+        "date": "2026년 01월 11일 일요일"
       }
     ]
   },
@@ -2154,6 +2170,51 @@
         "time": "2026-01-12T06:00:00",
         "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/10/AKR20260110031000004_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260110031000004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "[팩트체크] 6만개 난립에 5년간 1만여개 사라져…쓸만한 민간자격증 찾으려면",
+        "time": "2026-01-12T06:30:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/09/AKR20260109121500518_19_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260109121500518",
+        "summary": "2007년 이후 등록만 하면 누구나 자격증 운영 가능",
+        "source": "yna",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "대구·경북 가끔 구름 많음…낮 최고기온 0∼7도",
+        "time": "2026-01-12T06:22:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/12/AKR20260112005100053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260112005100053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "강원 눈 또는 비…건조한 동해안 '화재 유의'",
+        "time": "2026-01-12T06:18:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/01/11/PYH2026011105340006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260112005000062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "대전·세종·충남 출근길 '꽁꽁'…빙판길 주의",
+        "time": "2026-01-12T06:17:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/01/08/PYH2026010802070001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260112004900063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "제주, 흐리다 오후엔 구름 많아…낮 최고 11∼12도",
+        "time": "2026-01-12T06:16:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/01/11/PYH2026011102490005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260112004700056",
         "summary": "",
         "source": "yna",
         "date": "2026년 01월 11일 일요일"
@@ -9012,6 +9073,105 @@
         "time": "2026-01-11T21:27:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/seoul/20260112055927800akwq.jpg",
         "url": "https://v.daum.net/v/20260112055923634",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "SBS '모범택시' 윤석열 계엄까지 다뤘다",
+        "time": "2026-01-11T21:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/mediatoday/20260112063705759eonm.jpg",
+        "url": "https://v.daum.net/v/20260112063704432",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "[AI돋보기] 미국은 '뇌', 중국은 '몸'…체제가 된 AI",
+        "time": "2026-01-11T21:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/yonhap/20260112063614022ahof.jpg",
+        "url": "https://v.daum.net/v/20260112063613409",
+        "summary": "소프트웨어의 미국 vs 제조·로봇의 중국미국의 반도체 장벽 속 중국의 인재·현장 전략 격돌",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "바디프렌드, 로봇·피지컬AI 시장 정조준…현장선 “아이언맨 된 기분” 호평 [CES 2026]",
+        "time": "2026-01-11T21:46:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/segye/20260112063606447jbhh.jpg",
+        "url": "https://v.daum.net/v/20260112063606406",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "[르포] 로봇이 용접하고, AI가 굴착기 점검…피지컬AI, 종횡무진 [CES 2026]",
+        "time": "2026-01-11T21:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/fnnewsi/20260112063129908ddcq.jpg",
+        "url": "https://v.daum.net/v/20260112063129263",
+        "summary": "CES 2026서 산업현장 적용되는 AI 기술 선봬",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "AI로 세계문화유산 지키는 순찰로봇 이름은?",
+        "time": "2026-01-11T21:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/Edaily/20260112064105037wvjw.jpg",
+        "url": "https://v.daum.net/v/20260112064103461",
+        "summary": "경기남부청-경기문화재단 공동기획 SNS 이벤트지난해말부터 팔달서에서 도입한 순찰로봇 이름 맞추기ESG 주제로 한 퀴즈도, 각 50명씩 100명에 경품 증정",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "이란 시위 사상자 속출… “2천명 넘게 숨졌을 수도”",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/chosunbiz/20260112063606547evmz.jpg",
+        "url": "https://v.daum.net/v/20260112063605403",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "\"이란 시위로 2천명 넘게 숨졌을 가능성도\"",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/newsy/20260112063008059ftah.jpg",
+        "url": "https://v.daum.net/v/20260112063007216",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "\"트럼프의 그린란드 위협, 소련의 동맹국 침공 역사 소환\"",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260112063600397",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "[단독] “한국은 불량 국가” 美강경파 의원 만나는 통상 수장… 분위기 반전 가능할까",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/chosun/20260112063206168llqx.jpg",
+        "url": "https://v.daum.net/v/20260112063204296",
+        "summary": "訪美 통상본부장, 11일 공화당 아이사 의원 만나정부 규제에 “경악스러워” 주장한 강경파한국을 북한·중국·쿠바 등과 같은 대열에 올려 비교공정거래위원장 언론 기고 콕 집어 반박하기도美조야, 자국 빅테크 규제에 민감… 통상 갈등 비화 우려도",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "‘ICE’ 총격에 미국 전역 시위 확산…“법 집행 인력 추가 파견”",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/kbs/20260112063003296rmll.jpg",
+        "url": "https://v.daum.net/v/20260112063001210",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 11일 일요일"
+      },
+      {
+        "title": "이란 시위 사망자 급증…“2천 명 넘게 숨졌을 가능성도”",
+        "time": "2026-01-11T21:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/12/kbs/20260112063005831rnxx.jpg",
+        "url": "https://v.daum.net/v/20260112063003212",
         "summary": "",
         "source": "daum",
         "date": "2026년 01월 11일 일요일"
