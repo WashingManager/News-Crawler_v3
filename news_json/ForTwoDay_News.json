@@ -1441,6 +1441,14 @@
         "url": "https://www.fnnews.com/news/202601130742393134",
         "source": "Fn",
         "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "중진공, 실리콘밸리서 美액셀러레이터와 韓기업 돕는다",
+        "time": "2026-01-13T08:33:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601130823304368",
+        "source": "Fn",
+        "date": "2026년 01월 12일 월요일"
       }
     ]
   },
@@ -4700,6 +4708,42 @@
         "time": "2026-01-13T07:56:00",
         "img": "https://img2.yna.co.kr/photo/cms/2020/09/22/45/PCM20200922000045990_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260113020900053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "서울 버스파업 여파로 경기도민도 출근길 불편…지하철역 '북적'",
+        "time": "2026-01-13T08:31:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/01/13/PYH2026011300880001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260113023400061",
+        "summary": "성남·안양·하남·고양 등 서울 인접 12곳 111개 노선 중단",
+        "source": "yna",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "포항 식당서 불…인접 건물도 일부 타 3천여만원 피해",
+        "time": "2026-01-13T08:21:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/13/AKR20260113024700053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260113024700053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "마포구, '김대중 대통령 동교동 사저 보존위원회' 출범",
+        "time": "2026-01-13T08:17:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/13/AKR20260113024200004_04_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260113024200004",
+        "summary": "사저 보존·활용방안 논의…김대중 가옥 방문해 내부 점검",
+        "source": "yna",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "[부고] 박성민(1코노미뉴스 기자)씨 외조부상",
+        "time": "2026-01-13T08:34:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260113027000505",
         "summary": "",
         "source": "yna",
         "date": "2026년 01월 12일 월요일"
@@ -13872,6 +13916,105 @@
         "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
         "url": "https://v.daum.net/v/20260113081506727",
         "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "[단독]루닛, 글로벌 CRO 리더 아이큐비아 맞손…4만개 임상 현장에 AI 솔루션 통합",
+        "time": "2026-01-12T23:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/moneytoday/20260113084406950gdze.jpg",
+        "url": "https://v.daum.net/v/20260113084405429",
+        "summary": "아이큐비아 자회사와 AI 기반 디지털 병리 솔루션 임상 도입 파트너십 체결 전세계 4만개 이상 임상 사이트와 파트너십…빅파마 협업 고도화 및 수익 창출 동력",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "의대 교수들 \"27학년도 의대정원 논의 멈추고 수급추계 다시 하자\"",
+        "time": "2026-01-12T23:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/NEWS1/20260113084447777ropl.jpg",
+        "url": "https://v.daum.net/v/20260113084445454",
+        "summary": "\"우리 아이들을 의대라는 감옥에 가두지 말아달라\" 호소공공의대 등으로 증원 강행…교육 현장 목소리 들어달라",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "단 꿀만 빠는 동맹은 없다 [김구철의 소프트파워 외교]",
+        "time": "2026-01-12T23:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/dailian/20260113083124577okuy.jpg",
+        "url": "https://v.daum.net/v/20260113083122080",
+        "summary": "영국 프랑스, 유엔에서 미국을 지지하다일본 전국시대, 기요스 동맹의 탄생(1562)미국과 한국, 누가 빚졌나?고립된 미국, 한국의 응원을 기대한다",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "아영FBC \"핵심 스피릿 4종, 드링크스 인터내셔널 상위권 랭크\"",
+        "time": "2026-01-12T23:45:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/NEWS1/20260113084046775bwlt.jpg",
+        "url": "https://v.daum.net/v/20260113084044346",
+        "summary": "테킬라 오초·플랜터레이 럼·코냑 페랑·코키 등 글로벌 영향력 확인",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "이 대통령 \"중일 갈등, 관여할 문제 아냐\"…오늘 다카이치와 정상회담",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/mbn/20260113073528423wvku.jpg",
+        "url": "https://v.daum.net/v/20260113073526048",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "유럽의회, '반정부 시위 탄압' 이란 외교관 전면 출입 금지",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/hankooki/20260113083207871eoku.jpg",
+        "url": "https://v.daum.net/v/20260113083205102",
+        "summary": "추가 제재·혁명수비대 테러단체 추진도",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "'착하게 살자' 'ICE 아웃'…트럼프에 참다못한 배우들, 골든글러브서 결국",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/akn/20260113084142317zzvp.jpg",
+        "url": "https://v.daum.net/v/20260113084141365",
+        "summary": "총격으로 숨진 세 아이 엄마 추모러팔로·사이크스 등 배우들 집단 행동트럼프 이민 정책 논란 재점화",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "트럼프, 이란 압박 강화…추가관세 조치 발표",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/newsy/20260113084327507qmeg.jpg",
+        "url": "https://v.daum.net/v/20260113084327410",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "트럼프 “이란과 거래하는 국가, 대미 관세 25% 부과”",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/kado/20260113084005186iwxj.jpg",
+        "url": "https://v.daum.net/v/20260113084003324",
+        "summary": "반정부 시위 이어지는 이란정권 압박이란산 석유 주 수입국인 중국에 영향줄듯",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "트럼프 정부, 시민권 박탈 지침 대폭 강화 – 미국 시민권자는 정말 안전한가 [미국 진출 인사이트]",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/dailian/20260113083127375zoyk.jpg",
+        "url": "https://v.daum.net/v/20260113083126083",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 12일 월요일"
+      },
+      {
+        "title": "日언론 \"한일 정상회담, 총리 고향 나라현 개최는 '환영' 증표\"",
+        "time": "2026-01-12T23:44:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/13/NEWS1/20260113084244396wtrx.jpg",
+        "url": "https://v.daum.net/v/20260113084244389",
+        "summary": "닛케이 \"아베·기시다도 고향 및 선거구에서 정상회담 진행\"다카이치 \"셔틀외교 통한 미래지향적 양국관계 진전 원해\"",
         "source": "daum",
         "date": "2026년 01월 12일 월요일"
       }
