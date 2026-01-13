@@ -1617,6 +1617,46 @@
         "url": "https://www.fnnews.com/news/202601132251326718",
         "source": "Fn",
         "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "그린란드 총리 \"미국 일부 되느니 덴마크 선택\"",
+        "time": "2026-01-14T06:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601140645019747",
+        "source": "Fn",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "\"미친X, 주둥아리...\" 60대 요양원 女직원에 폭언한 청도군수, 결국",
+        "time": "2026-01-14T06:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601140617141700",
+        "source": "Fn",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "영국, 이란 시위대 유혈 진압 규탄…석유·금융 등 추가 제재 예고",
+        "time": "2026-01-14T06:43:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601140641490689",
+        "source": "Fn",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "중국, 엔비디아 H200 ‘필요한 경우만’ 허용…AI 칩 빗장 걸었다",
+        "time": "2026-01-14T06:39:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601140637312293",
+        "source": "Fn",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "트럼프 관세 압박에도 美 물가 2.7% ‘안정’…인플레 우려 한숨 돌렸다",
+        "time": "2026-01-14T06:36:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601140634390549",
+        "source": "Fn",
+        "date": "2026년 01월 13일 화요일"
       }
     ]
   },
@@ -5093,6 +5133,78 @@
         "img": "https://img9.yna.co.kr/photo/reuters/2026/01/10/PRU20260110149601009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260114008600075",
         "summary": "블룸버그 보도…\"수신기 밀반입, 5만대 이상 이용 가능\"",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "복어 나눠 먹은 군산 섬 주민 등 6명 병원 이송",
+        "time": "",
+        "img": "https://img3.yna.co.kr/photo/cms/2015/11/30/01/C0A8CA3C0000015156FB2592000948FD_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260114012900055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "빌 클린턴, '엡스타인의혹' 美하원 소환에 \"매카시즘\"이라며 불응",
+        "time": "",
+        "img": "https://img4.yna.co.kr/photo/etc/af/2025/12/20/PAF20251220074801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114004900071",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "포항 공장서 작업자 5ｍ 아래 추락해 중상",
+        "time": "2026-01-14T06:37:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/14/AKR20260114013000053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114013000053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "전북 영하권 추위 계속…낮 기온 6∼8도",
+        "time": "2026-01-14T06:17:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/01/12/PYH2026011216980001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114011300055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "충북 대체로 맑다가 오후부터 흐려져…낮 최고 0~7도",
+        "time": "2026-01-14T06:17:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/13/PYH2026011314940006400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114011000064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "연천 백학 영하 18.2도…경기지역 강추위 이어져",
+        "time": "2026-01-14T06:33:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/12/05/PYH2025120504190001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114012700060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "대구·경북 추운 날씨…낮 기온 2∼8도",
+        "time": "2026-01-14T06:32:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/13/PYH2026011309860006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114011400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "선재스님 \"99명 흑백요리사는 수행자…음식하는 마음 나누고 싶었죠\"",
+        "time": "2026-01-14T06:22:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/13/AKR20260113128900005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260113128900005",
+        "summary": "사찰음식 명장 1호, 넷플릭스 '흑백요리사2'서 깊은 인상 남겨",
         "source": "yna",
         "date": "2026년 01월 13일 화요일"
       }
@@ -14513,6 +14625,177 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsis/20260114062352590wrfg.jpg",
         "url": "https://v.daum.net/v/20260114062352975",
         "summary": "외무부 \"선동자 개입으로 폭력 시위 변질\"'이란 교역국 관세' 경고에 \"뻔뻔한 협박\"",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "오늘도 '출근 지옥'…오후엔 협상 재개 '촉각'",
+        "time": "2026-01-13T21:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/sbscnbc/20260114064509035eyfj.jpg",
+        "url": "https://v.daum.net/v/20260114064506231",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "美 작년 12월 소비자물가 전년대비 2.7% 상승",
+        "time": "2026-01-13T21:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsy/20260114064006627gfcq.jpg",
+        "url": "https://v.daum.net/v/20260114064006178",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "중국, 엔비디아 H200 ‘필요한 경우만’ 허용…AI 칩 빗장 걸었다",
+        "time": "2026-01-13T21:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/fnnewsi/20260114064104685cdhi.jpg",
+        "url": "https://v.daum.net/v/20260114064104184",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "'美민주 잠룡' 뉴섬 \"캘리포니아 억만장자세 막을 것\"",
+        "time": "2026-01-13T21:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsy/20260114063943046bjac.jpg",
+        "url": "https://v.daum.net/v/20260114063942171",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "[전국 톡톡] 학령인구 감소 대응‥경북 'AI 배움터' 출범",
+        "time": "2026-01-13T21:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/imbc/20260114063706625vrbg.jpg",
+        "url": "https://v.daum.net/v/20260114063705143",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "TK 교육 수장 강은희·임종식, 3선 고지 밟을까?",
+        "time": "2026-01-13T21:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/nocut/20260114063303321ryke.jpg",
+        "url": "https://v.daum.net/v/20260114063301100",
+        "summary": "[신년기획③] 막 오른 지방선거…시도 교육감 현역 수성이냐 교체냐",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "'사형' 윤석열, 최후진술서도 반성은 없었다...\"이리떼들의 내란몰이 먹이 됐다\"",
+        "time": "2026-01-13T21:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kbc/20260114064605557ixga.jpg",
+        "url": "https://v.daum.net/v/20260114064602241",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "특검, 尹 사형·김용현 무기징역 구형…'비상계엄 본류 재판' 1심 변론 종결(종합)",
+        "time": "2026-01-13T21:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/dailian/20260114063943463cfux.jpg",
+        "url": "https://v.daum.net/v/20260114063941170",
+        "summary": "尹, '국헌 문란' 목적 폭동·주요 인사 체포·구금하려 한 혐의 받아\"법률가로서 검찰총장까지 지내…헌법 질서 파괴 나아간 점 비난받아 마땅\"방청석서 야유 터져나오기도…尹 \"대통령 국가긴급권 행사, 내란 안 돼\"재판부, 1심 선고기일 내달 19일 오후 3시로 지정",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "경호 요원이 부통령 실시간 위치, 이동 동선 노출… 발칵 뒤집힌 비밀경호국",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/chosun/20260114064705794zwig.jpg",
+        "url": "https://v.daum.net/v/20260114064549239",
+        "summary": "대선 당시 ‘부실 경호’ 논란 이후 또 위기 직면함정 취재에 걸린 경호원, 기밀 유지 의무 어겨SS “밴스 가족에게 사과”… 全직원에 방첩 교육 재수료 지시",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "트럼프 “정부 기관 장악하라” 최측근은 팔라비와 회동…이란 정권교체로 기울었나",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kukminilbo/20260114064700005auvc.jpg",
+        "url": "https://v.daum.net/v/20260114064658253",
+        "summary": "머스크의 ‘스타링크’, 이란 인터넷 무료 제공…인터넷 연결 두고 정부와 시위대 ‘전자전’이란 시위로 최대 1만2000명 사망 추정 보도",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "영국, 이란 시위대 유혈 진압 규탄…석유·금융 등 추가 제재 예고",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/fnnewsi/20260114064505176knrh.jpg",
+        "url": "https://v.daum.net/v/20260114064505228",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "트럼프 특사 위트코프, 팔레비 전 이란 왕세자와 비밀 회동",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/akn/20260114064644856fxzk.jpg",
+        "url": "https://v.daum.net/v/20260114064643248",
+        "summary": "美, 이란 정권 붕괴 염두 물밑 작업 나섰나",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "다우 0.8% 하락 마감…트럼프 정책 불확실성+ 금융주 약세[뉴욕마감]",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/NEWS1/20260114064342696mutw.jpg",
+        "url": "https://v.daum.net/v/20260114064340212",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "트럼프, 이란 시위에 더 강한 행동 촉구…제재 확산",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kbs/20260114064509594yxko.jpg",
+        "url": "https://v.daum.net/v/20260114064507233",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "“이란 시위 사망자 1만 2천 명 추정”…“통제 완전 회복”",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kbs/20260114064507162ngkb.jpg",
+        "url": "https://v.daum.net/v/20260114064505229",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "그리스 소유 유조선들, 흑해에서 선적대기 중 무인기들에 피격",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsis/20260114064500236rqbv.jpg",
+        "url": "https://v.daum.net/v/20260114064500219",
+        "summary": "13일 흑해 카스피송유관(COC)터미널 부근에서 카자흐스탄 국영 석유사 2척도 드론 공격 받아",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "러 \"이란에 간섭 말라\"…美 군사개입 견제",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsy/20260114064326516fmgs.jpg",
+        "url": "https://v.daum.net/v/20260114064326211",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "러, 혹한에 연일 에너지 시설 공격…“젤렌스키 정신 차릴 때까지 공격”",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kbs/20260114064706131mdly.jpg",
+        "url": "https://v.daum.net/v/20260114064704255",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 13일 화요일"
+      },
+      {
+        "title": "그린란드 “미국 일부 되느니 덴마크에”…14일 미국서 회동",
+        "time": "2026-01-13T21:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kbs/20260114064703721utah.jpg",
+        "url": "https://v.daum.net/v/20260114064700254",
+        "summary": "",
         "source": "daum",
         "date": "2026년 01월 13일 화요일"
       }
