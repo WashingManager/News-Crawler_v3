@@ -1265,6 +1265,14 @@
         "url": "https://www.fnnews.com/news/202601141950588265",
         "source": "Fn",
         "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 주택서 화재 발생…소방 인력 투입 진화중",
+        "time": "2026-01-14T20:37:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601142036563534",
+        "source": "Fn",
+        "date": "2026년 01월 14일 수요일"
       }
     ]
   },
@@ -4365,6 +4373,15 @@
         "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/14/AKR20260114158500098_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260114158500098",
         "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "우크라 새 국방장관에 34세 부총리…임명안 의회 의결",
+        "time": "2026-01-14T20:40:00",
+        "img": "https://img1.yna.co.kr/photo/reuters/2026/01/03/PRU20260103047701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260114161200109",
+        "summary": "\"우크라 군 현대화 개혁 추진\"",
         "source": "yna",
         "date": "2026년 01월 14일 수요일"
       }
@@ -10544,6 +10561,141 @@
         "time": "2026-01-14T11:31:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/seouleconomy/20260114202921335vvjd.jpg",
         "url": "https://v.daum.net/v/20260114202915851",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 화산면 백학산 산불…대규모 진화 작업 중",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/551752-SREzwmR/20260114204128186ywwx.jpg",
+        "url": "https://v.daum.net/v/20260114204126090",
+        "summary": "인력 200여 명 투입… 주택 화재가 산불로 공무원·소방·특수진화대 등 총력 대응",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'무기징역' 더 많았지만 결국 \"사형\"…특검 결단 막전막후",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/JTBC/20260114203850515adsc.jpg",
+        "url": "https://v.daum.net/v/20260114203848006",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "탄핵 찬반 갈리며 절연…징계 밀어붙이는 장동혁, 왜?",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/sbsi/20260114204212902kusl.jpg",
+        "url": "https://v.daum.net/v/20260114204210105",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "방일 일정 마친 李대통령 귀국···16일 여야 지도부 회동 '순방설명'",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/seouleconomy/20260114202325600jygb.jpg",
+        "url": "https://v.daum.net/v/20260114201603613",
+        "summary": "서울공항 도착···한병도 신임원내대표와 인사중수청·공소청 여권 반발 및 혼선 최소화 숙제이혜훈 후보자 인청·환율급등 문제 등 현안 산적",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'시리' 부르자 '제미나이' 대답?…애플, 구글에 'AI 백기투항'",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/imbc/20260114204612819prjd.jpg",
+        "url": "https://v.daum.net/v/20260114204611153",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "“정말 좋은 자리” “흔치 않은 행사” 참석자들이 오히려 축하인사 건낸 선포식",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/551755-WjWQ43k/20260114203819599vbln.png",
+        "url": "https://v.daum.net/v/20260114203818997",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "서울 시내버스 노사 협상 재개…입장차는 그대로",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/newsy/20260114204127936fefx.jpg",
+        "url": "https://v.daum.net/v/20260114204127091",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "“군민과 함께 만드는 행복도시로”",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/551747-NKrdSXo/20260114203931378cwzf.jpg",
+        "url": "https://v.daum.net/v/20260114203930027",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "[병오년 새해설계]김희수 진도군수 “5대 혁신 추진…‘진도 발전’ 대전환의 원년 삼겠다”",
+        "time": "2026-01-14T11:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/551729-qOzPZGl/20260114204019936qpku.jpg",
+        "url": "https://v.daum.net/v/20260114204018076",
+        "summary": "해상 풍력·물류 허브 등 성장 동력 확보 세방낙조 아트문화 등 관광 인프라 확충 도서민 여객선 무료 등 교통 복지 실현",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "이란 시위 2만 명 사망설도‥트럼프는 군사 개입할까?",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/imbc/20260114203414867xcwz.jpg",
+        "url": "https://v.daum.net/v/20260114203414942",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "트럼프 결단했나…카타르 미군기지도 '철수령'",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/kedtv/20260114203227851esay.png",
+        "url": "https://v.daum.net/v/20260114203227907",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"사살당한 피해자 수사하라\" 압박에 검사들 '줄사직'‥트럼프식 수사권 남용",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/imbc/20260114203422663kijd.jpg",
+        "url": "https://v.daum.net/v/20260114203421943",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "한일회담 마친 다카이치, '조기 총선' 결정…\"2월8일 유력\"",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/akn/20260114204324836dirp.jpg",
+        "url": "https://v.daum.net/v/20260114204324114",
+        "summary": "19일 '국회 해산' 방침 발표유신회와 연정·경제 정책 등 신임 물을 듯",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "러시아 남부 로스토프에 우크라이나 드론 공격…1명 사망",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260114203644985",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "[바로간다] \"트럼프는 독재자\"‥분노 끓어오르는 그린란드 민심",
+        "time": "2026-01-14T11:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/14/imbc/20260114204013605bcqx.jpg",
+        "url": "https://v.daum.net/v/20260114204012072",
         "summary": "",
         "source": "daum",
         "date": "2026년 01월 14일 수요일"
@@ -27434,6 +27586,384 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/14/NISI20240209_0000847014_web.jpg",
         "url": "https://news.nate.com/view/20260114n36902",
         "summary": "[베이징=뉴시스]박정규 특파원 = 중국 해경이 14일 또다시 일본과 영유권 분쟁 중인 센카쿠열도(중국명 댜오위다오) 인근에서 순찰 활동을 벌였다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "대통령 부럽지 않은 中企 대통령…영구 집권 레드카펫 깔릴 판",
+        "time": "2026-01-14T20:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/14/PS26011401479.jpg",
+        "url": "https://news.nate.com/view/20260114n37444",
+        "summary": "<font color=\"gray\"><b>- 김기문 중기중앙회장 '무제한 연임' 추진 논란</b></font>\n<font color=\"gray\"><b>- 정책 조정, 정부 소통, 인사권에</b></font>\n<font color=\"gray\"><b>- 연 2억 활동비 등 특전 누리는데</b></font>\n<font color=\"gray\"><b>- 與, '임기 제한 폐지' 법안 발의</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "한국거래소 \"한화, 분할 재상장 예비심사신청서 제출\"",
+        "time": "2026-01-14T20:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/14/PS26011401465.jpg",
+        "url": "https://news.nate.com/view/20260114n37556",
+        "summary": "[이데일리 김연지 기자] 한국거래소는 14일 ㈜한화의 유가증권시장(코스피) 분할 재상장 관련 예비심사신청서를 접수했다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"中 세관당국, 엔비디아 H200 반입 금지 지시\"",
+        "time": "2026-01-14T20:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/14/ZA.42957097.1.jpg",
+        "url": "https://news.nate.com/view/20260114n37502",
+        "summary": "기술기업들에 \"꼭 필요한 경우 아니면 칩 구매하지마\"\r\n인포메이션 \"中당국, 대학과의 공동 연구경우만 구매 승인\"",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "기아, 인도네시아에 법인 설립",
+        "time": "2026-01-14T20:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/14/PS26011401469.jpg",
+        "url": "https://news.nate.com/view/20260114n37612",
+        "summary": "<font color=\"gray\"><b>- 카렌스 부분변경 모델 판매</b></font>\n<font color=\"gray\"><b>- 2030년 판매량 4만대 목표</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"일·휴식 경계 모호한 프리랜서, '쉬었음 인구'로 잡힐 수도\"",
+        "time": "2026-01-14T20:27:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260114n37574",
+        "summary": "프리랜서 등 비임금 노동자(인적용역 사업자) 증가 추세가 ‘쉬었음’ 청년이 늘어나는 데 영향을 미쳤을 수 있다는 지적이 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "한국애널리스트회, '제51회 CIIA 자격시험' 접수 개시",
+        "time": "2026-01-14T20:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/14/202601142022457615_l.JPG",
+        "url": "https://news.nate.com/view/20260114n37529",
+        "summary": "[파이낸셜뉴스] 한국애널리스트회(KAA)는 오는 3월 7일 실시되는 제51회 국제공인애널리스트(CIIA) 자격시험의 응시 접수를 시작한다고 14일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "노동시장 한파에 '그냥 쉬는 30대' 역대 최다",
+        "time": "2026-01-14T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/14/l_2026011501000423300042521.jpg",
+        "url": "https://news.nate.com/view/20260114n37479",
+        "summary": "경제활동에 참여하지 않고 ‘그냥 쉬었다’고 답한 30대 인구가 통계 작성 이래 최대치를 기록했다. 청년층에선 고용률이 떨어지고 실업률도 올랐다. 연간 취업자 수도 2년 연속 10만명대 증가에 그쳤다. 노동시장의 활력이 급격히 떨어진다는 우려가 커지고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "[비즈투데이] 굽네치킨, 미국 텍사스 2호점 오픈",
+        "time": "2026-01-14T20:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2026/01/14/1510603_709599_4417.jpg",
+        "url": "https://news.nate.com/view/20260114n37431",
+        "summary": "굽네치킨을 운영하는 지앤푸드가 미국 텍사스주 휴스턴 지역에 신규 매장 '케이티점'을 열고 북미 시장 공략에 나섭니다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"북극항로 추진과제 집중 점검\"…해수부 공공기관 업무보고 진행",
+        "time": "2026-01-14T20:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/14/rcv.YNA.20260114.PYH2026011418910001300_P1.jpg",
+        "url": "https://news.nate.com/view/20260114n37356",
+        "summary": "부산·울산·경북·전남권 산하 공공기관 9곳 대상",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "이란 정권 흔들리는데 러시아는 속수무책…\"중동 영향력 잃을 최대 위기\"",
+        "time": "2026-01-14T20:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/14/2601141958278820.jpg",
+        "url": "https://news.nate.com/view/20260114n37403",
+        "summary": "러시아의 핵심 중동 파트너 이란… 흔들리면 전략 붕괴",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"피지컬 AI 핵심은 손기술…사람 같은 손동작 구현\"",
+        "time": "2026-01-14T20:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/14/PS26011401458.jpg",
+        "url": "https://news.nate.com/view/20260114n37366",
+        "summary": "<font color=\"gray\"><b>- 류중희 리얼월드 대표 인터뷰</b></font>\n<font color=\"gray\"><b>- 시드 1단계 210억 투자 유치 성공</b></font>\n<font color=\"gray\"><b>- 오는 3월 말 독자 VLA 모델 공개</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "[단독] \"전재수, 통일교 부산행사에서 축사\" 목격자 진술…검경 합수본, 본격 수사 착수",
+        "time": "2026-01-14T20:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/14/20260114503895.jpg",
+        "url": "https://news.nate.com/view/20260114n37787",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 주택 화재 산림으로 확산…진화 작업 중",
+        "time": "2026-01-14T20:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/14/7698097_high.jpg",
+        "url": "https://news.nate.com/view/20260114n37785",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'무기징역' 더 많았지만 결국 \"사형\"…특검 결단 막전막후",
+        "time": "2026-01-14T20:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/14/20260114202537711001.jpg",
+        "url": "https://news.nate.com/view/20260114n37777",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"내가 전두환에 사형 구형한 윤석열이야\"…무용담 뽐내다 '같은 처지'",
+        "time": "2026-01-14T20:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/14/20260114501263.jpg",
+        "url": "https://news.nate.com/view/20260114n12998",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 주택서 화재 발생…소방 인력 투입 진화중",
+        "time": "2026-01-14T20:38:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260114n37743",
+        "summary": "[파이낸셜뉴스] 경북 영천시 화산면의 한 주택에서 14일 오후 7시 11분경 화재가 발생해 불길이 인근 백학산으로 확산됐다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "또 한발 늦은 경찰…쿠팡 로저스 체포도 검토?",
+        "time": "2026-01-14T20:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/14/202601142025040578_t.jpg",
+        "url": "https://news.nate.com/view/20260114n37685",
+        "summary": "<b>로저스 대표, 지난 5일 경찰 1차 소환통보에 불응\n\n경찰, 출국 사실도 뒤늦게 인지…2차 소환 통보\n\n쿠팡 \"예정된 출장 일정…경찰과 적극 협의\"</b>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"버스 멈추자 1시간 출근길 생지옥 됐다\"…장거리 통근자 몸이 '부들부들'",
+        "time": "2026-01-14T20:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/14/news-p.v1.20260114.8d4de4a9ae73412db654a5d8514c23cc_P1.jpg",
+        "url": "https://news.nate.com/view/20260114n37694",
+        "summary": "서울 시내버스 파업이 14일로 이틀째 이어지며 영하의 강추위 속에서 시민들의 발이 묶였다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "전두환과 같은 사형 구형…신군부 내란 판례 주목",
+        "time": "2026-01-14T20:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/14/839331_1768389775.jpg",
+        "url": "https://news.nate.com/view/20260114n37540",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 화산면 주택 화재 백학산으로 번져…소방 당국 \"진화 중\"(종합)",
+        "time": "2026-01-14T20:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/14/7698098_high.jpg",
+        "url": "https://news.nate.com/view/20260114n37671",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "경북 영천 주택 화재 백학산 번져…소방 당국 진화 중",
+        "time": "2026-01-14T20:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/14/SSC_20260114202221_V.jpg",
+        "url": "https://news.nate.com/view/20260114n37531",
+        "summary": "[서울신문]14일 오후 7시 11분쯤 경북 영천시 화산면 한 주택에서 불이 나 주변에 있는 백학산으로 번지고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "현직 교사와 억대 문항거래한 일타강사들…EBS 교재 사전유출도",
+        "time": "2026-01-14T20:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/14/AKR20260114152000004_01_i.jpg",
+        "url": "https://news.nate.com/view/20260114n35227",
+        "summary": "현우진·조정식 공소장…현씨, 교사 1명당 최대 1억8천만원 지급",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'사형 구형' 윤석열, 다음 달 19일 1심 선고",
+        "time": "2026-01-14T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2026/01/14/1510622_709602_4929.png",
+        "url": "https://news.nate.com/view/20260114n37490",
+        "summary": "【앵커】",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "계엄 막은 시민들에 \"폭도들\"…늘어놓은 궤변",
+        "time": "2026-01-14T20:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/14/202147128_700.jpg",
+        "url": "https://news.nate.com/view/20260114n37515",
+        "summary": "<앵커>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "[팩트체크] 계엄은 '사법심사' 대상이 아니다?",
+        "time": "2026-01-14T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/14/20260114194810948001.jpg",
+        "url": "https://news.nate.com/view/20260114n37473",
+        "summary": "[배보윤/윤석열 전 대통령 측 변호인 (어제) : 대법원은 헌법재판소 설립 이전부터 대통령의 계엄선포 행위가 고도의 정치적 결단을 요하는 것으로 원칙적으로 사법심사의 대상이 되지 않는다고 판단하여 왔습니다.]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 화산면 주택 화재 백학산으로 번져…소방 당국 \"진화 중\"",
+        "time": "2026-01-14T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/14/7698096_high.jpg",
+        "url": "https://news.nate.com/view/20260114n37485",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "시내버스 파업 이틀째…재협상 입장 차 '팽팽'",
+        "time": "2026-01-14T20:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/14/202601142010355475_t.jpg",
+        "url": "https://news.nate.com/view/20260114n37454",
+        "summary": "<b>오후 3시부터 2차 사후 조정회의…노사 협상 재개\n\n저녁 휴식 없이 집중 교섭…5시간 넘게 협상 이어가\n\n노조, 조정 시작 전 설명회 열어…\"기존 입장 고수\"</b>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "이 대통령, 서울공항 도착…외교 성과 가다듬고 정국 구상",
+        "time": "2026-01-14T20:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/14/20260114519099.jpg",
+        "url": "https://news.nate.com/view/20260114n37446",
+        "summary": "이재명 대통령이 1박 2일간의 일본 방문 일정을 마치고 14일 저녁 서울공항을 통해 귀국했다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "왜 무기징역 아닌 '사형'이었나…특검팀이 밝힌 이유",
+        "time": "2026-01-14T20:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/14/202147124_700.jpg",
+        "url": "https://news.nate.com/view/20260114n37441",
+        "summary": "<앵커>",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "EU, 푸틴 직통 채널 만드나…드라기·스투브 특사 거론",
+        "time": "2026-01-14T20:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/14/202137094_700.jpg",
+        "url": "https://news.nate.com/view/20260114n37439",
+        "summary": "유럽연합(EU)이 블라디미르 푸틴 러시아 대통령과 직통하는 채널을 만드는 논의에 착수했다고 폴리티코 유럽판이 현지시간 14일 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'윤석열 사형' 택한 특검…지귀연 선고는 과연",
+        "time": "2026-01-14T20:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/14/20260114195832501001.jpg",
+        "url": "https://news.nate.com/view/20260114n37440",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "영천 주택 화재 인근 산으로 확산…\"진화 중\"",
+        "time": "2026-01-14T20:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/14/SSC_20260114201359_V.jpg",
+        "url": "https://news.nate.com/view/20260114n37428",
+        "summary": "[서울신문]14일 오후 7시 11분쯤 경북 영천시 화산면 한 단독주택에서 시작된 불이 주변 백학산으로 번지고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "李 가덕도 피습 '테러' 지정될까…국가테러대책委 20일 심의",
+        "time": "2026-01-14T20:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/14/20260114519038.jpg",
+        "url": "https://news.nate.com/view/20260114n37364",
+        "summary": "이재명 대통령이 2024년 더불어민주당 대표 시절 흉기로 습격당한 사건이 ‘테러 사건’으로 지정될 전망이다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "경북 영천시 화산면 주택 화재, 인근 백학산으로 확산",
+        "time": "2026-01-14T20:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/14/AKR202601142014131Xo_01_i.jpg",
+        "url": "https://news.nate.com/view/20260114n37395",
+        "summary": "오늘(14일) 오후 7시 11분쯤 경북 영천시 화산면 한 주택에서 시작된 불이 주변 백학산으로 번지고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "서울 시내버스 파업 길어지나…노사 협상 난항",
+        "time": "2026-01-14T20:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/14/20260114194724597001.jpg",
+        "url": "https://news.nate.com/view/20260114n37392",
+        "summary": "서울 시내버스 파업이 이틀째 이어지는 가운데 노사가 파업 이후 첫 협상에 나섰습니다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "美, 이란 개입 임박했나···\"카타르 미군기지 일부 철수 권고\"",
+        "time": "2026-01-14T20:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/14/2K7ATVRJQ8_1.jpg",
+        "url": "https://news.nate.com/view/20260114n37603",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "기아, 인도네시아에 법인 신설…'부분 변경' 카렌스 내달 판매",
+        "time": "2026-01-14T20:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/14/AKR20260114157900104_07_i.jpg",
+        "url": "https://news.nate.com/view/20260114n37433",
+        "summary": "마케팅·브랜드 개발까지 총괄…2030년까지 판매량 4만대 목표",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "중국 진출 한국기업 32% \"5년 내 철수·이전·축소\"",
+        "time": "2026-01-14T20:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/14/ae_1768389906660_417946_0.png",
+        "url": "https://news.nate.com/view/20260114n37548",
+        "summary": "산업연 中진출기업 연례조사\n이전지는 동남아 59%\n'연매출 감소 예상' 36→41.3%",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "中진출 韓기업 32% \"향후 5년 동안 사업 철수·이전·축소 전망\"",
+        "time": "2026-01-14T20:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/14/2K7AUK98AA_1.jpg",
+        "url": "https://news.nate.com/view/20260114n37420",
+        "summary": "[서울경제]",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "\"수심 900m 심해어 리본피시가 코앞에\"…美해안 깜짝 발견",
+        "time": "2026-01-14T20:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/14/133155390.3.png",
+        "url": "https://news.nate.com/view/20260114n25730",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "문 부수고 불법 이주민에 수갑…英, 틱톡으로 이민단속 영상 공개",
+        "time": "2026-01-14T20:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/14/9f202337-4de9-4883-9350-c2f159ec75da.jpg",
+        "url": "https://news.nate.com/view/20260114n37416",
+        "summary": "영국 정부가 영상 공유 플랫폼 틱톡에 계정을 통해 이주민 추방 활동을 담은 영상을 공개했다.",
+        "source": "nate",
+        "date": "2026년 01월 14일 수요일"
+      },
+      {
+        "title": "'세계의 공장' 中 대신 동남아로…韓 기업, 생산비 증가에 사업 철수·이전 고려",
+        "time": "2026-01-14T20:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/14/news-p.v1.20260114.0721b645c41f4a78be4bde15542d1ddb_P1.jpg",
+        "url": "https://news.nate.com/view/20260114n37410",
+        "summary": "산업연구원 中진출기업 연례조사\r\n‘연 매출 감소 예상’ 36→41.3%\r\n中수요 부진·미중 갈등에 어려움",
         "source": "nate",
         "date": "2026년 01월 14일 수요일"
       }
