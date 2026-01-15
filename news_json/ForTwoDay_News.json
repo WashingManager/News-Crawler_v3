@@ -1265,6 +1265,14 @@
         "url": "https://www.fnnews.com/news/202601152203499069",
         "source": "Fn",
         "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "AI붐에 몸값 오른 '닥터 구리'…아마존, 10년만에 나온 美구리광산 선점",
+        "time": "2026-01-16T05:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601160532363196",
+        "source": "Fn",
+        "date": "2026년 01월 15일 목요일"
       }
     ]
   },
@@ -4759,6 +4767,42 @@
         "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/14/PYH2026011416430001300_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260115168500004",
         "summary": "특수공무집행방해 등 혐의…내란 특검은 징역 10년 구형",
+        "source": "yna",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "제주도 초미세먼지주의보 해제",
+        "time": "2026-01-16T05:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260116006700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "전북 전주·익산·완주 미세먼지주의보 해제",
+        "time": "2026-01-16T05:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260116006600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "대체로 맑지만 오전 짙은 안개…미세먼지도 곳곳 '나쁨'",
+        "time": "2026-01-16T05:28:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/01/15/PYH2026011513470001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260116006400034",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "美가 외면한 마차도, 베네수 운명 쥔 트럼프 면담…\"대화 잘돼\"",
+        "time": "2026-01-16T05:21:00",
+        "img": "https://img4.yna.co.kr/photo/etc/af/2026/01/16/PAF20260116062701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260116006100071",
+        "summary": "마두로 축출 후 첫 만남…美 \"마차도, 베네수 국민 위한 용감한 목소리\"",
         "source": "yna",
         "date": "2026년 01월 15일 목요일"
       }
@@ -12178,6 +12222,51 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/newsy/20260116052228651puzu.jpg",
         "url": "https://v.daum.net/v/20260116052228606",
         "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "러 “러·중, 그린란드 위협 계획 없다”…트럼프 주장에 정면 반박",
+        "time": "2026-01-15T20:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/ned/20260116054945243mjkd.jpg",
+        "url": "https://v.daum.net/v/20260116054944735",
+        "summary": "자하로바 “실체 없는 주장”…서방 군사 활동엔 “도발” 경고",
+        "source": "daum",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "백악관 “이란, 살해 계속되면 심각한 결과…트럼프, 모든 선택 열어놔”",
+        "time": "2026-01-15T20:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/joongang/20260116054245847xshw.jpg",
+        "url": "https://v.daum.net/v/20260116054244710",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "푸틴 \"한러 관계 회복 기대…유럽과도 좋아질 수 있어\"",
+        "time": "2026-01-15T20:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/akn/20260116054205358wtvp.jpg",
+        "url": "https://v.daum.net/v/20260116054204708",
+        "summary": "韓 등 34개국 신임 주러대사 신임장 제정식",
+        "source": "daum",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "마차도, 베네수엘라 운명 쥔 트럼프 면담‥\"대화 잘돼\"",
+        "time": "2026-01-15T20:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/imbc/20260116053713263wnqc.jpg",
+        "url": "https://v.daum.net/v/20260116053713690",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 15일 목요일"
+      },
+      {
+        "title": "트럼프, 미네소타 시위 강제진압 위협…반란법 만지작(종합)",
+        "time": "2026-01-15T20:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/16/newsis/20260116054128066vnwr.jpg",
+        "url": "https://v.daum.net/v/20260116054127701",
+        "summary": "반란법 발동 땐 주정부 동의없이 軍 투입 가능反ICE 시위 계속에 국토안보장관과 반란법 논의강제진압 땐 갈등 가능성도…이날도 시위대 대치",
         "source": "daum",
         "date": "2026년 01월 15일 목요일"
       }
