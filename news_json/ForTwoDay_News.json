@@ -73,6 +73,30 @@
         "url": "https://www.fnnews.com/news/202601171008497636",
         "source": "Fn",
         "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "베네수엘라 임시 대통령, 마두로 측근 장관서 해임",
+        "time": "2026-01-17T13:21:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601171319149184",
+        "source": "Fn",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"냉정하게 우리가 진다\" 박문성 위원 독설 현실로?... 멕시코전 티켓 '폭발'의 공포",
+        "time": "2026-01-17T13:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601170350462190",
+        "source": "Fn",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "美 법무부, ‘이민단속 방해’ 혐의 미네소타 주지사 등 수사",
+        "time": "2026-01-17T13:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601171249412600",
+        "source": "Fn",
+        "date": "2026년 01월 17일 토요일"
       }
     ]
   },
@@ -364,6 +388,33 @@
         "img": "",
         "url": "https://www.yna.co.kr/view/AKR20260117028100063",
         "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "남부발전, 가축분뇨 고체연료 활용 적극 추진",
+        "time": "2026-01-17T13:21:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/17/AKR20260117029700051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260117029700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "경기융합타운광장 '겨울 눈밭 놀이터' 개장…이용료 1천원",
+        "time": "2026-01-17T13:10:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/17/AKR20260117029500061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260117029500061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "필리핀 거대 쓰레기더미 붕괴 사망자 28명·실종자 8명",
+        "time": "2026-01-17T13:48:00",
+        "img": "https://img2.yna.co.kr/photo/ap/2026/01/12/PAP20260112050901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260117030500084",
+        "summary": "\"부실관리 따른 재난\"…매립지 마비에 현지 쓰레기 처리도 비상",
         "source": "yna",
         "date": "2026년 01월 17일 토요일"
       }
@@ -1062,6 +1113,249 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/YTN/20260117122214545lprn.jpg",
         "url": "https://v.daum.net/v/20260117122214713",
         "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"이러다 나만 연금거지 될라\"…MZ 직장인 떠나더니 결국",
+        "time": "2026-01-17T04:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/ked/20260117130326484ctpq.jpg",
+        "url": "https://v.daum.net/v/20260117125743938",
+        "summary": "퇴직연금 내 주식 투자 비중 2년 새 52→70% 껑충",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "법원 \"공수처 수사권 인정\"에…尹 '공소 기각' 카드 흔들",
+        "time": "2026-01-17T04:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/NEWS1/20260117132703927vstd.jpg",
+        "url": "https://v.daum.net/v/20260117132703164",
+        "summary": "특수공무집행방해 1심서 징역 5년…윤 형사사건 중 첫 결론공수처 수사 적법성 인정 판결에 내란 우두머리 영향 불가피",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "여한구 \"반도체 포고령, 영향 제한적...안심할 단계는 아냐\"",
+        "time": "2026-01-17T04:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/YTN/20260117131616791rehe.jpg",
+        "url": "https://v.daum.net/v/20260117131616086",
+        "summary": "\"쿠팡, 국적 문제 아닌 정보유출 문제라는 점 강조\"방미 뒤 귀국 여한구 \"반도체 포고령 영향 제한적\"\"삼성전자와 SK하이닉스 메모리 반도체는 제외\"'포고령' 2단계 조치 가능성에…신중한 입장",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "美상무 \"대만 반도체 생산 40% 미국으로 이전\"…대만 당혹",
+        "time": "2026-01-17T04:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/sbscnbc/20260117131838523bjez.jpg",
+        "url": "https://v.daum.net/v/20260117131837105",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "[속보]'尹대통령실 근무' 30대 北무인기 자수에 '배후?'..여당 \"사실관계 규명돼야\"",
+        "time": "2026-01-17T04:41:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/kbc/20260117133405788wino.jpg",
+        "url": "https://v.daum.net/v/20260117133402232",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프 환심사려?…베네수 임시대통령, 마두로 측근 장관 해임",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/yonhap/20260117124838537dklk.jpg",
+        "url": "https://v.daum.net/v/20260117124838896",
+        "summary": "태세 바꿔 미국에 유화적 제스처…노벨상 바친 마차도 '빈손'과 대조",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "美 접었는데···中 ‘공중항공모함’ 실현 가능할까[이현호의 밀리터리!톡]",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/seouleconomy/20260117130231638qfru.jpg",
+        "url": "https://v.daum.net/v/20260117130225987",
+        "summary": "中 스타워즈 12만t 공중항공모함 추진공중 작전기지 역할, 88대 무인기 탑재1993년 미국 스타워즈 구상 공식 포기美 국방부 ‘그렘린’ 프로젝트 다시 추진",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "“프레디 머큐리 숨겨둔 딸” 주장한 40대 女, 사망… 원인 봤더니?",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/healthchosun/20260117133239249avyb.jpg",
+        "url": "https://v.daum.net/v/20260117133238216",
+        "summary": "[해외토픽]",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "갤럽 \"이 대통령 지지율 58%…2%p 하락\"",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/newsy/20260117133911654uciy.jpg",
+        "url": "https://v.daum.net/v/20260117133911278",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "불법총기 자진신고했는데 징역 1년6개월, 왜?",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/newsis/20260117132229257zugm.jpg",
+        "url": "https://v.daum.net/v/20260117132229135",
+        "summary": "무기 불볍 양도 이력 숨기고 자진신고",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "베네수 임시 대통령의 '마두로색' 지우기…측근 장관직에서 해임",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/NEWS1/20260117124626007wgpd.jpg",
+        "url": "https://v.daum.net/v/20260117124625887",
+        "summary": "마두로 정권의 자금세탁 담당자…\"새로운 책임 맡을 것\"정치범 석방·추방 이민자 수용 등 美와 관계 개선 행보",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "정부, 대전·충남 행정통합 인센티브 '분열 폭탄' 되나",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/daejonilbo/20260117132416860hswy.jpg",
+        "url": "https://v.daum.net/v/20260117132415147",
+        "summary": "지역별 연 5조원은 증액된 규모에도 대전·충남 \"기대 못 미쳐\"정부 재원마련 구체적 방안도 없어… 지출 조정 등 비현실적민주 \"정부 통 큰 지원 환영\"-국힘 \"선거를 위한 성급한 지원\"",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "배현진, 장동혁 단식 중단 촉구 \"韓 제명 사태 수습하고 당 총력 모아야\"",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/NEWS1/20260117131225865soab.jpg",
+        "url": "https://v.daum.net/v/20260117131225065",
+        "summary": "\"선거까지 매 순간 후보들 마음 타들어 가고 있어\"",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "北무인기 날린 용의자 '尹대통령실' 근무 논란…與 \"배후 수사\"",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/joongang/20260117131845271sqin.jpg",
+        "url": "https://v.daum.net/v/20260117131844107",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "軍 정책라인, 임기제 장군들 전면에…연속성·추진력 '우려'[김관용의 軍界一學]",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/Edaily/20260117133144049trmw.jpg",
+        "url": "https://v.daum.net/v/20260117133142209",
+        "summary": "軍 \"장성 인사, 출신·병과·특기 탈피\" 강조그 배경엔 계엄 여파로 진급 인력풀 급감국방부·육군본부 핵심 정책 직위 채우려이례적 임기제 진급 장군들 전면 배치2년 후 전역하는 이들의 책임성 '뒷말'",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "[토요와이드] 윤석열 '체포방해' 징역 5년…2차 특검 통과",
+        "time": "2026-01-17T04:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/newsy/20260117133907781xjfm.jpg",
+        "url": "https://v.daum.net/v/20260117133907277",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "베네수엘라 임시 대통령, 마두로 측근 장관서 해임",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/fnnewsi/20260117132304593hxme.jpg",
+        "url": "https://v.daum.net/v/20260117132304141",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "마차도 '노벨상 진품 메달' 바쳤지만…트럼프 '냉담'",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/newsy/20260117133729206ggis.jpg",
+        "url": "https://v.daum.net/v/20260117133729263",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "美 법무부, ‘이민단속 방해’ 혐의 미네소타 주지사 등 수사",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/fnnewsi/20260117130152021hfmw.jpg",
+        "url": "https://v.daum.net/v/20260117130151986",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "미네소타 법원, ICE 요원 행동제한 판결…\"평화시위자 보복성 체포 금지\"",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/NEWS1/20260117132924790vmvf.jpg",
+        "url": "https://v.daum.net/v/20260117132924189",
+        "summary": "시위대 대상 무력 사용 제한…\"차량 내 시위대 강제 단속 금지\"",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "“트럼프 환심을”… 베네수 임시대통령, 마두로 측근 장관 전격 해임",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/dt/20260117130144333nelv.png",
+        "url": "https://v.daum.net/v/20260117130142975",
+        "summary": "자세 바꿔 미국에 유화적 제스처… 노벨상 바친 마차도 ‘빈손’과 대조",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"무인기 내가 보냈다\" 대학원생, 윤석열 정부 때 설립된 '대북 침투용' 무인기 제작사 근무",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/newstapa/20260117131126943zaaa.png",
+        "url": "https://v.daum.net/v/20260117131125059",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "이란 시위 사진은 왜 이것뿐이었을까 — 허락된 이미지[청계천 옆 사진관]",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/donga/20260117130126005vvcj.jpg",
+        "url": "https://v.daum.net/v/20260117130124968",
+        "summary": "백년사진 No. 147",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프의 가자 평화이사회, 다른 분쟁에도 개입할 듯",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260117130901047",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프, 사기꾼·후원자 가족 사면…\"대가 지불한 이들에 보상\"",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/sbsi/20260117133002708lahg.jpg",
+        "url": "https://v.daum.net/v/20260117133000196",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프 ‘신제국주의’ 폭주에… 유럽 극우마저 등 돌렸다 [세계는 지금]",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/segye/20260117131651419fqwl.jpg",
+        "url": "https://v.daum.net/v/20260117131651094",
+        "summary": "추종자서 1년 만에 비판 모드마두로 체포에 개혁UK “국제법 위반”佛 RN 바르델라 “강제전복 용납 불가”그린란드 병합 야욕엔 공동 대응 부심“경악” “덴마크편”… 잇단 反美 메시지美 관세 유럽 타격… 관계 균열 불러와佛 RN지지자 43%가 “트럼프 비호감”獨·英서도 ‘비호감’ 지속적 증가 추세“정당들 지지자 생계 위협 외면 못해”",
+        "source": "daum",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프에 노벨상 헌납한 마차도…노르웨이선 비판 쇄도",
+        "time": "2026-01-17T04:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/17/akn/20260117131615400bjen.jpg",
+        "url": "https://v.daum.net/v/20260117131615085",
+        "summary": "1개월 정도밖에 안된 메달 트럼프에 넘겨오슬로 전 시장 \"상의 권위를 손상하는 짓\"",
         "source": "daum",
         "date": "2026년 01월 17일 토요일"
       }
@@ -4766,6 +5060,357 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/17/news-p.v1.20260117.bdd59ab7c82f4a0fb56da30e548a589a_P1.jpg",
         "url": "https://news.nate.com/view/20260117n05260",
         "summary": "[헤럴드경제=구본혁 기자] 초유의 일이 벌어졌다. 세계 대학 순위(학술 출판물 기준)에서 줄곧 압도적 1위를 해 온 하버드대가 3위로 밀린 것으로 나타났다. 중국 저장대가 1위에 올랐다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "러트닉 \"미 투자 아니면 100% 반도체 관세\"…한국 압박 재확인",
+        "time": "2026-01-17T13:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/en/2026/01/17/1695633_715321_288.jpg",
+        "url": "https://news.nate.com/view/20260117n05620",
+        "summary": "하워드 러트닉 미국 상무장관 [출처=연합]",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "여한구 \"반도체 포고령, 영향 제한적…안심할 단계는 아냐\"",
+        "time": "2026-01-17T13:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/17/202601171312421466_t.jpg",
+        "url": "https://news.nate.com/view/20260117n05535",
+        "summary": "<b>\"쿠팡, 국적 문제 아닌 정보유출 문제라는 점 강조\"\n\n방미 뒤 귀국 여한구 \"반도체 포고령 영향 제한적\"\n\n\"삼성전자와 SK하이닉스 메모리 반도체는 제외\"\n\n'포고령' 2단계 조치 가능성에…신중한 입장</b>",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "김영기 더본외과동물의료센터 원장, 대만서 관절 치료법 교육",
+        "time": "2026-01-17T13:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/17/7702232_high.jpg",
+        "url": "https://news.nate.com/view/20260117n05510",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "또 시작이야?…한국 겨냥 \"투자 않으면 반도체 100% 관세\" 경고한 美 상무장관",
+        "time": "2026-01-17T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/17/news-p.v1.20260117.298291adb6484780bbb00ceefab2150c_P1.jpeg",
+        "url": "https://news.nate.com/view/20260117n05757",
+        "summary": "하워드 러트닉 미국 상무장관이 16일(현지시간) 한국과 대만 등 주요 반도체 생산국을 겨냥해 “미국에 투자하지 않으면 ‘100% 반도체 관세’에 직면할 수 있다”고 재차 경고했다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "서산영덕고속도로 안평터널서 5톤 화물차 화재",
+        "time": "2026-01-17T13:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05701",
+        "summary": "오늘(17일) 오전 10시 30분쯤 경북 의성군 안평면 서산영덕고속도로 안평3터널에서 영덕 방향으로 달리던 5톤 화물차에 불이 났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"AI로 가상화폐 수익\"…190억대 사기 일당, 2심도 징역형",
+        "time": "2026-01-17T13:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/17/news_1768624389_1599414_m_1.jpg",
+        "url": "https://news.nate.com/view/20260117n05675",
+        "summary": "2017∼2019년 가상화폐 투자 명목 2800여 차례 190억 투자금 받아",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "'안전한 먹거리 제공' 충북도 학교 급식 1010억 지원",
+        "time": "2026-01-17T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/17/6532882_high.jpg",
+        "url": "https://news.nate.com/view/20260117n05763",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "윤석열 전 대통령, 남은 재판 7개…매일 법정 선다",
+        "time": "2026-01-17T13:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/17/news_1768624201_1599408_m_1.jpg",
+        "url": "https://news.nate.com/view/20260117n05658",
+        "summary": "8개 기소 재판 중 '체포방해' 1심 징역 5년 결론",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "법원 \"공수처 수사권 인정\"에…尹 '공소 기각' 카드 흔들",
+        "time": "2026-01-17T13:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/17/7701664_high.jpg",
+        "url": "https://news.nate.com/view/20260117n05598",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "강릉서 아프리카돼지열병 확인…2만 마리 살처분 긴급 조치",
+        "time": "2026-01-17T13:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/17/20260117500296.jpg",
+        "url": "https://news.nate.com/view/20260117n05625",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "불법총기 자진신고했는데 징역 1년6개월, 왜?",
+        "time": "2026-01-17T13:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/17/NISI20240902_0020506897_web.jpg",
+        "url": "https://news.nate.com/view/20260117n05547",
+        "summary": "무기 불볍 양도 이력 숨기고 자진신고",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "따뜻한 온실서 초록 휴식…도심 속 식물원 '북적'",
+        "time": "2026-01-17T13:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/17/202601171323097860_t.jpg",
+        "url": "https://news.nate.com/view/20260117n05613",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "BTS '아리랑'에 외신 관심…\"한국 문화 알린다는 사명\"",
+        "time": "2026-01-17T13:09:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05462",
+        "summary": "오는 3월 20일 발매하는 그룹 방탄소년단(BTS)의 신보 아리랑에 대한 해외 언론의 관심이 이어지고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "윤, 체포방해 '징역 5년'…'2차 특검법' 본회의 통과",
+        "time": "2026-01-17T13:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/17/202601171257588665_t.jpg",
+        "url": "https://news.nate.com/view/20260117n05470",
+        "summary": "■ 진행 : 이여진 앵커, 조진혁 앵커",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "동맹 외면하는 푸틴…베네수·이란서 흔들리는 '반서방 연대'",
+        "time": "2026-01-17T13:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05770",
+        "summary": "러시아가 이란, 베네수엘라, 시리아 등 전략적 협력국들의 잇단 위기에도 실질적인 지원에는 눈을 감고 있어, 블라디미르 푸틴 대통령이 주도해온 '반(反)서방 연대'가 힘을 잃었다는 분석이 나왔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "인기 폭발에 명품 시계만큼 가치 '껑충'…1억4700만원 어치 훔쳐 도망갔다",
+        "time": "2026-01-17T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/17/ae_1768625044636_305486_0.jpg",
+        "url": "https://news.nate.com/view/20260117n03629",
+        "summary": "맨해튼 매장서 10만달러짜리 카드 강탈해\n포켓몬 카드 시장 규모 커져…범죄 사례 늘어",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "필리핀 거대 쓰레기더미 붕괴 사망자 28명·실종자 8명",
+        "time": "2026-01-17T13:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/17/PAP20260112050901009_P2.jpg",
+        "url": "https://news.nate.com/view/20260117n05772",
+        "summary": "\"부실관리 따른 재난\"…매립지 마비에 현지 쓰레기 처리도 비상",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프 \"그린란드 문제 협조않는 국가 관세 부과\"",
+        "time": "2026-01-17T13:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/17/846901_1768625021.jpg",
+        "url": "https://news.nate.com/view/20260117n05742",
+        "summary": "도널드 트럼프 미국 대통령이 \"그린란드 사안에 협조하지 않는 나라들에 대해 관세를 부과할 수 있다\"라고 밝혔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "'트럼프 압박' 속 중국·캐나다 만남…\"새로운 전략적 동반자 관계\"",
+        "time": "2026-01-17T13:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/17/846909_1768625248.jpg",
+        "url": "https://news.nate.com/view/20260117n05769",
+        "summary": "트럼프 미국 행정부의 관세 압박과 캐나다에 대한 합병 위협 속에 시진핑 중국 국가주석과 마크 카니 캐나다 총리가 어제(16일) 베이징에서 정상회담을 했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "그린란드 노리는 트럼프, \"반대하면 관세\" 으름장",
+        "time": "2026-01-17T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2026/01/17/kuk20260117000026.658x.0.jpg",
+        "url": "https://news.nate.com/view/20260117n05738",
+        "summary": "최은희 기자 joy@kukinews.com",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"10년 넘게 교제했는데\" 시신으로 돌아온 딸과 한국인 사위…결국 무너져내린 어머니",
+        "time": "2026-01-17T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/17/SSC_20260117134034_V.jpg",
+        "url": "https://news.nate.com/view/20260117n05733",
+        "summary": "[서울신문]크레인 붕괴로 34명의 사망자가 발생한 ‘태국 열차 참사’로 하루아침에 딸과 한국인 사위를 잃은 태국인 여성의 애타는 모습이 태국 언론 보도를 통해 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "미국 부통령의 MSC 불참 [김태훈의 의미 또는 재미]",
+        "time": "2026-01-17T13:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/17/20260117504049.jpg",
+        "url": "https://news.nate.com/view/20260117n05696",
+        "summary": "국제정치사에서 ‘뮌헨’은 단순한 도시 이름 이상의 의미를 갖는다. 제2차 세계대전 발발 직전인 1938년 9월29일 독일 남부 바이에른주(州)를 대표하는 도시 뮌헨에 유럽의 4대 열강인 영국·프랑스·독일·이탈리아 정상이 모였다. 이들은 독일계 주민이 많이 사는 체코 영토 주데텐란트를 독일에 건네야 하는지를 놓고 토론했다. 나치 독일은 ‘체코가 땅을 내놓지 않으면 전쟁도 불사한다’라는 강경한 입장이었다. 혼자서는 독일과 맞서기 힘든 체코는 동맹인 프랑스에 도움을 요청했다. 양국이 체결한 조약에 따르면 프랑스에겐 엄연히 참전 의무가 있었다. 하지만 프랑스 국민 누구도 전쟁을 원치 않았다. ‘왜 우리 젊은이들이 파리도 아니고 프라하를 위해 피를 흘려야 하느냐’는 생각이 대세였다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "유럽, 그린란드에 파병…미국 향한 무력시위?",
+        "time": "2026-01-17T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/17/846893_1768624966.jpg",
+        "url": "https://news.nate.com/view/20260117n05736",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "마차도 '노벨상 진품 메달' 바쳤지만…트럼프 '냉담'",
+        "time": "2026-01-17T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/17/846925_1768624548.jpg",
+        "url": "https://news.nate.com/view/20260117n05683",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "러트닉 \"타이완 반도체산업 40% 미국으로\"…타이완 \"어떤 계산법?\"",
+        "time": "2026-01-17T13:34:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05657",
+        "summary": "미국이 타이완과의 상호관세 합의 이후 타이완 반도체 생산능력의 40%를 미국으로 가져가겠다는 목표를 밝힌 것과 관련해 논란이 이어지고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"美 투자 안 하면 메모리 반도체 100% 관세\"…러트닉, K반도체 압박",
+        "time": "2026-01-17T13:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/17/ae_1768624084999_310259_0.jpg",
+        "url": "https://news.nate.com/view/20260117n05611",
+        "summary": "\"100%관세 내거나, 미국에 투자해라'\n대만과 협상서 반도체 관세 면세 조건 공개\n향후 협상 '대만보다 불리하지 않은 대우' 지켜질지 관심",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "미네소타 법원, ICE 요원 행동제한 판결…\"평화시위자 보복성 체포 금지\"",
+        "time": "2026-01-17T13:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/17/7697646_high.jpg",
+        "url": "https://news.nate.com/view/20260117n05610",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프, 사기꾼·후원자 가족 사면…\"대가 지불한 이들에 보상\"",
+        "time": "2026-01-17T13:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/17/202148036_700.jpg",
+        "url": "https://news.nate.com/view/20260117n05634",
+        "summary": "도널드 트럼프 미국 대통령이 1기 임기 때 감형 혜택을 줬던 사기꾼과 자신의 고액 후원자 가족 등을 대대적으로 사면한 것으로 드러났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "러트닉 \"美에 투자 안 하면 반도체 100% 관세\"…한국 등 압박",
+        "time": "2026-01-17T13:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/17/news_1768624230_1599413_m_1.jpg",
+        "url": "https://news.nate.com/view/20260117n05641",
+        "summary": "\"100% 관세 내거나 미국에서 생산하라\"",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "中 스젠-32 위성 발사 실패",
+        "time": "2026-01-17T13:24:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05573",
+        "summary": "[시창(중국 쓰쵠성)=신화/뉴시스] 유세진 기자 = 중국 시창(西昌) 위성발사센터에서 창정(長征) 3B 장거리 운반 로켓을 사용한 중국의 스젠(實踐)-32 위성 발사가 17일 실패했다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "\"미 법무부, '이민단속 방해 혐의' 미네소타 주지사 등 수사\"",
+        "time": "2026-01-17T13:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05526",
+        "summary": "미국 미네소타주에서 연방 정부의 이민 단속에 반발하는 격렬 시위가 계속되는 가운데 연방 법무부가 단속 방해를 공모한 혐의로 팀 월즈 주지사 등 주 관계자들을 수사 중이라고 CBS 방송이 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "베네수엘라 임시 대통령, 마두로 측근 장관서 해임",
+        "time": "2026-01-17T13:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/17/202601170321575546_l.jpg",
+        "url": "https://news.nate.com/view/20260117n05560",
+        "summary": "[파이낸셜뉴스] 델시 로드리게스 베네수엘라 대통령 권한대행이 축출된 니콜라스 마두로 대통령의 측근을 장관직에서 해임시켰다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "한국 반도체, 타이완 수준으로 투자해야?…미 \"국가별로 합의\"",
+        "time": "2026-01-17T13:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/17/202601171310528795_t.jpg",
+        "url": "https://news.nate.com/view/20260117n05524",
+        "summary": "<b>타이완, 미국 반도체에 총 5천억 달러 투자 약속\n\n\"미국에 공장 지으면 생산량 2.5배까지 관세 면제\"\n\n미국에서 반도체 생산 늘릴수록 면세 물량 증가</b>",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프 '신제국주의' 폭주에…유럽 극우마저 등 돌렸다 [세계는 지금]",
+        "time": "2026-01-17T13:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/17/20260115516599.jpg",
+        "url": "https://news.nate.com/view/20260117n05511",
+        "summary": "2024년 11월5일(현지시간) 미국 대통령 선거에서 도널드 트럼프 당시 공화당 후보가 승리하자 트럼프 대통령 지지자와 미국 공화당뿐 아니라 대서양 건너 유럽 극우정당까지 함께 환호성을 질렀다. 정당 지도자들은 앞다투어 승리의 역사적 의미를 재평가하고, 트럼프 대통령의 복귀가 유럽 극우의 성장을 가속하는 결과로 이어질 것이라는 희망이 담긴 성명을 내놨다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "러트닉 \"미에 투자 안 하면 반도체 100% 관세\"…한국 등 압박",
+        "time": "2026-01-17T13:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/17/202133600_700.jpg",
+        "url": "https://news.nate.com/view/20260117n05505",
+        "summary": "하워드 러트닉 미국 상무장관이 한국 등 주요 반도체 생산국을 향해 미국에 투자하지 않을 경우 '100% 반도체 관세'에 직면할 수 있다고 재차 경고했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프의 가자 평화이사회, 다른 분쟁에도 개입할 듯",
+        "time": "2026-01-17T13:09:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260117n05463",
+        "summary": "도널드 트럼프 미국 대통령이 가자지구 전후 관리를 위해 출범시킨 '평화위원회'를 우크라이나와 베네수엘라 등 다른 갈등 지역에서도 평화 중재 기구로 활용하려는 구상인 것으로 전해졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "트럼프에 노벨상 헌납한 마차도…노르웨이선 비판 쇄도",
+        "time": "2026-01-17T13:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/17/ae_1768623304948_239025_0.jpg",
+        "url": "https://news.nate.com/view/20260117n05499",
+        "summary": "1개월 정도밖에 안된 메달 트럼프에 넘겨\n오슬로 전 시장 \"상의 권위를 손상하는 짓\"",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "러트닉 \"美에 투자하지 않으면 반도체 100% 관세\"…한국 등 압박",
+        "time": "2026-01-17T13:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/17/AKR20260117029400009_01_i.jpg",
+        "url": "https://news.nate.com/view/20260117n05446",
+        "summary": "향후 한국과 협상 예정…작년에 '대만보다 불리하지 않은 조건' 약속",
+        "source": "nate",
+        "date": "2026년 01월 17일 토요일"
+      },
+      {
+        "title": "공대에 미친 중국…딥시크의 저장대, 하버드대 끌어내리고 1위 [강경주의 테크X]",
+        "time": "2026-01-17T13:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/17/01.42991262.1.jpg",
+        "url": "https://news.nate.com/view/20260117n05500",
+        "summary": "&lt;테크X56&gt;MIT 총장 \"중국 논문 대단…이미 미국 압도하고 있어\"",
         "source": "nate",
         "date": "2026년 01월 17일 토요일"
       }
