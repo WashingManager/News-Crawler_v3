@@ -945,6 +945,38 @@
         "url": "https://www.fnnews.com/news/202601221424532477",
         "source": "Fn",
         "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김인호 산림청장, 경남 진주 산불 일몰 전 총력대응 지시",
+        "time": "2026-01-22T16:40:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601221633470459",
+        "source": "Fn",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "경찰, '공천 헌금 의혹' 수사팀 재차 보강…광수단서 6명 추가",
+        "time": "2026-01-22T16:40:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601221617137627",
+        "source": "Fn",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "“기업가치 제고 계획, 전략·방향성 써도 됩니다”…한국거래소, 가이드라인 개정",
+        "time": "2026-01-22T16:37:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601221608563175",
+        "source": "Fn",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "우선수사권에 광범위한 수사범위까지...\"중수청, 검찰식 수사 재현할 것\"",
+        "time": "2026-01-22T16:39:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601221558387506",
+        "source": "Fn",
+        "date": "2026년 01월 22일 목요일"
       }
     ]
   },
@@ -3597,6 +3629,14 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3487222",
         "source": "Gukje",
         "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "정점식 \"수사대상 인물 공개 칭찬, 수사외압 우려\"",
+        "time": "2026-01-22T16:12:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202601/3487298_3631592_126_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3487298",
+        "source": "Gukje",
+        "date": "2026년 01월 22일 목요일"
       }
     ]
   },
@@ -3815,6 +3855,24 @@
         "time": "2026-01-22T00:00:00",
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=296296",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "대마초 피고 역주행 뺑소니… 파렴치 20대 체포",
+        "time": "2026-01-22T15:35:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=296329&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "9개월 된 아들 목 눌러 숨지게 한 비정한 아빠... 1심 징역 20년",
+        "time": "2026-01-22T15:36:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=296335&search=",
         "summary": "",
         "source": "skyDaily",
         "date": "2026년 01월 22일 목요일"
@@ -7286,6 +7344,204 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/sbsi/20260122162110481dlzt.jpg",
         "url": "https://v.daum.net/v/20260122162107909",
         "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[여의도1번지] 정청래, 혁신당 합당 제안…단식 중단한 장동혁",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/newsy/20260122164448097lmbb.jpg",
+        "url": "https://v.daum.net/v/20260122164447002",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "교육부, ‘교육활동 보호 강화 방안’ 발표…교원단체는 “핵심 내용 제외” 반발",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260122164903193",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "7월 '대구경북특별시' 출범 목표…TK통합법안 구체화, 이달 발의",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/yonhap/20260122164054206ddaq.jpg",
+        "url": "https://v.daum.net/v/20260122164054824",
+        "summary": "2024년 통합추진 당시 만든 특별법안 바탕으로 막바지 수정작업 핵심은 권한·재정 이양, 경제성장·생활향상 특례…'의견청취 안건' 도의회 제출",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "대통령 인정한 용인 반도체 산단… 전력 해법 '서해안 에너지고속도로'",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/moneyweek/20260122165143878vuqu.jpg",
+        "url": "https://v.daum.net/v/20260122165142337",
+        "summary": "이 대통령 \"정부 결정 뒤집을 수 없다\" 논란 일축… 반도체업계 한시름 놨다",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[르포] \"냉탕보다 2배는 더 추워\" 살 에는 해군 SSU 혹한기 훈련 가보니",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/NEWS1/20260122164817183vfjy.jpg",
+        "url": "https://v.daum.net/v/20260122164816157",
+        "summary": "오리발 바다 수영·단체 단리기 등 '철인 중대' 선발 눈길웨트수트로도 못 막는 추위…SSU는 사명감으로 눌렀다",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "손수조 \"이 대통령 본인 하고 싶은 말만, 국민이 궁금한 것은 '어쩌라고요'\"[박영환의 시사1번지]",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/kbc/20260122165121274mchq.jpg",
+        "url": "https://v.daum.net/v/20260122165119307",
+        "summary": "이재명 대통령 신년기자회견에 대한 논평배종호 \"이 대통령, 내란으로 추락된 국격을 다시 세운 실력 입증\"원영섭 \"아파트 청약 휘발성 강한 이슈, 국민 앞에 정확히 소명해야\"신인규 \"부동산 문제 6개월 만에 해결하는 정부가 어디 있었나?\"",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[단독] 이혜훈의 영종도 땅 매도인, 남편 외삼촌이었다... 6년 만에 20억 차익",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/chosun/20260122164835769rnbn.jpg",
+        "url": "https://v.daum.net/v/20260122164433986",
+        "summary": "이혜훈 “IMF 위기로 매수자를 찾을 수가 없었어”",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "약가 인하에 산업·노동계 반발…“1만 5000명 일자리 위협”",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/552807-b0c8dtL/20260122164758995qzzf.jpg",
+        "url": "https://v.daum.net/v/20260122164757134",
+        "summary": "노연홍 비대위원장 “현장 외면한 약가 인하, 산업·필수의약품 동시 위협” 의약품 생산 30% 향남제약단지 ‘직격탄’…5000명 고용 불안",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "“담배회사는 뺑소니범”…한국선 왜 담배회사 책임 인정 어렵나",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/donga/20260122164726301mqwl.jpg",
+        "url": "https://v.daum.net/v/20260122164724113",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'대구경북특별시' 밑그림 공개… 268개 조문 특별법 내달 국회 처리 기대",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/551746-KJTfZ0q/20260122164649050nxwg.jpg",
+        "url": "https://v.daum.net/v/20260122164647100",
+        "summary": "서울급 위상에 대기업 유치에 특효인 각종 특례까지…부동산 양도소득세 등 연 3조원대 재정 확보 방안도 담길 듯",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "‘1인 1 AI’ 시대 여는 뤼튼, 일본 넘어 아시아 최대 AI 기업 노린다",
+        "time": "2026-01-22T07:53:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/552786-gygG85f/20260122164803695inrq.jpg",
+        "url": "https://v.daum.net/v/20260122164803140",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "푸틴, 그린란드로 '흔들고', 우크라이나 '굳힌다'...트럼프 '취향저격' 제안 내놔",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/JTBC/20260122164450317uabi.png",
+        "url": "https://v.daum.net/v/20260122164448003",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "마두로 축출에 고무된 트럼프···“연내 쿠바 정권 교체 추진”",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/khan/20260122164013725hvyy.jpg",
+        "url": "https://v.daum.net/v/20260122164012795",
+        "summary": "월스트리트저널 보도 쿠바 정권 내부자 포섭 작업 진행 중 트럼프 “늦기 전 거래할 것” 압박베네수 원유 공급 중단으로 쿠바 경제 붕괴 위기",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "정청래, 당내 반발 뻔한데 합당 제안…\"연임 포석 의구심\"(종합)",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/NEWS1/20260122164228485pnfm.jpg",
+        "url": "https://v.daum.net/v/20260122164228886",
+        "summary": "강득구·황명선·이언주 최고위원 \"20분전 일방 통보\" 강력 반발전당대회 표 계산 위한 자기 정치 관측…1인1표제도 타격 전망",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"트럼프, 베네수엘라 이어 쿠바 정권 연내 교체 추진\" WSJ",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/newsis/20260122165027383cbjq.jpg",
+        "url": "https://v.daum.net/v/20260122165027258",
+        "summary": "쿠바, 1959년 이래 공산당 1당체계베네수 의존 경제, '이미 붕괴' 판단쿠바, 野 세력 없어 정권 견제 난항",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'ICE 피살' 여성 부검결과...머리 관통상 등 최소 3곳 총격",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/YTN/20260122164309416axlr.jpg",
+        "url": "https://v.daum.net/v/20260122164309924",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'ICE 피살' 미국 여성, 머리 관통상 등 최소 3곳 총격 상처",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/sbsi/20260122164514038zdjw.jpg",
+        "url": "https://v.daum.net/v/20260122164513024",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'中관계개선' 캐나다, 틱톡 제재 리셋…중국은 소고기 수입재개",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/yonhap/20260122163739619xkdi.jpg",
+        "url": "https://v.daum.net/v/20260122163739701",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "뉴질랜드 폭우로 산사태 잇따라…캠핑장 등 덮쳐 여러 명 실종",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/sbsi/20260122164508137uklf.jpg",
+        "url": "https://v.daum.net/v/20260122164506016",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "트럼프 “푸틴도 평화위 참여”···권위주의 지도자들 모인 ‘트럼프판 유엔’",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/khan/20260122165018590lcqk.jpg",
+        "url": "https://v.daum.net/v/20260122165017251",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "“푸틴, 추위를 무기로…이건 전쟁 범죄” 영하19도 정전에 떠는 키이우",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/hani/20260122164130248igkw.jpg",
+        "url": "https://v.daum.net/v/20260122164129848",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"트럼프·나토 사무총장 합의에 '덴마크의 그린란드 주권 존중' 포함\"",
+        "time": "2026-01-22T07:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/22/newsis/20260122164728967pale.jpg",
+        "url": "https://v.daum.net/v/20260122164728119",
+        "summary": "\"전반적인 그린란드 주권을 덴마크서 미국으로 이전하는 내용 불포함\"\"美·덴마크 그린란드 방위 협정 개정…러·中 악의적 외부 영향력 대응\"\"美, 매우 적은 비용으로 그린란드 관련 전략적 목표 영구적 달성 가능\"",
         "source": "daum",
         "date": "2026년 01월 22일 목요일"
       }
@@ -17047,6 +17303,1311 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012211361214864_1.jpg",
         "url": "https://news.nate.com/view/20260122n26322",
         "summary": "조길현 데브시스터즈 대표가 22일 '쿠키런: 킹덤 아트 컬래버 프로젝트 특별전-위대한 왕국의 유산' 사전 언론 공개회에서 취재진과 만나 이같이 말했다. 조 대표는 이번 전시에 대해 \"새로운 가치 창출을 위해 한국의 전통문화와 쿠키런 캐릭터를 연결했다\"며 \"모바일 화면 속을 달리던 캐릭터가 쿠키런 IP(지식재산권)로서 글로벌로 확장하는 시작이 될 것\"이라고 말했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "K-콘텐츠에 AI 더빙을…허드슨AI, 美 방송 그룹 싱클레어와 맞손",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711049_high.jpg",
+        "url": "https://news.nate.com/view/20260122n30100",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "젠슨 황·노태문 \"AI=필수 인프라\" 한목소리…반도체 호황 예고",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7709410_high.jpg",
+        "url": "https://news.nate.com/view/20260122n30095",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"왜 집 여러 채 가진 사람 세금 깎아주나\"…李 대통령 발언 무슨 의미?",
+        "time": "2026-01-22T16:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/me/2026/01/22/news-p.v1.20260122.ec2447d15b3449b98fbfbf0e957da137_P2.png",
+        "url": "https://news.nate.com/view/20260122n30049",
+        "summary": "이재명 대통령의 발언을 계기로 다주택자 규제 강화 가능성이 다시 부각되면서 부동산 시장이 긴장하고 있다. 다주택자에 대한 세금 혜택을 문제 삼는 발언이 나오자, 수도권 130만 다주택자들이 정부의 향후 정책 방향에 촉각을 곤두세우는 분위기다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "생산적 금융 확대와 AI 혁신 주도",
+        "time": "2026-01-22T16:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133196380.3.jpg",
+        "url": "https://news.nate.com/view/20260122n01184",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"배설물, 커피 구분하고 오염 원천차단\" 다이슨, 170만원대 'AI 로청'으로 승부수",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/22/9b0377a8-5c48-4eb6-8dbd-3bcad8f70cd7.jpg",
+        "url": "https://news.nate.com/view/20260122n30089",
+        "summary": "다이슨이 22일 인공지능(AI) 로봇청소기인 ‘스팟앤스크럽 Ai’을 공개했다. ‘로보락’ 등 중국 브랜드가 점유율 70%를 장악한 국내 로청 시장에서, 오랜 기간 쌓은 청소기 기술력을 앞세워 판을 흔들겠다는 전략이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "과기부, 'AI 기본법 지원데스크' 운영…법률 컨설팅- 기술자문 지원",
+        "time": "2026-01-22T16:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133211608.1.jpg",
+        "url": "https://news.nate.com/view/20260122n29889",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "원전 '절대 반대' 없었다…보수·남성 신규 원전 찬성률 압도적",
+        "time": "2026-01-22T16:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/22/321355f2-e812-41b9-8149-7c90bb09e6e7.jpg",
+        "url": "https://news.nate.com/view/20260122n30025",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'절충교역' 판 커지는 캐나다 잠수함戰…한화에어로 '우주협력' 지원하나",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/22/20260122144411_2285308_860_573.jpg",
+        "url": "https://news.nate.com/view/20260122n29960",
+        "summary": "[이투데이/정진용 기자]",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[사진] 우크라 동부 최전선에서 야전포 발사",
+        "time": "2026-01-22T16:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/22/2601221638354590_w.jpg",
+        "url": "https://news.nate.com/view/20260122n30038",
+        "summary": "저작권자(c) 글로벌리더의 지름길 종합뉴스통신사 뉴스핌(Newspim), 무단 전재-재배포 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "펑션베이, 경북대에 50억원 상당 소프트웨어 기증…감사패 받아",
+        "time": "2026-01-22T16:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012112251461670_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29993",
+        "summary": "다물체 동역학(MBD) 소프트웨어 개발사 펑션베이(대표 장경천)가 최근 '경북대학교 첨단기술융합대학 교직원 역량강화 및 대학발전 워크숍'에서 감사패를 받았다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[CES 2026] 유메드, 비뇨 의료 패러다임 전환 제시",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fr/2026/01/22/art_721333_1769066567.jpg",
+        "url": "https://news.nate.com/view/20260122n29902",
+        "summary": "<strong>일상 속 예방·관리 솔루션 공개…상 기반 'UroRinse™ Light' 글로벌 수요 확인</strong>",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "한국인 더이상 '쌀밥' 안먹는다…\"역대 최저\" 30년만에 절반 줄어",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133210691.2.jpg",
+        "url": "https://news.nate.com/view/20260122n29915",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "철도신호기업 SR, 철도 신년인사회서 핵심 기술 공개",
+        "time": "2026-01-22T16:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711034_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29837",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "李정부 자사주 소각 논의 한창인데…자사주 51% 신영증권 '사면초가'",
+        "time": "2026-01-22T16:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/22/202623441769060084.jpg",
+        "url": "https://news.nate.com/view/20260122n29817",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "한국마사회, 안전하고 질 높은 승마환경 인증 '그린승마존' 모집",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711043_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29769",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"기업가치 제고 계획, 전략·방향성 써도 됩니다\"…한국거래소, 가이드라인 개정",
+        "time": "2026-01-22T16:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202601191627503857_l.jpg",
+        "url": "https://news.nate.com/view/20260122n29818",
+        "summary": "[파이낸셜뉴스] 한국거래소는 기업가치 제고 계획 가이드라인·해설서를 개정했다고 22일 밝혔다. 개정안은 이날부터 시행된다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'안전지대는 없다' AI 혁명에 지구촌 3억 일자리 위기",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/22/2601221623539350_w.jpg",
+        "url": "https://news.nate.com/view/20260122n29771",
+        "summary": "IT·금융·법률·제조···예외 없어",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "한국인 하루 쌀밥 한 공기 반도 안먹는다",
+        "time": "2026-01-22T16:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/22/ae_1769067364789_316481_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29712",
+        "summary": "1인당 쌀 소비량 53.9㎏\n집계 이래 최소…40년째↓\nK푸드 열풍에 떡·쌀과자 등 인기",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "KT&G복지재단, 인도네시아에 '대학생 봉사단' 파견",
+        "time": "2026-01-22T16:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/22/20260122163117_2285415_1200_661.jpg",
+        "url": "https://news.nate.com/view/20260122n29683",
+        "summary": "[이투데이/문현호 기자]",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI 아무리 난리여도 사라지지 않을 직업 1위는?",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/me/2026/01/22/news-p.v1.20260122.25de29e0263a46ebb52787ac318ac6e4_P1.png",
+        "url": "https://news.nate.com/view/20260122n29619",
+        "summary": "인공지능(AI) 확산으로 직업 지형이 빠르게 재편되는 가운데 AI 영향에서 상대적으로 자유로운 업종으로 ‘미용업’이 주목받고 있다. 편의점보다 많은 업소 수에도 불구하고 생존율은 100대 생활 업종 가운데 가장 높은 수준을 기록했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"한두달이면 1400원?\"…대통령의 환율 자신감에  시장  '물음표'",
+        "time": "2026-01-22T16:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/22/news_1769039134_1601170_m_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29637",
+        "summary": "엔저·트럼프 리스크·지정학 변수 여전한데 ‘두 달 내 안정’ 가능할까",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI기본법 궁금증 물어보세요…'인공지능기본법 지원데스크' 운영",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/3798962_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29481",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "그린란드 관세 철회·李 개입…환율, 5거래일 만에 1460원대로(종합)",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7703766_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29479",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "홈체크, 안전진단 AI 솔루션 '젠트릭스(ZENTRIX)' 공식 론칭",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026011916072952446_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29606",
+        "summary": "주택 점검 및 시설물 안전진단 전문기관 홈체크(HomeCheck)가 시설물 안전진단 데이터 관리에 특화된 AI 기반 솔루션 '젠트릭스(ZENTRIX)'를 공식 론칭하고, 이를 통해 신규 고객 유치에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "안양대학교 대학일자리플러스센터,   2025 대학일자리플러스센터 사업 연차성과평가 2년 연속 최고등급 '우수' 선정",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2026/01/22/202601221629771926_6971d20d50431.png",
+        "url": "https://news.nate.com/view/20260122n29534",
+        "summary": "[관련기사]",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"뉴스페이스 시장 확장\"…컨텍·AP위성, 레오스페이스에 전략투자",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012214000237141_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29475",
+        "summary": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"AI기본법 해석 어렵다면…'지원데스크'에 문의하세요\"",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260115_0021128171_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29451",
+        "summary": "KOSA에 현장 사무소 마련…법 컨설팅, 기술자문 등 지원  \n일반 상담 평일 기준 72시간 내 회신…온라인 접수도 가능",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "中서 등장한 '구리바'…팔자마자 '퇴출' 엔딩",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ht/2026/01/22/A202601220471_1.png",
+        "url": "https://news.nate.com/view/20260122n29272",
+        "summary": "금·은·구리 등 금속 랠리 속 중국 최대 규모 보석시장에 구리바(동괴)가 등장했다가 판매 금지로 매대에서 퇴출당했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"연구 전 과정 함께하는 AI 비서\"…DBpia(디비피아), AI 에이전트 출시",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012213304349081_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29231",
+        "summary": "학술 콘텐츠 플랫폼 DBpia(디비피아)를 운영하는 누리미디어는 지난 20일 연구 전 과정을 지원하는 'DBpia AI 에이전트(agent)' 서비스를 정식 출시했다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "베이조스 블루오리진, 5000기 위성 쏜다…스타링크 도전장",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20251114_0000789726_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29217",
+        "summary": "1위 스타링크, 9000기 위성 궤도 올려놓아\n아마존 레오, 3000기 운용 계획 발표\n2000년 설립, 지난해 11월 뉴 글렌 부스터 착륙 성공",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "외도 발각되자 \"강간당했다\"…檢, 보완수사로 무고 사범 4명 기소",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/22/ch_1769067965178_753564_0.jpg",
+        "url": "https://news.nate.com/view/20260122n25551",
+        "summary": "합의 하에 성관계를 했음에도 배우자에게 외도 사실이 발각되자 “강간당했다”며 무고한 사람 등 검찰이 성범죄 무고 사범 4명을 기소했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "육군 17사단, 26일부터 2주간 인천·김포·부천서 혹한기 훈련",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046719_web.jpg",
+        "url": "https://news.nate.com/view/20260122n30153",
+        "summary": "[인천·김포·부천=뉴시스] 이루비 기자 = 육군 제17보병사단은 26일부터 30일까지, 2월2일부터 6일까지 인천과 경기 김포·부천시 일대에서 '2026년 혹한기 전술훈련'을 실시한다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "전북사회서비스원, 내달 5일 '온라인 사업설명회' 진행",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711052_high.jpg",
+        "url": "https://news.nate.com/view/20260122n30173",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김영록 지사, 광양 산불 현장 지휘…총력 대응으로 주불 진화",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/di/2026/01/22/66f4de9912b6cba076e11dfed6b756f3_thumb.jpg",
+        "url": "https://news.nate.com/view/20260122n30182",
+        "summary": "강풍·야간 악조건 속 주민 대피·밤샘 진화…인명 피해 없이 큰 불 잡아",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"담배회사는 뺑소니범\"…한국선 왜 담배회사 책임 인정 어렵나",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133211653.1.jpg",
+        "url": "https://news.nate.com/view/20260122n30170",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"100억원 달라\" 10대 협박범, '李대통령 암살' 글 쓴 정황도",
+        "time": "2026-01-22T16:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/22/PS26012201118.jpg",
+        "url": "https://news.nate.com/view/20260122n30102",
+        "summary": "<font color=\"gray\"><b>- 분당경찰서, 공중협박 혐의로 구속 송치</b></font>\n<font color=\"gray\"><b>- 디스코드 이용자 김씨와 사이 틀어지자</b></font>\n<font color=\"gray\"><b>- 폭파 협박 게시물을 김씨 이름으로 작성</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"헌혈하고 '두쫀쿠' 받아요\"…대구경북혈액원 깜짝 이벤트",
+        "time": "2026-01-22T16:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7710504_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29790",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "칼바람 속 전력 질주…SSU 심해잠수사 선발 현장",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711061_high.jpg",
+        "url": "https://news.nate.com/view/20260122n30096",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "초등학교 주차 차량 화재…\"보풀 제거하다가 불\"",
+        "time": "2026-01-22T16:44:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260122n30098",
+        "summary": "오늘(22일) 오전 9시쯤 부산 사상구에 있는 초등학교 야외주차장에서 통학버스 기사 60대 A 씨의 SUV가 불에 타는 사고가 났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'대전 교제 살인' 장재원, 1심 무기징역 선고",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/22/202601221640390113_t.jpg",
+        "url": "https://news.nate.com/view/20260122n30079",
+        "summary": "지난해 7월, 대전 괴정동 거리에서 전 여자 친구를 흉기로 살해한 혐의로 재판에 넘겨진 27살 장재원이 1심에서 무기징역을 선고받았습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "부산 기장군 대형 공장 화재, 20시간 만에 초진…대응 단계 해제",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012216372712700_1.jpg",
+        "url": "https://news.nate.com/view/20260122n30083",
+        "summary": "부산 기장군에서 발생한 대형 공장 화재가 발생 약 20시간 만에 초진되며 진화 국면에 들어섰고, 소방당국은 22일 오후 3시 52분부로 소방 대응 1단계를 공식 해제했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "SNT모티브, 'Shot Show 2026' 참가…저위험권총·수출형 소총 앞세워 美 시장 공략",
+        "time": "2026-01-22T16:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2026/01/22/kuk20260122000330.800x.0.jpg",
+        "url": "https://news.nate.com/view/20260122n30013",
+        "summary": "국내 최대 소구경 화기 제조업체 SNT모티브가 저위험권총과 수출형 소총 등 최신 화기 라인업을 앞세워 세계 최대 총기 시장인 미국 공략에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "영천 주택 화재 야산으로 번져…헬기 투입 3시간30분만에 진화(종합)",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711041_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29958",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "충북지사·교육감 선거비용 '13억8600만원'…선관위 제한액 공고",
+        "time": "2026-01-22T16:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/5260467_high.jpg",
+        "url": "https://news.nate.com/view/20260122n30012",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "울릉도 해역서 표류한 '러 선박' 16시간 구조에…러측 \"깊은 감사\"",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133211335.3.jpg",
+        "url": "https://news.nate.com/view/20260122n29589",
+        "summary": "선박은 울릉도 방향으로 표류해 충돌 우려가 있었다. 2차 해양오염 사고 가능성도 제기된 상황이었다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김인호 산림청장, 경남 진주 산불 일몰 전 총력대응 지시",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202601221638016066_l.JPG",
+        "url": "https://news.nate.com/view/20260122n29964",
+        "summary": "[파이낸셜뉴스] 산림청은 김인호 산림청장이 22일 오후 1시 21분 경남 진주시 집현면 대암리 일원에서 발생한 산불이 해가 지기 전에 진화될 수 있도록 서부지방산림청 소속 특수진화대 등 동원 가능한 자원을 최대한 투입, 총력대응할 것을 지시했다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "경찰, '공천 헌금 의혹' 수사팀 재차 보강…광수단서 6명 추가",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202601200909472083_l.jpg",
+        "url": "https://news.nate.com/view/20260122n29954",
+        "summary": "[파이낸셜뉴스] '1억 공천 헌금' 의혹 등을 수사 중인 경찰이 담당 수사팀 인력을 추가로 보강했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "온라인 성착취·유해환경 대응 논의…청소년 안전 대책 머리 맞대",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2026/01/22/2026012201001803700108701.jpg",
+        "url": "https://news.nate.com/view/20260122n29948",
+        "summary": "성평등가족부, 전문가 간담회 열고 디지털 청소년 보호 방안 점검\nAI·SNS 확산 속 그루밍·성착취 대응책 논의\n제도·기술적 보호 장치 보완 필요성 제기",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "청송군, 장애인복지센터 건립 본격화…2028년 준공 목표",
+        "time": "2026-01-22T16:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2026/01/22/kuk20260122000335.800x.0.jpg",
+        "url": "https://news.nate.com/view/20260122n29874",
+        "summary": "청송군은 장애인복지 서비스 강화를 위해 청송군장애인복지센터 건립 사업을 본격 추진한다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "7월 '대구경북특별시' 출범 목표…TK통합법안 구체화, 이달 발의",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/PYH2026012014030005300_P2.jpg",
+        "url": "https://news.nate.com/view/20260122n29909",
+        "summary": "2024년 통합추진 당시 만든 특별법안 바탕으로 막바지 수정작업",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "우선수사권에 광범위한 수사범위까지…\"중수청, 검찰식 수사 재현할 것\"",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202306261328149351_l.jpg",
+        "url": "https://news.nate.com/view/20260122n29899",
+        "summary": "[파이낸셜뉴스]'수사관 이원화 구조'에 이어 '우선수사권'과 '광범위한 수사대상' 등의 막대한 권한이 주어진 중대범죄수사청 설치법안이 발의 전부터 논란의 중심에 서 있다. 이 같은 중수청의 권한이 특수통 수사를 통한 정치 검사들이 수사권을 오남용한 검찰청의 폐해를 막기 위해 시작된 '검찰 개혁'에 어긋난다는 이유에서다. 국회 법안 발의 전 기존 안에서 얼마나 수정될지도 관심사다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "120억원대 캄보디아 사기단 한국인 총책 부부, 1년 만에 국내 송환",
+        "time": "2026-01-22T16:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/22/20260122515450.jpg",
+        "url": "https://news.nate.com/view/20260122n29872",
+        "summary": "캄보디아에 둥지를 튼 사기단 중 최대 규모인 120억원대 로맨스스캠(연애빙자사기) 사기단의 한국인 총책 강모(32)·안모(30) 부부가 1년여만에 국내로 송환된다. 이들 부부의 송환은 1년만으로, 경찰은 이들 부부에 대해 범죄단체조직 등의 혐의로 구속영장을 신청할 예정이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "울산 울주군 도로에서 5중 추돌 사고…6명 부상",
+        "time": "2026-01-22T16:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/PCM20190801000101990_P2.jpg",
+        "url": "https://news.nate.com/view/20260122n29882",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "울산 북구 SNS서포터즈 발대식…20~60대 연령대 다양",
+        "time": "2026-01-22T16:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046702_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29819",
+        "summary": "[울산=뉴시스] 박수지 기자 = 울산 북구는 22일 구청 다목적실에서 북구 SNS 서포터즈 8기 발대식을 개최했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "또 다른 경남교육감 보수·중도 후보 단일화 기구 출범",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221635185305_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29802",
+        "summary": "경남 좋은 교육감 후보 추대 시민회의 출범 기자회견\n\"여론조사 의존하던 기존 방식 벗어나 새로운 단일화 방식 구현\"\n기존 경남교육감 보수·중도 후보 단일화연대, 출마예정자 2명 대상 정책토론회 실시",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "진주시, 설 명절대비 물가안정 대책회의…'수급·가격안정' 논의",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046585_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29760",
+        "summary": "[진주=뉴시스] 정경규 기자 = 경남 진주시는 22일 설 명절을 앞두고 성수품 수급 점검 및 물가안정 방안을 논의하기 위한 민관합동 대책 회의를 개최했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'양평 의혹' 별건 뇌물 사건 공소기각…\"특검 수사대상 아냐\"(종합)",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/PCM20230313000178990_P2.jpg",
+        "url": "https://news.nate.com/view/20260122n29439",
+        "summary": "김건희특검 기소 국토부 서기관 뇌물 혐의…법원 \"합리적 관련성 없어\"",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "1인당 연간 독서량 '5.7권'…동해시 '책 읽는 도시' 자리매김",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221622503427_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29785",
+        "summary": "인구 9만의 동해시가 '책 읽는 지식 도시'로서 자리매김하고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "권기창 안동시장 \"통합 전 조율해야\"…경북 북부권 발전 전략 촉구",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221620226658_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29797",
+        "summary": "권기창 안동시장이 대구·경북 행정통합을 서두르기 전에 구체적인 원칙과 조건이 정해져야 한다고 주장했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "KAIST 등 4대 과기원 학폭 감점 지원자 수시 전원 불합격",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221627417147_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29788",
+        "summary": "한국과학기술원(KAIST)을 포함한 전국 4대 과학기술원의 2026학년도 수시모집에서 학교폭력 이력이 있는 지원자들이 전원 탈락했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "경운대, 미래항공모빌리티 산업 '핵심 플랫폼' 된다",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046698_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29752",
+        "summary": "경북 모빌리티 협의체 정례회의 개최",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "대마 흡입 후 고속도로 10㎞ 역주행…차 3대 들이받은 20대 체포",
+        "time": "2026-01-22T16:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/22/1cb8587e-0a0a-4242-a3fb-9d26068ce201.jpg",
+        "url": "https://news.nate.com/view/20260122n29714",
+        "summary": "대마를 흡입한 상태에서 고속도로를 10㎞가량 역주행하다가 잇달아 사고를 낸 20대가 경찰에 붙잡혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "반월당 지하도상가 '화재예방'…중부소방서, 현장점검 등[대구소식]",
+        "time": "2026-01-22T16:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046696_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29642",
+        "summary": "[대구=뉴시스] 이상제 기자 = 대구 중부소방서는 혹한 기간 화재로 인한 인명피해 방지를 위해 지역 최대 상권 중심지인 반월당 지하도상가 현장 안전 점검을 했다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "대구경북 행정통합 분수령 되나…경북 북부권 기초의회 의장들 23일 안동 집결",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/22/SSC_20260122162839_V.jpg",
+        "url": "https://news.nate.com/view/20260122n29452",
+        "summary": "[서울신문]대구·경북 행정통합 논의가 급물살을 타는 가운데 경북 북부권 기초의회 의장들이 오는 23일 통합 추진과 관련한 의견을 나누기로 해 관심을 끌고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "얽힌 전선 걷어낸 관악구…5년 연속 공중케이블 정비 우수 자치구",
+        "time": "2026-01-22T16:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/22/SSC_20260122163240_V.jpg",
+        "url": "https://news.nate.com/view/20260122n29650",
+        "summary": "[서울신문]서울 관악구가 과학기술정보통신부 주관 ‘공중케이블 정비 지자체 평가’에서 5년 연속 최고 등급인 상을 받았다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "한국농어촌공사, 새만금 농업용수 공급사업 본격화",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/22/202675351769066856.jpg",
+        "url": "https://news.nate.com/view/20260122n29614",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "세종시설관리공단, 보건관리 체계 고도화…예방·조기 개입 중심 전환",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/22/202676371769066459.jpg",
+        "url": "https://news.nate.com/view/20260122n29602",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "검찰, 중국인 형제 살해 차철남에 2심도 사형 구형",
+        "time": "2026-01-22T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/AKR20260122127900061_01_i.jpg",
+        "url": "https://news.nate.com/view/20260122n29599",
+        "summary": "(수원=연합뉴스) 류수현 기자 = 같은 중국 국적의 형제를 살해하고 내국인 2명을 추가로 살해하려다 미수에 그친 혐의로 1심에서 무기징역을 선고받은 중국 국적 차철남에게 검찰이 항소심에서도 사형을 구형했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "여야 \"경찰, 12·29 여객기 참사 수사 지연…직무유기\" 질타",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221626493416_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29570",
+        "summary": "\"사조위 핑계로 수사 유보…법적 근거 없는 명백한 지연\"\n\"1년동안 단 한명도 기소 못해…경찰 수사 믿을 수 없어\"\n윤호중 행안부장관 \"노력 부족, 직무유기 했다면 조속히 규명\"",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[내일날씨] '최저 -19도' 매서운 한파…전국 곳곳 눈비",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2026/01/22/2026012201001822500109661.jpg",
+        "url": "https://news.nate.com/view/20260122n29551",
+        "summary": "아시아투데이 김홍찬 기자 = 금요일인 23일 전국이 구름 많은 가운데 강추위가 이어지겠다. 곳곳에서 비나 눈이 내리는 곳이 있겠다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'수도권 보수 교육감 후보 단일화' 시민단체 연대조직 출범",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/22/202601221629015756_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29585",
+        "summary": "오는 6월 교육감 선거를 앞두고 수도권 보수 진영 후보 단일화를 위한 시민단체 연대조직이 구성됐다. '서울·경기·인천 좋은 교육감 후보 추대 시민회의'는 22일 서울 프레스센터에서 출범식을 열고 공식 활동에 들어갔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "한호친선협회장에 이한세 스파이어리서치 대표",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711022_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29588",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'여친 불러내 수면제 탄 술 먹여 성폭행' 남친·BJ 징역형",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/22/670edbc7-e216-413c-8604-59921118efd2.jpg",
+        "url": "https://news.nate.com/view/20260122n29538",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'뇌물수수·성 비위' 김진하 양양군수, 항소심 실형 불복 항소",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/22/news_1768370525_1598214_m_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29550",
+        "summary": "현금 및 성관계 통한 성적 이익 수수 혐의",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "미8군, 총검 고지 전투 75주기 추도식 2월 5일 개최",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711028_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29478",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "서산시 천수만 야생조류서 고병원성 AI 확인…\"철새도래지 방문 자제\"",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711027_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29474",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "울진군, 남북10축 고속도로에 울진 구간 반영 총력전",
+        "time": "2026-01-22T16:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20241208_0001723205_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29394",
+        "summary": "[울진=뉴시스]안병철 기자 = 경북 울진군이 '교통 오지'라는 오명을 벗고 지역의 미래를 바꿀 핵심 인프라인 '남북10축(영덕울진삼척) 고속도로' 건설을 위해 총력전에 나섰다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "일본 유학 중 간첩누명 옥살이…40년만에 무죄",
+        "time": "2026-01-22T16:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/22/AKR20260122162725CqV_01_i.jpg",
+        "url": "https://news.nate.com/view/20260122n29330",
+        "summary": "일본 유학 중 간첩으로 몰려 옥살이를 한 60대가 40여년만에 재심을 통해 무죄를 선고받았습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "진주 산불 진화율 70%…\"일몰 전 진화 위해 총력 대응\"",
+        "time": "2026-01-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7711013_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29315",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김태흠 충남지사 \"이 대통령의 광역 행정통합 관련 발언 환영\"",
+        "time": "2026-01-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7697827_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29317",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "윤 \"내 처도 몰라\"…한덕수 1심 판결문에 담긴 계엄 준비 전말",
+        "time": "2026-01-22T16:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/22/ea116ee7-08b6-4c35-80a0-96af98c9f05d.jpg",
+        "url": "https://news.nate.com/view/20260122n29381",
+        "summary": "윤 \"국무위원들도 안 부르고 선포하려다 부른 것\"",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI 썼더니, 콜센터 근무시간 뒤 \"후처리만 1시간\"",
+        "time": "2026-01-22T16:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/lt/2026/01/22/232368_110714_2630.jpg",
+        "url": "https://news.nate.com/view/20260122n29326",
+        "summary": "이재 기자",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "특구재단, 글로벌검증사업 통해 특구기업 북미 투자유치",
+        "time": "2026-01-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046680_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29295",
+        "summary": "특구기업 'GQT코리아' 100만 캐나다 달러 투자협약",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "일본 대마도서 규모 3.5 지진 발생…경남서 지진동 느낄 정도",
+        "time": "2026-01-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2026/01/22/2026012216234459853_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29292",
+        "summary": "일본 대마도 남쪽 해역에서 규모 3.5 지진이 발생했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "원광대, '대학일자리플러스센터 사업 성과' 5년 연속 최고등급 쾌거",
+        "time": "2026-01-22T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012216164734091_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29293",
+        "summary": "원광대학교는 최근 고용노동부와 한국고용정보원이 주관한 '2025년 대학일자리플러스센터 대학 운영성과 평가'에서 5년 연속 최고 등급인 '우수'를 받았다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "박민서 한국해양소년단 인천연맹장 추대",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/22/news-p.v1.20260122.a260a6fe23ae40709057402ea70fc940_P1.jpg",
+        "url": "https://news.nate.com/view/20260122n29274",
+        "summary": "[헤럴드경제(인천)=이홍석 기자]박민서 인천스페셜올림픽코리아 회장이 한국해양소년단 인천연맹 신임 연맹장으로 임명됐다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "골목길·인도 눈길 '싹'…군포시 소형 제설차 투입, 보행 안전↑",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012216101780849_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29257",
+        "summary": "경기 군포시는 겨울철 제설 대응 역량을 강화하기 위해 제설장비를 확충했다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김포, 이번엔 물류센터서 미끄러지는 트럭 막던 50대 남성 숨져",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/6903751_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29212",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "안산시, 안산선지하화통합개발사업 기본계획수립 착수",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20250912_0001942095_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29255",
+        "summary": "2028년 1월까지 24개월 간…71만㎡ 개발계획 담겨\n2월20일까지 '안산선 지하화 상부광장 디자인' 공모",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김경 '공천헌금 의혹' 수사 확대…연루 민주당 서울시당 관계자 주목",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7702670_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29280",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "동해해경, 이웃돕기 성금 전달…나눔캠페인 동참",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0002046684_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29210",
+        "summary": "[동해=뉴시스] 이순철 기자 = 동해해양경찰서는 22일 동해시청에서 열린 성금 전달식에는 김환경 서장이 참석해 강원도 내 취약계층을 돕기 위한 성금 200만원을 전달했다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"전북을 미래산업 테스트베드로\"…성장엔진 협력 중앙 공조 본격화",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/22/20260122514914.jpg",
+        "url": "https://news.nate.com/view/20260122n29202",
+        "summary": "전북도가 정부 핵심 산업정책과 보조를 맞춘 ‘5극3특 성장엔진’ 구상을 앞세워 중앙정부와의 협력 수위를 끌어올리고 있다. 정부의 정책적 뒷받침의 지속성과 실행 속도가 성패를 가를 핵심 변수가 될 전망이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "뉴질랜드 폭우로 산사태 잇따라…캠핑장 등 덮쳐 여러 명 실종",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149638_700.jpg",
+        "url": "https://news.nate.com/view/20260122n30168",
+        "summary": "한여름인 뉴질랜드에서 폭우로 산사태가 잇따라 일어나 여러 명이 실종돼 당국이 수색 작업에 나섰습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'ICE 피살' 미국 여성, 머리 관통상 등 최소 3곳 총격 상처",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149631_700.jpg",
+        "url": "https://news.nate.com/view/20260122n30175",
+        "summary": "미국 미네소타주에서 이민단속 요원에게 사살된 미국인 여성이 최소 3발의 총격을 받은 것으로 조사됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"트럼프·나토 사무총장 합의에 '덴마크의 그린란드 주권 존중' 포함\"",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0000941319_web.jpg",
+        "url": "https://news.nate.com/view/20260122n30165",
+        "summary": "\"전반적인 그린란드 주권을 덴마크서 미국으로 이전하는 내용 불포함\"\n\"美·덴마크 그린란드 방위 협정 개정…러·中 악의적 외부 영향력 대응\"\n\"美, 매우 적은 비용으로 그린란드 관련 전략적 목표 영구적 달성 가능\"",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "트럼프 밈코인 열기 어디로…\"1년새 94% 폭락\"",
+        "time": "2026-01-22T16:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/AKR20260122121400009_01_i.jpg",
+        "url": "https://news.nate.com/view/20260122n30197",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "푸틴, 그린란드로 '흔들고', 우크라이나 '굳힌다'…트럼프 '취향저격' 제안 내놔",
+        "time": "2026-01-22T16:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/22/20260122164412502001.png",
+        "url": "https://news.nate.com/view/20260122n30143",
+        "summary": "백민경 기자 (baek.minkyung@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'ICE 피살' 여성 부검결과…머리 관통상 등 최소 3곳 총격",
+        "time": "2026-01-22T16:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/22/202601221637408854_t.jpg",
+        "url": "https://news.nate.com/view/20260122n30087",
+        "summary": "미국 미네소타주에서 이민단속 요원에게 사살된 미국인 여성이 최소 3발의 총격을 받은 것으로 조사됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "마크롱, 나토 사무총장 '모두 당했다'…트럼프, 개인 메시지 공개하며 '망신주기",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/22/20260122163902104001.png",
+        "url": "https://news.nate.com/view/20260122n29939",
+        "summary": "백민경 기자 (baek.minkyung@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"푸틴, 추위를 무기로…이건 전쟁 범죄\" 영하19도 정전에 떠는 키이우",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/22/20260122503130.jpg",
+        "url": "https://news.nate.com/view/20260122n29933",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "中 최대 보석시장에 등장한 '구리바', 왜?",
+        "time": "2026-01-22T16:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/22/ae_1769067724790_846698_0.png",
+        "url": "https://news.nate.com/view/20260122n30000",
+        "summary": "가격 급등, 보석 시장에 등장했으나\n상가 판매 규정에 따라 판매 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "이란 \"시위 관련 사망자 3천117명\" 첫 공식 집계",
+        "time": "2026-01-22T16:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/PRU20260121479101009_P2.jpg",
+        "url": "https://news.nate.com/view/20260122n01096",
+        "summary": "<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지>",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "마두로 축출에 고무된 트럼프···\"연내 쿠바 정권 교체 추진\"",
+        "time": "2026-01-22T16:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/22/news-p.v1.20260122.f3d0e623f4da416fb77a520f7b4c0a76_P1.jpg",
+        "url": "https://news.nate.com/view/20260122n29893",
+        "summary": "니콜라스 마두로 베네수엘라 대통령 축출 성공에 고무된 도널드 트럼프 미국 행정부가 올해 연말을 목표로 쿠바 정권 교체를 추진하고 있다는 보도가 나왔다. 베네수엘라산 원유 공급 중단으로 쿠바 경제가 붕괴 직전인 상황을 이용해 쿠바 정권 내부 인사를 포섭해 정권 교체를 꾀한다는 전략이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[현장영상] \"긴급한 상황이에요!\" 트럼프 막내아들의 다급한 목소리, 무슨 일이",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149618_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29747",
+        "summary": "도널드 트럼프 미국 대통령의 막내아들 배런 트럼프(19)의 선행이 알려지며 화제를 모으고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "열풍 끝났나?…트럼프 일가 밈코인 '99% 급락'",
+        "time": "2026-01-22T16:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/22/20260122163002171189.jpg",
+        "url": "https://news.nate.com/view/20260122n29632",
+        "summary": "김태인 기자 (kim.taein@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "트럼프 막내아들, 여사친 목숨 구했다…\"할 수 있던 최선\" 무슨 일?",
+        "time": "2026-01-22T16:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7679164_high.jpg",
+        "url": "https://news.nate.com/view/20260122n28157",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'中관계개선' 캐나다, 틱톡 제재 리셋…중국은 소고기 수입재개",
+        "time": "2026-01-22T16:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/AKR20260122129800009_01_i.jpg",
+        "url": "https://news.nate.com/view/20260122n29770",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "세계지도에 속은 트럼프? \"그린란드, 아프리카만큼 커 보이지만 실제는 14분의 1\"[1일1트]",
+        "time": "2026-01-22T16:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/22/news-p.v1.20260122.72f88227661c4a54937822b681886a12_P1.png",
+        "url": "https://news.nate.com/view/20260122n29745",
+        "summary": "세계지도 왜곡이 키운 ‘북극 환상’\r\n메르카토르 투영법이 부풀린 그린란드의 크기\r\n자원·항로 계산위 덧씌워진 시각적 착시\r\nFT “지도는 사실이자 주장…트럼프는 그것을 안다”",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"재생에너지 말고 석탄\"…러트닉 발언에 다보스 만찬장 '술렁'",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260115_0000923347_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29567",
+        "summary": "[서울=뉴시스]정우영 인턴 기자 = 하워드 러트닉 미국 상무장관이 다보스에서 열린 세계경제포럼(WEF·다보스포럼) 만찬에서 \"석탄을 에너지원으로 삼아야 한다\"고 발언해 야유와 비난에 휩싸인 사실이 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "인도 공항직원, 한국인 여성 추행…전격 체포",
+        "time": "2026-01-22T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202601221627582288_l.jpg",
+        "url": "https://news.nate.com/view/20260122n29559",
+        "summary": "[파이낸셜뉴스] 인도 공항에서 현지 직원이 한국인 여성을 성추행한 혐의로 경찰에 체포됐다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "이란 \"反정부 시위로 사망자 최소 3117명 추정\"…美선 1만 명 예상",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/22/133211555.1.jpg",
+        "url": "https://news.nate.com/view/20260122n29463",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "트럼프, 유럽 동맹 정상 면전서 '조롱'…\"구세계와의 정면 충돌\"",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/22/e175db3b-687c-4ebb-a444-df510d5cf6c1.jpg",
+        "url": "https://news.nate.com/view/20260122n29537",
+        "summary": "21일(현지시간) 도널드 트럼프 미국 대통령이 세계경제포럼(WEF·다보스포럼) 연설에서 '그린란드 병합' 의지를 밝힌 데 대해 뉴욕타임스(NYT)는 “트럼프의 세계와 구세계와의 충돌”이라고 평가했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "금·은·구리 가격 폭등 속 중국 최대 보석시장에 '구리바' 등장",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149634_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29506",
+        "summary": "금·은에 이어 구리 가격마저 사상 최고치를 기록한 가운데 중국 최대 규모 보석시장에 구리바(동괴)가 등장했다가 판매 금지로 매대에서 퇴출당했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "검색한다며 더듬고 껴안더니 \"고맙다\"…인도 공항서 韓여성에 만행",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7710951_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29456",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "김연아 사진 한 장에 日 댓글 쏟아졌다…야후 1위 오른 논쟁 [핫이슈]",
+        "time": "2026-01-22T16:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/22/SSC_20260122162751_V.jpg",
+        "url": "https://news.nate.com/view/20260122n29398",
+        "summary": "[서울신문 나우뉴스]일본 최대 포털 야후 재팬 스포츠 섹션에서 한국 피겨스케이팅 레전드 김연아의 근황을 다룬 기사가 한때 1위에 오르며 댓글 논쟁으로 번졌다. 개인의 사진을 소개한 기사였지만, 반응은 인물 자체보다 일본 스포츠 미디어의 소비 방식과 과거 올림픽을 둘러싼 기억으로 향했다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'43명 사망' 스페인 열차 기관사, 사고 당시 충돌 인지 못해",
+        "time": "2026-01-22T16:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260122n29379",
+        "summary": "적어도 43명이 숨진 스페인 고속열차 충돌 사건 당시 탈선한 열차의 기관사는 한동안 충돌 피해 자체를 인식하지 못하고 있었다고 텔레그래프가 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "캄보디아 천즈 체포 뒤 범죄단지 인력 대탈출",
+        "time": "2026-01-22T16:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260122n29374",
+        "summary": "캄보디아가 천즈 프린스그룹 회장을 체포해 중국으로 송환하는 등 대대적인 단속에 나서면서 범죄단지에서 일하던 인력이 대규모로 탈출하고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'ICE 피살' 미 여성 사설 부검 결과…머리 관통상 등 최소 3곳 총격",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149631_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29248",
+        "summary": "미국 미네소타주에서 이민단속 요원에게 사살된 미국인 여성이 최소 3발의 총격을 받은 것으로 조사됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"트럼프, 연내 쿠바 정권 교체 목표로 은밀히 작업 중\"",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149633_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29278",
+        "summary": "미국 도널드 트럼프 행정부가 니콜라스 마두로 베네수엘라 대통령 축출에 성공한 기세를 몰아 연내 쿠바 공산 정권을 교체하겠다는 목표를 세우고 본격적인 작업에 착수했다고 미 일간 월스트리트저널(WSJ)이 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "그린란드 말하려다 아이슬란드…트럼프 연설 실수에 논란",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0000941163_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29261",
+        "summary": "백악관 \"실수 아냐…그린란드는 얼음 덩어리\"",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "중국, 4년만 캐나다 소고기 수입 재개…\"加총리 방중 효과\"",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20250707_0020878905_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29229",
+        "summary": "캐나다 농업장관 \"내주 첫 선적\"\n중국 측 공식 확인은 아직",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"트럼프 말은 한마디도 못 믿어\"…싸늘한 그린란드 주민들",
+        "time": "2026-01-22T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202148364_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29273",
+        "summary": "도널드 트럼프 미국 대통령이 그린란드 병합을 위한 군사 행동을 고려하지 않고 북대서양조약기구(NATO·나토)와 '합의'했다고 발표했지만, 정작 그린란드인들은 의구심을 드러내고 있다고 AFP통신이 보도했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "트럼프-나토 무슨 합의했나 \"주권은 덴마크, 美 군사기지 확대\"",
+        "time": "2026-01-22T16:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012214192537835_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29224",
+        "summary": "도널드 트럼프 미국 대통령과 북대서양조약기구(NATO·나토)가 그린란드에 관한 덴마크의 주권을 존중하되 그린란드 내 자원개발·군사활동 등에 미국의 영향력을 더욱 확대할 것으로 전해졌다. 22일 악시오스, 뉴욕타임스(NYT) 등을 종합하면 트럼프 대통령과 마르크 뤼터 나토 사무총장은 세계경제포럼(WEF)이 열린 스위스 다보스에서 만나 이같이 논의했다. 이를 통해 양측이 마련한 '합의 틀'(프레임워크)에 이런 내용이 담겼다는 분석이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "美스텔스구축함 줌월트, 개량 후 재출항…\"극초음속미사일 장착\"",
+        "time": "2026-01-22T16:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/22/7710847_high.jpg",
+        "url": "https://news.nate.com/view/20260122n29026",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "북극서 세력 확대하는 중러…군기지 66개중 절반이 러시아",
+        "time": "2026-01-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/22/AKR20260122128700009_03_i.jpg",
+        "url": "https://news.nate.com/view/20260122n29122",
+        "summary": "중국, 자국을 '근북극 국가'로 규정",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[자막뉴스] \"트럼프도 하는데 왜 우린 안 돼?\"…\"영토 뺏길라\" '식겁'한 노르웨이",
+        "time": "2026-01-22T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/22/202149619_700.jpg",
+        "url": "https://news.nate.com/view/20260122n29088",
+        "summary": "노르웨이가 자국이 주권을 행사하고 있는 북극해 스발바르 군도에 대한 경계 강화에 나섰습니다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "삿포로 맛집도 네이버로 예약…일본 최대 음식점 정보 플랫폼 '타베로그'와 연계 강화",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/22/news-p.v1.20260122.07985fe9e2034a998771f6680818910a_P1.png",
+        "url": "https://news.nate.com/view/20260122n29918",
+        "summary": "네이버 플레이스를 통한 일본 현지 맛집 탐색과 예약이 한층 쉬워진다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "오픈AI는 이어폰·애플은 핀…형태 드러나는 AI 디바이스",
+        "time": "2026-01-22T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/22/01.43046866.1.jpg",
+        "url": "https://news.nate.com/view/20260122n29864",
+        "summary": "오픈AI가 올 하반기 회사의 첫 번째 하드웨어 기기로 AI 이어폰을 출시한다. 세계 최대 IT 기기 회사인 애플은 ‘AI 핀’ 개발에 착수하면서 스마트폰·스마트 워치를 뛰어넘는 고도화한 웨어러블 기기 시장을 겨냥하고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "라이엇게임즈, TFT 신규 콘텐츠 '부활: 야수의 축제' 출시",
+        "time": "2026-01-22T16:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/22/017a29cb0d4e5e.jpg",
+        "url": "https://news.nate.com/view/20260122n29816",
+        "summary": "과거 콘텐츠 재해석…'선택받은 자' 등 고유 시스템 제공",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "[AI 기본법 시행 Q&A] AI로 만든 영상 유튜브에 올리면 불법? 딥페이크 여부 판별은?",
+        "time": "2026-01-22T16:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/22/561bfa73c70bb7.jpg",
+        "url": "https://news.nate.com/view/20260122n29934",
+        "summary": "AI 영상 올리면? 챗GPT로 과제는...'단순 이용자'는 책임 없어\n딥페이크인지 어떻게 구분?…AI영상·음성에 ‘워터마크’ 확인해야\nAPI 활용해서 챗봇 만들면?…표시 의무는 '최종 서비스 제공자'에",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "유튜브 \"저품질·반복형 AI 콘텐츠 확산 방지 노력\"",
+        "time": "2026-01-22T16:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/22/24ac0dc7d3fcee.jpg",
+        "url": "https://news.nate.com/view/20260122n30200",
+        "summary": "22일 닐 모한 최고경영자(CEO) 명의로 올해 최우선 과제 4가지 제시",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI 기본법 세계 첫 시행",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0021136020_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29517",
+        "summary": "[서울=뉴시스] 조성우 기자 = AI 기본법 시행 첫날인 22일 서울 서울 송파구 한국인공지능·소프트웨어산업협회 출입구에 인공지능기본법 지원데스크 현판이 걸려있다. 2026.01.22. xconfind@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI 기본법 세계 첫 시행",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/22/NISI20260122_0021136019_web.jpg",
+        "url": "https://news.nate.com/view/20260122n29524",
+        "summary": "[서울=뉴시스] 조성우 기자 = AI 기본법 시행 첫날인 22일 서울 서울 송파구 한국인공지능·소프트웨어산업협회 출입구에 인공지능기본법 지원데스크 현판이 걸려있다. 2026.01.22. xconfind@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "KAIST, 위치만 바꿨다…치매 치료 새 전략",
+        "time": "2026-01-22T16:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/22/news_1769067234_1601578_m_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29667",
+        "summary": "성분 그대로…구조 배치만 바꿔",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "\"AI기본법, 우리 회사에 영향 있나요?\"…지원데스크에 물어보세요",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/22/news-p.v1.20260122.3db832ae966044ea8d5f33f273906938_P1.png",
+        "url": "https://news.nate.com/view/20260122n29514",
+        "summary": "22일 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(AI기본법)이 본격 시행된 가운데 기업들의 법안 적용을 지원하는 전담 창구가 마련됐다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "헷갈리는 'AI기본법' 기업 지원데스크, 오늘부터 운영 시작",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/22/PS26012201090.jpg",
+        "url": "https://news.nate.com/view/20260122n29489",
+        "summary": "<font color=\"gray\"><b>- 법 시행 맞춰 중소·스타트업 대상 법률·기술 상담 지원</b></font>\n<font color=\"gray\"><b>- 온라인·전화 상담 모두 가능</b></font>\n<font color=\"gray\"><b>- 기업 맞춤형 상담, 72시간 내 신속 회신, 상담 내용 비공개</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "아이티센씨티에스·세타온, AI 인프라 최적화 사업 맞손",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/22/news-p.v1.20260122.5b52f67c08c84349bb1d693741db66af_P1.jpg",
+        "url": "https://news.nate.com/view/20260122n29492",
+        "summary": "인공지능(AI) 인프라 전문기업 아이티센씨티에스는 AI 동적 제어과 데이터 최적화 원천 기술 기업 세타온과 ‘차세대 AI 인프라 구축 및 운영 최적화 기술 사업화’를 위한 업무협약(MOU)을 체결했다고 22일 밝혔다. 양사는 이번 협력을 통해 급격한 AI 모델 대형화로 발생한 전력 소모와 비용 상승 문제를 해결하고, 지능형 인프라 시장의 표준을 제시한다는 계획이다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "과기정통부, 'AI기본법 지원데스크' 열었다…\"현장 안착 지원\"",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/22/202601221150377488_l.png",
+        "url": "https://news.nate.com/view/20260122n29487",
+        "summary": "[파이낸셜뉴스] 인공지능(AI) 산업 전반에 적용되는 ‘AI기본법’이 22일부터 시행되면서 정부가 기업들의 현장 혼란을 줄이기 위한 전담 지원 창구를 공식 가동했다. 법 도입에 따라 ‘해석·상담·가이드’를 제공하는 실무 창구를 열어 산업계 불확실성을 최소화하겠다는 취지다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "과기정통부, AI기본법 지원데스크 개소식",
+        "time": "2026-01-22T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/22/news_1769066580_1601214_m_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29497",
+        "summary": "법 컨설팅, 기술자문 등 기업 밀착 지원",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "과기정통부 'AI기본법 지원데스크' 개소…\"산업계 애로사항 듣겠다\"",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012209061045372_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29476",
+        "summary": "과학기술정보통신부(이하 과기정통부)가 22일 '인공지능 발전과 신뢰 기반 조성 등에 관한 기본법'(이하 AI기본법) 시행과 함께 관련 업계 애로사항을 해소하는 전문 상담소 운영도 시작한다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "AI기본법 첫날부터 '현장 지원'…기업 상담데스크 출범",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/22/ae_1769067005311_133241_0.jpg",
+        "url": "https://news.nate.com/view/20260122n29429",
+        "summary": "과기정통부, 법 시행 혼선 최소화 나서\n법률·기술 상담 비공개 제공, 사례집도 배포",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "특구재단, 글로벌 PoC 지원…특구기업 북미 투자유치 견인",
+        "time": "2026-01-22T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/22/news_1769066922_1601573_m_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29421",
+        "summary": "해외 투자자 연계로 100만 캐나다 달러 투자협약",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "기후변화로 북극해 이동 생물, '정착 쉽지 않네' [지금은 기후위기]",
+        "time": "2026-01-22T16:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/22/fc125695b56328.jpg",
+        "url": "https://news.nate.com/view/20260122n29364",
+        "summary": "기후변화에 따른 생물 다양성 훼손 심각",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "네이버에서 신주쿠 맛집 예약…AI 도입으로 검색 클릭 건수 2배↑",
+        "time": "2026-01-22T16:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/22/2026012215380151866_1.jpg",
+        "url": "https://news.nate.com/view/20260122n29168",
+        "summary": "네이버(NAVER)가 일본 최대 규모 음식점 정보 플랫폼 '타베로그'의 데이터를 기반으로 일본 현지에서 예약할 수 있는 맛집을 한눈에 모아볼 수 있는 '맛집예약' 검색 필터를 도입했다고 22일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 22일 목요일"
+      },
+      {
+        "title": "'전보부터 공중전화·삐삐까지'…K통신 역사, 광화문서 만난다",
+        "time": "2026-01-22T16:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/22/news-p.v1.20260122.3acd20ffa5cf4c7aab46fdc56412e5a8_P1.jpeg",
+        "url": "https://news.nate.com/view/20260122n29410",
+        "summary": "“한국 최초의 전화기 ‘덕률풍’입니다. 고종 황제가 사형을 앞두고 있던 김구 선생을 살리기 위해 인천교도소에 연락할 때 사용한 전화기죠.”",
         "source": "nate",
         "date": "2026년 01월 22일 목요일"
       }
