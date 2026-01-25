@@ -657,6 +657,30 @@
         "url": "https://www.fnnews.com/news/202601251912195941",
         "source": "Fn",
         "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "문재인, 이해찬 별세에 “오랜 동지, 소중히 기억”",
+        "time": "2026-01-25T20:04:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601252002558117",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "보수야권도 이해찬 애도..“정치 중심서 소임 다해”",
+        "time": "2026-01-25T19:53:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251951310520",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경찰, 울산 태화강 물억새 화재 방화 50대 긴급체포",
+        "time": "2026-01-25T20:02:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251943410398",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
       }
     ]
   },
@@ -1756,6 +1780,69 @@
         "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125045500098_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260125045500098",
         "summary": "수도 누크 한때 전면 '블랙아웃'…\"강풍 탓\"",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이해찬 별세에 야권도 잇단 애도…\"정치사에 남을 것\"",
+        "time": "2026-01-25T20:06:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/01/25/PYH2026012506310001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125045200001",
+        "summary": "국힘 \"정치 중심에서 오랜 시간 보낸 분\"…이준석 \"정치 현장서 소임 다해\"",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "재야 거쳐 정계 40年…'민주 진영 거목' 정치권 인맥 다수 포진",
+        "time": "2026-01-25T19:58:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/01/23/PYH2026012316070001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125039900001",
+        "summary": "조정식·김태년·윤호중 등 원내 다수…이화영 등 원외 인사도",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이해찬 前총리 시신 27일 국내로 운구…서울대병원에 빈소",
+        "time": "2026-01-25T19:55:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/01/25/PYH2026012506370001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125047700504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "올해 세 차례 아프리카돼지열병 발생…중수본 \"방역관리 강화\"",
+        "time": "2026-01-25T20:08:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/01/17/PYH2026011701090006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125048700030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "태화강 물억새 군락지 방화범 하루 만에 경찰에 검거",
+        "time": "2026-01-25T20:04:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/01/25/PYH2026012504910005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125048600057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[날씨] 아침 최저 -15도 한파 계속…건조하고 바람 세 불조심",
+        "time": "2026-01-25T20:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/01/21/PYH2026012111380006100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125041600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "광주전남 행정통합 명칭 '광주전남특별시'…주청사는 전남도청",
+        "time": "2026-01-25T19:44:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2020/09/15/09/PCM20200915000009054_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125047500054",
+        "summary": "광주시·전남도, 시도교육감, 지역 국회의원 잠정 합의안 도출…27일 확정",
         "source": "yna",
         "date": "2026년 01월 25일 일요일"
       }
@@ -5292,6 +5379,204 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/yonhap/20260125194049890cmjy.jpg",
         "url": "https://v.daum.net/v/20260125194049643",
         "summary": "수도 누크 한때 전면 '블랙아웃'…\"강풍 탓\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"재연장 기대는 오산\" 이재명 대통령 발언에‥주말 사이 8천만 원 '뚝'",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/imbc/20260125202512405hvtg.jpg",
+        "url": "https://v.daum.net/v/20260125201315141",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "김민석·밴스 '쿠팡 회담'에…野 \"경솔\" vs 與 \"당당\"",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/pressian/20260125202325992tsff.jpg",
+        "url": "https://v.daum.net/v/20260125202324273",
+        "summary": "野 \"국제 분쟁 가능성 키워\"…與 \"외교적 오해 최소화한 것\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "노무현·문재인 동지이자 李 멘토…'민주진영 대부' 이해찬 떠났다",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/ked/20260125195845500okgl.jpg",
+        "url": "https://v.daum.net/v/20260125195844907",
+        "summary": "이해찬 前총리 베트남 출장 중 별세…향년 73세재야운동권 1세대…7선 의원 대통령 4명 '킹 메이커' 역할 교육장관·총리·당 대표 등 맡아청와대·여야 한목소리로 애도내일 서울대병원에 안치 예정",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "미국 새 국방전략 “한국이 북한 억제 1차적 책임”",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hani/20260125195111290xmcn.jpg",
+        "url": "https://v.daum.net/v/20260125195109794",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이해찬 前총리, 27일 국내로 운구…국가장 여부 검토(종합)",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/Edaily/20260125201846010zuaa.jpg",
+        "url": "https://v.daum.net/v/20260125200444035",
+        "summary": "김영배 민주당 의원 페이스북에 알려26일밤 베트남 떠나 인천공항 도착빈소 서울대병원 장례식장",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이 대통령 “다주택자 비정상적 버티기가 이익 돼선 안 돼”",
+        "time": "2026-01-25T11:27:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/khan/20260125202546350niwi.jpg",
+        "url": "https://v.daum.net/v/20260125202545308",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "쿠바 정권교체 노리는 美, 원유 수입 막을 ‘해상 봉쇄’ 검토",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/donga/20260125201227847clvo.jpg",
+        "url": "https://v.daum.net/v/20260125201226125",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프 ‘그린란드 야심’…유럽 극우, MAGA와 거리두기",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/chosunbiz/20260125201240249zdxh.jpg",
+        "url": "https://v.daum.net/v/20260125201238130",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"지명 철회 결정타\" 꼽힌 의혹들…이 대통령 직접 나선 이유",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/sbsi/20260125200615197bczu.jpg",
+        "url": "https://v.daum.net/v/20260125200613060",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "시진핑, 軍서열 2위 장유샤 숙청…당 이어 군대도 완전 장악",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/donga/20260125200827569rsxl.jpg",
+        "url": "https://v.daum.net/v/20260125200825081",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'시진핑 실각설' 의혹 중국군 2인자 실각…수천 명이 떤다",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/mbn/20260125200907267cibg.jpg",
+        "url": "https://v.daum.net/v/20260125200906089",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "베트남 現 국가주석·총리 퇴진… 또럼 '2기 지도부' 주목",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/fnnewsi/20260125195704437urls.jpg",
+        "url": "https://v.daum.net/v/20260125180619916",
+        "summary": "권력 빅4 재편… 4월 인선 윤곽럼 서기장, 국가주석 겸직 촉각",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "재즈로 전하는 한국의 소리…독일 해금 연주자 고수정 씨",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/YTN/20260125200414598tnuv.jpg",
+        "url": "https://v.daum.net/v/20260125200413026",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "미 전역에 극강 한파·눈폭풍…하늘길 막혀",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/551715-lrO9v1s/20260125201802136jmnz.png",
+        "url": "https://v.daum.net/v/20260125201754203",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "미얀마 '반쪽 총선' 종료…친군부 정당 압승 '정권 연장'",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/nocut/20260125200002232xtgn.jpg",
+        "url": "https://v.daum.net/v/20260125200000921",
+        "summary": "330개 행정구역 중 군부 점령지역 61곳에서만 투표 실시이달 말 최종결과 발표 예정…군정 수장, 대통령 선출될 듯미얀마 군부, 부정선거 의혹 제기하며 정권 찬탈…5년째 내전 중",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"이란 정권, 숨진 시위대 순교자로 둔갑…시신 몸값 요구도\"",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/yonhap/20260125201728072iqpc.jpg",
+        "url": "https://v.daum.net/v/20260125201727195",
+        "summary": "유족에 '보안군 소속' 서명 압박…유족 경제력 따라 시신 반환비 책정\"사망자 축소·시위자 처형 토대 마련 시도\"…유족의 정권 복종 여부도 시험",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, 캐나다 총리 '주지사'로 폄하하며 “100% 관세 폭탄” 으름장",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/imbc/20260125202215805zvwz.jpg",
+        "url": "https://v.daum.net/v/20260125202215253",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"韓고유 '7번째 맛'으로 뉴욕 넘어 세계화\"",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/mk/20260125200014241jmug.jpg",
+        "url": "https://v.daum.net/v/20260125180613908",
+        "summary": "NYT가 극찬한 돼지곰탕 옥동식 셰프美평론가 \"시원한 맛\" 언급한국인만 아는 웰빙감 통해",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "김정은 딸에게 손댄 장면 그대로 방송…북한 체제의 금기 논쟁 [핫이슈]",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/seoul/20260125201945280llyr.jpg",
+        "url": "https://v.daum.net/v/20260125201942221",
+        "summary": "주애 신체 접촉 장면, 왜 문제 되나전문가 “사후 영상 검열이 관건”",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "2살 아기 성폭행 영상 찍은 '6.5만' 인플루언서…미국 '들썩'",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/moneytoday/20260125201526483gylt.jpg",
+        "url": "https://v.daum.net/v/20260125201524166",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "미국, 또 미니애폴리스 시민 사살했다",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/khan/20260125201619558usul.jpg",
+        "url": "https://v.daum.net/v/20260125201618178",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "“한국, 제한적 지원해도 북 억제 충분”…트럼프 정부 새 국방전략 공개",
+        "time": "2026-01-25T11:26:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/khan/20260125201744062doqk.jpg",
+        "url": "https://v.daum.net/v/20260125201742198",
+        "summary": "“미 이익 반하는 국가엔 힘 행사”",
         "source": "daum",
         "date": "2026년 01월 25일 일요일"
       }
