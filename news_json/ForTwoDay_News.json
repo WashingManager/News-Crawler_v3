@@ -177,6 +177,78 @@
         "url": "https://www.fnnews.com/news/202601251255040947",
         "source": "Fn",
         "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "우원식, 장동혁 병문안",
+        "time": "2026-01-25T14:33:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251432107528",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'소비쿠폰에도' 자영업 5년만 최대 감소폭…60대만 증가",
+        "time": "2026-01-25T14:06:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251337351286",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "WHO vs 美 보건부…코로나19 책임 두고 정면충돌",
+        "time": "2026-01-25T14:16:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251325096711",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "韓고배당 ETF 순자산 5조 돌파..차별화가 수익률 갈랐다",
+        "time": "2026-01-25T14:21:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251314522911",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "국토부, 9기 하자심사·분쟁조정위원 22명 공모",
+        "time": "2026-01-25T14:33:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251306185990",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령, 이혜훈 지명 철회…\"국민 눈높이 부합하지 못해\"",
+        "time": "2026-01-25T14:17:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251414565630",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, 캐나다 중국과 무역합의 보면 100% 관세 위협 경고",
+        "time": "2026-01-25T14:08:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251153430158",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 靑 \"이혜훈, 기획처 장관으로 국민 눈높이 부합 못해″",
+        "time": "2026-01-25T14:10:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251409378938",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 李대통령, 이혜훈 기획예산처 장관 후보자 지명 철회키로",
+        "time": "2026-01-25T14:03:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601251402089619",
+        "source": "Fn",
+        "date": "2026년 01월 25일 일요일"
       }
     ]
   },
@@ -724,6 +796,87 @@
         "img": "https://img7.yna.co.kr/photo/ap/2026/01/25/PAP20260125076001009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260125024800009",
         "summary": "재향군인병원 근무…\"돌보던 참전용사들 진심으로 아껴\"",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 靑 \"대통합 위한 李대통령의 숙고와 노력 계속될 것\"",
+        "time": "2026-01-25T14:03:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/01/25/PYH2026012503800001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125027800001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 靑 \"이혜훈, 기획예산처 장관으로 국민 눈높이 부합 못해\"",
+        "time": "2026-01-25T14:03:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/23/PYH2026012307920001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125027700001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 李대통령, 이혜훈 지명 철회키로",
+        "time": "2026-01-25T14:01:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/01/23/PYH2026012307540001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125027500001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 경주 산내면 야산에서 불…당국 \"진화 중\"",
+        "time": "2026-01-25T14:16:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125028600053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125028600053",
+        "summary": "구미 야산서도 산불…대구·경북 대부분 지역 건조특보",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "민주당 전북도당 \"조국혁신당의 가짜뉴스 유포, 깊은 유감\"",
+        "time": "2026-01-25T14:16:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/12/17/20/PCM20241217000220990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125028500055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "광주 KS병원에 감염병 긴급 치료병상 개소",
+        "time": "2026-01-25T13:56:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125027300054_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125027300054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산서 불…헬기 12대·인력 140명 투입(종합)",
+        "time": "2026-01-25T13:50:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125026851053_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125026851053",
+        "summary": "\"양봉장 화재 비화로 발생 추정\"",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산에서 불…당국 \"진화 중\"",
+        "time": "2026-01-25T13:37:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125026800053_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125026800053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[쇼츠] '탕 타다당' 5초만에 10발…美이민단속요원 총격에 또 사망",
+        "time": "2026-01-25T14:00:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125027400704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260125027400704",
+        "summary": "#shorts",
         "source": "yna",
         "date": "2026년 01월 25일 일요일"
       }
@@ -1801,6 +1954,267 @@
         "time": "2026-01-25T04:57:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/fnnewsi/20260125133046497fjcx.jpg",
         "url": "https://v.daum.net/v/20260125133046911",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "민주당 \"합당에 지분 논의 없을 것…1인1표제 압도적 찬성 확인\"",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/dailian/20260125142428541gciy.jpg",
+        "url": "https://v.daum.net/v/20260125142426995",
+        "summary": "\"조국혁신당, 與와 잘 섞일 것\"\"지금 논의해야 지선 함께 가\"\"'당명 유지'해야 한다고 생각\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "배민, '로드러너' 확대 두고 노사갈등 심화",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/sbscnbc/20260125140906103schn.jpg",
+        "url": "https://v.daum.net/v/20260125140904658",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[권순욱 칼럼] 윤석열의 ‘계몽령’, 엄벌이 필요한 이유",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/dt/20260125143417689znji.jpg",
+        "url": "https://v.daum.net/v/20260125143415191",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "대구권 사립대 등록금 논의 진통… \"인상 불가피\" 공감대",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/551746-KJTfZ0q/20260125142108022rydj.jpg",
+        "url": "https://v.daum.net/v/20260125142106932",
+        "summary": "등록금 인상안 잇단 논의… 학생 설득 작업 이어져\"AI 인프라 투자하고 교원 이탈 막으려면 등록금 현실화 반드시 필요\"사총협, 등록금 규제 헌법소원 검토… 3월 4일 최종 결정",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 RISE U 늘봄학교, 대학 연계 초등 돌봄 교육 현장 안착",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/551748-p1FC4NB/20260125141627023vlgb.jpg",
+        "url": "https://v.daum.net/v/20260125141625834",
+        "summary": "21개 대학 참여해 163개 초등학교 운영…63억 투입 성과 공유AI·인성 결합 프로그램부터 산불 피해·북부권까지 전 지역 확산",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "민주당 “조국혁신당과 합당 논의 두달 내 정리해야…DNA 잘 섞일 것”",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hani/20260125143107085ypiy.jpg",
+        "url": "https://v.daum.net/v/20260125143105109",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "악세사리·볼펜·키링 직접 꾸며요…동대문부자재상가 북적북적",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/mk/20260125143301696zgby.png",
+        "url": "https://v.daum.net/v/20260125143300161",
+        "summary": "파츠 고르고, 꾸미는 재미에 푹가성비·개성 다 잡은 ‘볼꾸’열풍동대문부자재상가 방문객 늘어",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[말의 도시 영천]경북 영천경마공원 미리 가보니...세계 수준 경주 준비 실감",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/551746-KJTfZ0q/20260125142035191ocwx.jpg",
+        "url": "https://v.daum.net/v/20260125142033921",
+        "summary": "경마 없는 날도 찾는 복합 여가시설, 지역 상생 플랫폼 성공 모델",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "북미판 테슬라 오토파일럿 기본 제공 중단…월 14만원 FSD 구독료 내야",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hani/20260125135627514sqnk.jpg",
+        "url": "https://v.daum.net/v/20260125135625348",
+        "summary": "머스크 “감독형 FSD 구독료 오를 것”한국판 기본 옵션서 빠질 가능성도",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李 “정부 이기는 시장 없다” 비웃듯…강남 다주택자들은 증여러시",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/mk/20260125143002438dprc.png",
+        "url": "https://v.daum.net/v/20260125142104930",
+        "summary": "정부 양도세 중과 부활 카드에주택 매도 대신 증여로 선회해지난달 증여등기 1000건 넘어강남3구에선 한달새 2배 폭증",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'韓 재래식 책임' 강조한 美국방전략…\"주한미군 임무 확대 주목\"",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/NEWS1/20260125141704442sotw.jpg",
+        "url": "https://v.daum.net/v/20260125141703844",
+        "summary": "전문가들 \"한미, '보호·의존→ 비용·책임 분담' 관계로 이동\"\"주한미군, 北 단일 대응 아닌 인태전략 기동 전력으로 재편\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[K스토리] 국경을 지나 삶으로…모국 품에 안긴 고려인들",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/yonhap/20260125143629037ampz.jpg",
+        "url": "https://v.daum.net/v/20260125143628259",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "조용한 '코인시장'…태풍의 눈[머니무브③]",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/newsis/20260125140128903qwyr.jpg",
+        "url": "https://v.daum.net/v/20260125140128451",
+        "summary": "랠리 기대 꺾은 그린란드 이슈…가상자산 시장은 여전히 박스권전문가 \"조정은 끝이 아닌 숨 고르기…새로운 테마 기다리는 비트코인\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "AI 타고 2년간 840%↑…HD현대일렉트릭, 더 갈까[급등주 지금은]",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/newsis/20260125140126577ygfd.jpg",
+        "url": "https://v.daum.net/v/20260125140126447",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "가뜩이나 대만한테 잡혔는데…“한국, 당분간 1%대 저성장”",
+        "time": "2026-01-25T05:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/mk/20260125142701615frqh.jpg",
+        "url": "https://v.daum.net/v/20260125142700040",
+        "summary": "경제학과 교수 54% 답변올해 성장률은 1.8% 전망",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "ICE 총격 사망 미국인, 참전용사 돌본 간호사였다",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/551725-bDDlA7g/20260125141937851oqot.png",
+        "url": "https://v.daum.net/v/20260125141936896",
+        "summary": "이민단속 시위 현장서 여성 보호하다 피격 총격 당시 비무장 논란에 진상 규명 요구",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, 캐나다에 또 관세 위협… 심기 거스르자 중국 핑계",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hankooki/20260125143245931snji.jpg",
+        "url": "https://v.daum.net/v/20260125143244150",
+        "summary": "“협정 땐 100%”… 총리엔 ‘주지사’ 호칭비판에 보복… ‘서반구 패권주의’도 작용",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "러 \"우크라 내 서방군 주둔 불가\"...종전 협상 속 강경 원칙 재확인",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/552779-26fvic8/20260125143026408qmnl.jpg",
+        "url": "https://v.daum.net/v/20260125143024096",
+        "summary": "3자 회담 뒤에도 입장 고수...\"외국 개입 간주, 정당한 군사표적\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[종합] 중국군 최고위직 숙청…軍 서열 2위 장유샤 등 기율위반 조사",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/552779-26fvic8/20260125142914905hobq.jpg",
+        "url": "https://v.daum.net/v/20260125142913072",
+        "summary": "중앙군사위 정원 7명 중 시진핑 포함 2명만 잔류전문가 \"전례 없는 조치…최고 지휘부 완전한 소멸 의미\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"트럼프 못 믿겠다\"…독일, 美 금고 속 '243조원 金' 회수론 확산",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/NEWS1/20260125143429205cedx.jpg",
+        "url": "https://v.daum.net/v/20260125143429204",
+        "summary": "\"트럼프의 예측 불가능한 외교 정책 및 대서양 관계의 변화에 대한 우려에서 비롯\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "수뇌 6명 중 5명 숙청…시진핑 군 통제 강화·전력 공백 가능성",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/newsy/20260125140904629leki.jpg",
+        "url": "https://v.daum.net/v/20260125140904657",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이스라엘, 하마스 맞선 가자지구 내 무장세력 몰래 지원",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/kbs/20260125141526469qiux.jpg",
+        "url": "https://v.daum.net/v/20260125141245775",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "중국군 서열 2위 전격 실각…\"시진핑 집중체제 훼손\"",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/nocut/20260125141802680xtso.jpg",
+        "url": "https://v.daum.net/v/20260125141800858",
+        "summary": "시 주석, 3연임 이후 군사위 7명 중 5명 낙마부패 보다는 파벌형성 등 정치적 문제 가능성",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프 “중국 손잡으면 100% 관세”…캐나다 ‘그린란드 발언’ 이후 돌변",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hani/20260125141109424dbfu.jpg",
+        "url": "https://v.daum.net/v/20260125141108725",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "쿠팡 10년 돈줄·김범석 동문…미국 정부에 개입 요청한 투자사들",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/hani/20260125142621183cpkf.jpg",
+        "url": "https://v.daum.net/v/20260125142619030",
+        "summary": "그린오크스 설립자는 쿠팡의 최장수 사외이사…알티미터 설립자는 김범석 회장 동문으로 알려져",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "WHO vs 美 보건부…코로나19 책임 두고 정면충돌",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/fnnewsi/20260125141819072rtrn.jpg",
+        "url": "https://v.daum.net/v/20260125141818865",
+        "summary": "트럼프 정부, 공중보건위기·중국 정보은폐 지적WHO, 미국 공식 탈퇴에 유감 표하며 \"사실과 다르다\" 항변",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, SNS에 '미네소타 총격사망자' 총기 사진 올리더니 한 말",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/akn/20260125141306074qtso.jpg",
+        "url": "https://v.daum.net/v/20260125141304783",
+        "summary": "\"장전돼 발사준비였다\"며 연방요원 옹호민주당 소속 주지사·시장 향한 질책도",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"ICE 예산 막고 장관 탄핵해야\"…미니애폴리스 총격에 민주 '강력 반발'",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/NEWS1/20260125141427930cyya.jpg",
+        "url": "https://v.daum.net/v/20260125141426799",
+        "summary": "\"민주주의에 먹칠…공포 정치 펼쳐\"\"상원서 국토안보부 예산안 막아야\"",
+        "source": "daum",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "중국 군부 2인자 숙청...'총구권력'도 시진핑 1인 독점",
+        "time": "2026-01-25T05:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/25/YTN/20260125142812881iloa.jpg",
+        "url": "https://v.daum.net/v/20260125142812059",
         "summary": "",
         "source": "daum",
         "date": "2026년 01월 25일 일요일"
@@ -6622,6 +7036,906 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/25/news-p.v1.20260124.ab0f2a013f1e43279d60e7d903492303_P1.png",
         "url": "https://news.nate.com/view/20260125n06387",
         "summary": "- KIST, 전고체전지용 비정질 고체전해질 최적 조성·밀도 기원 밝혀",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 李대통령, 이혜훈 장관 후보자 지명 철회",
+        "time": "2026-01-25T14:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/me/2026/01/25/news-p.v1.20260125.dd97650c544e4dcc8e5c2071ef6e7686_P1.png",
+        "url": "https://news.nate.com/view/20260125n07579",
+        "summary": "[속보] 李, 이혜훈 기획예산처 장관 후보자 지명 철회",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "최윤범 고려아연 회장, 다보스포럼서 글로벌 핵심광물 리스크 진단…\"통합 공급망 접근 필요\"",
+        "time": "2026-01-25T14:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ee/2026/01/25/20260125135801156949.jpeg",
+        "url": "https://news.nate.com/view/20260125n07798",
+        "summary": "10년 이상 장기 수요 기반 파트너십 중요성 언급\n특정 지역 집중된 글로벌 공급망 구조에 경고",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "공정위, 갤럭시 S25 허위 예약 광고한 KT에 과태료 500만원",
+        "time": "2026-01-25T14:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/25/news-p.v1.20260125.3a173dd3126f4ca18691ee57a9088599_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n06514",
+        "summary": "갤럭시 S25 시리즈 예약 물량이 제한돼 있었는데도 모든 소비자가 제품을 구매할 수 있는 것처럼 안내한 KT가 과태료 처분을 받았다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"다 살 수 있는 줄 알았는데\"…공정위, KT 갤럭시 S25 '기만 광고' 제재",
+        "time": "2026-01-25T14:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2026/01/25/2026012501001936900116571.jpg",
+        "url": "https://news.nate.com/view/20260125n07717",
+        "summary": "공정위, KT에 시정명령·과태료 500만원 부과",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토]李대통령 \"양도세 중과 유예 재연장 오산\" 재차 강조",
+        "time": "2026-01-25T14:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/25/PS26012500239.jpg",
+        "url": "https://news.nate.com/view/20260125n07687",
+        "summary": "[이데일리 방인권 기자]  이재명 대통령이 25일 다주택자 양도소득세 중과 유예 종료와 관련해 \"'재연장하는 법 개정을 또 하겠지'라고 생각했다면 그게 오산\"이라고 자신의 엑스(X·구 트위터)에 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, 캐나다 중국과 무역합의 보면 100% 관세 위협 경고",
+        "time": "2026-01-25T14:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/25/202601250645267343_l.jpg",
+        "url": "https://news.nate.com/view/20260125n07609",
+        "summary": "[파이낸셜뉴스] 도널드 트럼프 미국 대통령이 캐나다가 중국과 무역 합의를 볼 경우 모든 캐나다산 수입품에 100% 관세를 부과할 것이라고 경고했다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 李대통령, 이혜훈 지명 철회키로",
+        "time": "2026-01-25T14:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/25/2601251408212891.jpg",
+        "url": "https://news.nate.com/view/20260125n07614",
+        "summary": "[서울=뉴스핌] 이동훈 기자 = 자세한 뉴스는 곧 전해드리겠습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "BGF리테일, 낙도 등 식품 사막화 지역에 '시니어 이동형 편의점'",
+        "time": "2026-01-25T14:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/25/news-p.v1.20260125.7229bc8a9d93483db2728a523f9d9fa9_P1.jpeg",
+        "url": "https://news.nate.com/view/20260125n07602",
+        "summary": "편의점 CU를 운영하는 BGF리테일은 한국노인인력개발원, 한국부동산원과 함께 시니어 편의점 ‘CU이음가게’를 거점으로 식품 사막화 지역에 ‘이동형 편의점’ 사업을 시작한다고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "무협 \"한국, 로봇 활용 강국이지만 공급망 취약\"",
+        "time": "2026-01-25T14:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/25/2026012513451827073_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07520",
+        "summary": "한국의 로봇 활용 역량은 세계 최고 수준이지만 핵심 소재·부품의 높은 해외 의존도 탓에 공급망 리스크에 취약하다는 분석이 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'소비쿠폰에도' 자영업 5년만 최대 감소폭…60대만 증가",
+        "time": "2026-01-25T14:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/25/202601251114215602_l.jpg",
+        "url": "https://news.nate.com/view/20260125n07567",
+        "summary": "[파이낸셜뉴스] 지난해 자영업자 수 감소폭이 3만명 후반대를 기록했다. 2년 연속 3만명대 감소폭이자, 5년 내 최대 감소폭이다. 연령대별로는 60세 이상을 제외한 나머지 연령대의 자영업 규모가 일제히 감소했다. 정부가 지난해 내수진작을 위해 전 국민 최대 25만원 소비쿠폰과 추가경정예산 카드를 썼음에도 불구하고, 여전히 자영업 경기는 부진에서 빠져 나오지 못하는 모양새다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "조용한 '코인시장'…태풍의 눈[머니무브③]",
+        "time": "2026-01-25T14:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260105_0002033511_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07380",
+        "summary": "랠리 기대 꺾은 그린란드 이슈…가상자산 시장은 여전히 박스권\n전문가 \"조정은 끝이 아닌 숨 고르기…새로운 테마 기다리는 비트코인\"",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 \"양도세 중과 유예 연장 안 해\"…다주택자 '결정의 시간'",
+        "time": "2026-01-25T14:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/25/20260123513386.jpg",
+        "url": "https://news.nate.com/view/20260125n07148",
+        "summary": "이재명 대통령이 다주택자 양도소득세 중과 유예를 연장하지 않겠다는 입장을 밝히면서, 오는 5월 이후 부동산 시장에 다주택자 매물이 나올지에 관심이 쏠리고 있다. 유예 종료 전 양도세 중과를 피하려는 다주택자들의 매도 움직임이 본격화할 수 있다는 관측이 나온다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "美 동력 다진 아스테라시스, 올해 新동력 내수·수출 쌍끌이 예고",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/25/2026012510532280778_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07396",
+        "summary": "아스테라시스가 새해 신규 장비를 앞세워 내수와 수출 동시 공략에 나선다. 특히 나란히 미국 진출을 앞둔 차세대 장비가 핵심 동력으로 꼽힌다. 이를 통해 추가 실적 성장은 물론, 기존 장비 소모품에 치우쳤던 매출 비중 역시 한층 균형을 갖출 수 있을 것으로 보인다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "AI 타고 2년간 840%↑…HD현대일렉트릭, 더 갈까[급등주 지금은]",
+        "time": "2026-01-25T14:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20250922_0001949677_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07375",
+        "summary": "[서울=뉴시스] 박주연 기자 = 2024년 코스피 상승률 1위를 기록했던 HD현대일렉트릭이 이후 1년여 간 두 배 가까이 더 오른 것으로 나타났다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "구미 구평동 야산서 화재…헬기 12대·인력 140명 투입",
+        "time": "2026-01-25T13:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aj/2026/01/25/20260125135416132333.jpg",
+        "url": "https://news.nate.com/view/20260125n07301",
+        "summary": "경상북도 구미시 구평동 한 야산에서 화재가 발생했다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "AI로 양식장 질병 예측…넙치 생존율 22%p 높였다",
+        "time": "2026-01-25T13:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/25/ae_1769316906480_912184_0.png",
+        "url": "https://news.nate.com/view/20260125n07285",
+        "summary": "해수부, 유수식 스마트양식 기술 실증 완료\n에너지 20% 절감·학술誌 게재로 해외 진출 기대",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "농협은행, 구세군 서울후생원 찾아 3억원 상당 행복김치 나눔",
+        "time": "2026-01-25T13:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/25/1326790_1515259_4911.jpg",
+        "url": "https://news.nate.com/view/20260125n07217",
+        "summary": "지난 23일 서울 서대문구 소재 구세군 서울후생원에서 강태영 NH농협은행장(왼쪽 네번째), 김동아 서대문갑국회의원(왼쪽 다섯번째), 김병윤 구세군 사령관(왼쪽 여섯번째) 및참석자들이행복김치 전달식에서 기념촬영을 하고 있다. 사진=농협은행",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 \"양도세 중과 유예 재연장은 오산…5월9일까지 계약하면 적용 검토\"",
+        "time": "2026-01-25T13:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713998_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07171",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 \"양도세 중과 유예 재연장 5월 종료 재확인'",
+        "time": "2026-01-25T13:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713997_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07172",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 '양도세 중과 유예 5월 종료 재확인'",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713996_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07173",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 '양도세 중과 유예 5월 종료 재확인'",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713994_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07175",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 양도세 중과 유예 5월 종료 재확인",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713995_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07174",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 \"양도세 중과 유예 재연장 5월 종료 재확인'",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713993_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07170",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "李대통령 양도세 중과 유예 5월 종료 재확인 속 시장은 잠잠'",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713990_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07167",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "고려아연 최윤범, 다보스서 '핵심광물 통합 공급망' 구축 제안",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/AKR20260125027000003_01_i.jpg",
+        "url": "https://news.nate.com/view/20260125n07151",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"韓 '로봇 활용' 1위 불구, 소재·부품 국산화율 40%대…공급망 취약\"",
+        "time": "2026-01-25T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2026/01/25/cz_1769316245118_66176_0.jpg",
+        "url": "https://news.nate.com/view/20260125n07081",
+        "summary": "한국이 세계 최고 수준의 로봇 활용 역량을 보유하고 있지만, 핵심 소재·부품의 해외 의존도가 높아 공급망 리스트가 취약하다는 분석이 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "최윤범 고려아연 회장 \"핵심광물 공급망, 문제는 '시간'···통합 시스템 구축해야\"",
+        "time": "2026-01-25T13:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/25/20260125134348_2286210_1199_814.jpeg",
+        "url": "https://news.nate.com/view/20260125n07134",
+        "summary": "[이투데이/박민웅 기자]",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마 선언",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7714026_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07921",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마 선언",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7714024_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07929",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마 선언",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7714040_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07927",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마 선언",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7714027_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07926",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마 선언",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7714025_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07928",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"신천지, 코로나때 이만희 구속후 정치개입 본격화\"",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/25/133224867.1.jpg",
+        "url": "https://news.nate.com/view/20260125n07923",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "포천시, ASF 재난안전대책본부 가동…방역팀 현장 투입",
+        "time": "2026-01-25T14:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2026/01/25/2026012513090569116_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07895",
+        "summary": "포천시가 관내 돼지 농가에서 아프리카돼지열병(ASF)이 확진됨에 따라 재난안전대책본부를 즉각 가동하고 추가 확산 차단을 위한 고강도 방역 조치에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "김경 추가 금품 정황…공천 헌금 수사 확대되나",
+        "time": "2026-01-25T14:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/25/867065_1769318322.jpg",
+        "url": "https://news.nate.com/view/20260125n07906",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 경주 산내면 야산에서 불…당국 \"진화 중\"",
+        "time": "2026-01-25T14:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/AKR20260125028600053_01_i.jpg",
+        "url": "https://news.nate.com/view/20260125n07842",
+        "summary": "구미 야산서도 산불…대구·경북 대부분 지역 건조특보",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산서 불…헬기 12대 투입해 진화 중",
+        "time": "2026-01-25T14:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/25/SSC_20260125141623_V.jpg",
+        "url": "https://news.nate.com/view/20260125n07858",
+        "summary": "[서울신문]25일 오후 12시 39분쯤 경북 구미시 구평동 한 야산에서 불이나 당국이 진화작업을 벌이고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산서 불…헬기 12대·인력 140명 투입",
+        "time": "2026-01-25T14:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/25/202150398_700.jpg",
+        "url": "https://news.nate.com/view/20260125n07816",
+        "summary": "오늘(25일) 낮 12시 39분쯤 경북 구미시 구평동 한 야산에서 불이나 당국이 진화작업을 벌이고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 李대통령, 이혜훈 장관 후보자 지명 철회키로",
+        "time": "2026-01-25T14:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ht/2026/01/25/A202601250069_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07495",
+        "summary": "[속보] 李대통령, 이혜훈 장관 후보자 지명 철회",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "NH농협은행, 구세군 서울후생원 찾아 3억원 상당 행복김치 나눔",
+        "time": "2026-01-25T14:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/25/20260125506195.jpg",
+        "url": "https://news.nate.com/view/20260125n07774",
+        "summary": "NH농협은행은 서울 서대문구 소재 구세군 서울 후생원에서 시설 거주 아동·청소년들의 건강한 성장을 돕기 위해 국내산 김치를 전달했다고 23일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "혈액 보릿고개에 '두쫀쿠' 통했다…전북 헌혈 예약률 최대 5배",
+        "time": "2026-01-25T14:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/25/71d873ac-569e-4096-9692-a6ead8c39d1b.jpg",
+        "url": "https://news.nate.com/view/20260125n07753",
+        "summary": "━",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"100도에 멈춘 발걸음\"…붉게 찬 전북 사랑의 온도탑 '눈길'",
+        "time": "2026-01-25T14:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713988_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07261",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "구미 구평동 산불 발생…헬기 12대 투입 진화 중",
+        "time": "2026-01-25T14:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0002047995_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07588",
+        "summary": "[구미=뉴시스] 김정화 기자 = 경북 구미시 구평동 일원에서 산불이 발생해 소방당국이 진화에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "캄보디아 송환 한국 피의자들 영장 실질 심사 시작",
+        "time": "2026-01-25T14:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/25/202601251405357263_t.jpg",
+        "url": "https://news.nate.com/view/20260125n07620",
+        "summary": "캄보디아에서 국내로 압송된 한국 국적 피의자들의 구속영장 실질심사가 법원에서 열리고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "평창송어축제 찾은 방문객들 북적",
+        "time": "2026-01-25T14:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0021138477_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07623",
+        "summary": "[서울=뉴시스] 25일 강원 평창군 오대천 일원에 열린 평창송어축제에 많은 방문객이 몰려 송어 얼음낚시를 즐기고 있다. (사진=평창관광문화재단 제공) 2026.01.25. photo@newsis.com *재판매 및 DB 금지",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "전광훈 빠진 '광화문 예배'…全 \"北에 잡아가려고 해 감옥이 '피난처'\"",
+        "time": "2026-01-25T14:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7699174_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07563",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "평창송어축제 찾은 방문객들 북적",
+        "time": "2026-01-25T14:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0021138476_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07629",
+        "summary": "[서울=뉴시스] 25일 강원 평창군 오대천 일원에 열린 평창송어축제에 많은 방문객이 몰려 송어 얼음낚시를 즐기고 있다. (사진=평창관광문화재단 제공) 2026.01.25. photo@newsis.com *재판매 및 DB 금지",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 상주서 이소가스 폭발…40대 캠핑객 중상 [사건수첩]",
+        "time": "2026-01-25T14:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/25/20260125506051.jpg",
+        "url": "https://news.nate.com/view/20260125n07523",
+        "summary": "25일 0시36분쯤 경북 상주시 낙동면 구잠리의 한 야산 전망테크에서 캠핑용 이소가스가 폭발해 40대가 중상을 입는 사고가 일어났다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[취재석] \"울릉도·독도 지질공원, 세계를 향한 준비는 지금부터다\"",
+        "time": "2026-01-25T14:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/25/202651351769315990.jpg",
+        "url": "https://news.nate.com/view/20260125n07475",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'한국 너무 추워요'",
+        "time": "2026-01-25T14:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012502250001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07441",
+        "summary": "(서울=연합뉴스) 한종찬 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일   서울 명동에서 두꺼운 외투와 방한용품으로 중무장한 외국인 관광객들이 길을 걷고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'숨막히는 한국 추위'",
+        "time": "2026-01-25T14:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012502230001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07447",
+        "summary": "(서울=연합뉴스) 한종찬 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일  서울 명동에서 두꺼운 외투와 방한용품으로 중무장한 외국인 관광객들이 길을 걷고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'한국 너무 추워요'",
+        "time": "2026-01-25T14:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012502210001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07452",
+        "summary": "(서울=연합뉴스) 한종찬 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일  서울 명동에서 두꺼운 외투와 방한용품으로 중무장한 외국인 관광객들이 길을 걷고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "'동장군에 대항하는 방법'",
+        "time": "2026-01-25T14:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012502240001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07446",
+        "summary": "(서울=연합뉴스) 한종찬 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일   서울 명동에서 두꺼운 외투와 방한용품으로 중무장한 외국인 관광객들이 길을 걷고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산서 불···헬기 12대 등 투입해 진화 중",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/25/news-p.v1.20260125.335a7b04ee8c4f88924bb225f5e68dbb_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n07407",
+        "summary": "25일 낮 12시39분쯤 경북 구미시 구평동 한 야산에서 불이 나 산림당국이 진화에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "한파에 북적이는 실내",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012503070001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07420",
+        "summary": "(서울=연합뉴스) 이재희 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일 서울의 한 쇼핑몰에서 시민들이 이동하고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "한파에 북적이는 실내",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012503050001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07421",
+        "summary": "(서울=연합뉴스) 이재희 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일 서울의 한 쇼핑몰에서 시민들이 이동하고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "세종 금강변에서 백골 상태 사람 뼈 발견…경찰 수사",
+        "time": "2026-01-25T14:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/25/AKR20260125140104zVH_01_i.jpg",
+        "url": "https://news.nate.com/view/20260125n07439",
+        "summary": "세종시 금강변에서 백골 상태의 사람 머리뼈가 발견돼 경찰이 수사에 나섰습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "한파에 북적이는 실내",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/PYH2026012503150001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260125n07417",
+        "summary": "(서울=연합뉴스) 이재희 기자 = 영하 10도 안팎의 추위가 기승을 부린 25일 서울의 한 쇼핑몰에서 시민들이 이동하고 있다. 2026.1.25",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "세종시 금강변서 백골 사람 머리 발견…경찰 수사 착수",
+        "time": "2026-01-25T14:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/3540148_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07391",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토]동장군 맹위에 얼어붙은 한강",
+        "time": "2026-01-25T13:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/25/PS26012500230.jpg",
+        "url": "https://news.nate.com/view/20260125n07348",
+        "summary": "[이데일리 방인권 기자] 연일 한파가 이어지고 있는 25일 서울 강서구 방화대교 일대 한강에 유빙이 떠다니고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토]연일 이어진 최강한파…한강에 유빙 '둥둥'",
+        "time": "2026-01-25T14:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/25/PS26012500235.jpg",
+        "url": "https://news.nate.com/view/20260125n07388",
+        "summary": "[이데일리 방인권 기자] 연일 한파가 이어지고 있는 25일 서울 강서구 방화대교 일대 한강에 유빙이 떠다니고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "충남도서관, AI 기반 도서 서비스 본격 확대",
+        "time": "2026-01-25T13:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/25/202621921769316420.jpg",
+        "url": "https://news.nate.com/view/20260125n07346",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "구미 천생산 산불…헬기 12대 투입 진화 중",
+        "time": "2026-01-25T13:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713985_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07309",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "주호영, 대구시장 출마선언 \"대구를 다시 세우겠다\"",
+        "time": "2026-01-25T13:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0002047992_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07321",
+        "summary": "[대구=뉴시스] 정창오 기자=주호영 국회부의장이 25일 오후 대구 동대구역 박정희광장에서 기자회견을 열고 차기 대구시장 출마를 공식 선언하고 있다. 그는 \"대한민국 산업화와 근대화의 상징인 박정희 대통령의 길 위에서 대구를 다시 일으켜 세우겠다\"고 말했다. 2026.01.25 jco@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "AI 기본법 시행…이통 3사, 책임 있는 AI 확보에 매진",
+        "time": "2026-01-25T13:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/25/20260125505910.jpg",
+        "url": "https://news.nate.com/view/20260125n07291",
+        "summary": "최근 인공지능(AI)이 의사 결정 및 실행 과정에 직접 관여하는 영역이 확대되자 산업계에서는 AI 기술 고도화와 함께 안전성과 신뢰성을 확보하는 방안에 대해 고심하고 있다. 이 가운데 시행되는 ‘인공지능 발전과 신뢰 조성 등에 관한 기본법(AI 기본법)’에 발맞춰 국내 이동통신 3사는 책임있는 AI 서비스를 제공하기 위한 내부 규율 강화에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "반도체 클러스터에 대한 소고",
+        "time": "2026-01-25T13:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/25/news-p.v1.20250301.209b76698c7d43c193fbaa3d85eb64c3_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n07302",
+        "summary": "이재석 광주과학기술원 명예교수 · 광주전남미래비전 운영위원장",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산에서 불…당국 \"진화 중\"",
+        "time": "2026-01-25T13:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/AKR20260125026800053_02_i.jpg",
+        "url": "https://news.nate.com/view/20260125n06988",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "경북 구미 야산서 불…헬기 12대·인력 140명 투입(종합)",
+        "time": "2026-01-25T13:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/25/AKR20260125026851053_03_i.jpg",
+        "url": "https://news.nate.com/view/20260125n07231",
+        "summary": "\"양봉장 화재 비화로 발생 추정\"",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "부산지법, 캄보디아 사기 韓조직원들 영장심사 돌입",
+        "time": "2026-01-25T13:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260123_0021137430_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07303",
+        "summary": "[부산=뉴시스]김민지 기자 = 부산지법이 캄보디아에서 조직적인 노쇼 사기 범행에 가담한 혐의로 강제 송환된 조직원들에 대한 구속영장심사에 돌입한다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "광주시, KS병원 감염병 긴급 치료병상 개소",
+        "time": "2026-01-25T13:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/25/news-p.v1.20260125.8acc98b016f14ced8c56c9a4964012ec_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n07250",
+        "summary": "평상시 일반·위기땐 음압격리 전환",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] 캄보디아 송환 73명 중 72명 구속영장 청구…1명은 검찰 반려",
+        "time": "2026-01-25T13:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/25/news_1769316233_1602244_m_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07116",
+        "summary": "데일리안 이정희 기자 (jh9999@dailian.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "검찰, '밀가루 담합' 수사대상 5곳→7곳 확대",
+        "time": "2026-01-25T13:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/25/PS26012500223.jpg",
+        "url": "https://news.nate.com/view/20260125n07131",
+        "summary": "<font color=\"gray\"><b>- 檢 담합 규모 4조원대 파악</b></font>\n<font color=\"gray\"><b>- 제분업체 임직원 구속영장은 '기각'</b></font>\n<font color=\"gray\"><b>- 대통령, 민생교란 범죄 적극 대응 당부</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "광주 KS병원 '감염병 긴급 치료병상' 개소",
+        "time": "2026-01-25T13:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/25/SSC_20260125134428_V.jpg",
+        "url": "https://news.nate.com/view/20260125n07138",
+        "summary": "[서울신문]국가 감염병 대응 역량을 강화하고 지역사회 의료 안전망을 확충하기 위한 ‘감염병 긴급 치료병상’이 광주지역 종합병원에도 구축됐다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "목 디스크 수술 후 처치 없이 퇴근한 의사…환자는 다음날 사망",
+        "time": "2026-01-25T13:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/25/231760ab-1f07-4766-b9f1-7ba3762bb1be.jpg",
+        "url": "https://news.nate.com/view/20260125n07033",
+        "summary": "목 디스크 수술 환자의 사후 처치를 소홀히 해 사망에 이르게 한 혐의를 받는 신경외과 전문의가 벌금형을 선고받았다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "공정위, 美 압박에도 쿠팡 조사 이어져…관련 자료 확보에 주력",
+        "time": "2026-01-25T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/25/202601251026181196_0.jpg",
+        "url": "https://news.nate.com/view/20260125n04080",
+        "summary": "입점업체 인기상품 가로채기·끼워팔기 혐의 등 주목",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[속보] \"나 감옥 보내고 잘 사나 보자\"…20대 스토킹하고 협박한 40대 '징역 2년'",
+        "time": "2026-01-25T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/25/SSC_20260125134242_V.jpg",
+        "url": "https://news.nate.com/view/20260125n07098",
+        "summary": "[서울신문]구속 상태에서 풀려나자마자 스토킹 피해자에게 수십차례 연락하고 협박한 40대가 결국 다시 옥살이하게 됐다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "칠곡군, 건설사업 신속집행 결의·청렴서약식 열어",
+        "time": "2026-01-25T13:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/25/1326788_1515256_3941.jpg",
+        "url": "https://news.nate.com/view/20260125n07052",
+        "summary": "건설사업 신속집행 결의·청렴서약식 모습. 사진=칠곡군 제공",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "박재규 경남대 총장, 남북관계 변화 주제로 특강",
+        "time": "2026-01-25T13:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/25/SSC_20260125133834_V.jpg",
+        "url": "https://news.nate.com/view/20260125n07034",
+        "summary": "[서울신문]경남대학교는 박재규 총장이 지난 22일 행정대학원 통일미래최고위과정 제15기 수강생들을 대상으로 초청 특강을 했다고 25일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "목포해경, 불법조업 중국 국적 어선 두척 나포",
+        "time": "2026-01-25T13:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0002047987_web.jpg",
+        "url": "https://news.nate.com/view/20260125n06987",
+        "summary": "일부 선원 흉기로 검색팀 위협…\"엄정 대응\"\n도주선박 승선 과정에 경찰 추락 병원 이송",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "서울 6일째 한파주의보 발효 중, 꽁꽁 언 한강 [뉴시스Pic]",
+        "time": "2026-01-25T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20260125_0021138446_web.jpg",
+        "url": "https://news.nate.com/view/20260125n06983",
+        "summary": "[서울=뉴시스] 추상철 황준선 박대로 기자 = 한파가 지속되는 가운데 서울시 14개 자치구에서 한파주의보가 발효 중이다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "이 대통령, '다주택자 양도소득세 중과 유예 조치' 재연장 가능성 부인",
+        "time": "2026-01-25T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/25/20260125505714.jpg",
+        "url": "https://news.nate.com/view/20260125n06976",
+        "summary": "이재명 대통령이 오는 5월 9일 종료 예정인 ‘다주택자 양도소득세 중과 유예 조치’ 재연장 가능성을 다시 한 번 부인했다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"中과 협정 체결땐 100% 관세\"…트럼프, 캐나다에 경고장",
+        "time": "2026-01-25T14:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/25/133224663.1.jpg",
+        "url": "https://news.nate.com/view/20260125n07324",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "중국군 서열 2위 전격 실각…\"시진핑 집중체제 훼손\"",
+        "time": "2026-01-25T14:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/25/202601251415357578_0.jpg",
+        "url": "https://news.nate.com/view/20260125n07838",
+        "summary": "시 주석, 3연임 이후 군사위 7명 중 5명 낙마\n부패 보다는 파벌형성 등 정치적 문제 가능성",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프, SNS에 '미네소타 총격사망자' 총기 사진 올리더니 한 말",
+        "time": "2026-01-25T14:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/25/ae_1769317925819_7395_0.jpg",
+        "url": "https://news.nate.com/view/20260125n07722",
+        "summary": "\"장전돼 발사준비였다\"며 연방요원 옹호\n민주당 소속 주지사·시장 향한 질책도",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "WHO vs 美 보건부…코로나19 책임 두고 정면충돌",
+        "time": "2026-01-25T14:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/25/202004210318525508_l.jpg",
+        "url": "https://news.nate.com/view/20260125n07824",
+        "summary": "[파이낸셜뉴스] 미국 도널드 트럼프 행정부가 세계보건기구(WHO)에서 탈퇴하며 이 기구의 코로나19 팬데믹 당시의 대응 등을 비판하자 WHO가 이를 \"사실과 다르다\"며 맞대응에 나섰다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"ICE 예산 막고 장관 탄핵해야\"…미니애폴리스 총격에 민주 '강력 반발'",
+        "time": "2026-01-25T14:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713999_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07740",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "트럼프 \"중국과 손잡으면 100% 관세\"…다보스 발언 이후 캐나다 정조준",
+        "time": "2026-01-25T14:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/25/20260125501118.jpg",
+        "url": "https://news.nate.com/view/20260125n07673",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "美연준 의장 릭 라이더 블랙록 CIO 급부상",
+        "time": "2026-01-25T14:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/25/rcv.YNA.20260113.PAP20260113036401009_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n07528",
+        "summary": "이르면 이번 주 중 미국 연방준비제도(Fed·연준) 차기 의장이 확정될 것으로 전망되는 가운데 세계 최대 자산운용사 블랙록의 채권 부문 최고투자책임자(CIO) 릭 라이더가 급부상하고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "수뇌 6명 중 5명 숙청…시진핑 군 통제 강화·전력 공백 가능성",
+        "time": "2026-01-25T14:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/25/AKR20260125140729E3h_01_i.jpg",
+        "url": "https://news.nate.com/view/20260125n07592",
+        "summary": "시진핑 중국 국가주석이 2022년 제20차 중국공산당 전국대표대회(당 대회)에서 3연임을 확정한 후 임명한 중국군 수뇌부 인사 6명 가운데 5명이 실각하게 됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "하객들 춤추던 순간 '쾅'…결혼식장 노린 테러에 7명 사망",
+        "time": "2026-01-25T14:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20221220_0019610228_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07373",
+        "summary": "[서울=뉴시스]김건민 인턴 기자 = 아프가니스탄 국경 인근인 파키스탄 북서부 지역의 한 결혼식장에서 폭탄 테러가 발생해 다수의 사상자가 발생했다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"2조6500억 잭팟 주인공 등장\"…미국 '파워볼' 대박 터졌네",
+        "time": "2026-01-25T14:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/25/news-p.v1.20230225.157ad5bc6ce84156af3cb95bc106176b_P1.jpg",
+        "url": "https://news.nate.com/view/20260125n07409",
+        "summary": "미국에서 무려 2조6500억원에 달하는 역대급 복권 당첨자가 나와 눈길을 끌고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "日삿포로, 겨울 네 시즌 만에 눈 1m 쌓여…12시간 동안 38㎝",
+        "time": "2026-01-25T13:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/25/NISI20200204_0016049087_web.jpg",
+        "url": "https://news.nate.com/view/20260125n07327",
+        "summary": "[서울=뉴시스]박지혁 기자 = 일본 삿포로에 많은 눈이 내려 겨울 네 시즌 만에 눈이 1m나 쌓였다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "미국 이민 당국이 사살한 30대는 중환자실 간호사",
+        "time": "2026-01-25T13:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260125n07188",
+        "summary": "미국 미네소타 주 미니애폴리스에서 연방 이민 단속 요원의 총격으로 숨진 미국인 남성 37살 알렉스 프레티는 참전 용사들을 돌보는 중환자실 간호사로 확인됐습니다.",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토] 공격받고 있는 우크라이나 키이우",
+        "time": "2026-01-25T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713555_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07101",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토] 기자회견하는 키어 스타머 영국 총리",
+        "time": "2026-01-25T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713332_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07106",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토] 아부다비에서 열린 미·러·우크라 3자회담",
+        "time": "2026-01-25T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713670_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07093",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토]美 JD 밴스 부통령과 회담 결과 밝히는 김민석 국무총리",
+        "time": "2026-01-25T13:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713357_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07110",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토] 눈길을 걷는 미국 시민",
+        "time": "2026-01-25T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713838_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07088",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "[포토] 미니애폴리스 ICE 반대 시위",
+        "time": "2026-01-25T13:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/25/7713883_high.jpg",
+        "url": "https://news.nate.com/view/20260125n07082",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 25일 일요일"
+      },
+      {
+        "title": "\"내가 제일 잘 나가\" 분야 최고되려면…韓 '석학'들은 이렇게 말했다",
+        "time": "2026-01-25T14:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/25/2026012318050590574_1.jpg",
+        "url": "https://news.nate.com/view/20260125n07752",
+        "summary": "올해 한국과학기술한림원(한림원) 정회원에 선임되며 자타공인 '석학 반열'에 오른 연구자 3명은 23일 머니투데이와의 인터뷰에서 이처럼 제언했다. 한림원은 한국 과학기술 분야 최고 석학 단체다. 전공 분야에서 20년 이상 경력을 쌓은 학자 중 과학기술 발전에 대한 공로를 인정받은 학자를 선별해 정회원에 선임한다. 이들은 중대한 국가 과학기술 정책을 결정할 때 정부와 국회에 자문을 제공한다.",
         "source": "nate",
         "date": "2026년 01월 25일 일요일"
       }
