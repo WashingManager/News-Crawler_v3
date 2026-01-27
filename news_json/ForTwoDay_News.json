@@ -1417,6 +1417,30 @@
         "url": "https://www.fnnews.com/news/202601280532140666",
         "source": "Fn",
         "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "알샤라 시리아 임시대통령, 러시아 방문…푸틴과 정상회담",
+        "time": "2026-01-28T06:23:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601280620480274",
+        "source": "Fn",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "앤트로픽 CEO 아모데이 \"AI, 인간 보편 노동 대체…이례적으로 고통스러울 것\"",
+        "time": "2026-01-28T05:56:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601280553356215",
+        "source": "Fn",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "美애리조나서 이민당국 또 총격, 1명 중태",
+        "time": "2026-01-28T06:12:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202601280606534773",
+        "source": "Fn",
+        "date": "2026년 01월 27일 화요일"
       }
     ]
   },
@@ -12455,6 +12479,339 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/yonhap/20260128055042165lghc.jpg",
         "url": "https://v.daum.net/v/20260128055042667",
         "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "美 관세 재인상 빌미된 대미 투자특별법…처리 지연시 압박 수위↑",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/newsis/20260128060300621hbqg.jpg",
+        "url": "https://v.daum.net/v/20260128060300981",
+        "summary": "2000억弗 대미 투자 합의 후 특별법 발의국회 사전 통제 및 투자공사 추진 등 쟁점예산안 정국에 인사청문회까지 '현안' 몰려통상당국 수장 방미…\"합의 이행 의지 전달\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "韓 노령지출 4.8% vs 일본 11.3%…OECD 41개국 중 '꼴찌'",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128060626774hrml.jpg",
+        "url": "https://v.daum.net/v/20260128060626120",
+        "summary": "공공·민간 다 부실한 '이중 저발전'…국민연금 성숙도 35% 불과2050년 노인 40%인데 예산 최하위…\"연금 구조 근본 수술 시급\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "작년 석유 소비량 2.8% 감소…고급휘발유 소비는 14% 증가",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/552792-J3qZrpm/20260128061004626tvjg.jpg",
+        "url": "https://v.daum.net/v/20260128061003166",
+        "summary": "석유제품 소비량 9억3157만배럴, 수출량 5억896만배럴휘발유 1.7%, 항공유 2.6% 증가…경유 6.4%, 나프타 2.7% 감소LPG 소비량 1억3085만배럴 4.4% 감소, 프로판 감소폭 더 커",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "[매치업] 'AI 혁신 경쟁' 놀유니버스와 여기어때…대화 vs 리뷰",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/552793-3X9zu64/20260128060020333mqrv.jpg",
+        "url": "https://v.daum.net/v/20260128060018769",
+        "summary": "인공지능 기술 활용 상품 나열서 이용자 의도 분석 맞춤형 '진화' 놀유니버스, 제미나이 활용 'AI 노리' 대화형 서비스로 최적의 제안 여기어때, 챗GPT 앞세운 숙박 리뷰 요약 '하이라이트' 신뢰도 제고",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "유럽·아시아로 뻗는 5분 투약 '엔허투SC'…알테오젠, 수익 다각화 청신호",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128062132893ujoj.jpg",
+        "url": "https://v.daum.net/v/20260128062131332",
+        "summary": "다이이찌산쿄, 스페인·대만 등 연구 의료기관 10곳 추가차세대 '블록버스터' 개발 순항 기술료 수령·상업화 기대감",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "[특파원 칼럼] Becoming Chinese(중국인 되기)",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/552779-26fvic8/20260128060054289vizr.png",
+        "url": "https://v.daum.net/v/20260128060052779",
+        "summary": "'중국적인 시대'에 살고 있는 젊은세대 中브랜드·기술에 매료…'중국식 삶' 동경트럼프발 불확실성 반발 심리 한몫",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "사교육 참여율은 1위인데…수학, 흥미·효능감 전과목 '꼴찌'",
+        "time": "2026-01-27T21:30:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/yonhap/20260128060840825fxfy.jpg",
+        "url": "https://v.daum.net/v/20260128060840154",
+        "summary": "한국교육개발원, 중학교 1∼3학년 조사…국어·영어와도 차이 커",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "“과장급도 커트라인”…현실이 된 개발자 생존 게임 [AI가 삼킨 청년들③]",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/kukinews/20260128060310919tjoa.jpg",
+        "url": "https://v.daum.net/v/20260128060309011",
+        "summary": "빅테크 감원 한파 현실화, AI가 재편하는 냉혹한 노동 시장주니어 사라지고, ‘허리급’ 개발자도 흔들려코딩서 검증·책임으로 전문성 이동, AI 활용 못 하면 도태 불가피",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "“미국엔 ‘동맹 신뢰’ 중국과는 ‘협력 공간’…전략적 자율성을 확보하라”[마가와 굴기 넘어⑦]",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/khan/20260128060543923vkpt.png",
+        "url": "https://v.daum.net/v/20260128060542109",
+        "summary": "포스트 안미경중, 한국의 전략적 선택은외교안보·경제안보 전문가 18명 설문",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "李대통령, 이해찬 前총리 빈소 눈물의 조문… 무궁화장 추서",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/segye/20260128060503430ohex.jpg",
+        "url": "https://v.daum.net/v/20260128060503086",
+        "summary": "빈소 차려진 첫날 범여권 인사들 발길김민석·정동영 등 인천공항서 운구 맞이李대통령 40여분 빈소 머물며 유족 위로문재인·권양숙·유시민·주호영 등 조문“공적인 일 가야 해” 몸살에도 출장 강행베트남 도착후에도 일정소화하다 타계",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"北, 南 무인기 침범 공개로 적대감 고취·국경 명확화 노려\"",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128060156054jxhi.jpg",
+        "url": "https://v.daum.net/v/20260128060155874",
+        "summary": "\"지난해 9월 무인기 침범 사실 공개 보류 이유는 북미 대화 기대감 때문\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "다시 관세 카드 꺼낸 트럼프 속내는?…정부, 주말쯤 러트닉 면담 추진",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128060221477mqzg.jpg",
+        "url": "https://v.daum.net/v/20260128060221916",
+        "summary": "입법 지연 명분 삼았지만 투자·디지털 규제까지 '복합 압박' 가능성실제 부과보다 협상용 전략 관측…정부, 주말쯤 美 의도 파악할 듯",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "트럼프 \"알말리키가 이라크 총리로 선출되면 美지원 끊겠다\"",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/yonhap/20260128061929460mwoo.jpg",
+        "url": "https://v.daum.net/v/20260128061929290",
+        "summary": "친이란 정부 우려하며 과거 美압박에 그만둔 알말리키 복귀 반대",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "트럼프 관세 '25% 유턴'에 \"정부 뭐했나\"…국회 긴급 현안질의",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128060210260vddm.jpg",
+        "url": "https://v.daum.net/v/20260128060210886",
+        "summary": "국힘 \"李, 참모 뒤에 숨지 말라\" \"손놓고 있었나\" 질타재경위는 여야 협상 불발…\"구윤철, 답변할 게 없다고\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"25% 관세는 한국 탓\"…트럼프 급발진 배경은? [글로벌 뉴스픽]",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/sbscnbc/20260128062214625bjrb.jpg",
+        "url": "https://v.daum.net/v/20260128062214343",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "멕시코, 미국 압박받는 쿠바로의 원유 공급 중단 정황...\"주권적 결정에 따른 것\" 주장",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260128061504235",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "韓·中 관계 개선 흐름 맞춘 갈등 관리 나선 듯",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/segye/20260128060615865bike.jpg",
+        "url": "https://v.daum.net/v/20260128060615114",
+        "summary": "中, 서해구조물 PMZ 밖 이동양식시설 2곳 아닌 관리시설 철수中외교부 “어업시설” 입장 안 바꿔“나머지 구조물 모두 옮겨야” 지적정부 “中과 협의 이어갈 것” 밝혀",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "닷새는 도시인, 주말에만 농민…“농어촌 기본소득 대상이라고?”",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/mk/20260128055407382wcrb.jpg",
+        "url": "https://v.daum.net/v/20260128055406693",
+        "summary": "시행 한달 앞두고 지자체 혼란1인 月15만원 지역화폐 받으려타지 대학 간 자녀 명단 올리고농막·창고에 위장전입 사례도전입·실거주 기준 놓고 분분농식품부 “이번주 지침 발표”",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "노동당 규약에서 '통일 조항' 삭제될까?[정창현의 북한읽기]",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128060136802mofc.jpg",
+        "url": "https://v.daum.net/v/20260128060135826",
+        "summary": "정창현 평화경제연구소장",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "정부 강제수사만 1350건, 돈 떼먹는 '악덕 사장' 얼마나 많기에…",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/thescoop1/20260128061133929tkkc.jpg",
+        "url": "https://v.daum.net/v/20260128061132187",
+        "summary": "더스쿠프 이슈 아카이브 임금체불 근절 나선 고용노동부 강제수사 1350건, 매년 증가세 대지급금 신청 부정 수급까지 나날이 늘어나는 악덕 사장 임금체불 해마다 증가 추세",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"예술에 대한 모욕\"…전시된 'AI 그림' 57개 뜯어 먹은 미 대학생",
+        "time": "2026-01-27T21:29:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/newsy/20260128050125387grca.jpg",
+        "url": "https://v.daum.net/v/20260128050125106",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"'성폭력 아동'에 약도 전달 못해\"…세상이 잊은 참상, '의료 붕괴' 모잠비크 북부",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/pressian/20260128062040047synp.png",
+        "url": "https://v.daum.net/v/20260128062038310",
+        "summary": "[자원의 저주, 모잠비크] ③ 떠나지 못하는 긴급 구호 활동가들 \"언론은 외면, 현장은 절박\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "韓에 25% 관세 경고한 트럼프, 이민단속에 공화당 돌아서자 ‘TACO’ [글로벌 모닝 브리핑]",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/seouleconomy/20260128060228120atqq.jpg",
+        "url": "https://v.daum.net/v/20260128060226926",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "미 부통령, 김 총리에 “‘쿠팡 불이익 조치 말라’ 말해”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/kukminilbo/20260128062040677bgdk.jpg",
+        "url": "https://v.daum.net/v/20260128062038311",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "알샤라 시리아 임시대통령, 러시아 방문…푸틴과 정상회담",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/fnnewsi/20260128062504931dkqu.jpg",
+        "url": "https://v.daum.net/v/20260128062504362",
+        "summary": "크렘린궁, 양국 관계와 중동 정세 논의 예정이라고 공식 발표지난해 10월 이후 두 번째 러시아 방문시리아 내 러시아 군사기지 문제 논의 가능성아사드 전 대통령 송환 문제 의제 포함 가능성",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"국토안보장관 유임\"…또 총격으로 한 명 중태",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/sbsi/20260128062708646magi.jpg",
+        "url": "https://v.daum.net/v/20260128062705382",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"이스라엘, 가자에 팔레스타인인 대규모 수용소 건설 계획\"",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/NEWS1/20260128062303418dqcy.jpg",
+        "url": "https://v.daum.net/v/20260128062303350",
+        "summary": "\"이스라엘군, 하마스 무장해제 거부시 군사공격 계획\"",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "트럼프, 크리스티 국토안보장관 해임설 일축…민주당 “탄핵 추진”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/joongang/20260128060726375apyh.jpg",
+        "url": "https://v.daum.net/v/20260128060725142",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "“무조건 사고 터진다” 판매 중단 요구까지…핸드크림이야, 젤리야? [이런 日이]",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/seoul/20260128055946419xlqg.jpg",
+        "url": "https://v.daum.net/v/20260128055942740",
+        "summary": "日유명 젤리 ‘코로로’와 유사한 핸드크림 출시젤리 패키지 디자인과 똑같아…‘오인 섭취’ 주의보“성인이 봐도 헷갈린다” 제품 회수 요구 빗발쳐",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "트럼프, 한국에 관세 인상 통보한 날 “美·日동맹의 미래 눈부실 것”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/chosun/20260128062543806lzfz.jpg",
+        "url": "https://v.daum.net/v/20260128062542366",
+        "summary": "日총리 “함께 빛나는 미래 쌓아가자” 화답3월 정상회담 계기 ‘1호 프로젝트’ 발표할 듯美상무장관 “양국 무역 관계 어느 때보다 굳건”",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "백악관 “약속 안 지켰기 때문”…트럼프 “한국과 조율할 것”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/kbs/20260128061841903lwfn.jpg",
+        "url": "https://v.daum.net/v/20260128061839279",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "나치 연상까지… 미 정부 온라인 곳곳에 ‘극우의 그림자’",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/kukminilbo/20260128055846425adkt.jpg",
+        "url": "https://v.daum.net/v/20260128055845731",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "미 국토장관 경질설 일축‥또 이민당국 총격",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/imbc/20260128062000391eiez.jpg",
+        "url": "https://v.daum.net/v/20260128061959294",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "\"미 부통령, 김민석 총리에 '쿠팡 등 불이익조치 말라' 말해\"",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/newsy/20260128062027752xlao.jpg",
+        "url": "https://v.daum.net/v/20260128062027308",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "중국, 서해 구조물 일부 철거‥회담 3주 만 화답",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/imbc/20260128062215646zvln.jpg",
+        "url": "https://v.daum.net/v/20260128062214345",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "카니 “다보스 포럼 연설은 진심...美, 상당 부분 정상적이지 않아”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/chosun/20260128062327653srwi.jpg",
+        "url": "https://v.daum.net/v/20260128062326352",
+        "summary": "다보스 연설 철회했다는 베선트 말 반박  트럼프·카니 30분 통화에도 경색 국면",
+        "source": "daum",
+        "date": "2026년 01월 27일 화요일"
+      },
+      {
+        "title": "日 총리, 또 ‘대만유사시’ 언급…“현지 일본인·미국인 구해야”",
+        "time": "2026-01-27T21:28:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202601/28/ned/20260128055440641ydvk.jpg",
+        "url": "https://v.daum.net/v/20260128055439703",
+        "summary": "“미군 공격받았을 때 日 도망치면 미일동맹 무너져”中 추가로 자극할 수도中 “日, 대만 문제에 간섭할 자격 없어…경거망동 중단해야”",
         "source": "daum",
         "date": "2026년 01월 27일 화요일"
       }
