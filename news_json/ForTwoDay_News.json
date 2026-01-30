@@ -1,5 +1,2904 @@
 [
   {
+    "date": "2026년 01월 30일 금요일",
+    "articles": [
+      {
+        "title": "'나 대신 뛸 수 있길'…럭비 국대 윤태일, 장기기증해 4명 살려",
+        "time": "",
+        "img": "https://img2.yna.co.kr/template/kr/20260130/kr_659_20260130100126_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130052000530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "울주군 6·25참전유공자회, 안보결의대회…모범회원 표창",
+        "time": "2026-01-30T10:28:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2025/06/11/PYH2025061116230005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130058400057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "글로벌기후환경대사에 강금실 전 법무부 장관",
+        "time": "2026-01-30T09:26:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/07/17/PYH2025071723800008100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130042300504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "대한체육회 회장 선거 '직선제' 도입, 정관 개정으로 제도화",
+        "time": "2026-01-30T09:23:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/01/29/AKR20260129193100007_04_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260129193100007",
+        "summary": "간접선거 용어 '추첨' 삭제 예정…회장선거관리규정도 손질",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "강감찬함, 인도 국제관함식·다국간 해상훈련 참가",
+        "time": "2026-01-30T08:50:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130030200504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130030200504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "尹 체포방해 2심 서울고법 형사20부로…향후 전담재판부 재배당",
+        "time": "2026-01-30T10:02:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/09/26/PYH2025092605300001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130051200004",
+        "summary": "23일 내란전담재판부 가동 전까지 기록 관리 등 임시 업무 담당",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[게시판] 기품원-표준과학연구원, 국방우주표준 개발 협력",
+        "time": "2026-01-30T09:27:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2020/11/20/08/PCM20201120000308365_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130040000504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "지난해 서산 대산항 물동량 9천만t…2024년보다 0.7% 증가",
+        "time": "2026-01-30T09:53:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2024/01/10/50/PCM20240110000050063_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130050300063",
+        "summary": "플라스틱 원료 수출 감소 등에 컨테이너 물동량은 18.7%↓",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[AI픽] 정보통신기술협회-IEEE SA, AI 윤리 공인평가 계약",
+        "time": "2026-01-30T09:45:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130048200017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130048200017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "파주시, 2월 지역화폐 충전 한도 70만→100만원 상향",
+        "time": "2026-01-30T09:36:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2025/01/17/81/PCM20250117000081990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130046900060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "강북구 전역 대상 '주거지정비 기본계획' 수립…\"기초단체 최초\"",
+        "time": "2026-01-30T09:33:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130045800004_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130045800004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "서울대아시아연구소, 중국서 '한중 청년 모빌리티' 학술대회",
+        "time": "2026-01-30T09:22:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130039900371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130039900371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "대웅제약 나보타, 멕시코 수출 계약…295억원 규모",
+        "time": "2026-01-30T09:36:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130044800017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130044800017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "완주군, 올해도 농기계 임대료 50% 감면",
+        "time": "2026-01-30T10:34:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2015/04/14/01/C0A8CA3D0000014CB6682A8300006BB5_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260130063500055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'검색 형태 진화한 피싱'…네이버, 피싱유포 사이트 566개 차단",
+        "time": "2026-01-30T10:31:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130064000017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130064000017",
+        "summary": "지난 21개월간 네이버 피싱 공격 분석 사례집 공개",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "초소형 군집위성 검증기 탑재 우주발사체 '일렉트론' 발사",
+        "time": "2026-01-30T10:26:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130062651017_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130062651017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 초소형 군집위성 검증기 탑재 우주발사체 '일렉트론' 발사",
+        "time": "2026-01-30T10:23:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130062600017_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130062600017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "부산항 51개 항만·어항시설물 안전유지관리 추진",
+        "time": "2026-01-30T10:14:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2020/10/28/63/PCM20201028000163990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130060300051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "티웨이, 인천공항 1터미널서 '프리미엄 체크인' A카운터 운영",
+        "time": "2026-01-30T10:13:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130059200003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130059200003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "금호타이어, 힐클라임 대회 PPIHC와 차세대드라이버 육성 '맞손'",
+        "time": "2026-01-30T09:59:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130053800003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130053800003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 한국원자력안전기술원",
+        "time": "2026-01-30T09:57:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130053000063",
+        "summary": "◇ 실장급",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "목포해양대학교 제9대 총장에 최부홍 교수 임명",
+        "time": "2026-01-30T09:54:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130053200054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130053200054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경남도, '두쫀쿠' 등 디저트류 배달음식점 집중 위생점검",
+        "time": "2026-01-30T09:54:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130049300052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130049300052",
+        "summary": "무인 아이스크림 판매점도 포함…무신고 수입식품 사용 두쫀쿠 여부도 살펴",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "원주시, 일자리·교통·주거 3박자 선순환구조로 성장 기반 마련",
+        "time": "2026-01-30T09:53:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130050800062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130050800062",
+        "summary": "전국적 인구 감소 추세 속 우상향…누구나 살고 싶은 도시 조성",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "남부발전, 북극항로 전담팀 구성…연료수급 전략 수립",
+        "time": "2026-01-30T09:47:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130050100051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130050100051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "로보락, 트러스트센터 오픈…보안 기술·정책 공개",
+        "time": "2026-01-30T09:40:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130044900003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130044900003",
+        "summary": "홈페이지에 데이터 전송 방식·개인정보보호 체계 등 게시",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "HD한국조선해양, LNG 이중연료 액화이산화탄소 운반선 2척 수주",
+        "time": "2026-01-30T09:15:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130035500003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130035500003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "성남시, 백현마이스 20만㎡ 도시개발사업 실시계획 인가",
+        "time": "2026-01-30T09:08:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130035300061_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130035300061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'합수본 첫 구속기소' 필로폰 16만명분 수취 40대, 징역 8년",
+        "time": "2026-01-30T10:35:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130064200061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130064200061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "불법 선거운동 혐의 손현보 목사, 징역 6개월에 집유 1년",
+        "time": "2026-01-30T10:31:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/03/01/PYH2025030106010001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130064700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[충주소식] 상반기 평생학습센터 수강생 모집",
+        "time": "2026-01-30T10:31:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130063600064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130063600064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경남교육청, 올해 초등 예비소집 불참 아동 11명 수사 의뢰",
+        "time": "2026-01-30T10:29:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2024/02/20/25/PCM20240220000125990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130061800052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 불법 선거운동 혐의 손현보 목사, 징역 6개월에 집유 1년",
+        "time": "2026-01-30T10:24:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/03/01/PYH2025030106010001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130063100051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "울산 진하해수욕장서 겨울방학 청소년 유해환경 합동점검",
+        "time": "2026-01-30T10:22:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130058300057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130058300057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "코이카, 엘살바도르에 보건 노하우 전수…국립보건교육센터 개소",
+        "time": "2026-01-30T10:19:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130058700371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130058700371",
+        "summary": "내달 2일 양국 전문가 참여 통합 학술대회 이후 업무 본격 시작",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "학부모 \"초등 영양교사가 잔반 먹으라고 지시\"…교육당국 감사",
+        "time": "2026-01-30T10:18:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2024/06/26/06/PCM20240626000106053_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130059900053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "울주군, 아동친화도시 인증 선포…\"아동이 살기좋은 도시\"",
+        "time": "2026-01-30T10:14:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/12/16/PYH2025121611320005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130057200057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경기교육청, 유보통합 '보육업무 실무매뉴얼' 발간",
+        "time": "2026-01-30T10:12:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130057600061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130057600061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "최호정 서울시의회 의장, 중동 방문…\"도시외교 지평 확대\"",
+        "time": "2026-01-30T10:07:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2024/07/11/31/PCM20240711000131004_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130055000004",
+        "summary": "요르단 암만 시의회 공식 초청…카이로 주지사 면담",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 헌법재판소",
+        "time": "2026-01-30T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130054800004",
+        "summary": "◇ 선임헌법연구관",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"알바할래?\" 학교 앞 초등생 유괴시도한 30대 징역 2년",
+        "time": "2026-01-30T10:03:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2025/05/15/18/PCM20250515000018990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130055800056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "GIST 연구팀, 암 환자 '근육·체중 감소' 원인 규명",
+        "time": "2026-01-30T10:01:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130055400054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130055400054",
+        "summary": "\"근육·체중 소모 유발 인자 억제 약물 발굴 중\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "안동·김천·영천 건조경보…의성 등 3곳 한파경보 유지",
+        "time": "2026-01-30T10:00:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130054200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "질병청, AI 활용해 미래 변이 대응하는 차세대 코로나 백신 설계",
+        "time": "2026-01-30T10:00:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2021/06/24/56/PCM20210624000056990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130049900530",
+        "summary": "AI로 구조 예측해 안정성 강화…\"변이 따라 백신 다시 만들 필요 없어\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"주변 상황을 보여주세요\"…영상통화로 화재 확산 차단",
+        "time": "2026-01-30T09:59:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130053300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130053300063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "전북 남원·부안에 건조주의보…진안 등 3곳 한파주의보 유지",
+        "time": "2026-01-30T09:59:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130054300527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "교육부, 법무부·법제처와 '헌법교육 강화' 업무협약",
+        "time": "2026-01-30T09:58:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130052900530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130052900530",
+        "summary": "최교진 \"헌법교육은 민주시민교육의 핵심\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "제천·괴산에 한파주의보…충주 등 7곳 건조주의보",
+        "time": "2026-01-30T09:58:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130054000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "국립소방병원 지역민 진료 앞당겨…내달 소아·산부인과 운영",
+        "time": "2026-01-30T09:58:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130049700064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130049700064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "태백 등 강원 4곳 건조경보…춘천 등 14곳 한파경보 유지",
+        "time": "2026-01-30T09:58:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/11/20/PYH2025112012210006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130053900527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "남양주 등 경기 4곳 한파주의보",
+        "time": "2026-01-30T09:57:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130054100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "지하철역사에 스크린파크골프장…성북구, 석계역에 문열어",
+        "time": "2026-01-30T09:57:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130053700004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130053700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "교실서 담임교사 공개 비난한 학부모…명예훼손죄로 처벌",
+        "time": "2026-01-30T10:01:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2018/05/16/17/C0A8CA3D0000016366B798C60006AC4B_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260130052800062",
+        "summary": "\"공공의 이익 위한 발언\" 항변했으나 유죄…벌금 50만원 선고",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경북소방본부 '라이프세이버·하트세이버 왕' 8명 표창",
+        "time": "2026-01-30T09:45:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130045000053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130045000053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경기도, 연인산·수리산·남한산성도립공원 희귀식물 책자 발간",
+        "time": "2026-01-30T09:30:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130040600061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130040600061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[홍천소식] 고향사랑기부제 참여하면 쿠폰이 '팡팡'…설맞이 이벤트",
+        "time": "2026-01-30T09:27:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130043600062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130043600062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[부고] 이오상(KNN 대표이사)씨 부친상",
+        "time": "2026-01-30T09:26:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130042800051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "포항 호동 쓰레기매립장 불…폐기물 500t 태우고 진화(종합)",
+        "time": "2026-01-30T09:25:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/01/30/PYH2026013001600005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130032051053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "청사에 '쑥뜸 시술방' 만들어 이용한 부산 북구청장",
+        "time": "2026-01-30T09:25:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2024/08/24/88/PCM20240824000188990_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260130042500051",
+        "summary": "의료·환기 시설 갖춰…\"치료용 이용, 사비로 구매\" 해명",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[게시판] NCT 도영, 월드비전에 자립준비청년 위해 1억원 후원",
+        "time": "2026-01-30T09:19:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130039300371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130039300371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "태안 ADD 소음피해 보상 대상 확대…2월 2∼27일 신청 접수",
+        "time": "2026-01-30T09:18:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130035800063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130035800063",
+        "summary": "근흥면 정죽1·4리와 용신2리, 남면 신온3리 등 신규 포함",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[증평소식] 석면 슬레이트 철거 비용 최대 700만원 지원",
+        "time": "2026-01-30T09:18:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2023/12/28/84/PCM20231228000184064_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130037300064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "여수서 화학업체 통근버스-SUV '쾅'…운전자 1명 사망",
+        "time": "2026-01-30T09:15:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130035400054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130035400054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "안전보건 기준 '기술지원규정' 437건, 산업 변화 맞춰 정비",
+        "time": "2026-01-30T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2019/12/27/05/PCM20191227000205990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260129154900530",
+        "summary": "외벽도장 보수공사 기준 등 최신 기술 반영…총 1천39건 운영",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[내일날씨] 토요일도 최저 -16도 한파…건조해 불조심",
+        "time": "2026-01-30T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/01/25/PYH2026012502210001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130010300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "포항 호동 쓰레기매립장 불…헬기 등 동원, 진화 중",
+        "time": "2026-01-30T08:53:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/01/30/PYH2026013001600005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130032000053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "광릉숲 생물권보전지역 주민참여지원사업 참여자 모집",
+        "time": "2026-01-30T08:51:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130030000060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130030000060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 '국경차르', 협조 전제로 미네소타서 인력 일부 철수 시사",
+        "time": "2026-01-30T10:31:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130037600009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130037600009",
+        "summary": "톰 호먼 \"모든 것이 완벽하지는 않아\"…트럼프는 \"철수 안 해\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "아세안 외교장관들 필리핀서 회동…\"미얀마 총선 인정 못 해\"",
+        "time": "2026-01-30T10:19:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130058500104_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130058500104",
+        "summary": "일부 회원국은 총선 인정 가능성 비쳐…태국 \"미얀마 새 정부와 대화해야\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "日자민, 야당 난립에 어부지리?…초판 '우세' 분석에 자만 경계",
+        "time": "2026-01-30T10:19:00",
+        "img": "https://img8.yna.co.kr/photo/etc/epa/2026/01/26/PEP20260126226801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130056900073",
+        "summary": "주요 야당 단일화 실패 지역구 늘어…다카이치는 \"매우 힘든 정세\" 지지 호소",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"내일 차기 연준의장 후보자 발표\" <로이터>",
+        "time": "2026-01-30T09:22:00",
+        "img": "https://img3.yna.co.kr/photo/etc/epa/2026/01/30/PEP20260130126201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130040700009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다, 일부 美항공기 수입 막고 있다\"며 관세위협",
+        "time": "2026-01-30T09:00:00",
+        "img": "https://img7.yna.co.kr/photo/etc/epa/2026/01/30/PEP20260130037901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130032900071",
+        "summary": "\"문제 시정 안되면 모든 캐나다산 항공기에 50% 관세\"",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "빙하 녹는데 더 살찐 북극곰…\"새로운 먹이로 지방 섭취\"",
+        "time": "2026-01-30T08:56:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130030100009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130030100009",
+        "summary": "스발바르서 체중 측정 연구…\"단기 현상일 뿐\" 경고도",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "中 지도부, 장유샤 숙청 속 '공산주의 전사' 故 랴오시룽 애도",
+        "time": "2026-01-30T08:55:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130031100009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130031100009",
+        "summary": "상무위원 전원, 후진타오·한정 부주석도…공산당 충성 유도 목적인듯",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경기도, 출생 미등록 외국인 아동 '공적확인제도' 내달 시행",
+        "time": "2026-01-30T08:50:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130029400060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130029400060",
+        "summary": "출생신고 못하는 아동의 존재 행정적 확인…민간단체 지원 연계",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美법원, 신장위구르 인권 유린 폭로한 중국인에 망명 허용",
+        "time": "2026-01-30T08:53:00",
+        "img": "https://img2.yna.co.kr/photo/ap/2026/01/24/PAP20260124129001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130029600009",
+        "summary": "수용소 영상 찍어 공개…트럼프 정부서 망명 허용 드문 사례",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'브로츠와프의 쥐들' 번역 정보라 \"흥미진진 좀비물 쓰고 싶어\"",
+        "time": "2026-01-30T10:38:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/01/30/AKR20260130054700005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260130054700005",
+        "summary": "폴란드 SF 거장의 좀비 장편소설…2년에 걸쳐 3권 번역·완간",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 한국신문윤리위원회",
+        "time": "2026-01-30T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260130057100005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 01월 30일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 01월 30일 금요일",
+    "articles": [
+      {
+        "title": "빙그레, 혹한기 재난취약계층에 난방 텐트 후원 참여",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/so/2026/01/30/119424_237440_259.jpg",
+        "url": "https://news.nate.com/view/20260130n09606",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美에서의 베네수행 비행기, 6년 만에 다시 뜨나…트럼프 \"영공 곧 개방\"",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009495742510_1.jpg",
+        "url": "https://news.nate.com/view/20260130n09615",
+        "summary": "미국에서의 베네수엘라행 항공편 운항이 6년 만에 재개될 전망이다. 니콜라스 마두로 대통령 축출 후 베네수엘라 국가 재건 과정에 깊게 관여 중인 도널드 트럼프 미국 대통령이 베네수엘라 영공 개방 방침을 발표했기 때문.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "스타벅스, 화재 우려에 증정용 가습기 39만개 전량 리콜",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/20260130500872.jpg",
+        "url": "https://news.nate.com/view/20260130n09641",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "중진공, AI 기반 일자리 매칭…中企 채용 부담 완화",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/30/20260130092140_2289062_655_436.jpg",
+        "url": "https://news.nate.com/view/20260130n09595",
+        "summary": "[이투데이/서이원 기자]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한파 속에도 실내는 푸르게~대전시, '도심 실내정원'사업 확대",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.d0e585b84530448ca567641c46de9911_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n09625",
+        "summary": "[헤럴드경제= 이권형기자] 대전시는 겨울철 한파와 미세먼지에 대응해 지하철역과 도서관 등 공공시설을 중심으로 실내정원 조성을 확대하고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[그래픽] 미 재무부 한국 환율관찰대상국 지정 일지",
+        "time": "2026-01-30T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723549_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09513",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "젠슨 황 \"中, H200 수입승인 마무리단계\"…'사실상 금지' 관측도",
+        "time": "2026-01-30T10:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7683212_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09582",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "무디스 만난 구윤철 부총리…\"6대 구조개혁으로 잠재성장률 제고\"",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/30/260130082539939_w.jpg",
+        "url": "https://news.nate.com/view/20260130n09474",
+        "summary": "구윤철 부총리, 무디스 연례협의단과 면담",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 환율 관찰대상국 3회 연속 지정…정부 \"외환시장 안정 위한 협력 지속\"",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2026/01/30/202601300923001772_0.jpg",
+        "url": "https://news.nate.com/view/20260130n09485",
+        "summary": "美 환율보고서 기준 따라 관찰대상국 분류 유지\n미 재무부 \"원화 약세 펀더멘털에 부합 안 해\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "알파랩, 팝업 비즈니스 확장 통해 글로벌 외식 액셀러레이팅 본격화",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/30/news-p.v1.20260130.415bfa036cdf420aa98d80a35e971d2d_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n09453",
+        "summary": "휴미락 액셀러레이팅 알파랩(대표 방수준)이 일본과 중국을 중심으로 외식 산업 분야에서의 액셀러레이팅을 본격화하며, 글로벌 외식 시장 공략에 속도를 내고 있다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"이란과 대화할 계획…美 함대 활용하는 일 없기를\"",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/30/2601280718537290.jpg",
+        "url": "https://news.nate.com/view/20260130n09216",
+        "summary": "저작권자(c) 글로벌리더의 지름길 종합뉴스통신사 뉴스핌(Newspim), 무단 전재-재배포 금지",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "구윤철, 무디스 연례협의단에 \"AI·신산업으로 성장동력 강화\"",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aj/2026/01/30/20260130085525431296.jpg",
+        "url": "https://news.nate.com/view/20260130n09386",
+        "summary": "구윤철 부총리 겸 재정경제부 장관이 국제 신용평가사인 무디스(Moody’s) 연례협의단과 면담을 갖고 한국 경제 여건과 정부의 중점 정책 방향을 설명했다. 이 자리에서 그는 성장 회복세와 함께 AI·신산업을 중심으로 한 구조 전환을 통해 중장기 경쟁력을 강화하겠다는 정부 입장을 강조했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "서울시 '피지컬 AI' 도시로 뛴다…도심 전역 테스트배드 개방",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/30/20260130093544_2289078_653_448.png",
+        "url": "https://news.nate.com/view/20260130n09422",
+        "summary": "[이투데이/정용욱 기자]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "HD한국조선해양, 1.2만㎥급 액화이산화탄소 운반선 수주",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/30/2601300950121830.jpg",
+        "url": "https://news.nate.com/view/20260130n09372",
+        "summary": "저작권자(c) 글로벌리더의 지름길 종합뉴스통신사 뉴스핌(Newspim), 무단 전재-재배포 금지",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "무디스, AI도입 고용 영향 묻자…구윤철 \"일자리 창출 가능\"",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PYH2026012917780001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09352",
+        "summary": "무디스 연례협의단 면담",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "KGM, 튀르키예 누적 판매 5만대 돌파…\"현지 마케팅 지속 강화\"",
+        "time": "2026-01-30T09:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.6162f0026f004b6ba5cf51730d925273_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n09304",
+        "summary": "튀르키예 누적 5만434대 수출\r\n지난해 11년 만에 최대 수출 기록",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "로보락, '트러스트 센터' 오픈…개인정보 보호 체계 공개한다",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/30/01.43126920.1.jpg",
+        "url": "https://news.nate.com/view/20260130n09102",
+        "summary": "글로벌 스마트 홈 브랜드 로보락이 공식 홈페이지에 ‘트러스트 센터’(Trust Center)를 오픈하며 제품 보안과 개인정보 보호 체계 전반을 공개했다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "日 도요타…하이브리드차 인기에 지난해 글로벌 판매 1위 지켜",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202512101631097550_l.jpg",
+        "url": "https://news.nate.com/view/20260130n09316",
+        "summary": "미국의 관세 부과에도 불구하고 일본 도요타 자동차가 지난해 최대 판매 기업 1위 자리를 지켰다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "구윤철, 신평사에 \"AI 대전환이 성장 해법…과감한 투자 구조개혁\"",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260129_0021144143_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09345",
+        "summary": "부총리, 방한 무디스 연례협의단 면담\n수출 7000억弗·코스피 최고치 성과 소개",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 한국원자력안전기술원",
+        "time": "2026-01-30T09:58:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09232",
+        "summary": "◇ 실장급",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보]코스피 0.21% 내린 5210.35 출발",
+        "time": "2026-01-30T09:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202507171045541058_l.jpg",
+        "url": "https://news.nate.com/view/20260130n06200",
+        "summary": "[파이낸셜뉴스] 30일 코스피지수는 전 거래일 대비 0.21% 내린 5210.35에 거래를 시작했다. 코스닥지수는 전 거래일보다 0.16% 오른 1166.23으로 개장했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 산업부 장관, 美 러트닉과 관세 결론 못내…\"내일 다시 미팅\"",
+        "time": "2026-01-30T09:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/en/2026/01/30/1697625_717598_5512.png",
+        "url": "https://news.nate.com/view/20260130n09200",
+        "summary": "김정관 산업통상부 장관이 지난 28일(현지시간) 밤 '트럼프 관세 재인상' 대응을 위해 워싱턴DC인근 덜레스국제공항을 통해 미국을 방문해 한국 취재진과 인터뷰하고 있다. [출처=연합]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 만난 김정관, '관세 협의' 결론 못 내…\"내일 다시\"",
+        "time": "2026-01-30T09:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2026/01/30/1769732539697bf9bb18e25.png",
+        "url": "https://news.nate.com/view/20260130n09120",
+        "summary": "미국의 관세 재인상 위협에 대응하기 위해 김정관 산업통상부 장관이 하워드 러트닉 미국 상무부 장관을 만났지만, 합의점을 찾지 못하고 발길을 돌렸습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"원화 가치 너무 낮다\" 韓 '환율관찰국 재지정'에 환율 떨어질까",
+        "time": "2026-01-30T09:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/rcv.YNA.20260130.PAP20260130029201009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n09138",
+        "summary": "韓美 정부 “원화가치 과도하게 낮다” 강조\r\n靑 “기계적 결정…환율 펀더멘털과 괴리”\r\n재경부 “외환 시장 안정 협력 지속하겠다”\r\n원화 강세 압력 작용에도 환율 영향 제한적\r\n올해 환율 급등락 반복…계엄 직후보다 커",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "동해 북평 제2일반산업단지, '강원 기업투자촉진지구' 지정",
+        "time": "2026-01-30T09:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PCM20260130000005990_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09112",
+        "summary": "수소 기업 유치 본격 시동…투자보조금 5% 가산 등 혜택",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "하나은행, 설 맞이 소상공인·중소기업 15조원 특별자금 지원",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009350571545_1.jpg",
+        "url": "https://news.nate.com/view/20260130n09080",
+        "summary": "하나은행이 설을 맞이해 명절 전후 자금 수요가 많은 소상공인과 중소기업에 오는 3월13일까지 총 15조원 규모 특별자금을 지원한다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 스타벅스, '가습기' 39만개 자발적 리콜 진행",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/30/20260130504760.jpg",
+        "url": "https://news.nate.com/view/20260130n08317",
+        "summary": "스타벅스 코리아가 지난해 겨울 ‘e-프리퀀시’ 행사 증정품으로 제공한 가습기 2종의 자발적 리콜을 다음달 2일부터 실시한다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "튀르키예 사로 잡았다…KGM, 지난해까지 누적 판매 5만대 돌파",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/30/01.43126836.1.jpg",
+        "url": "https://news.nate.com/view/20260130n09061",
+        "summary": "KG모빌리티(이하 KGM)는 주요 수출국인 튀르키예 시장에 지난해까지 누적 판매 5만대(5만434대)를 돌파했다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "머스크, 스페이스X-xAI 합병 추진…미래에셋증권 '신고가'",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/mt_1769734445110_177687_0.jpg",
+        "url": "https://news.nate.com/view/20260130n08498",
+        "summary": "일론 머스크 테슬라 CEO(최고경영자)가 스페이스X와 xAI 합병을 추진한다는 소식에 스페이스X에 투자한 미래에셋증권이 장 초반 강세를 보인다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "NH농협은행, AI 무인점포 'NH디지털스테이션' 위례점 개점",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/01/30/2601300947134940.jpg",
+        "url": "https://news.nate.com/view/20260130n09029",
+        "summary": "AI와 생체인증 융합, 디지털 금융 확대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "동국씨엠, 업계 최초 컬러강판 AI 검수 기술 자체 개발",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/01/30/20260130095202_2289098_1080_1440.jpg",
+        "url": "https://news.nate.com/view/20260130n09013",
+        "summary": "[이투데이/정진용 기자]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"걸리면 75% 사망\" 백신도, 치료제도 없는 '이 병'…질병청도 주의 당부",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/mt_1769734447637_285547_0.jpg",
+        "url": "https://news.nate.com/view/20260130n08450",
+        "summary": "질병관리청이 최근 인도 서벵골주에서 발생한 니파바이러스 감염증에 대해 국내 방문객을 대상으로 감염 주의를 당부했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "서금원 \"안내전화 안심하고 받으세요\"…스마트 레터링 서비스",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20250328_0001803307_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09044",
+        "summary": "[서울=뉴시스]우연수 기자 = 서민금융진흥원이 정책서민금융 연체 채무자에 대한 상담 품질을 높이고 서민금융 사칭 전화로부터 이용자를 보호하기 위해 스마트 레터링 서비스를 도입한다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "샘표 영동공장, 장류업계 최초로 '글로벌 HACCP' 인증 획득",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/30/823277fa60e2ce.jpg",
+        "url": "https://news.nate.com/view/20260130n08999",
+        "summary": "기존 HACCP 대비 한층 고도화된 식품안전관리체계 갖춰",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"일 잘할 인물\" 트럼프, 새 연준 의장 다음주 발표",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fr/2026/01/30/art_722365_1769733732.jpg",
+        "url": "https://news.nate.com/view/20260130n08987",
+        "summary": "<strong>\"현 미국 금리 용납 못해...전 세계 가장 낮은 금리 가져야\"</strong>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "오세훈 서울시장, 피지컬 AI 거점으로 양재·수서·용산 꼽았다",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769735111181_150212_0.jpg",
+        "url": "https://news.nate.com/view/20260130n09629",
+        "summary": "오 시장, 30일 'AI 서울 2026' 콘퍼런스 참석\n용산국제업무지구, 테스트베드 공간 조성 지목 \n10월 '레벨 4 로보택시' 도입…시민 편의 제공",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "봉화군, 농산물 직거래 농업인에 택배·포장비 지원",
+        "time": "2026-01-30T10:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723519_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09564",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "충북 지난 12월 광공업 생산 13.1% 증가…전기장비 호재",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052203_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09605",
+        "summary": "[청주=뉴시스] 임선우 기자 = 충북의 광공업 생산 실적이 큰 폭으로 늘었다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "尹 체포방해 2심 서울고법 형사20부로…향후 전담재판부 재배당",
+        "time": "2026-01-30T10:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PYH2025092605300001300_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09522",
+        "summary": "23일 내란전담재판부 가동 전까지 기록 관리 등 임시 업무 담당",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 헌법재판소",
+        "time": "2026-01-30T10:04:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09577",
+        "summary": "◇ 선임헌법연구관",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "서울시, '피지컬 AI 선도도시' 선포…오세훈 \"산업 대전환 이끌 것\"",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.5d4de60ce0894e5e940b0ee48f47f6d0_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n09493",
+        "summary": "서울 도심 전역 ‘테스트베드’로 조성\r\n양재·수서 잇는 ‘피지컬 AI 벨트’ 구축\r\n용산은 ‘지능형 도시 표준 모델’로 구현\r\n국내 최초 로보택시·자율주행버스 확대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "헌법재판소 신임 사무차장에 지성수 헌법재판연구원장",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130053600004_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n09443",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "안동·김천·영천 건조경보…의성 등 3곳 한파경보 유지",
+        "time": "2026-01-30T10:01:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09442",
+        "summary": "(대구=연합뉴스) 기상청은 30일 오전 10시를 기해 안동·김천·영천에 건조경보를 발효한다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "완주군 시설관리공단, AI 기반 '초정밀 라이브 버스' 2월 도입",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723476_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09427",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "음성군 '반기문마라톤대회' 4월26일 개최…8000명 선착순 모집",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723512_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09439",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "충청북도 면적 7406㎢…\"지적 재조사로 0.2㎢ 감소\"",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052201_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09396",
+        "summary": "공장용지·도로 증가…농지·임야 감소",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "오세훈 \"서울, 전세계 피지컬 AI 표준 도시로\"…10월 로보택시 운행",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000544.jpg",
+        "url": "https://news.nate.com/view/20260130n09409",
+        "summary": "<font color=\"gray\"><b>- 30일 AI SEOUL 2026서 비전 선포</b></font>\n<font color=\"gray\"><b>- 양재~수서 잇는 ‘서울 피지컬 AI 벨트’</b></font>\n<font color=\"gray\"><b>- 국내 최초 로보택시·자율주행버스 확대</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "질병청, AI 활용해 미래 변이 대응하는 차세대 코로나 백신 설계",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PCM20210624000056990_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09364",
+        "summary": "AI로 구조 예측해 안정성 강화…\"변이 따라 백신 다시 만들 필요 없어\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"주변 상황을 보여주세요\"…영상통화로 화재 확산 차단",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130053300063_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n09346",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "오세훈, '피지컬 AI 선도도시' 비전 선포…\"서울을 테스트베드로\"",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009145636769_1.jpg",
+        "url": "https://news.nate.com/view/20260130n09350",
+        "summary": "오세훈 서울시장이  30일 서울 강남구 코엑스 그랜드볼룸에서 열린 'AI SEOUL 2026' 콘퍼런스에서 인프라·산업생태계·시민일상 등 3대 핵심 축을 중심으로 한 '피지컬 AI(인공지능) 선도도시' 비전을 제시했다. 서울시가 직접 기술 실증을 주도하고, 산업 확산까지 연결하는 서울형 피지컬 AI 모델을 본격 가동하겠다는 구상이다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "지적장애인 폭행 사망…유족·30여 단체, '방임' 반구대병원장 고소",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/20260130500685.jpg",
+        "url": "https://news.nate.com/view/20260130n07919",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "주차돼 있던 화물차에 불…\"엔진 예열 중 화재\"",
+        "time": "2026-01-30T09:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09273",
+        "summary": "오늘(30일) 새벽 2시 30분쯤 경북 구미시 공단동에서 주차돼 있던 대형 화물차에 불이 났습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "함안군, 장애인 복지에 180억 투입…장애연금 2% 인상",
+        "time": "2026-01-30T09:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723505_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09293",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 경찰, '김병기 측근' 이지희 동작구의원 오늘 재소환",
+        "time": "2026-01-30T09:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09271",
+        "summary": "경찰, '김병기 측근' 이지희 구의원 오늘 재소환",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "120억 캄 '로맨스 스캠' 한국인 총책 추적…핵심 부부 검찰송치",
+        "time": "2026-01-30T09:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PYH2026012314660005701_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09229",
+        "summary": "일당 83명 특정, 57명 붙잡아 39명 구속…나머지 26명 검거 주력",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "신임 헌법재판소 사무차장에 지성수 헌법재판연구원장 임명",
+        "time": "2026-01-30T09:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000538.jpg",
+        "url": "https://news.nate.com/view/20260130n09140",
+        "summary": "<font color=\"gray\"><b>- 헌재소장 1일 임명 예정…2일 임명장 수여식 개최</b></font>\n<font color=\"gray\"><b>- 제38회 사법시험 합격…헌법연구관 요직 역임</b></font>\n<font color=\"gray\"><b>- \"소탈하고 활달한 성품…전문성 바탕 역할 할 것\"</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "부안군, 반려동물 놀이터 개장…1월·8월 제외 연중 운영",
+        "time": "2026-01-30T09:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723507_high.jpg",
+        "url": "https://news.nate.com/view/20260130n09168",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "남양주 등 경기 4곳 한파주의보",
+        "time": "2026-01-30T09:58:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09233",
+        "summary": "(수원=연합뉴스) 기상청은 30일 오전 10시를 기해 남양주·파주·양주·동두천에 한파주의보를 발효한다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "지하철역사에 스크린파크골프장…성북구, 석계역에 문열어",
+        "time": "2026-01-30T09:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130053700004_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n09231",
+        "summary": "(서울=연합뉴스) 정준영 기자 = 성북구(구청장 이승로)는 지하철 6호선 석계역 내 유휴공간에 '성북석계역 스크린파크골프장'을 개장했다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[단독] \"소녀상 건드리지마\"…30명 모여 불법시위, 법원은 '무죄'",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/30/20260130505026.jpg",
+        "url": "https://news.nate.com/view/20260130n09019",
+        "summary": "일본군 위안부 피해자들을 상징하는 ‘평화의 소녀상’을 훼손하지 말라며 신고도 없이 집회를 연 시민단체 대표에게 법원이 무죄를 선고했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "경희대치과병원, 중국 하얼빈시 제2병원과 국제 협력 순항 중",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000536.jpg",
+        "url": "https://news.nate.com/view/20260130n09045",
+        "summary": "<font color=\"gray\"><b>- 의료진 정기 파견 통해 안정적인 임상·학술 협력 모델 구축</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보]최재현 검사 특검 첫 피의자 조사…'관봉권 띠지 폐기 의혹' 관련",
+        "time": "2026-01-30T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/30/news-p.v1.20260130.7ff98055177b4d4f937c3ab1a441d847_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n08934",
+        "summary": "검찰의 ‘관봉권 띠지 폐기 의혹’을 수사하는 안권섭 상설 특별검사가 30일 건진법사 전성배씨를 수사한 최재현 검사를 피의자 신분으로 소환했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "안산시, 'AI 면접체험관' 운영…구직자 실전 역량 강화 지원",
+        "time": "2026-01-30T09:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769734264380_468641_0.jpg",
+        "url": "https://news.nate.com/view/20260130n08811",
+        "summary": "정두환 기자 dhjung69@asiae.co.kr",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "광주역사민속박물관 '기억의 윤리, 평화의 언어' 연장 전시",
+        "time": "2026-01-30T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144669_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08800",
+        "summary": "4월10일까지…김대중 대통령·한강 작가 조명",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국기술교육대, 고용노동부 공공기관 청렴노력도 '최우수'",
+        "time": "2026-01-30T09:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/30/news-p.v1.20260130.9d61720c09084539a7960a8bcb74754f_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n08720",
+        "summary": "한국기술교육대는 고용노동부가 실시한 ‘2025년도 고용노동부 산하 공공기관 청렴노력도 평가’에서 최우수기관으로 선정됐다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "군포 산본신도시 '선도지구 정비' 본격화…후속 사업 탄력 기대",
+        "time": "2026-01-30T09:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723482_high.jpg",
+        "url": "https://news.nate.com/view/20260130n08670",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "구미·김천서 경운기·자전거 사고 잇따라…1명 사망·1명 경상",
+        "time": "2026-01-30T09:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/3116460_high.jpg",
+        "url": "https://news.nate.com/view/20260130n08620",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "울주군, '2026년 농촌주택개량사업' 대상자 모집",
+        "time": "2026-01-30T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.daa8a57bc4f9406d86a0cb34cb67665b_P1.png",
+        "url": "https://news.nate.com/view/20260130n08548",
+        "summary": "연면적 150㎡ 이하 주택 6동 선정\r\n신축·증축·대수선 등 융자금 지원",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "스타벅스 e-프리퀀시 가습기 '화재 우려'…40만대 전량 리콜",
+        "time": "2026-01-30T09:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2026/01/30/2026013009332346470_l.png",
+        "url": "https://news.nate.com/view/20260130n08406",
+        "summary": "내달 2일부터 앱 통해 회수 접수, 반납 시 3만원권 지급",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사]한국생명공학연구원",
+        "time": "2026-01-30T09:47:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n08576",
+        "summary": "[대전=뉴시스]  ◇센터장급",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "AI로 변이 대비…질병청, 차세대 코로나19 백신 설계 기술 개발",
+        "time": "2026-01-30T09:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20241126_0020608263_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08559",
+        "summary": "감염병 백신개발에 기술 적용 기대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다산 항공기, 인증 취소·관세 50% 부과할 것\"",
+        "time": "2026-01-30T09:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2026/01/30/2026013009412315658_1.jpg",
+        "url": "https://news.nate.com/view/20260130n08452",
+        "summary": "도널드 트럼프 미국 대통령이 캐나다에서 제조한 항공기에 대한 인증을 취소하고 관세 50%를 부과하겠다고 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "로저스 쿠팡 대표 오늘 오후 2시 소환…'셀프 조사' 집중 수사",
+        "time": "2026-01-30T09:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300935244693_t.jpg",
+        "url": "https://news.nate.com/view/20260130n08383",
+        "summary": "<b>로저스 쿠팡 대표, 오늘 오후 2시 경찰 출석 예정\n\n지난 21일 한국 재입국…귀국 9일 만에 출석\n\n출국 기간 두 차례 소환 불응…3차 소환에 출석</b>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "충북교육청, 무상급식 식품비 단가 전년비 5.6％↑",
+        "time": "2026-01-30T09:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20230216_0001197279_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08272",
+        "summary": "평균 4210원…전국 도 단위 급별 최고 단가 적용",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"업무차 방문\"…유명 가수, 미국 '54억' 원정도박 의혹 반박",
+        "time": "2026-01-30T09:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/30/news-p.v1.20260130.652da9a734fc4da09ef692d26311bf24_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n07632",
+        "summary": "유명 가수 겸 제작자 A씨가 미국 라스베이거스에서 수년간 수십억 원대 원정도박을 했다는 의혹이 제기됐다. A씨는 “모두 허위”라며 반박했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "KGM, 튀르키예서 작년 누적 판매 5만대 돌파",
+        "time": "2026-01-30T09:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/30/202611551769733559.jpg",
+        "url": "https://news.nate.com/view/20260130n08349",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "단양 폐기물업체 화재 이틀재 진화작업…폐기물 140톤 불타",
+        "time": "2026-01-30T09:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723237_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05400",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "미, 한국 '환율 관찰 대상국' 재지정…\"외환시장 감시범위 확대\"",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/20251104500495.jpg",
+        "url": "https://news.nate.com/view/20260130n03673",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"1개 1만1000원?\"…한국 '두쫀쿠', 이번엔 두바이로 역수출",
+        "time": "2026-01-30T10:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000557.jpg",
+        "url": "https://news.nate.com/view/20260130n09651",
+        "summary": "<font color=\"gray\"><b>- ‘두쫀쿠’, 두바이 카페서 판매 시작</b></font>\n<font color=\"gray\"><b>- 1개당 29디르함…“인기 불어닥칠 것”</b></font>\n<font color=\"gray\"><b>- 일본도 SNS에 ‘두쫀쿠’ 해시태그 증가</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[르포] 美장관·英총리 찾은 베이징 골목식당…접시 위의 '음식 외교'",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130051700083_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n09619",
+        "summary": "공식 만찬 대신 골목 식탁…정상 외교의 또 다른 무대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"타국은 현금인출기, 여태 봐준 것\"…30일 새 연준의장 후보 발표",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/30/1cbe38d4-c2bf-4aa6-868f-087f2fe0e475.jpg",
+        "url": "https://news.nate.com/view/20260130n01727",
+        "summary": "도널드 트럼프 미국 대통령은 29일(현지시간) 세계 각국에 일방적으로 부과한 관세와 관련 “지금보다 훨씬 더 높을(much steeper) 수 있다”고 말했다. 상황에 따라 지금까지 부과한 관세보다 높은 관세를 부과해 보다 강한 압박을 가할 가능성을 시사한 말로 풀이된다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보]트럼프 \"내일 차기 연준의장 후보자 발표\" 〈로이터〉",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/30/133263722.2.jpg",
+        "url": "https://news.nate.com/view/20260130n08996",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"내일 차기 연준의장 후보자 발표\" <로이터>",
+        "time": "2026-01-30T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/30/rcv.YNA.20260130.PRU20260130151901009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n07592",
+        "summary": "도널드 트럼프 미국 대통령이 오는 30일(현지 시간) 미국 중앙은행인 연방준비제도(Fed·연준)의 새 의장 후보자를 발표한다고 예고했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "빙하 빠르게 녹는데 더 살찌고 건강해진 북극곰, 왜",
+        "time": "2026-01-30T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/30/2ca164db-f8bc-495b-b1ca-224b0b0daba3.jpg",
+        "url": "https://news.nate.com/view/20260130n09501",
+        "summary": "기후변화로 북극 해빙이 빠르게 감소하고 있는데도 북극해 스발바르제도에 서식하는 북극곰은 더 살이 찌고 건강해졌다는 연구 결과가 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "日도쿄전력, 후쿠시마원전 2호기 압력용기 내부 9월 이전 첫 조사",
+        "time": "2026-01-30T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20240213_0000860761_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09598",
+        "summary": "핵연료 데브리 반출 방법 검토",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"관세 대부분 철폐\"…트럼프 비위 맞춘 엘살바도르, '주요 파트너'로 발돋움",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769734926796_544847_0.jpg",
+        "url": "https://news.nate.com/view/20260130n09465",
+        "summary": "중남미 엘살바도르, 트럼프와 친밀 관계 형성\n무역협정서 관세 10% 대부분 철폐하기로\n트럼프와 친한 아르헨티나 등에 선례 될 듯",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국인 교수, 호텔서 지인 여성 추행 혐의…\"동의 있었다\" 주장에도 日서 체포 [핫이슈]",
+        "time": "2026-01-30T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/30/SSC_20260130100036_V.jpg",
+        "url": "https://news.nate.com/view/20260130n09463",
+        "summary": "[서울신문 나우뉴스]일본 오카야마시의 한 호텔에서 20대 한국인 여성을 추행한 혐의로 40대 한국인 대학교수가 현지 경찰에 체포됐다. 남성은 조사에서 “동의가 있었다”며 혐의를 부인했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'함대 이동중' 이란 공습 임박 관측 나왔다…금값 또 최고치·유가 급등",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769734867340_621386_0.jpg",
+        "url": "https://news.nate.com/view/20260130n08441",
+        "summary": "WTI·브렌트유 동반 상승\n안전자산 금값도 올라",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "英, 이란 혁명수비대 제재 입법 추진…테러단체 지정엔 신중",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PAF20260130024501009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n09324",
+        "summary": "기존 테러법 적용 대신 영장없는 검문 등 맞춤형 제재 입법",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 산업장관 \"美상무와 내일 다시 회담…관세 결론 안나\"(종합)",
+        "time": "2026-01-30T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144589_web.jpg",
+        "url": "https://news.nate.com/view/20260130n09331",
+        "summary": "트럼프 \"한국 관세 인상\" 발표 후 첫 장관급 회담\n美 무역합의 미이행 주장에 투자입법 진행 설명",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'충격의 거대 수용소' 목숨 건 폭로…미, 이례적 망명 허용",
+        "time": "2026-01-30T10:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202152177_700.jpg",
+        "url": "https://news.nate.com/view/20260130n09402",
+        "summary": "미국 법원이 중국 신장위구르 자치구에서 벌어지는 인권 유린을 폭로한 중국인에게 이례적으로 망명을 허용했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관-러트닉, 1시간 20분 회동…\"많은 대화…내일 추가 회동\"",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/01/30/news-p.v1.20260130.a2822a510f1a4b3e9ed355f4da49fb8b_P1.jpeg",
+        "url": "https://news.nate.com/view/20260130n07426",
+        "summary": "“관세 인상, 막는다 안 막는다 이야기 안 해”",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'쿠팡 이사'가 차기 미 연준의장?…트럼프 \"내일 후보자 발표\"",
+        "time": "2026-01-30T09:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/30/381a8cab-a0a6-4d3f-9fb5-664fc7ec678c.jpg",
+        "url": "https://news.nate.com/view/20260130n07407",
+        "summary": "김천 기자 (kim.cheon@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다, 미국 항공기 수입 막아\"…50% 관세 위협",
+        "time": "2026-01-30T09:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09281",
+        "summary": "트럼프 미국 대통령은 캐나다가 미국산 항공기 수입을 막고 있다며, 관세 부과하겠다고 위협했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[자막뉴스] 트럼프 \"관세 더 높아질 수 있다\" 경고…이번 주말 '고비'",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300833545363_t.jpg",
+        "url": "https://news.nate.com/view/20260130n05276",
+        "summary": "김정관 산업통상부 장관이 미국 상무부 청사로 들어섭니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관·러트닉 관세 협의 시작…이번 주말 관세 대응 총력전",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300758506484_t.jpg",
+        "url": "https://news.nate.com/view/20260130n04430",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보]트럼프 \"차기 연준의장 후보자 내일 발표\"",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08991",
+        "summary": "후속기사가 이어집니다",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "프레티 기리는 뉴욕 재향군인 병원 간호사들",
+        "time": "2026-01-30T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0000963073_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08952",
+        "summary": "[뉴욕=AP/뉴시스] 29일(현지 시간) 미국 뉴욕의 재향군인(VA) 보훈 의료센터 밖에서 간호사들과 그 지지자들이 미네소타주 미니애폴리스에서 이민세관단속국(ICE)에 사살된 간호사 알렉스 프레티의 사진을 들고 그를 기리는 촛불 집회를 열고 있다. 2026.01.30.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "멋보다 '카와이이'…일본 사람들이 판다에 열광하는 이유",
+        "time": "2026-01-30T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/53_17697335106614_20260130500559.jpg",
+        "url": "https://news.nate.com/view/20260130n07339",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "신장위구르 폭로 중국인에 망명 허용…\"트럼프 정부서 드문 사례\"",
+        "time": "2026-01-30T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300948020037_d.jpg",
+        "url": "https://news.nate.com/view/20260130n09023",
+        "summary": "미국 법원이 중국 신장(新疆)위구르 자치구에서 벌어지는 인권 유린 상황을 폭로한 중국인에게 이례적으로 망명을 허용했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "성접대에 뇌물까지 받은 60대 의대교수…'도쿄대 비리' 충격에 일본 열도 발칵",
+        "time": "2026-01-30T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2026/01/30/news-p.v1.20260130.1cea2c6fd68144d6a506a65183f5818a_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n08771",
+        "summary": "일본 최고 명문대로 꼽히는 도쿄대학교의 의학부 부속병원 교수가 성접대와 뇌물 수수 등 비리 사건에 연루돼 충격에 휩싸였다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"한국이 또 해냄\"…'원조' 두바이에 '두쫀쿠' 유행마저 역수출",
+        "time": "2026-01-30T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769734204494_877847_0.jpg",
+        "url": "https://news.nate.com/view/20260130n04683",
+        "summary": "K팝 팬들 통해 해외 SNS서 인기 확산\n두바이 현지 카페서 판매 시작\n일본서도 신주쿠 중심으로 매장 확대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"쿠바와 석유 거래하면 관세 부과\" 행정명령[1일1트]",
+        "time": "2026-01-30T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/rcv.YNA.20260130.PRU20260130151701009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n08544",
+        "summary": "러·中과의 군사·정보협력 문제삼아…국가비상사태 선포\r\n‘마약과의 전쟁’ 선포한 트럼프, ‘마약중독 지원’ 행정명령도",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"30일 새 연준 의장 후보 발표\"",
+        "time": "2026-01-30T09:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR2026013009482935p_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n08685",
+        "summary": "도널드 트럼프 대통령이 현지시간으로 오는 30일 연방준비제도의 새 의장 후보자를 발표한다고 예고했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"30일 아침 차기 연준 의장 후보자 발표\"",
+        "time": "2026-01-30T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723086_high.jpg",
+        "url": "https://news.nate.com/view/20260130n08533",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "이란, 시위 재발 막으려 전국서 수천명 체포…'공포 조장' 작전",
+        "time": "2026-01-30T09:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723304_high.jpg",
+        "url": "https://news.nate.com/view/20260130n08313",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 산업부 장관 \"러트닉 美 상무, 내일 다시 만나 관세 협의\"",
+        "time": "2026-01-30T09:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/30/ch_1769733613171_752155_0.jpg",
+        "url": "https://news.nate.com/view/20260130n05108",
+        "summary": "한국 기업에 대한 미국의 관세 재인상을 막기 위해 급파된 김정관 산업통상자원부 장관이 하워드 러트닉 미 상무장관과 첫 협의를 가졌으나 결론을 내지 못했다. 양측은 다음 날 다시 만나 논의를 이어가기로 했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "빙하 녹고 있는데 북극곰은 더 살쪘다?…\"새로운 먹이 찾은 듯\"",
+        "time": "2026-01-30T09:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202137364_700.jpg",
+        "url": "https://news.nate.com/view/20260130n08238",
+        "summary": "기후변화로 북극 빙하가 빠르게 감소하고 있는데도 북극해 스발바르제도에 서식하는 북극곰은 더 살이 찌고 건강해졌다는 연구 결과가 나왔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"디에고 가르시아 섬 못 넘긴다\" 트럼프의 뒤늦은 '변심(變心)'에, 英정치판 흔들",
+        "time": "2026-01-30T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/30/ch_1769733971460_161141_0.jpg",
+        "url": "https://news.nate.com/view/20260130n06920",
+        "summary": "중동~아시아에 戰力 투사하는 인도양의 미 핵심적 전략기지\n영국, 모리셔스에 주권 넘기고, 99년간 기지 사용하기로\n작년 5월엔 “기념비적 성과”라던 트럼프, 열흘 전 “엄청나게 어리석은 행위”\n英 야당들 “미국도 속았다는 것 이제 깨달았다” 트럼프 U턴에 환영\n디에고 가르시아 포함한 차고스 제도 주민 99%는 ‘영국 잔류’ 원해",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 \"러트닉 내일 다시 만날 예정\"…관세 협의 계속",
+        "time": "2026-01-30T09:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/30/f5cc29f4-8eef-4537-a2c4-efcd30d1e7cf.jpg",
+        "url": "https://news.nate.com/view/20260130n05454",
+        "summary": "김천 기자 (kim.cheon@jtbc.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"내일 차기 연준의장 후보자 발표\"",
+        "time": "2026-01-30T09:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.6e5270e911b74f17a1c4188af253e129_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n08159",
+        "summary": "[헤럴드경제=김영철 기자] 도널드 트럼프 미국 대통령이 오는 30일(현지시간) 미국 중앙은행인 연방준비제도(Fed·연준)의 새 의장 후보자를 발표한다고 예고했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"내일 차기 연준의장 후보자 발표\"",
+        "time": "2026-01-30T09:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/30/e8825e3b-9143-4925-a970-51a77b2f210c.jpg",
+        "url": "https://news.nate.com/view/20260130n07267",
+        "summary": "도널드 트럼프 미국 대통령이 오는 30일(현지시간) 미국 중앙은행인 연방준비제도(Fed·연준)의 새 의장 후보자를 발표한다고 말했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프, 베네수 상공 개방 지시…\"미국 시민들 곧 안전하게 방문\"",
+        "time": "2026-01-30T09:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7698424_high.jpg",
+        "url": "https://news.nate.com/view/20260130n08196",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "빙하 녹는데 더 살찐 북극곰…\"새로운 먹이로 지방 섭취\"",
+        "time": "2026-01-30T09:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n08132",
+        "summary": "기후변화로 북극 해빙(海氷)이 빠르게 감소하고 있는데도 북극해 스발바르제도에 서식하는 북극곰은 더 살이 찌고 건강해졌다는 연구 결과가 나왔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "머스크 회사 다 합치나…\"스페이스X, 테슬라나 xAI와 합병\"",
+        "time": "2026-01-30T09:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n08131",
+        "summary": "대규모 기업공개(IPO)를 앞둔 일론 머스크의 우주기업 스페이스X가 전기차 기업 테슬라나 인공지능(AI) 기업 xAI와 합병을 추진하고 있는 것으로 알려졌습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[자막뉴스] 한국 지목하진 않았지만 '의미심장'…트럼프의 폭탄 경고",
+        "time": "2026-01-30T09:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300753469119_t.jpg",
+        "url": "https://news.nate.com/view/20260130n04320",
+        "summary": "오늘 백악관에서 주재한 내각회의에서 언급한 내용인데요.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다산 항공기 전부 인증 취소…관세 50% 부과\"",
+        "time": "2026-01-30T09:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0000961951_web.jpg",
+        "url": "https://news.nate.com/view/20260130n08085",
+        "summary": "\"걸프스트림 인증 부당하게 거부\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美재무부, 한국을 '환율 관찰 대상국'으로 재지정",
+        "time": "2026-01-30T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/30/ch_1769733376716_604914_0.jpg",
+        "url": "https://news.nate.com/view/20260130n02623",
+        "summary": "재무부는 한국과 일본, 베트남 등 10국을 환율 및 거시 경제 정책에 대한 면밀한 주시가 필요한 ‘관찰 대상국(monitoring list)’ 목록에 올렸다고 29일 밝혔다. 재무부는 이날 연방 의회에 보고한 ‘주요 교역 상대국의 거시 경제 및 외환 정책’에 관한 반기 보고서를 공개해 이같이 전했다. 스콧 베선트 재무장관은 “도널드 트럼프 대통령은 파괴적인 무역 적자 해소, 불공정 무역 관행 대응 등을 바탕으로 미국의 재도약을 촉진할 경제·무역 정책을 추진하겠다는 의지를 갖고 있다”며 “무역 상대국이 외환 개입, 비(非)시장적 관행을 통해 통화를 조작해 무역에서 불공정한 경쟁 우위를 점유하고 있는지 면밀히 모니터링하고 있다”고 했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "미군, 대만 못 지킨다?⋯\"중국군, 미국 제압 후 일본까지 위협\"",
+        "time": "2026-01-30T09:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/30/2450a8f5681a5a.jpg",
+        "url": "https://news.nate.com/view/20260130n07634",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관, 러트닉과 '관세갈등' 결론 못내…\"내일 다시 만난다\"",
+        "time": "2026-01-30T09:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300931390675_t.jpg",
+        "url": "https://news.nate.com/view/20260130n07823",
+        "summary": "김정관 산업통상부 장관이 미국의 관세 재인상 위협에 대응하기 위해 하워드 러트닉 미국 상무부 장관을 만났지만, 합의점을 찾지 못했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"오젬픽 효과 없다고 하던데\"…뜨끔한 부통령 \"저거 내 얘기 아니다\"",
+        "time": "2026-01-30T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/01/30/ch_1769733365030_15084_0.jpg",
+        "url": "https://news.nate.com/view/20260130n02499",
+        "summary": "취임 후 10번째 내각 회의 주재\n여러 농담 오가며 화기애애한 분위기\n시간은 3시간→80분 크게 줄어",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"쿠바 석유 거래 나라에 관세 부과\" 행정명령",
+        "time": "2026-01-30T09:34:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n07806",
+        "summary": "트럼프 미국 대통령이 쿠바가 미국의 국가 안보에 위협을 가하고 있다며, 국가 비상사태를 선포하고 쿠바와 석유 거래를 하는 나라에 관세를 부과하는 행정명령에도 서명했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"쿠바와 석유 거래하는 나라에 관세\"…트럼프, 행정명령 서명",
+        "time": "2026-01-30T09:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202152166_700.jpg",
+        "url": "https://news.nate.com/view/20260130n07688",
+        "summary": "도널드 트럼프 미국 대통령은 쿠바가 미국의 국가 안보에 위협을 가하고 있다면서 국가 비상사태를 선포하고 이에 따라 쿠바와 석유 거래를 하는 나라에 관세를 부과하기로 하는 행정명령에 서명했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 김정관, 러트닉과 '관세 협의' 결론 못 내…\"내일 다시 만나\"",
+        "time": "2026-01-30T09:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/20260130500462.jpg",
+        "url": "https://news.nate.com/view/20260130n06524",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 美 백악관·민주당 지출안 합의…연방 정부 셧다운 막았다",
+        "time": "2026-01-30T09:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202507171045541058_l.jpg",
+        "url": "https://news.nate.com/view/20260130n07595",
+        "summary": "[파이낸셜뉴스]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "알리바바, 고성능 AI칩 공개…\"엔비디아 H20에 필적\"",
+        "time": "2026-01-30T09:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052151_web.jpg",
+        "url": "https://news.nate.com/view/20260130n07613",
+        "summary": "PPU '전우 810E 전격 공개…AI 학습·자율주행 활용",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 행정부, 한국 '환율 관찰 대상국'으로 유지",
+        "time": "2026-01-30T09:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2026/01/30/7b6e8ffb80924f.jpg",
+        "url": "https://news.nate.com/view/20260130n07556",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 부분 셧다운 피할 듯…예산안 잠정 합의",
+        "time": "2026-01-30T09:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000485.jpg",
+        "url": "https://news.nate.com/view/20260130n07503",
+        "summary": "<font color=\"gray\"><b>- ICE 사태에 국토안보부 예산 두고 여야 충돌</b></font>\n<font color=\"gray\"><b>- 국토부 분리한 예산 처리 후 협상 계속하기로</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관, 美러트닉과 '관세갈등' 결론 못내…\"내일 다시 만나 협의\"",
+        "time": "2026-01-30T09:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/01/30/133263265.1.jpg",
+        "url": "https://news.nate.com/view/20260130n05838",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 \"러트닉과 관세 협의 결론 못내…내일 다시 만나\"",
+        "time": "2026-01-30T09:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/rcv.YNA.20260129.PYH2026012909590007100_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n07335",
+        "summary": "러트닉, 전날 삼성 행사서 “대미 투자는 선택 사항이 아니다”",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "베네수엘라, '석유 국유화' 폐기···미국 이권 강화 길 열리나",
+        "time": "2026-01-30T09:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/30/rcv.YNA.20260130.PRU20260130142201009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n07465",
+        "summary": "‘세계 최대 원유 매장국’ 베네수엘라가 20년간 이어온 석유 국유화 조처를 공식 폐기했다. 베네수엘라 원유 자원을 직접 통제하겠다고 선언한 도널드 트럼프 미국 대통령의 ‘에너지 패권주의’에 힘이 붙을 전망이다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "韓美산업장관, 관세 인상 논의했지만 합의 불발···내일 재협상",
+        "time": "2026-01-30T09:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sm/2026/01/30/134363_236495_2131.jpg",
+        "url": "https://news.nate.com/view/20260130n07235",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 트럼프 \"내일 차기 연준의장 후보자 발표\" 로이터",
+        "time": "2026-01-30T09:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PEP20260130126201009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n07168",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美국방, 마두로 언급하며 \"트럼프 이란에 어떤 지시해도 실행 가능\"",
+        "time": "2026-01-30T09:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20251001_0000682255_web.jpg",
+        "url": "https://news.nate.com/view/20260130n07208",
+        "summary": "\"트럼프 '핵보유 이란은 없다' 발언 진심\"\n\"이란 합의할 수 있게 모든 선택지 열것\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"지금 관세는 관대한 것…훨씬 더 높일 수 있다\" 으름장",
+        "time": "2026-01-30T09:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723090_high.jpg",
+        "url": "https://news.nate.com/view/20260130n06979",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "화장품 박살 낸 이란인들…분노의 '후다 뷰티' 보이콧 [소셜픽]",
+        "time": "2026-01-30T09:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/01/30/20260130075057239001.jpg",
+        "url": "https://news.nate.com/view/20260130n06895",
+        "summary": "소셜미디어에서 이란인들이 유명 화장품 브랜드를 부수고, 버리는 영상이 퍼지고 있습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "유럽에 손 내미는 中, 英 총리 맞아 영국산 위스키 관세 인하",
+        "time": "2026-01-30T09:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/30/20260130504064.jpg",
+        "url": "https://news.nate.com/view/20260130n06914",
+        "summary": "중국이 키어 스타머 영국 총리의 방중을 계기로 영국산 위스키에 부과하는 관세율을 절반으로 낮추고 영국의 불법 이민 문제 해결에도 협력하기로 한 것으로 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"쿠바와 석유 거래하는 나라에 관세 부과\" 행정명령",
+        "time": "2026-01-30T09:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PEP20260130126401009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n06472",
+        "summary": "\"쿠바, 중·러 등과 결탁하며 美안보 위협\" 국가비상사태 선포",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 장관, 러트닉과 '관세 갈등' 결론 못 내…\"또 만난다\"",
+        "time": "2026-01-30T09:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202152162_700.jpg",
+        "url": "https://news.nate.com/view/20260130n06832",
+        "summary": "김정관 산업통상부 장관이 미국의 관세 재인상 위협에 대응하기 위해 하워드 러트닉 미국 상무부 장관을 만났지만 합의점을 찾지는 못했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "캄보디아 국경 긴장 속…'185억' 태국 공군 울버린 추락 [밀리터리+]",
+        "time": "2026-01-30T09:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/01/30/SSC_20260130091312_V.jpg",
+        "url": "https://news.nate.com/view/20260130n06779",
+        "summary": "[서울신문 나우뉴스]태국군이 실전 임무에 투입해온 경공격기가 훈련 비행 중 추락해 조종사 2명이 모두 숨졌다고 현지 매체 더네이션이 29일 보도했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관, 러트닉과 '관세갈등' 결론 못내…\"내일 다시 회동\"",
+        "time": "2026-01-30T09:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/30/091e3c09-b2c5-4661-b37a-d22f9871e6be.jpg",
+        "url": "https://news.nate.com/view/20260130n06688",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 한미 '관세 재인상 사태' 첫날 협의 종료···김정관 장관 \"결론 안났다, 내일 다시\"",
+        "time": "2026-01-30T09:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/30/news-p.v1.20260129.0a25049aa2564b5297ee031416961d14_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n05159",
+        "summary": "김정관 산업통상부 장관이 29일(현지시간) 미국의 관세 재인상 위협에 대응하기 위해 하워드 러트닉 미 상무부 장관을 만났으나 바로 합의점을 찾지는 못했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국 환율 관찰대상국 유지…미 \"원화 약세, 기초여건 부합 안 해\"",
+        "time": "2026-01-30T09:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202152159_700.jpg",
+        "url": "https://news.nate.com/view/20260130n06572",
+        "summary": "미국 도널드 트럼프 행정부가 29일(현지시간) 한국을 환율 관찰 대상국으로 재차 지정했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "베네수, 석유 국유화 20년만 폐기…미 '에너지 패권' 탄력",
+        "time": "2026-01-30T09:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR20260130091302G0F_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n06694",
+        "summary": "'세계 최대 원유 매장국' 베네수엘라가 자원주권 수호의 핵심 정책으로 여기던 석유 국유화 조처를 공식 폐기했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"몽클레르 필요 없다, 한국인처럼 입자\"…중국서 '못생긴' 패딩 유행",
+        "time": "2026-01-30T09:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/mt_1769731385246_767381_0.jpg",
+        "url": "https://news.nate.com/view/20260130n05984",
+        "summary": "올겨울 중국에서 이른바 '못생긴 패딩'이 유행하고 있다. 브랜드나 디자인을 강조하기보다 실용성을 중시한 한국 스타일 패딩이 가격 대비 만족도를 추구하는 젊은 세대에서 인기를 끄는 것으로 전해졌다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다, 일부 미 항공기 수입 막고 있다\"며 관세 위협",
+        "time": "2026-01-30T09:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/01/30/202151332_700.jpg",
+        "url": "https://news.nate.com/view/20260130n06411",
+        "summary": "도널드 트럼프 미국 대통령은 29일(현지시간) 캐나다가 미국산 항공기 수입을 막고 있다고 주장하며 이 문제가 해결되지 않으면 캐나다산 항공기에 50% 관세를 부과하겠다고 밝혔습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보]트럼프 \"캐나다産 항공기 인증 취소…관세 50% 부과\"",
+        "time": "2026-01-30T09:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06255",
+        "summary": "후속기사가 이어집니다",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 김정관, 러트닉과 '관세협의' 결론 못내…\"내일 다시 만난다\"",
+        "time": "2026-01-30T09:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/01/30/5f8243fe-c696-4eab-a98f-f2a5914be1b7.jpg",
+        "url": "https://news.nate.com/view/20260130n04988",
+        "summary": "김정관 산업통상부 장관이 미국의 관세 재인상 위협에 대응하기 위해 29일(현지시간) 하워드 러트닉 미국 상무부 장관을 만났으나 바로 합의점을 찾진 못했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[월드앤이슈] 한국 '환율 관찰대상국' 지정…한미 관세사태 협의",
+        "time": "2026-01-30T09:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/880603_1769731254.jpg",
+        "url": "https://news.nate.com/view/20260130n06378",
+        "summary": "<출연 : 조윤주 외신캐스터>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 장관과 회담 위해 美 상무부 청사 들어서는 김정관 장관",
+        "time": "2026-01-30T09:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144590_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06191",
+        "summary": "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 29일(현지 시간) 하워드 러트닉 미국 상무부 장관과 회담을 위해 워싱턴DC 상무부 청사로 들어서고 있다. 2026.01.30. sympathy@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 미 상무부 장관과 회담 마친 김정관 장관",
+        "time": "2026-01-30T09:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144586_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06186",
+        "summary": "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 29일(현지 시간) 하워드 러트닉 미국 상무부 장관과 회담 후 워싱턴DC 상무부 청사를 나서고 있다. 2026.01.30. sympathy@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 장관과 회담 위해 美 상무부 청사 들어서는 김정관 장관",
+        "time": "2026-01-30T09:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144589_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06189",
+        "summary": "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 29일(현지 시간) 하워드 러트닉 미국 상무부 장관과 회담을 위해 워싱턴DC 상무부 청사로 들어서고 있다. 2026.01.30. sympathy@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 미 상무부 장관과 회담 마친 김정관 장관",
+        "time": "2026-01-30T09:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144587_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06182",
+        "summary": "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 29일(현지 시간) 하워드 러트닉 미국 상무부 장관과 회담 후 워싱턴DC 상무부 청사를 나서고 있다. 2026.01.30. sympathy@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "러트닉 장관과 회담 위해 美 상무부 청사 들어서는 김정관 장관",
+        "time": "2026-01-30T09:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0021144588_web.jpg",
+        "url": "https://news.nate.com/view/20260130n06174",
+        "summary": "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 29일(현지 시간) 하워드 러트닉 미국 상무부 장관과 회담을 위해 워싱턴DC 상무부 청사로 들어서고 있다. 2026.01.30. sympathy@newsis.com",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"캐나다, 일부 美항공기 수입 막고 있다\"며 관세위협",
+        "time": "2026-01-30T09:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PEP20260130037901009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n06095",
+        "summary": "\"문제 시정 안되면 모든 캐나다산 항공기에 50% 관세\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "中·필리핀, 해양 문제 회담…'소통 채널' 유지 공감",
+        "time": "2026-01-30T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052046_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05897",
+        "summary": "[서울=뉴시스] 문예성 기자 = 중국과 필리핀이 해양 문제를 둘러싼 갈등에도 불구하고 외교 채널을 통한 소통을 유지하기로 뜻을 모았다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "유엔 안보리, 아이티 유엔군 통합사무실 연장 만장일치 결의",
+        "time": "2026-01-30T08:56:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n05896",
+        "summary": "유엔군 통합사무실(BINUH) 2027년 1월까지 1년 연장\n 갱단 진압, 국내 통합, 전력 공급 , 선거 등 6대 과제도",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "中 지도부, 장유샤 숙청 속 '공산주의 전사' 故 랴오시룽 애도",
+        "time": "2026-01-30T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130031100009_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n05887",
+        "summary": "상무위원 전원, 후진타오·한정 부주석도…공산당 충성 유도 목적인듯",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "젤렌스키 '러 혹한기 공격 자제' 환영…\"트럼프 감사\"",
+        "time": "2026-01-30T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR20260130085304e7B_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n05794",
+        "summary": "볼로디미르 젤렌스키 대통령이 혹한기 공격을 자제하겠다는 러시아의 약속을 환영하며 \"긴장 완화 조치는 종전에 큰 도움이 될 것\"이라고 말했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프, 한국 뿐 아니라 전 세계에 \"관세 훨씬 가파르게 올릴 수도\"",
+        "time": "2026-01-30T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/53_17697304975655_20260130500322.jpg",
+        "url": "https://news.nate.com/view/20260130n05472",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "韓 환율 관찰대상국 유지…美 \"원화 약세, 기초여건 부합 안해\"(종합2보)",
+        "time": "2026-01-30T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PAP20260130029201009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n05813",
+        "summary": "재무부 환율정책 반기 보고서…韓 등 9개국 유지, 태국 새로 지정",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "MS 10% 급락에 기술주 흔들…AI 투자 '회의론' 재부상(종합)",
+        "time": "2026-01-30T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20251223_0000878349_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05877",
+        "summary": "MS 시총, 하루 512조원 증발, 나스닥 장중 2.6%↓\n성장 둔화 우려에 기술주 조정…금·비트코인 변동성 확대",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美법원, 신장위구르 인권 유린 폭로한 중국인에 망명 허용",
+        "time": "2026-01-30T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PAP20260124129001009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n05798",
+        "summary": "수용소 영상 찍어 공개…트럼프 정부서 망명 허용 드문 사례",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"이란 사복 보안인력이 수천명 체포\"…시위 재발 우려?",
+        "time": "2026-01-30T08:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR20260130085207jQO_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n05764",
+        "summary": "이란 당국이 반정부 시위의 재확산을 막기 위해 대규모 검거 작전에 돌입했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[자막뉴스] 사실상 '유엔 해체 작업'…'무소불위' 트럼프의 위험한 선언",
+        "time": "2026-01-30T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300716424414_t.jpg",
+        "url": "https://news.nate.com/view/20260130n05789",
+        "summary": "트럼프 미 대통령이 주도하는 평화위원회의 명분은 가자지구 전쟁이 끝난 뒤 재건과 평화 구축입니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "日 눈 속에 19시간 묻혔던 78세 남성, 생존",
+        "time": "2026-01-30T08:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20250109_0000016777_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05736",
+        "summary": "[서울=뉴시스]박지혁 기자 = 눈 속에 무려 19시간 동안 묻혀 있던 78세 남성이 극적으로 구조돼 목숨을 살렸다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 대답 중인 미국 국무장관",
+        "time": "2026-01-30T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7721582_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05690",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "김정관 산업장관 \"美상무 내일 다시 만나기로…아직 결론 안나\"",
+        "time": "2026-01-30T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052071_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05706",
+        "summary": "[워싱턴·서울=뉴시스] 이윤희 특파원,  김승민 기자 = 도널드 트럼프 미국 대통령이 한국의 대미 투자 이행을 문제 삼아 관세 인상을 압박하고 나선 가운데, 양국이 장관급 협의를 개시했으나 곧바로 결론을 짓지 못했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] EU-베트남, '포괄적 전략적 동반자 관계' 체결",
+        "time": "2026-01-30T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7722516_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05689",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 취재진 질문에 답하는 EU 외교수장",
+        "time": "2026-01-30T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7722677_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05671",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 이스라엘 인질 장례식에 참석한 베냐민 네타냐후 총리",
+        "time": "2026-01-30T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7722071_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05688",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 독일 연방의회에서 연설하는 메르츠 총리",
+        "time": "2026-01-30T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723053_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05646",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 내각회의 주재하는 트럼프",
+        "time": "2026-01-30T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723086_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05641",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 내각회의 참석한 트럼프",
+        "time": "2026-01-30T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723087_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05640",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[포토] 내각회의서 발언하는 헤그세스 미 국방",
+        "time": "2026-01-30T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723089_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05625",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"각국 관세, 훨씬 더 높아질 수도···그동안 친절했다\" 추가 압박 가능성",
+        "time": "2026-01-30T08:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2026/01/30/rcv.YNA.20260130.PAP20260130108401009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n05097",
+        "summary": "도널드 트럼프 미국 대통령이 29일(현지시간) 세계 각국에 부과한 관세가 “지금보다 훨씬 더 높을 수 있다”고 말했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 한미 '관세 재인상' 첫날 협의 종료…\"내일 다시 만날 것\"",
+        "time": "2026-01-30T08:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300839444942_t.jpg",
+        "url": "https://news.nate.com/view/20260130n05417",
+        "summary": "한미 '관세 재인상' 첫날 협의 종료…\"결론 안 나\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "국제유가, 이란 위기 고조에 3.4%↑…브렌트유 6개월 만에 최고",
+        "time": "2026-01-30T08:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/30/1329395_1517477_4030.jpg",
+        "url": "https://news.nate.com/view/20260130n05317",
+        "summary": "사진=연합뉴스",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "리바키나, 페굴라 꺾고 호주오픈 결승 진출",
+        "time": "2026-01-30T08:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260129_0000961693_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05271",
+        "summary": "[멜버른=AP/뉴시스] 엘레나 리바키나(5위·카자흐스탄, 오른쪽)가 29일(현지 시간) 호주 멜버른에서 열린 호주오픈 여자 단식 준결승에서 제시카 페굴라(6위·미국)를 물리친 후 인사를 나누고 있다. 리바키나가 2-0(6-3 7-6)으로 승리하고 결승에 올라 지난해 준우승자인 아리나 사발렌카(1위·벨라루스)와 우승을 다툰다. 2026.01.30.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "리바키나, 호주오픈 결승 올라 사발렌카와 격돌",
+        "time": "2026-01-30T08:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260129_0000961679_web.jpg",
+        "url": "https://news.nate.com/view/20260130n05266",
+        "summary": "[멜버른=AP/뉴시스] 엘레나 리바키나(5위·카자흐스탄)가 29일(현지 시간) 호주 멜버른에서 열린 호주오픈 여자 단식 준결승에서 제시카 페굴라(6위·미국)를 물리친 후 팬들에게 인사하고 있다. 리바키나가 2-0(6-3 7-6)으로 승리하고 결승에 올라 지난해 준우승자인 아리나 사발렌카(1위·벨라루스)와 우승을 다툰다. 2026.01.30.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 김정관 \"러트닉 내일 다시 만날것\"…관세갈등 계속협의",
+        "time": "2026-01-30T08:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PYH2026012909590007100_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n05023",
+        "summary": "(끝)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "日언론 \"트럼프, 투자지연·구글규제에 韓 때려…日도 방심 안돼\"",
+        "time": "2026-01-30T08:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7571583_high.jpg",
+        "url": "https://news.nate.com/view/20260130n05133",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 김정관 \"러트닉 내일 다시 만날것\"…관세갈등 계속협의",
+        "time": "2026-01-30T08:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR20260130083256TD6_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n05067",
+        "summary": "연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"러에 혹한기 우크라 공격 자제 요청…푸틴도 동의\" [1일1트]",
+        "time": "2026-01-30T08:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.01c7e22989a24e1a9e8ed297cf12caac_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n02039",
+        "summary": "베네수 영공 민간 항공에 다시 개방\r\n“미국인들 곧 갈 수 있다”",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 재무부, 경상수지·대미무역 흑자 이유로 韓 '환율 관찰 대상국' 유지",
+        "time": "2026-01-30T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/30/1329376_1517467_242.jpg",
+        "url": "https://news.nate.com/view/20260130n04989",
+        "summary": "스콧 베선트 미국 재무부 장관. 사진=연합뉴스",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 한미 '관세 재인상 사태' 첫날 협의 종료…\"결론안났다\"",
+        "time": "2026-01-30T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2026/01/30/AKR20260130082922XJp_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n04942",
+        "summary": "연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "의대 교수 성접대에 뇌물까지…발칵 뒤집힌 日 도쿄대, 병원장·총장 사과",
+        "time": "2026-01-30T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202601282032256035_l.jpg",
+        "url": "https://news.nate.com/view/20260130n03475",
+        "summary": "[파이낸셜뉴스] 일본 도쿄대학교 의학부 부속병원 교수가 성접대와 뇌물 수수 등 비리 사건에 연루돼 논란이 되자 대학 측이 공식 기자회견을 열고 사과했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[속보] 美재무부, 한국 환율관찰 대상국으로 재지정",
+        "time": "2026-01-30T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202601300630088225_l.jpg",
+        "url": "https://news.nate.com/view/20260130n02769",
+        "summary": "[파이낸셜뉴스] 미국 재무부, 한국 환율관찰 대상국으로 재지정",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'원화 가치' 이례적 개입했던 미국…한국 환율 관찰 대상국으로 재지정 [지금이뉴스]",
+        "time": "2026-01-30T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300819151683_t.jpg",
+        "url": "https://news.nate.com/view/20260130n04905",
+        "summary": "트럼프 행정부가 한국을 환율 관찰 대상국으로 재차 지정했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"관세 훨씬 더 높을 수 있다…사실 그동안 친절했다\"",
+        "time": "2026-01-30T08:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2026/01/30/1329373_1517465_2218.png",
+        "url": "https://news.nate.com/view/20260130n04803",
+        "summary": "내각회의 주재하는 트럼프 미국 대통령.ⓒ연합뉴스",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"스페이스X, 테슬라나 xAI와 합친다\"…로봇·AI 우주기업 나오나(종합)",
+        "time": "2026-01-30T08:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PRU20260128217701009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n04682",
+        "summary": "절차 진행 위해 네바다주에 법인 2개 설립…구체적 계획·조건은 미공개",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "7년 만에 제외됐는데…한국 또 '환율관찰대상국' 지정한 트럼프 정부",
+        "time": "2026-01-30T08:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/01/30/20260130502717.jpg",
+        "url": "https://news.nate.com/view/20260130n04051",
+        "summary": "미국 도널드 트럼프 행정부가 29일(현지시간) 한국을 환율 관찰 대상국으로 재차 지정했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 위협받는 이란 외무장관, 튀르키예行…'중재' 제안 청취",
+        "time": "2026-01-30T08:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/01/30/7723157_high.jpg",
+        "url": "https://news.nate.com/view/20260130n04498",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프, 3시간 넘기던 내각 회의를 80분 만에 종료",
+        "time": "2026-01-30T08:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300805553812_t.jpg",
+        "url": "https://news.nate.com/view/20260130n04435",
+        "summary": "트럼프 미국 대통령이 한때 3시간 넘게 주재했던 내각 회의를 평소보다 빨리 1시간 20분 만에 마무리해 눈길을 끌었습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美 \"관세 훨씬 더 높일 수 있어…다른 나라는 현금인출기, 여태 봐준 것\"",
+        "time": "2026-01-30T08:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/30/news_1769728673_1604401_m_1.jpg",
+        "url": "https://news.nate.com/view/20260130n04567",
+        "summary": "“상호관세 소송은 중국을 위하는 자들이 제기”",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국, 환율 관찰 대상국 재지정 유지…대미 흑자·반도체 수출 주목",
+        "time": "2026-01-30T08:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2026/01/30/2026013001002340100138161.jpg",
+        "url": "https://news.nate.com/view/20260130n04510",
+        "summary": "아시아투데이 정아름 기자 = 미국 정부가 한국을 환율 관찰 대상국으로 거듭 지정했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "트럼프 \"사실 관세 관대했다…더 높일 수 있어\"",
+        "time": "2026-01-30T08:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0000961951_web.jpg",
+        "url": "https://news.nate.com/view/20260130n04442",
+        "summary": "\"연방대법원 상호관세 소송, 잘 해결되길\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "베네수, '석유 국유화' 폐기…美, 제재 완화하며 이권 강화",
+        "time": "2026-01-30T08:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PRU20260130114301009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n03845",
+        "summary": "베네수 국회, 원유개발 민간투자 확대 법안 가결…트럼프 '에너지 패권' 가속",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "파월 후임 인선 임박…트럼프 \"다음 주 연준 의장 공개\"",
+        "time": "2026-01-30T08:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/01/30/202653081769727709.jpg",
+        "url": "https://news.nate.com/view/20260130n04404",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美, 경상수지·대미무역흑자 이유로 韓 환율관찰대상국 유지",
+        "time": "2026-01-30T08:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PAP20260130029201009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n02710",
+        "summary": "거시경제·환율정책 반기 보고서…韓 등 9개국 유지, 태국 새로 지정",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국 또 '환율관찰대상국'…美재무부, 10개국 지정",
+        "time": "2026-01-30T08:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/rcv.YNA.20260121.PAP20260121230901009_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n04318",
+        "summary": "거시경제·환율정책 반기 보고서…韓등 9개국 유지\r\n中·日·獨 등 포함…태국 새로 지정\r\n“원화, 기초여건과 괴리된 약세”\r\n中엔 ‘환율조작국 지정 가능성’ 경고",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "미 재무부, 한국 등 10개국 환율 관찰 대상국 지정",
+        "time": "2026-01-30T08:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/01/30/202601300643405117_t.jpg",
+        "url": "https://news.nate.com/view/20260130n03002",
+        "summary": "트럼프 행정부가 한국을 환율 관찰 대상국으로 재차 지정했습니다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "美, 경상수지·대미무역흑자 이유로 韓 환율관찰대상국 유지(종합)",
+        "time": "2026-01-30T08:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PAP20260130029201009_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n04024",
+        "summary": "재무부 환율정책 반기 보고서…韓 등 9개국 유지, 태국 새로 지정",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "미국 재무부, 한국 3회 연속 '환율관찰대상국' 지정",
+        "time": "2026-01-30T07:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2026/01/30/88812919-d568-42d0-b9ef-34bece4002f5.jpg",
+        "url": "https://news.nate.com/view/20260130n04132",
+        "summary": "관련기사",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'초소형 군집위성 검증기' 발사, 오전 10시21분으로 연기",
+        "time": "2026-01-30T10:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009370084343_1.jpg",
+        "url": "https://news.nate.com/view/20260130n09551",
+        "summary": "이날 오전 9시55분(한국 시각) 예정이던 우리나라 초소형 군집위성 검증기 발사가 오전 10시21분으로 변경됐다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "아이티윌-윈비트, 2026 K-디지털 트레이닝 AI 캠퍼스 업무 협약 체결",
+        "time": "2026-01-30T09:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000539.jpg",
+        "url": "https://news.nate.com/view/20260130n09195",
+        "summary": "<font color=\"gray\"><b>- ‘기업 실무형 AI 데이터 플랫폼 부트캠프’ 인재 양성 및 교육과정 공동 설계 협력</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "카카오, AI 앰베서더 2기 모집…크리에이터, 대학생까지 확대",
+        "time": "2026-01-30T10:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009595332129_1.jpg",
+        "url": "https://news.nate.com/view/20260130n09727",
+        "summary": "카카오가 AI 앰배서더 'KANANA(카나나) 429'를 신규 모집한다고 30일 밝혔다. 올해부터는 AI 전문가, 크리에이터, 대학생 3개 부문으로 규모를 확대해 더욱 다양한 의견을 수렴하고 카카오의 AI를 효율적으로 전파하기 위한 지원을 이어갈 계획이다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사]한국원자력안전기술원(KINS)",
+        "time": "2026-01-30T09:55:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n09051",
+        "summary": "[이데일리 강민구 기자] ●한국원자력안전기술원(KINS)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "카카오, AI 앰배서더 '카나나 429' 모집",
+        "time": "2026-01-30T09:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2026/01/30/cz_1769733484624_305152_0.jpg",
+        "url": "https://news.nate.com/view/20260130n08088",
+        "summary": "카카오가 AI 앰배서더 ‘카나나 429’를 신규 모집한다고 30일 밝혔다. 회사는 앰배서더를 AI 전문가, 크리에이터, 대학생 3개 부문으로 규모를 확대했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 한국원자력안전기술원(KINS)",
+        "time": "2026-01-30T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.cd9956b0583b458098d54cf205ba520d_P1.png",
+        "url": "https://news.nate.com/view/20260130n08933",
+        "summary": "▶실장급",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'보이지 않는 우주 그물망' 암흑물질 고해상도 지도 나왔다",
+        "time": "2026-01-30T09:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2026/01/30/20260130500615.jpg",
+        "url": "https://news.nate.com/view/20260130n07911",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[AI픽] 정보통신기술협회-IEEE SA, AI 윤리 공인평가 계약",
+        "time": "2026-01-30T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/AKR20260130048200017_01_i.jpg",
+        "url": "https://news.nate.com/view/20260130n08517",
+        "summary": "(서울=연합뉴스) 조성미 기자 = 한국정보통신기술협회(TTA)는 전기전자공학자협회 표준협회(IEEE SA)와 'IEEE CertifAIEd' 공인 평가 협력기관 계약을 맺어 인공지능(AI) 윤리 및 신뢰성 평가 분야에서 협력한다고 30일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "머스크 '우주 데이터센터' 꿈 현실화되나…스페이스X-xAI 합병 검토",
+        "time": "2026-01-30T09:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/30/01.43126454.1.jpg",
+        "url": "https://news.nate.com/view/20260130n07777",
+        "summary": "전기차-우주-AI '머스크 제국' 탄생하나\r\n네바다주에 특수목적법인 2개 설립\r\nxAI가 X(트위터) 인수한 방식과 유사\r\n스페이스X, 테슬라는 xAI에 20억달러씩 투자\r\n\"테슬라 솔라시티 인수 건 생각나\" 지적도",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[인사] 한국생명공학연구원",
+        "time": "2026-01-30T09:26:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n07391",
+        "summary": "▲ 대사제어연구센터장 오경진 (대전=연합뉴스)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "KT, 자체 개발 AI '믿:음 2.0' 이끈 신동훈 CAIO 퇴사",
+        "time": "2026-01-30T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026013009314274622_1.jpg",
+        "url": "https://news.nate.com/view/20260130n07954",
+        "summary": "KT의 자체 개발 LLM(거대언어모델) '믿:음 2.0' 개발을 이끈 신동훈 CAIO(최고인공지능책임자)가 퇴사했다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "스페이스코인, 미드나잇과 위성 인프라 활용 프라이버시 메시징 기술 검토 착수",
+        "time": "2026-01-30T09:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kz/2026/01/30/news-p.v1.20260130.bae1aa5f9fe348fca12f1534ed10c31c_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n07468",
+        "summary": "탈중앙화 위성 인터넷 프로젝트인 ‘스페이스코인(Spacecoin·SPACE)’은 카르다노(ADA) 창립자 찰스 호스킨슨이 주도하는 프라이버시 특화 블록체인 프로젝트 ‘미드나잇(Midnight)’과 파트너십을 체결하고, 위성 인프라 기반의 프라이버시 메시징 기술 개발을 위한 공동 검토에 착수했다고 28일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "카카오, AI 앰배서더 '카나나 429' 신규 모집…최신 기술 알린다",
+        "time": "2026-01-30T09:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/30/news_1769732948_1604453_m_1.png",
+        "url": "https://news.nate.com/view/20260130n07615",
+        "summary": "총 100명 발탁해 5개월간 활동",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "TTA, AI 윤리 평가 서비스 공식기관 됐다…협력기관 계약 체결",
+        "time": "2026-01-30T09:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052139_web.jpg",
+        "url": "https://news.nate.com/view/20260130n07312",
+        "summary": "TTA, 전기전자공학자 표준협회와 공인 평가 협력\n\"지속 협력해 글로벌 수준 AI 윤리 평가 역량 확보\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "카카오, AI 홍보대사 '카나나 429' 100명 모집",
+        "time": "2026-01-30T09:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260130_0002052131_web.jpg",
+        "url": "https://news.nate.com/view/20260130n07248",
+        "summary": "AI 전문가·크리에이터·대학생 나눠 내달 19일까지 모집\n100만원 상당 AI 서비스 사용 기회 제공",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "KAIST, GPU 덜쓰고 챗GPT 쓴다…카카오 AI 육성 프로젝트 대상",
+        "time": "2026-01-30T09:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/30/news_1769732452_1604443_m_1.jpg",
+        "url": "https://news.nate.com/view/20260130n07120",
+        "summary": "데일리안 김지현 기자 (kjh@dailian.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"북극곰, 빙하 녹는데 살 더 쪘다\"…연구 결과 '관심'",
+        "time": "2026-01-30T09:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/01/30/99.35259702.1.jpg",
+        "url": "https://news.nate.com/view/20260130n06448",
+        "summary": "기후 변화로 북극 해빙이 급격히 감소하고 있는데도, 특정 지역의 북극곰들은 오히려 과거보다 더 살이 찌고 건강해졌다는 연구 결과가 나왔다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "GIST 임춘택 교수, IEEE 펠로우 심사위원회 위원 선임…한국인 유일",
+        "time": "2026-01-30T09:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2026/01/30/news_1769732095_1604393_m_1.jpg",
+        "url": "https://news.nate.com/view/20260130n06787",
+        "summary": "데일리안 김지현 기자 (kjh@dailian.co.kr)",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "카카오, AI 앰배서더 '카나나 429' 신규 모집",
+        "time": "2026-01-30T09:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/aj/2026/01/30/20260130091023999781.png",
+        "url": "https://news.nate.com/view/20260130n06936",
+        "summary": "AI 전문가·크리에이터·대학생까지…모집 규모 확대\n활동 기간 5개월로 연장, 100만원 상당 혜택",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"진짜 AI가 보낸거야\" 새벽에 멋대로 문자…구글 '제미나이' 오발송 논란",
+        "time": "2026-01-30T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769730908775_443682_0.jpg",
+        "url": "https://news.nate.com/view/20260130n05629",
+        "summary": "가상 시나리오 대화 중 지인에게 문자발송 주장\nAI에이전트 확산 속 통제·안전장치 필요성",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "KAIST 중심 연구팀, 카카오 AI 육성 프로젝트 대상 수상",
+        "time": "2026-01-30T08:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000366.jpg",
+        "url": "https://news.nate.com/view/20260130n05312",
+        "summary": "<font color=\"gray\"><b>- 다양한 AI반도체로 효율적 운영하는 기술 개발</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "토스 앱인토스 웨비나에 사전 신청자만 1400명 이상 몰려…AI 게임 제작 관심에 신청자 40%↑",
+        "time": "2026-01-30T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2026/01/30/202601300819775179_697bed984f113.jpg",
+        "url": "https://news.nate.com/view/20260130n04974",
+        "summary": "[관련기사]",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "'명맥' 끊길 위기, 李 대통령이 쏘아 올린 침구사 '논쟁'",
+        "time": "2026-01-30T08:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260126.299561a3451d45498ee56552b75eefff_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n04538",
+        "summary": "의료법 개정되면서 침구사 자격시험 ‘공백’\r\n현존 2명 불과, 한의사 침·뜸 관련 교육 ‘미미’\r\n의료기사법 개정, 초고령사회 대비 기여할 것",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"중국 포기 못해\"…빗장 풀릴 분위기에 K-모바일 게임 출격 준비",
+        "time": "2026-01-30T08:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769728745436_417552_0.png",
+        "url": "https://news.nate.com/view/20260130n02735",
+        "summary": "넥슨 2년여 만에 중국에 게임 서비스\n엔씨 '아이온' 모바일 현지 공동 개발\n\"中 시장 확대…모바일·캐주얼 접근\"",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"GPU 덜쓰고 챗GPT 쓴다\"…KAIST, 카카오 AI 육성 프로젝트 대상 수상",
+        "time": "2026-01-30T08:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/01/30/news-p.v1.20260130.097cb739217c42c4b62efbbe620896a4_P1.jpg",
+        "url": "https://news.nate.com/view/20260130n04736",
+        "summary": "- 전산학부 박종세 교수 애니브릿지 팀 \r\n- GPU·NPU·PIM 등 AI가속기 통합 활용",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[재산공개]배경훈 과기부총리 41억…유상임 전 장관 16억 신고",
+        "time": "2026-01-30T07:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2026/01/30/ae_1769724965149_1011_0.jpg",
+        "url": "https://news.nate.com/view/20260130n03432",
+        "summary": "류광준 전 과학기술혁신본부장 152억…9억↑",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "배경훈 부총리 \"SMR 강국 도약 위해 투자 강화\"",
+        "time": "2026-01-30T07:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/01/30/PYH2026012803290001301_P2.jpg",
+        "url": "https://news.nate.com/view/20260130n03663",
+        "summary": "데이터센터 전력 수요 급증 속 SMR 역할 강조",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "[GMO 30년]③ 유럽서 GMO 우려 줄어든 이유는…\"위해성 평가 과정 설명해 오해 해소\"",
+        "time": "2026-01-30T06:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2026/01/30/cz_1769720521237_78118_0.jpg",
+        "url": "https://news.nate.com/view/20260130n02426",
+        "summary": "유럽서 ‘GMO 성분 들어간 음식 우려’ 66%→25%로 감소\n“안전성, 환경 영향 등 과학적 판단 기반해 대중과 소통”\n美 FDA는 교육 캠페인, 日은 모니터링 결과 공개\n韓은 GMO 완전표시제 논쟁에 평가 절차·근거 설명 뒷전",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "AI시대 원자력 중요···배경훈 부총리 원자력계 신년인사회 참석",
+        "time": "2026-01-30T07:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000194.jpg",
+        "url": "https://news.nate.com/view/20260130n03680",
+        "summary": "<font color=\"gray\"><b>- 차세대 SMR 투자 의지···\"민관 원팀 생태계 조성\"</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "애플, 아이폰 수요 폭증에 매출 16% 급증…중국서 38%↑",
+        "time": "2026-01-30T06:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000119.jpg",
+        "url": "https://news.nate.com/view/20260130n02835",
+        "summary": "[뉴욕=이데일리 김상윤 특파원] 애플이 아이폰 판매 호조에 힘입어 회계연도 1분기 매출이 두 자릿수 성장률을 기록하며 시장 예상을 크게 웃돌았다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한파 이어지면 관절염 환자가 늘어난다…왜[100세 시대 건강 설계]",
+        "time": "2026-01-30T06:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202601291549102803_l.jpg",
+        "url": "https://news.nate.com/view/20260130n02274",
+        "summary": "[파이낸셜뉴스] 영하의 날씨가 계속되면서 무릎 통증을 호소하며 병원을 찾는 환자들이 늘고 있다. 건강보험심사평가원 통계 자료에 따르면 퇴행성관절염으로 진료를 받은 환자 수는 매년 증가 추세를 보이고 있으며 최근에는 기온이 1도 낮아질 때 관절염 환자 수가 약 12% 증가하는 경향이 나타난다는 분석도 제시됐다. 이는 계절 변화, 특히 한파가 반복되는 요즘과 같은 날씨가 관절염 증상 악화와 무관하지 않다는 점을 시사한다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "\"머스크의 스페이스X, IPO 앞두고 xAI와 합병 논의\"…우주 데이터센터 구상 가속",
+        "time": "2026-01-30T05:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/01/30/PS26013000062.jpg",
+        "url": "https://news.nate.com/view/20260130n02176",
+        "summary": "<font color=\"gray\"><b>- 스페이스X·xAI 합병 논의…머스크 우주·AI 제국 확대</b></font>\n<font color=\"gray\"><b>- xAI 주식, 스페이스X 주식으로 교환하는 구조 검토</b></font>\n<font color=\"gray\"><b>- ‘우주 데이터센터’ 구상에 힘…AI 패권 경쟁 가속</b></font>\n<font color=\"gray\"><b>- 국방부 AI 계약·IPO 앞둔 사업 재편 가능성 주목</b></font>",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "한국, 퀀텀칩 세계 1위 도전…기업 2000곳 키운다",
+        "time": "2026-01-30T05:31:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n00205",
+        "summary": "정부가 2035년까지 양자 인력 1만 명, 양자 활용 기업 2000개를 육성한다. 과학기술정보통신부(과기정통부)는 29일 이 같은 내용을 담은 ‘제1차 양자과학기술 및 양자산업 육성 종합계획’(종합계획)을 발표했다. 이번 계획은 ‘양자과학기술 및 양자산업 육성에 관한 법률(양자법)’에 근거해 수립된 첫 번째 종합계획이다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "K양자클러스터 육성, 퀀텀칩 1위 '도전'",
+        "time": "2026-01-30T04:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2026/01/30/2026012920211136782_1.jpg",
+        "url": "https://news.nate.com/view/20260130n01026",
+        "summary": "'세계 1위 퀀텀칩 제조국'을 목표로 내세운 정부가 양자 핵심기술을 집중적으로 육성할 '양자(퀀텀)클러스터' 5곳을 올해 신규 지정한다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "단백질 분석 '고속도로' 열렸다…AI 신약개발 다음 단계 앞당겨",
+        "time": "2026-01-30T04:01:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260130n00963",
+        "summary": "서울대 연구팀팀, ‘폴드메이슨’ 개발\r\n예측 넘어 대규모 분석 인프라 구축",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "단백질 진화 과정 분석 플랫폼 개발…신약 표적 발굴 기대",
+        "time": "2026-01-30T04:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/01/30/202601291229133217_l.png",
+        "url": "https://news.nate.com/view/20260130n00964",
+        "summary": "[파이낸셜뉴스] 수십억 년에 걸친 단백질의 진화 과정을 규명할 수 있는 초고속 분석 플랫폼이 국내 연구진에 의해 개발됐다. 질병치료를 위한 신약 표적을 발굴하는 데 기여할 것이라는 기대다.",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "AI가 쌓아둔 단백질 구조 빅데이터, 이제 '한꺼번에' 비교한다",
+        "time": "2026-01-30T04:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2026/01/30/cz_1769713385556_649099_0.jpg",
+        "url": "https://news.nate.com/view/20260130n00985",
+        "summary": "서울대, 초고속 다중정렬 소프트웨어 ‘폴드메이슨’ 개발\n국제 학술지 ‘사이언스’에 연구 결과 게재",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "韓 연구진, 수십억년 쌓인 '단백질 진화' 초고속 분석 플랫폼 개발",
+        "time": "2026-01-30T04:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20250904_0001934993_web.jpg",
+        "url": "https://news.nate.com/view/20260130n00954",
+        "summary": "서울대 슈타이네거 교수팀, 초고속 단백질 구조 분석 플랫폼 '폴드메이슨' 개발\n기존 기술보다 100~1000배 빠르면서 정확성도 확보…대부분 단백질 분석 가능",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      },
+      {
+        "title": "배경훈 부총리, 재산 41억…반포아파트가 대부분[공직자 재산공개]",
+        "time": "2026-01-30T00:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/01/30/NISI20260114_0021126132_web.jpg",
+        "url": "https://news.nate.com/view/20260130n00139",
+        "summary": "배경훈 부총리, 부동산 41.5억원 등 신고 \n송경희 위원장은 13.9억 등록",
+        "source": "nate",
+        "date": "2026년 01월 30일 금요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 01월 29일 목요일",
     "articles": [
       {
