@@ -161,6 +161,43 @@
         "url": "https://www.fnnews.com/news/202602071813370691",
         "source": "Fn",
         "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "\"닭 잡는데 소 칼 안 쓴다\"... 안세영, 벤치에서 웃으며 韓 '결승행' 관람",
+        "time": "2026-02-07T18:46:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202602071843577863",
+        "source": "Fn",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "금융위, 빗썸 사태 긴급회의..대응반 구성",
+        "time": "2026-02-07T18:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202602071839441012",
+        "source": "Fn",
+        "date": "2026년 02월 07일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 02월 07일 토요일",
+    "articles": [
+      {
+        "title": "트럼프 대통령, 툴시 개버드에 선거 보안 역할 지시… 민주당 “당혹스러운 상황”",
+        "time": "2026-02-07T18:47:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=376656",
+        "source": "fntoday",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[분석] 트럼프 국제부정선거 \"중국 외 5개국\" 발언, 한국이 1순위인 이유",
+        "time": "2026-02-07T18:43:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=376926",
+        "source": "fntoday",
+        "date": "2026년 02월 07일 토요일"
       }
     ]
   },
@@ -736,6 +773,15 @@
         "img": "https://img9.yna.co.kr/photo/reuters/2026/02/07/PRU20260207377501009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260207044700099",
         "summary": "젤렌스키 \"러시아가 추위를 협상 지렛대로 사용하지 못하게 해야\"",
+        "source": "yna",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "대설경보 울릉도에 40㎝ 넘는 적설…울릉읍 49㎝",
+        "time": "2026-02-07T19:14:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/02/07/AKR20260207047600053_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260207047600053",
+        "summary": "8일 정오까지 시간당 최대 5㎝ 눈 예보",
         "source": "yna",
         "date": "2026년 02월 07일 토요일"
       }
@@ -2605,6 +2651,186 @@
         "time": "2026-02-07T09:40:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/JTBC/20260207182113552hogo.jpg",
         "url": "https://v.daum.net/v/20260207182107313",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "정인화 광양시장, 북콘서트 성황…3000여 명 참석",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/THEFACT/20260207190837998zcko.jpg",
+        "url": "https://v.daum.net/v/20260207190836826",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "봉화 산란계·거창 종오리 농장서 고병원성 AI 발생…\"방역관리 강화\"",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/newsis/20260207192229198glyd.jpg",
+        "url": "https://v.daum.net/v/20260207192229963",
+        "summary": "작년 9월12일 첫 발생 이후 동절기 40·41번째 사례",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "미국·인도 무역협정 큰 틀 합의…인도산 관세 50%→18% 인하 추진",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/552779-26fvic8/20260207185207660dkwv.jpg",
+        "url": "https://v.daum.net/v/20260207185205631",
+        "summary": "인도, 미국산 IT제품 등 5000억 달러 구매 계획",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "재춘양구군민회 정기총회…박윤재 회장 취임",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/kado/20260207191744016dafh.jpg",
+        "url": "https://v.daum.net/v/20260207191742927",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[현장] 한국보다 비싼데도 웨이팅…논산딸기 자카르타서 인기몰이",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/yonhap/20260207185127114zmad.jpg",
+        "url": "https://v.daum.net/v/20260207185126626",
+        "summary": "2026 논산시 해외 농식품 박람회 현지 호평…138억 규모 추가 수출협약",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "실수로 비트코인 62만개 뿌린 빗썸…금융위, 긴급대응반 구성",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/ked/20260207190344294raxw.jpg",
+        "url": "https://v.daum.net/v/20260207185743696",
+        "summary": "이날 긴급 점검회의 개최빗썸 비롯 다른 거래소들도 점검",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "이원택 의원, 북콘서트에 더불어민주당 의원들 응원 목소리 쏟아져",
+        "time": "2026-02-07T10:40:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/kukinews/20260207190905575kwlg.jpg",
+        "url": "https://v.daum.net/v/20260207190904842",
+        "summary": "‘이원택의 진심’ 저서에 담긴 정치력과 전북 비전에 한목소리 응원",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "이 대통령, SNS로 여론 주도…대한상의에 \"가짜뉴스\"",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/newsy/20260207193315777vsax.jpg",
+        "url": "https://v.daum.net/v/20260207193315061",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "드레스 벗고 군복 입은 유럽 왕실 왕비·공주들",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/Channela/20260207191928107ujsn.jpg",
+        "url": "https://v.daum.net/v/20260207190324784",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "'병 주고 약 주는' 트럼프…'재정 위기' 유엔에 \"체납금 일부 낼게\"",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/ked/20260207191743712vqer.jpg",
+        "url": "https://v.daum.net/v/20260207191742926",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "\"가짜뉴스 엄중 책임\" 대통령 질타…대한상의, 사과문 발표",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/JTBC/20260207192332758weco.jpg",
+        "url": "https://v.daum.net/v/20260207192330976",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "핵심광물 비축에 17조원 태운 트럼프, 中과 닮은꼴? [디브리핑]",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/ned/20260207190127400cgvj.jpg",
+        "url": "https://v.daum.net/v/20260207190126744",
+        "summary": "트럼프, ‘프로젝트 볼트’ 공식 발표민간기업 위한 산업용 희토류 등 비축…中공급망 리스크 완화WSJ “‘중국식 국가주도 자본주의’ 받아들인 듯한 움직임”",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "러시아, 전력망 겨냥 대규모 공습에 우크라이나 긴급 단전 조처",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/imbc/20260207191010082akxi.jpg",
+        "url": "https://v.daum.net/v/20260207191009850",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "반갑지 않은 안방손님…안 마당 점령한 야생 표범",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/Channela/20260207190729660qvjb.jpg",
+        "url": "https://v.daum.net/v/20260207190728817",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "\"자산가 탈한국\" 대한상의 자료에...이 대통령 \"고의적 가짜뉴스\"",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/YTN/20260207190120725mwxn.jpg",
+        "url": "https://v.daum.net/v/20260207190119738",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "우크라이나 전력망 긴급 단전...러 대규모 공습",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20260207190300774",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "‘원숭이 오바마’ 영상 논란…트럼프 “사과 없다”",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/Channela/20260207190238345tumw.jpg",
+        "url": "https://v.daum.net/v/20260207190237767",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "미용실 문 열더니 수류탄 ‘쾅’…폭발로 6명 부상 [지금뉴스]",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/kbs/20260207190546442jnxe.png",
+        "url": "https://v.daum.net/v/20260207190544797",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "미, 중국 포함 핵군축 협상 공개 제안",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/kbs/20260207191447579bbqi.jpg",
+        "url": "https://v.daum.net/v/20260207191445906",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "中최고인민법원, 캐나다인 마약사범 사형 판결 파기",
+        "time": "2026-02-07T10:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/07/donga/20260207185930839oskl.jpg",
+        "url": "https://v.daum.net/v/20260207185924706",
         "summary": "",
         "source": "daum",
         "date": "2026년 02월 07일 토요일"
@@ -8407,6 +8633,276 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/02/07/NISI20260205_0000977308_web.jpg",
         "url": "https://news.nate.com/view/20260207n10766",
         "summary": "24년 직전 중의원 당시보다 6%p 올라\n비핵 3원칙 견지, 자민당 65% 찬성",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "금융당국, 빗썸 '비트코인 오지급'에 전 거래소 점검…긴급대응반 가동",
+        "time": "2026-02-07T18:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/02/07/20260207095742_2292737_1200_842.jpg",
+        "url": "https://news.nate.com/view/20260207n11331",
+        "summary": "[이투데이/박민석 기자]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "실수로 비트코인 62만개 뿌린 빗썸…금융위, 긴급대응반 구성",
+        "time": "2026-02-07T19:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2026/02/07/01.43210899.1.jpg",
+        "url": "https://news.nate.com/view/20260207n11352",
+        "summary": "이날 긴급 점검회의 개최\r\n빗썸 비롯 다른 거래소들도 점검",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "인도, 글로벌 저가 제네릭에서 바이오 허브로 탈바꿈[제약·바이오 해외토픽]",
+        "time": "2026-02-07T19:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/02/07/PS26020700380.464x.0.png",
+        "url": "https://news.nate.com/view/20260207n11513",
+        "summary": "[이데일리 신민준 기자] 인도가 바이오의약품과 바이오시밀러를 앞세워 글로벌 바이오 허브로의 변신을 꾀한다. 인도는 그동안 저가 제네릭(복제약) 의약품의 글로벌 생산기지 역할을 해왔다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[속보] 빗썸, 비트코인 오지급 여파…\"고객 손실 10억 안팎, 110% 보상\"",
+        "time": "2026-02-07T19:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/02/07/ams.V01.photo.HDN.P.20260206.P12026020613493663826674498_P1.jpg",
+        "url": "https://news.nate.com/view/20260207n11488",
+        "summary": "[헤럴드경제=나은정 기자] 가상자산 거래소 빗썸이 비트코인 오지급 사고로 발생한 고객 손실 규모를 약 10억원으로 추산하고 전면 보상에 나서기로 했다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "빗썸, 실수로 '60조 비트코인' 지급…금융당국, 긴급조사",
+        "time": "2026-02-07T19:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/02/07/20260207184314101001.jpg",
+        "url": "https://news.nate.com/view/20260207n11532",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "빗썸 긴급대응반 구성…금융당국 \"모든 거래소 전수 점검하겠다\"",
+        "time": "2026-02-07T18:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/js/2026/02/07/17704573321770457332_hheo.jpg",
+        "url": "https://news.nate.com/view/20260207n11261",
+        "summary": "권대영 금융위 부위원장 주재 금감원·FIU와 긴급 점검회의 개최\n\n빗썸의 시스템 오류로 오지급 사태 발생 관련 대응 방향 논의\n\n권대영 \"가상자산의 취약성, 리스크 노출된 사례로 엄중하게 보고 있다\"\n\nDAXA와 긴급대응반 구성...다른 가상자산거래소 전수점검 실시\n\n가상자산 2단계법 연계 제도개선 조속 추진…외부기관 주기적 점검 추진",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[현장] 한국보다 비싼데도 웨이팅…논산딸기 자카르타서 인기몰이",
+        "time": "2026-02-07T18:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2026/02/07/PYH2026020617470006300_P2.jpg",
+        "url": "https://news.nate.com/view/20260207n11279",
+        "summary": "2026 논산시 해외 농식품 박람회 현지 호평…138억 규모 추가 수출협약",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "금융위, 빗썸 불러 긴급회의…대응반 꾸려 다른 거래소도 점검",
+        "time": "2026-02-07T18:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/02/07/202133549_700.jpg",
+        "url": "https://news.nate.com/view/20260207n11124",
+        "summary": "금융 당국이 빗썸의 대규모 비트코인 오지급 사태와 관련해 긴급 대응에 착수했습니다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "최태원, 이 대통령 '가짜뉴스' 질타에 \"다시는 재발 않도록 만전\"",
+        "time": "2026-02-07T18:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/02/07/202154868_700.jpg",
+        "url": "https://news.nate.com/view/20260207n11119",
+        "summary": "최태원 대한상공회의소 회장이 자산가 유출 관련 보도자료 논란과 관련해 유사 사례 재발 방지를 대한상의에 지시했습니다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[통상학도의 호주 다이어리] 실전 현지살이 ① 휴대폰 개통부터 숙소까지",
+        "time": "2026-02-07T18:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2026/02/07/2602070616200790.jpg",
+        "url": "https://news.nate.com/view/20260207n11206",
+        "summary": "저작권자(c) 글로벌리더의 지름길 종합뉴스통신사 뉴스핌(Newspim), 무단 전재-재배포 금지",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "금융당국, 빗썸 '비트코인 오지급 사태' 긴급대응반 구성…다른 거래소도 점검한다",
+        "time": "2026-02-07T18:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2026/02/07/20260207505942.jpg",
+        "url": "https://news.nate.com/view/20260207n11114",
+        "summary": "지난 6일 가상자산 거래소 빗썸에서 발생한 비트코인(BTC) 대량 오지급 사태와 관련해 금융당국이 당국 및 업계 관련자들을 모아 긴급 점검회의를 열었다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "1000명 함성이 증명한 '이상일 시대'…\"천조개벽 용인, 이상일 아니면 누가\" 재선 열기 후끈",
+        "time": "2026-02-07T19:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2026/02/07/20260207184900_2292783_773_581.jpg",
+        "url": "https://news.nate.com/view/20260207n11450",
+        "summary": "손학규·이주영·양향자까지 총출동, 단국대 난파음악관이 흔들렸다…\"용인 천조개벽, 이제 시작일 뿐\" 재선 향한 뜨거운 열기",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "\"주말 약속 취소해야겠네\"…-40도 북풍 몰려와 극한 한파 몰아친다",
+        "time": "2026-02-07T19:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2026/02/07/news-p.v1.20260207.35b64313fc964a21a7aa70989c79dc6c_P1.png",
+        "url": "https://news.nate.com/view/20260207n11131",
+        "summary": "북쪽에서 영하 40도에 이르는 강한 한기가 유입되면서 주말 동안 체감 -20도 안팎의 짧고 강한 한파가 이어질 전망이다. 호남과 제주에는 1시간에 최대 5㎝에 이르는 눈폭탄 수준의 폭설이 예고됐다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "강원 영서 12개 시·군 한파경보·주의보 발령…제대본 1단계 운영",
+        "time": "2026-02-07T19:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/02/07/NISI20260207_0002058323_web.jpg",
+        "url": "https://news.nate.com/view/20260207n11561",
+        "summary": "[춘천=뉴시스]서백 기자 = 강원 영서 지역에 한파가 몰아치면서 7일 오후 9시를 기해 태백, 영월, 평창, 정선, 횡성 등 강원 남부 지역에 한파 경보가 발령됐다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "정인화 광양시장, 북콘서트 성황…3000여 명 참석",
+        "time": "2026-02-07T19:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2026/02/07/202648531770457842.jpg",
+        "url": "https://news.nate.com/view/20260207n11501",
+        "summary": "▶카카오톡: '더팩트제보' 검색",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[제보는Y] 여객기 안 쓰러진 외국인 승객…심폐소생술 덕에 살려",
+        "time": "2026-02-07T19:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/02/07/202602070518108580_t.jpg",
+        "url": "https://news.nate.com/view/20260207n01866",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "한파 속 호남·제주 대설 특보…항공·해상 차질",
+        "time": "2026-02-07T18:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/02/07/202602071845496296_t.jpg",
+        "url": "https://news.nate.com/view/20260207n11323",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "일요일 전국 한파 계속…전라권·제주에 많은 눈",
+        "time": "2026-02-07T18:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/02/07/ch_1770458164687_929729_0.jpg",
+        "url": "https://news.nate.com/view/20260207n11220",
+        "summary": "일요일인 8일은 전국에 한파가 이어지며 전라권 서부와 제주도를 중심으로 많은 눈이 내리겠다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "'글로컬대학' 취소 위기 충북대, 교통대와 통합 찬반 재투표",
+        "time": "2026-02-07T18:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2026/02/07/ch_1770457505173_905322_0.jpg",
+        "url": "https://news.nate.com/view/20260207n11150",
+        "summary": "한국교통대와 대학 통합을 두고 갈등을 겪는 충북대가 학내 구성원들을 대상으로 통합 추진 여부를 묻는 찬반 투표를 재실시한다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "제주 대설특보 확대…1100·516 주요 산간도로 통제",
+        "time": "2026-02-07T18:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/02/07/NISI20260111_0021122364_web.jpg",
+        "url": "https://news.nate.com/view/20260207n11309",
+        "summary": "[제주=뉴시스] 우장호 기자 = 제주 지역에 대설특보가 확대 발효되면서 주요 산간 도로의 통행이 통제됐다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[영동소식]설연휴 군민불편 종합신고센터 운영 등",
+        "time": "2026-02-07T18:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/02/07/NISI20250817_0001919766_web.jpg",
+        "url": "https://news.nate.com/view/20260207n11278",
+        "summary": "[영동=뉴시스]연종영 기자 = 충북 영동군은 설 연휴 기간 ‘군민불편 종합신고센터’를 운영한다고 7일 밝혔다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "[속보] 등산하러 간 부자 숨진 채 발견…\"숙소 못 구해 차에서 잠들었다가\"",
+        "time": "2026-02-07T18:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2026/02/07/SSC_20260207184125_V.jpg",
+        "url": "https://news.nate.com/view/20260207n11214",
+        "summary": "[서울신문]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "\"내 휴대전화 보지 말라고\" 흉기로 엄마 위협한 10대",
+        "time": "2026-02-07T18:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2026/02/07/PS26020700372.jpg",
+        "url": "https://news.nate.com/view/20260207n06841",
+        "summary": "<font color=\"gray\"><b>- 청소년 보호시설로 인계…조사 중</b></font>\n<font color=\"gray\"><b>- 야구방망이로 엄마 폭행한 경우도</b></font>",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "고속도로서 차량 2대에 잇따라 받혀…운전자 사망",
+        "time": "2026-02-07T18:34:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260207n11087",
+        "summary": "오늘(7일) 새벽 4시쯤 경남 양산시 동면 경부고속도로 양산휴게소 인근에서 1차로에 잠시 정차한 승용차가 뒤이어 오던 차량 2대에 잇따라 받혔습니다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "中최고인민법원, 캐나다인 마약사범 사형 판결 파기",
+        "time": "2026-02-07T19:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/02/07/133316909.3.jpg",
+        "url": "https://news.nate.com/view/20260207n11417",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "핵심광물 비축에 17조원 태운 트럼프, 中과 닮은꼴? [디브리핑]",
+        "time": "2026-02-07T19:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2026/02/07/news-p.v1.20260204.16f60159c35c4fbc8ad764c79cdd728d_P1.jpg",
+        "url": "https://news.nate.com/view/20260207n11427",
+        "summary": "트럼프, ‘프로젝트 볼트’ 공식 발표\r\n민간기업 위한 산업용 희토류 등 비축…中공급망 리스크 완화\r\nWSJ “‘중국식 국가주도 자본주의’ 받아들인 듯한 움직임”",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "우크라이나 전력망 긴급 단전…러 대규모 공습",
+        "time": "2026-02-07T19:04:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260207n11462",
+        "summary": "러시아군이 우크라이나 전력망을 겨냥해 또다시 대규모 공습을 벌이면서 우크라이나 대부분 지역에서 긴급 단전 조처가 이뤄졌습니다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "핀란드 이어 스위스 여자 아이스하키도 노로바이러스 감염",
+        "time": "2026-02-07T19:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/02/07/d2485645-4266-4947-88e6-2eb9c970f215.jpg",
+        "url": "https://news.nate.com/view/20260207n11543",
+        "summary": "2026 밀라노·코르티나담페초 동계올림픽에 출전한 여자 아이스하키 대표팀에도 노로바이러스 감염자가 나왔다.",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "선 넘은 '인종 비하'…트럼프, '원숭이 오바마' 영상 게시",
+        "time": "2026-02-07T18:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/02/07/202602071832523306_t.jpg",
+        "url": "https://news.nate.com/view/20260207n11152",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 02월 07일 토요일"
+      },
+      {
+        "title": "금융위, 빗썸 사태 긴급회의…대응반 구성",
+        "time": "2026-02-07T18:48:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260207n11259",
+        "summary": "[파이낸셜뉴스] 금융당국이 7일 국내 가상자산 거래소 빗썸에서 대규모 비트코인이 오지급된 사태와 관련해 긴급 대응에 나섰다.",
         "source": "nate",
         "date": "2026년 02월 07일 토요일"
       }
