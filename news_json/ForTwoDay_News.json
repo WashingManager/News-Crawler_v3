@@ -277,6 +277,14 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3508556",
         "source": "Gukje",
         "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "나이지리아 광산서 가스 폭발 사고, 38명 사망",
+        "time": "2026-02-19T01:01:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202602/3508582_3655416_14_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3508582",
+        "source": "Gukje",
+        "date": "2026년 02월 18일 수요일"
       }
     ]
   },
@@ -10484,6 +10492,15 @@
         "summary": "17, 18일 회담 열렸으나 2시간 만에 끝…추가 회담 예고",
         "source": "yna",
         "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "스페인서 해킹으로 최고 170만원짜리 호텔 17원에 예약",
+        "time": "2026-02-19T02:00:00",
+        "img": "https://img7.yna.co.kr/photo/etc/af/2026/01/22/PAF20260122296501009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260219001600085",
+        "summary": "스페인 경찰, 20세 남성 체포",
+        "source": "yna",
+        "date": "2026년 02월 18일 수요일"
       }
     ]
   },
@@ -14296,6 +14313,60 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/yonhap/20260219003335616itho.jpg",
         "url": "https://v.daum.net/v/20260219003335995",
         "summary": "17, 18일 회담 열렸으나 2시간 만에 끝…추가 회담 예고젤렌스키 \"제네바 회담 어려웠다…러, 협상 늦추려 해\"",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "옥상서 추락 후 전깃줄에 '대롱대롱'…러시아 창문 청소부 극적 구조",
+        "time": "2026-02-18T17:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/newsis/20260219014526600sfsx.jpg",
+        "url": "https://v.daum.net/v/20260219014526492",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "美 국채가, 내구재 수주 감소에도 낙폭 확대",
+        "time": "2026-02-18T17:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/552842-MG6mj39/20260219013903734xavo.jpg",
+        "url": "https://v.daum.net/v/20260219013902454",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "'미국을 건강하게' 72세 美보건장관, 웃통벗고 운동후 냉수목욕",
+        "time": "2026-02-18T17:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/yonhap/20260219014826737vzkl.jpg",
+        "url": "https://v.daum.net/v/20260219014826511",
+        "summary": "백신 회의론자 로버트 케네디 주니어, 트럼프 지지 가수와 동영상 촬영",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "스페인서 해킹으로 최고 170만원짜리 호텔 17원에 예약",
+        "time": "2026-02-18T17:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/yonhap/20260219020240563uscy.jpg",
+        "url": "https://v.daum.net/v/20260219020240554",
+        "summary": "스페인 경찰, 20세 남성 체포",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "우크라 3자 종전 협상, 결국 빈손으로 마무리",
+        "time": "2026-02-18T17:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/hankooki/20260219014345066slyt.jpg",
+        "url": "https://v.daum.net/v/20260219014342488",
+        "summary": "17, 18일 열렸지만2시간 만에 끝나젤렌스키 \"회담 어려웠다\"",
+        "source": "daum",
+        "date": "2026년 02월 18일 수요일"
+      },
+      {
+        "title": "美민주, 트럼프 24일 국정연설 대응 고심…보이콧·중도 퇴장 검토",
+        "time": "2026-02-18T17:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/19/newsis/20260219023726102tlkk.jpg",
+        "url": "https://v.daum.net/v/20260219023725644",
+        "summary": "트럼프 국정연설 집단 불참 움직임",
         "source": "daum",
         "date": "2026년 02월 18일 수요일"
       }
