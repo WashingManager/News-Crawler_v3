@@ -956,6 +956,14 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3510529",
         "source": "Gukje",
         "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "[사진으로 보는] 대구마라톤 \"코스·교통통제구간·시간·주차장\" 총정리",
+        "time": "2026-02-22T00:03:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202602/3510545_3657592_4540_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3510545",
+        "source": "Gukje",
+        "date": "2026년 02월 21일 토요일"
       }
     ]
   },
@@ -3960,6 +3968,51 @@
         "time": "2026-02-21T14:56:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/21/sbsi/20260221233901877zhvh.jpg",
         "url": "https://v.daum.net/v/20260221233900244",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "'성공은 사형, 실패는 무기징역'…전두환·윤석열 내란죄에 다른 양형",
+        "time": "2026-02-21T15:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/22/THEFACT/20260222000129951pqsm.jpg",
+        "url": "https://v.daum.net/v/20260222000128495",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "트럼프 상호관세 무효화…靑, '신중모드' 속 \"글로벌 관세 10% 등 미국 조치 면밀 파악\"",
+        "time": "2026-02-21T15:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/22/dailian/20260222000627733rjqk.jpg",
+        "url": "https://v.daum.net/v/20260222000625572",
+        "summary": "美연방대법원 \"트럼프 상호관세 위법\"트럼프, 곧바로 '신규 글로벌 관세 10%'로 대응靑, 안보실장·정책실장 주재 긴급 관계부처 회의\"대미 수출 여건 손상되는 일 없도록 우호적 협의\"",
+        "source": "daum",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "李대통령 “다주택자 압박하면 전·월세 불안?...기적의 논리\"",
+        "time": "2026-02-21T15:36:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/22/chosun/20260222002837402kbrh.jpg",
+        "url": "https://v.daum.net/v/20260222001742620",
+        "summary": "“서민 위해 다주택자 보호해야 하나, 다주택 늘어나면 서민주거 안정되나”“다주택자 줄면 무주택자도 줄어...공급만큼 수요 준다”“부동산 투기 근절은 중대 국가 과제”",
+        "source": "daum",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "핵보유국 굳히고, 직함 격상할까…北 9차 당대회에 쏠린 시선",
+        "time": "2026-02-21T15:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/22/THEFACT/20260222000147462uzla.jpg",
+        "url": "https://v.daum.net/v/20260222000146512",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "美정보당국 \"中, '다탄두미사일' 등 차세대 핵무기 개발 목적 핵실험\"",
+        "time": "2026-02-21T15:35:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202602/22/newsis/20260222003327261etge.jpg",
+        "url": "https://v.daum.net/v/20260222003327784",
         "summary": "",
         "source": "daum",
         "date": "2026년 02월 21일 토요일"
@@ -13740,6 +13793,69 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/02/21/20260221231900736001.jpg",
         "url": "https://news.nate.com/view/20260221n15739",
         "summary": "트럼프 미국 대통령이 이란에 대한 '제한적 공격'을 \"고려 중이라고 말할 수 있을 것 같다\"고 밝혔습니다.",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "북한산 향로봉 산불 발생 4시간 만에 완진",
+        "time": "2026-02-22T00:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2026/02/21/f02308b9-ab1a-4a71-b7fd-6f87b07b89c6.jpg",
+        "url": "https://news.nate.com/view/20260221n15974",
+        "summary": "21일 오후 11시 32분께 북한산 산불이 완전히 진화됐다. 산불 발생 4시간 만이다.",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "서울 북한산 산불 4시간 만에 완진…인명피해 없어(종합)",
+        "time": "2026-02-22T00:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2026/02/21/7759919_medium.jpg",
+        "url": "https://news.nate.com/view/20260221n15924",
+        "summary": "google_ad_section_end(name=gad1)",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "서울 북한산 향로봉 인근 산불…450㎡ 소실",
+        "time": "2026-02-21T23:54:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20260221n15936",
+        "summary": "오늘(21일) 저녁 7시 반쯤 북한산 향로봉 9부 능선에서 불이 났습니다.",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "[날씨] 포근한 주말 계속…건조 특보·강풍 예보 '산불 주의'",
+        "time": "2026-02-21T23:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2026/02/21/20260221234047023001.jpg",
+        "url": "https://news.nate.com/view/20260221n15938",
+        "summary": "내일(22일)도 전국 대부분 지역이 포근하겠습니다.",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "트럼프 \"달라지는 것 없어\"…무역법 301조 조사 착수",
+        "time": "2026-02-21T23:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/02/21/202602212327369372_t.jpg",
+        "url": "https://news.nate.com/view/20260221n15914",
+        "summary": "[앵커]",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "'사업가 트럼프' 관세 애착은 80년대부터 시작…아이어코카 영향 받았나",
+        "time": "2026-02-22T00:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2026/02/21/133392998.1.jpg",
+        "url": "https://news.nate.com/view/20260221n00993",
+        "summary": "Copyright  동아일보. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+        "source": "nate",
+        "date": "2026년 02월 21일 토요일"
+      },
+      {
+        "title": "트럼프 \"이란 제한적 공격 고려\"…이란 \"2~3일 내 초안 제시\"",
+        "time": "2026-02-21T23:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2026/02/21/202602212327550396_t.jpg",
+        "url": "https://news.nate.com/view/20260221n15917",
+        "summary": "[앵커]",
         "source": "nate",
         "date": "2026년 02월 21일 토요일"
       }
