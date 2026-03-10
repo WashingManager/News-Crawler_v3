@@ -3,6 +3,507 @@
     "date": "2026년 03월 10일 화요일",
     "articles": [
       {
+        "title": "주한미군 사드 일부 중동 이동설...美 국방부  \"노코멘트\"",
+        "time": "2026-03-11T00:34:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110025348088",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "미국, 전쟁 이후 최대 공습 예고…이란·이스라엘 공습 확대",
+        "time": "2026-03-10T22:10:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102207447114",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"이란 처참히 패배하고 있다\"···美국방, 오늘 공습 가장 격렬한 날 될 것",
+        "time": "2026-03-10T22:11:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102158140096",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"폭발음 들려\" 서울 염창동서 버스와 차량 5대 충돌..임산부 등 24명 부상",
+        "time": "2026-03-10T21:40:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102136228686",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보] 美국방장관 “오늘 이란 공습 가장 격렬한 날 될 것”",
+        "time": "2026-03-10T21:26:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102124192587",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보] 美국방 \"오늘 이란 공습 가장 격렬한 날 될 것\"",
+        "time": "2026-03-10T21:24:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102123475098",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"제거되지 않도록 조심하라\"..이란 안보수장, 트럼프에 직접적 경고",
+        "time": "2026-03-10T21:09:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102107117246",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동 단기체류 국민 '반토막'...아직 1만4700명 중동에 남아",
+        "time": "2026-03-10T20:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102038483816",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "KCGI, 트럼프 두 아들 참여한 '美 드론업체' 전격 투자...왜? [fn마켓워치]",
+        "time": "2026-03-10T20:32:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102027397541",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "박재현 한미약품 대표 ‘횡령·배임 혐의’에 경찰 \"불송치 결정\"",
+        "time": "2026-03-10T20:23:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102020509713",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "합참의장, 연합·합동작전태세 점검 '즉각 대응 태세'강조",
+        "time": "2026-03-10T18:54:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101838007089",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "박진영, JYP 사내이사 사임 \"K팝 대외업무 집중\"",
+        "time": "2026-03-10T18:39:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101836071538",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "부산상의, 부산국세청장과 기업 세정지원 논의",
+        "time": "2026-03-10T18:33:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101832418040",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "부산교통공사 \"도시철도 운영에 AI 본격 도입\"",
+        "time": "2026-03-10T18:32:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101832016282",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "트럼프 \"전쟁 마무리 수순\"…이란은 \"우리가 종전 결정\" [美-이란 전쟁]",
+        "time": "2026-03-10T18:29:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101829229452",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[포럼] 국민성장펀드, 中企에 투자하라",
+        "time": "2026-03-10T18:28:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101828014112",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "민노총, 1만명 투쟁 선포 대회.. 한노총, 200만명 조직화 선언 [노란봉투법 시행 첫날]",
+        "time": "2026-03-10T18:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101826533598",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'수유동 식당 칼부림'50대男… 무기징역 구형",
+        "time": "2026-03-10T18:25:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101824541314",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "카나나+하이퍼클로바X '대화형 AI국민비서 '출격",
+        "time": "2026-03-10T18:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101822203387",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"케이블TV 3개월내 지원책 없으면 고사\"… 정부에 긴급 호소",
+        "time": "2026-03-10T18:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101822155361",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"韓시장 점유율 15% 목표\"… 에이수스 AI PC '젠북' 라인업",
+        "time": "2026-03-10T18:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101822044842",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'패륜 배우자·자녀 상속권 제한' 국무회의 통과",
+        "time": "2026-03-10T18:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101821467434",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "치솟던 유가, 비축유·종전 기대감에 하루만에 8% 급락 [美-이란 전쟁]",
+        "time": "2026-03-10T18:21:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101820314230",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "국제사회 휴전 움직임 확산.. 러·中·佛·튀르키예 중재 나서 [美-이란 전쟁]",
+        "time": "2026-03-10T18:21:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101820301485",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "코스피 널뛰자 '단기매매' 급증.. 회전율 한달만에 136% 뛰었다 [美-이란 전쟁]",
+        "time": "2026-03-10T18:19:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101819105774",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "조기귀국 중동교민, 대입 불이익 없다",
+        "time": "2026-03-10T18:24:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101823565036",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "우리銀, AI 에이전트로 기업금융 승부수",
+        "time": "2026-03-10T18:18:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101818103195",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "美 \"韓 배치 사드, 중동 이동 중\"… 李대통령 \"대북 억지전략 문제없다\"",
+        "time": "2026-03-10T18:18:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101817593532",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "李대통령 \"조기 추경해야 할 상황… 소비자 직접 지원 필요\" [美-이란 전쟁]",
+        "time": "2026-03-10T18:18:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101817531384",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'국제가격+마진' 정유사 공급가 상한… 2주 단위로 석유 최고가 조정",
+        "time": "2026-03-10T18:18:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101817512247",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이란 새 최고지도자 모즈타바 공습 부상설",
+        "time": "2026-03-10T18:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101815001499",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "‘AI 공급망 위험’ 앤트로픽, 美행정부 제소",
+        "time": "2026-03-10T18:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101814599671",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "드론 투자 뛰어든 트럼프 장·차남 ‘美국방 밀착’",
+        "time": "2026-03-10T18:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101814567643",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동 긴장 확산에… 베트남, 석유제품 관세 0%",
+        "time": "2026-03-10T08:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101813506285",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "‘TIGER 미국배당다우존스 ETF’ 순자산 3조 돌파",
+        "time": "2026-03-10T18:14:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101813425686",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동 최대 에너지 전시회도 연기… 中企 수주계획 '빨간불'",
+        "time": "2026-03-10T18:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101812322656",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "제19회 한림대 일송상 시상식, 김중수 前 한국은행 총재 수상",
+        "time": "2026-03-10T18:17:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101812094599",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "LS에코에너지 日전력인프라 시장 진출",
+        "time": "2026-03-10T18:12:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101812042920",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"한미 조선 협력은 장기과제… 북극항로 개척 기회로 삼아야\" [K-조선해양을 여는 사람들]",
+        "time": "2026-03-10T18:12:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101811580406",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"이란 정권교체 어렵다\" 군사개입 전 발표된 美보고서 재조명",
+        "time": "2026-03-10T18:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101814589077",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "한국GM 노사, 직영정비센터 3곳 유지 합의..\"새 체제 확립\"",
+        "time": "2026-03-10T17:59:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101756396258",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"계획된 이상동기 범죄\" 檢, '강북 모텔 연쇄살인' 김소영 구속기소",
+        "time": "2026-03-10T18:19:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101750156920",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보] 검찰, '강북 모텔 연쇄살인' 김소영 살인 혐의 구속기소",
+        "time": "2026-03-10T17:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101746042255",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "李대통령, 11일 가나 대통령과 정상회담…첫 아프리카 정상 맞이",
+        "time": "2026-03-10T18:05:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101732088441",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "국정원 \"중동 관련 외국발 허위정보 유입 가능성\"…24시간 대응체계 가동",
+        "time": "2026-03-10T16:46:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101643193241",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'중동 전쟁' 조기 귀국해도 대입 길 열어준다…재외국민 특별전형 요건 완화",
+        "time": "2026-03-10T17:06:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101636301202",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "희망친구 기아대책, '중동 분쟁 피해' 레바논 주민 긴급 구호 착수",
+        "time": "2026-03-10T17:40:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101635015902",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "끊이질 않는 '검찰개혁' 내홍... 대통령까지 나서 진화",
+        "time": "2026-03-10T17:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101624106905",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "AI시대 새 비지니스 문법 제시, '디지털 서비스 기획과 비즈니스 모델'[신간]",
+        "time": "2026-03-10T16:28:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101621575904",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "경찰, 전한길 고발 '안귀령 계엄군 총기탈취' 사건 각하",
+        "time": "2026-03-10T16:35:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101615547612",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "희망브리지, 재난구호정책 전문지 '이슈브리프' 창간",
+        "time": "2026-03-10T16:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101612145057",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "뉴로핏, 알츠하이머병-파킨슨병 국제학회서 ‘뉴로핏 아쿠아 AD 플러스’ 공개",
+        "time": "2026-03-10T16:07:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101601294309",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "페어몬트서울, 수달 보호 나선다…한국수달보호협회와 협약",
+        "time": "2026-03-10T16:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101558076076",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "李대통령 \"노란봉투법 시행, 원·하청 갈등 대신 대화·타협 시발점\"",
+        "time": "2026-03-10T16:04:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101556014783",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "해남군, 국가 인공지능(AI) 컴퓨팅센터 건립지로 최종 확정",
+        "time": "2026-03-10T16:10:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101555405444",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"환경선동꾼 앞세운 사회대개혁委, 산불대응체계 훼손말라\"",
+        "time": "2026-03-10T16:22:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101546358740",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이란전쟁중에 美동아시아차관보 내일 방한 ..임갑수 대표도 조만간 방미 추진",
+        "time": "2026-03-10T15:54:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101545226355",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"겨우 이정도였나\" 한국 8강에 이성 잃은 대만… 문보경 SNS 찾아가 추악한 화풀이",
+        "time": "2026-03-10T19:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101544359460",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"바이오시밀러 개발 쉬워진다\" 美 FDA 간소화 지침 초안 발표",
+        "time": "2026-03-10T15:53:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101539249116",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이스라엘 체류 한국인 등 39명 육로통해 이집트로 대피",
+        "time": "2026-03-10T23:17:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102257135329",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "에어아시아, FTSE 러셀 ESG 평가서 '톱5' 올라",
+        "time": "2026-03-10T15:39:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603101536583929",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "아람코 “중동 전쟁 장기화 땐 파국”…홍해 통해 원유 수출 70% 회복",
+        "time": "2026-03-10T22:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603102227039462",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 03월 10일 화요일",
+    "articles": [
+      {
         "title": "오산기지 수송기 이륙 포착... 중동전쟁 여파 주한미군 ‘자산 재배치’ 본격화?",
         "time": "2026-03-10T15:52:00",
         "img": "https://cdn.truthdaily.co.kr/news/photo/202603/4134_7928_122.jpg",
@@ -133,6 +634,102 @@
         "time": "2026-03-10T19:40:00",
         "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525370_3673991_4036_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525370",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "제천 수산면 송수관 파열로 긴급 단수... \"현재 수도사업소 복구 중\"",
+        "time": "2026-03-10T17:24:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525255_3673874_2358_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525255",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"12·3 비상계엄 항거 시민 예우\"…대통령 직속 '빛의 위원회' 설치",
+        "time": "2026-03-10T17:19:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525249_3673865_1937_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525249",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "국세청, 고유가 틈탄 불법 석유 유통 현장 점검…적발 시 세무조사",
+        "time": "2026-03-10T17:17:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525245_3673860_177_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525245",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "﻿대한행정사회, 일본행정서사회연합회와 교류 협력 강화…한일 행정 전문가 협력 기반 확대",
+        "time": "2026-03-10T17:05:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525222_3673839_525_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525222",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "강원랜드, 한국도박문제예방치유원과 '제2회 Help the Youth 청소년 도박예방 콘텐츠 공모전' 개최",
+        "time": "2026-03-10T15:40:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525079_3673677_3731_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525079",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[재난문자] 인천 가정동서 교통사고...가좌ic방면 도로 통제 중",
+        "time": "2026-03-10T15:06:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525038_3673629_628_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525038",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[재난문자] 남해고속도로 칠원jc 순천방향서 화재 발생",
+        "time": "2026-03-10T14:54:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525007_3673596_542_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525007",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"야생조류 북상 비상\" 아산 메추리·김제 씨암탉 농장 AI 발생",
+        "time": "2026-03-10T20:47:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525419_3674050_473_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525419",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중국문자박물관 한글 전시 '엉터리' 논란...서경덕 \"정부 항의해야\"",
+        "time": "2026-03-10T14:30:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3524962_3673551_2753_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3524962",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[재난문자] 파주 조리읍 창고서 화재...다량 연기 '주의'",
+        "time": "2026-03-10T13:32:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3524850_3673443_3132_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3524850",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[재난문자] 봉화 적덕리서 산불 발생...주민 안전 주의",
+        "time": "2026-03-10T13:28:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3524841_3673431_2848_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3524841",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "파주 조리읍 창고 화재 진화...한때 대응 1단계 발령",
+        "time": "2026-03-10T17:41:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525183_3673888_353_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525183",
         "source": "Gukje",
         "date": "2026년 03월 10일 화요일"
       }
@@ -2856,6 +3453,15 @@
         "img": "https://img9.yna.co.kr/photo/reuters/2026/03/10/PRU20260310321001009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260310200800072",
         "summary": "경찰 조사 중…유럽선 미 대사관·유대교 회당 폭발 잇따라",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "벨기에 유대인 단체 \"유대인 시설 보호에 군 배치해야\"",
+        "time": "2026-03-10T23:32:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/03/10/AKR20260310202000098_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260310202000098",
+        "summary": "전날 시나고그 폭발 사고로 유대인 사회 불안 고조",
         "source": "yna",
         "date": "2026년 03월 10일 화요일"
       }
@@ -7827,6 +8433,213 @@
         "summary": "벨기에·노르웨이 폭발사고에 이어",
         "source": "daum",
         "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'北, 국제 망신!' 집단 경기 거부 '초유 사태'→中, 강한 비판 \"믿기 어려운 행동, 중국 잘못도 없이 피해 볼 뻔\"",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sportalkr/20260311001146129siga.png",
+        "url": "https://v.daum.net/v/20260311001144710",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "엔비디아, 오픈 AI 출신이 설립한 씽킹 머신스에 투자",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/10/ked/20260310235604792ztun.jpg",
+        "url": "https://v.daum.net/v/20260310235603260",
+        "summary": "'상당한 금액'투자와 1GW 컴퓨팅성능의 AI칩 지원",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "제4인뱅 추진 다시 불붙나…정치권 논의에 컨소시엄 '재도전' 고개",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/THEFACT/20260311000213183xfpa.jpg",
+        "url": "https://v.daum.net/v/20260311000212353",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이재명 대통령 “물가안정 시급…유류세 감면 차등지원 검토를”",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/551740-jDxbluz/20260311003520635nfmi.jpg",
+        "url": "https://v.daum.net/v/20260311003519902",
+        "summary": "중동사태 경제적 여파 관련속도감 있는 정책 집행 강조“기존 매뉴얼·정책 뛰어넘어시장 불안심리 안정시켜야”",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"한동훈 품고 고성국 쳐내야\"…보수통합·지선 승리 필요조건 요구하는 국민의힘",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/dailian/20260311001127353olvy.jpg",
+        "url": "https://v.daum.net/v/20260311001125704",
+        "summary": "당내서 \"절윤 결의 후속 조치 필요\" 목소리한동훈 복당·윤어게인 세력 절연이 대표적\"장동혁 대표의 절연의지 확인할 첫 시험대\"\"후속조치 여부에 지선구도 바뀔 것\" 전망도",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "박남규 서울시의원 예비후보, 선관위 고발 당해",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/10/ned/20260310235100556ocjh.jpg",
+        "url": "https://v.daum.net/v/20260310235058242",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "벨기에 유대인 단체 \"유대인 시설 보호에 군 배치해야\"",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/10/yonhap/20260310233426301ykcj.jpg",
+        "url": "https://v.daum.net/v/20260310233426074",
+        "summary": "전날 시나고그 폭발 사고로 유대인 사회 불안 고조",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"끔찍한 결과 초래\"…한미연합훈련에 '경고 메시지' 낸 북한 속내",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/THEFACT/20260311000155504emoh.jpg",
+        "url": "https://v.daum.net/v/20260311000154337",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이 대통령 “추가 재정 필요”…벚꽃 추경 공식화",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/joongang/20260311000308337grfk.jpg",
+        "url": "https://v.daum.net/v/20260311000307389",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "1차 석유파동 트라우마… 1978년 ‘한국판 에너지부’ 탄생",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/kukminilbo/20260311001057644pduj.jpg",
+        "url": "https://v.daum.net/v/20260311001056699",
+        "summary": "[대한민국 에너지 이야기] ① 동력자원부의 15년",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "美 국채가, 보합권서 '불 스팁'…이란 반응 주시",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/552842-MG6mj39/20260311003005759doxy.jpg",
+        "url": "https://v.daum.net/v/20260311003004830",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "우원식, '지선 동시 개헌' 제안…국민의힘 \"선거용\" 반발",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/dailian/20260311002128535phsa.png",
+        "url": "https://v.daum.net/v/20260311002126768",
+        "summary": "비상계엄 통제 강화 등 의제 제시범여권 개헌 강행 불가…2석 부족禹 \"국민의힘 태도 완화\" 기대와 달리송언석 \"개헌 논의할 시기 아냐\" 거절",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "“이란사태 끝나면 어떤 종목이 반등할까”… 투자 파트너 된 AI",
+        "time": "2026-03-10T15:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/kukminilbo/20260311000948652jvsg.jpg",
+        "url": "https://v.daum.net/v/20260311000947678",
+        "summary": "[이슈 분석] 생성형AI 쓰는 요즘 개인투자자롤러코스터 장세… 향후 전망 예측기업분석 맡기고 종목 자문 받아“월 220달러에 사원 고용하는 격”",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "英 \"독일·이탈리아와 호르무즈 통항 지원방안 협력\"",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/yonhap/20260311002326891okhj.jpg",
+        "url": "https://v.daum.net/v/20260311002326780",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "국제에너지기구, 긴급회의 소집…비축유 방출 여부 결정",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/segye/20260311003804284sxiq.jpg",
+        "url": "https://v.daum.net/v/20260311003803950",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "美상원 민주 \"韓에 3천500억불 투자입법 압박에 동맹 크게 불안\"",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/yonhap/20260311002347706heft.jpg",
+        "url": "https://v.daum.net/v/20260311002347783",
+        "summary": "트럼프 정부 동맹 약화 초래 비판하며 \"한미 동맹도 압박 상태\"\"이란 전쟁도 중국과의 경쟁서 주의 분산…미 對中전략 실패 위험\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이란, 정유시설 보복 공격...이스라엘 \"더 많은 것\" 예고",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/YTN/20260311000424143jnyw.jpg",
+        "url": "https://v.daum.net/v/20260311000423436",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "헤그세스 美 국방장관 “러시아 이란 전쟁에 개입하면 안 돼” 경고",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/kukminilbo/20260311000144396dzzi.jpg",
+        "url": "https://v.daum.net/v/20260310234744227",
+        "summary": "“푸틴과 건설적 통화…이란 사태 돕고 싶어 한다” 트럼프 메시지와 엇갈려",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "미 국방 \"오늘 이란공습 가장 격렬한 날 될 것…이란 고립됐다\"",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311003605110sazh.jpg",
+        "url": "https://v.daum.net/v/20260311003602913",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동 전쟁 여파로 IEA 긴급회의…비축유 방출 여부 결정",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/nocut/20260311001503744juez.jpg",
+        "url": "https://v.daum.net/v/20260311001500736",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "IEA, 정부간 긴급회의 소집…비축유 방출 여부 결정",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311000902670efuf.jpg",
+        "url": "https://v.daum.net/v/20260311000901641",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "트럼프 무역 제재 위협에도…스페인 외무 \"양국 관계 이상 없다\"",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/NEWS1/20260311000640636dpes.jpg",
+        "url": "https://v.daum.net/v/20260311000639488",
+        "summary": "알바레스 외무장관 \"미군 기지 이전 관련 접촉 없어\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "트럼프 “전쟁 곧 끝나”… 이 말을 믿어도 되나",
+        "time": "2026-03-10T15:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/kukminilbo/20260311000301754iacl.jpg",
+        "url": "https://v.daum.net/v/20260311000300372",
+        "summary": "“큰 위험 이미 지나가… 곧 끝날 것”“20배 더 센 타격” 강경 메시지도미국·이란 전쟁 불확실성은 여전",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
       }
     ]
   },
@@ -8081,6 +8894,15 @@
         "time": "2026-03-10T00:00:00",
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=299977",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[김태우의 안보해설] 美핵우산과 한국의 평화적 핵 주권",
+        "time": "2026-03-10T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=299747",
         "summary": "",
         "source": "skyDaily",
         "date": "2026년 03월 10일 화요일"
