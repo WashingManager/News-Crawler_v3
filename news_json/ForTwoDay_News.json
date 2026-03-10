@@ -689,6 +689,46 @@
         "url": "https://www.fnnews.com/news/202603101800332739",
         "source": "Fn",
         "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보] 경찰, '1억 공천헌금 의혹' 강선우·김경 구속 송치",
+        "time": "2026-03-11T08:01:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110759542240",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중장년 취업 도전 응원…경북 구직자 면접비 지원",
+        "time": "2026-03-11T08:06:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110759306562",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"트럼프 막내아들-김정은 장녀 손 하트\"…'세계 평화' 위해 배런-김주애 결혼 밈 확산",
+        "time": "2026-03-11T08:28:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110738423520",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "기름값만 문제가 아니다…이란 전쟁에 다른 원자재도 공급 비상",
+        "time": "2026-03-11T07:52:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110730087058",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "北, 핵탑재 가능 구축함 '최현호' 6일만에 또 미사일 발사..서해 섬 목표 타격",
+        "time": "2026-03-11T07:51:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202603110729434379",
+        "source": "Fn",
+        "date": "2026년 03월 10일 화요일"
       }
     ]
   },
@@ -1047,6 +1087,14 @@
         "time": "2026-03-11T00:22:00",
         "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525406_3674041_3610_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525406",
+        "source": "Gukje",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "트럼프 \"이란 기뢰부설 선박 10척 완파\" 추가 공격 예고",
+        "time": "2026-03-11T07:50:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3525642_3674328_2157_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3525642",
         "source": "Gukje",
         "date": "2026년 03월 10일 화요일"
       }
@@ -4309,6 +4357,51 @@
         "time": "2026-03-11T07:50:00",
         "img": "https://img9.yna.co.kr/etc/inner/KR/2026/03/11/AKR20260311024400009_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260311024400009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'1억 공천헌금' 김경·강선우 구속송치…의혹 녹취 공개 2달여만",
+        "time": "2026-03-11T08:08:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/03/03/PYH2026030314940001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311027300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "무보, '이란 사태 비상대책 TF' 가동…무역금융 한도 1.5배 우대",
+        "time": "2026-03-11T08:16:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/03/11/AKR20260311028900003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311028900003",
+        "summary": "장영진 사장이 TF 총괄…수출 피해 대응·긴급자금 공급 등 지원",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보] 경찰, '1억 공천헌금 의혹' 강선우·김경 구속 송치",
+        "time": "2026-03-11T07:58:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2026/02/12/04/PCM20260212000004990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311026200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "경산 경부고속도로서 화물차 운행 중 화재…인명피해 없어",
+        "time": "2026-03-11T07:56:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/03/11/AKR20260311025800053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311025800053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'강력사건 골머리' 과테말라에 한국 치안역량 전수",
+        "time": "2026-03-11T08:05:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/03/11/AKR20260311027600087_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311027600087",
         "summary": "",
         "source": "yna",
         "date": "2026년 03월 10일 화요일"
@@ -11367,6 +11460,267 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/seoul/20260311072255494lgxn.jpg",
         "url": "https://v.daum.net/v/20260311072253337",
         "summary": "트럼프 두 아들, 美 드론업체 투자 참여中 드론 차단·美 조달 확대 속 커진 논란이란 전쟁 겹치며 이해충돌 비판 재확산워싱턴 정가 “대통령 가족 사익 여부 따져야”",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[속보]TK서도 李 ‘긍정’ 56.5% “보름만에 뒤집혀”- 조원씨앤아이",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/munhwa/20260311083805044unbs.jpg",
+        "url": "https://v.daum.net/v/20260311083803074",
+        "summary": "이란 전쟁 여파 속 소폭 하회TK 긍정 56.5% vs 부정 38.3%PK 긍정 48.7% vs 47.3%",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "獨 바이온텍 코로나 백신 개발자들, 새 회사 창업",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/chosunbiz/20260311083803922adxu.jpg",
+        "url": "https://v.daum.net/v/20260311083344971",
+        "summary": "미국 화이자와 mRNA 백신 공동 개발한 창업자 부부새 회사는 mRNA 의약품 R&D, 바이온텍은 상용화 맡아",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "아이티엠반도체, ‘AI 접목’ 로봇·모빌리티용 신기술 개발 본격 착수",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/ned/20260311083659618dvvg.jpg",
+        "url": "https://v.daum.net/v/20260311083659030",
+        "summary": "에임퓨처와 AI 기반 스마트 배터리·모터 액추에이터 공동개발 MOU배터리 수명 예측-셀 상태 진단 기술 개발…응용 분야 확대 추진아이티엠반도체, AI 기술 도입해 핵심 역량 강화 및 신기술 확대 본격화",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동發 리스크 확대…보험사, 자본시장 변동성 '예의주시'",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/552790-UItk6Yf/20260311075241125irrk.jpg",
+        "url": "https://v.daum.net/v/20260311075239849",
+        "summary": "중동 리스크 확산에 보험사 긴장…유가·환율 변동성 건전성 변수 유가 급등·신용스프레드 확대 우려…보험사 건전성 관리 비상등",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "중동발 오일 쇼크에 트럼프 감세안 효과 '흔들'",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/552820-vqjtPgp/20260311082134665wivb.png",
+        "url": "https://v.daum.net/v/20260311082133605",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[정가표정] 북구갑 후보 찾기, 전재수*서병수 선택은?",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/551742-YgdAPLB/20260311080207205pwwe.jpg",
+        "url": "https://v.daum.net/v/20260311075621934",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'AI·탄소중립 시대 내 일자리 괜찮나'…정부 대응 정책 6월 나온다",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/NEWS1/20260311080131349amuv.jpg",
+        "url": "https://v.daum.net/v/20260311080129070",
+        "summary": "고용노동부 '산업전환 고용안정 기본계획' 수립 방향 발표모니터링·전직지원·직무전환 등 6대 분야 중심",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "시흥시, '피지컬 AI' 거점으로 도약…바이오·제조 혁신 가속화",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/newsis/20260311082858966vegf.jpg",
+        "url": "https://v.daum.net/v/20260311082858820",
+        "summary": "임병택 시장 \"경기도와 협력해 상생형 AI 산업 생태계 구축할 것\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "에스엔시스, 필리핀 MLCC 신공장 전력솔루션 수주",
+        "time": "2026-03-10T23:39:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/newsis/20260311082458120ivgw.jpg",
+        "url": "https://v.daum.net/v/20260311082458690",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "하이브, 日서 'VR 콘서트 프로젝트' 가동…\"열도 팬심 꽉 잡는다\"",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/552809-WkUXVfQ/20260311081524343muvq.jpg",
+        "url": "https://v.daum.net/v/20260311081522424",
+        "summary": "‘하이브재팬 VR 넥스트 스테이지' 본격 가동 AMAZE와 협력…12K 영상에 7.1ch 음향 \"앞으로 타사 아티스트 IP와도 협업 가능해\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "NYT “이란전 미 지지 여론, 다른 전쟁보다 훨씬 낮아···이라크전도 76%”",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/khan/20260311081404643aqyx.jpg",
+        "url": "https://v.daum.net/v/20260311081403378",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "EU \"중동 전쟁에 러시아만 이득…유가 치솟고 우크라 관심 ↓\"",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/10/NEWS1/20260310185827187gohi.jpg",
+        "url": "https://v.daum.net/v/20260310185825962",
+        "summary": "EU 의장 \"러, 에너지값 급등에 우크라 전쟁 자금 추가 확보\"\"우크라 지원 쓰일 군사력 다른 곳으로 전용\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이란, 미·이 공습에 ‘모자이크 방어’로 적응력 키웠다",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/dt/20260311082502808tmly.jpg",
+        "url": "https://v.daum.net/v/20260311082500693",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이라크 침공도 76% 지지했는데…이란戰 41% 역대 美전쟁 최저",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/NEWS1/20260311075127381ghey.jpg",
+        "url": "https://v.daum.net/v/20260311075125813",
+        "summary": "2차 세계대전 97%·이라크戰 76%·한국전쟁 75% 지지",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "호르무즈 막히자 홍해로…초대형 유조선 25척, 사우디 얀부行",
+        "time": "2026-03-10T23:38:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/NEWS1/20260311074128065tibw.jpg",
+        "url": "https://v.daum.net/v/20260311074127619",
+        "summary": "호르무즈 마비 따른 에너지 공급 완화 기대",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "백악관 “이란과의 전쟁, 트럼프가 ‘군사목표 완전 달성’ 판단 시 끝날 것”",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/552786-gygG85f/20260311083203618stuh.jpg",
+        "url": "https://v.daum.net/v/20260311083203915",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "어느 말을 들어야 하나…트럼프 엇갈린 메시지에 에너지 시장 출렁",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/ked/20260311083102127vjdd.jpg",
+        "url": "https://v.daum.net/v/20260311083100890",
+        "summary": "라이트 에너지 장관 \"호르무즈 해협 유조선 호위\"소셜미디어 게시 이후 삭제유가 한때 20% 가까이 하락",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"이란, 호르무즈 해협에 기뢰 부설 징후\"…트럼프 \"즉각 제거하라\"",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311083304649qvml.jpg",
+        "url": "https://v.daum.net/v/20260311083303946",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "미 국방부, 전쟁 부상자 규모 첫 공개…언론 보도 뒤 발표해 논란",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/mbn/20260311082928151flut.png",
+        "url": "https://v.daum.net/v/20260311082925833",
+        "summary": "\"미군 약 140명 부상, 8명은 중상\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[중동 전쟁] “美, 이스라엘에 이란 에너지 시설 타격 자제 요청”",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/dailian/20260311083636460pboz.jpg",
+        "url": "https://v.daum.net/v/20260311083634021",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "트럼프 \"호르무즈 기뢰부설용 선박 완파\"…'유조선 호위' 번복 소동도",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/newsy/20260311083007035gluz.jpg",
+        "url": "https://v.daum.net/v/20260311083006864",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"트럼프 파월 수사 끝날 때까지 워시 인준 안돼\" [Fed워치]",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/ked/20260311075254525lgoc.jpg",
+        "url": "https://v.daum.net/v/20260311075253850",
+        "summary": "美 공화당 톰 틸리스 상원의원\"제롬 파월 Fed 의장 수사 마무리되기 전까지어떤 Fed 이사 인준에도 찬성 안해\"",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "[뉴스특보] 미 \"가장 격렬한 공습\"…이란, 연일 결사항전",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/newsy/20260311080040450oxtl.jpg",
+        "url": "https://v.daum.net/v/20260311080040038",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "이스라엘, '악마의 무기' 백린탄 사용 의혹...발암물질 '제초제'까지? [앵커리포트]",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/YTN/20260311083114375ucmk.jpg",
+        "url": "https://v.daum.net/v/20260311083113898",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"이스라엘 고위급, 이란정권 붕괴 최장 1년 예상\"",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311083306733lkxs.jpg",
+        "url": "https://v.daum.net/v/20260311083305950",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "'거리에서 집으로' 10년 만에 LA 노숙인 사망 줄인 '인사이드 세이프' 효과",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/akn/20260311083436238wapi.jpg",
+        "url": "https://v.daum.net/v/20260311083435989",
+        "summary": "2024년 사망자 전년 대비 300명 감소미국 전역 노숙인 문제 여전히 심각",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "미 국방부 \"오늘 가장 격렬한 공습…이란 처참히 패배\"",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/mbn/20260311071730070lyfw.jpg",
+        "url": "https://v.daum.net/v/20260311071729272",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "\"트럼프 정부, 이스라엘에 이란 에너지시설 타격 자제 요청\"",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311083307734lpic.jpg",
+        "url": "https://v.daum.net/v/20260311083307954",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 10일 화요일"
+      },
+      {
+        "title": "백악관 \"이란전, 트럼프가 '군사 목표 완전 달성' 판단 시 종료\"",
+        "time": "2026-03-10T23:37:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/11/sbsi/20260311083302324xsng.jpg",
+        "url": "https://v.daum.net/v/20260311083300936",
+        "summary": "",
         "source": "daum",
         "date": "2026년 03월 10일 화요일"
       }
