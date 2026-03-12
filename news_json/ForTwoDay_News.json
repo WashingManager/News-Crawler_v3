@@ -1,5 +1,490 @@
 [
   {
+    "date": "2026년 03월 12일 목요일",
+    "articles": [
+      {
+        "title": "호르무즈 해협 전운 고조, 이란 공격으로 유조선 피격 속출",
+        "time": "2026-03-12T08:50:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3526985_3675767_5035_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3526985",
+        "source": "Gukje",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "\"정보가 10년 전 것?\" 미군, 이란 해군 기지 오인 사격으로 학교 타격",
+        "time": "2026-03-12T08:14:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3526900_3675668_057_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3526900",
+        "source": "Gukje",
+        "date": "2026년 03월 12일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 03월 12일 목요일",
+    "articles": [
+      {
+        "title": "\"이란, 美중동특사 '휴전 메시지' 2차례 퇴짜\"",
+        "time": "",
+        "img": "https://img3.yna.co.kr/photo/etc/af/2026/03/11/PAF20260311254701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311179300085",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "전재수, 13일 부산시장 공천신청…\"해양수도 부산 만들 것\"",
+        "time": "2026-03-12T10:03:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/03/02/PYH2026030209310005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312059600051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "與 추미애, 경기지사 출마 선언…\"당당한 경기도 만들겠다\"",
+        "time": "2026-03-12T09:58:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031203420001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312057700001",
+        "summary": "\"책임지는 행정, 실천하는 행정으로 경기도정 이끌 것\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "파주 전차사격장서 훈련 중 산불…임야 2천500㎡ 소실",
+        "time": "2026-03-12T09:53:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2019/04/08/82/PCM20190408000282990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312056400060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "장동혁 \"지선 때까지 모든 윤리위 징계 논의 중단…대여투쟁 집중\"",
+        "time": "2026-03-12T09:33:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312043400001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312043400001",
+        "summary": "\"모든 당직자, 당내 문제 언급 자제해 달라…지선승리 힘 모을 때\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "경찰 '강서구청장 보궐선거 개입' 의혹 김규현 前국정원장 소환",
+        "time": "2026-03-12T09:25:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031203670001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312037400004",
+        "summary": "본투표 직전 '선관위 해킹 가능' 발표 지시해 선거 개입한 혐의",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "한병도 \"비상입법 체제 유지…국힘에 발목 잡힌 민생 법안 많아\"",
+        "time": "2026-03-12T10:00:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031205170001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312056300001",
+        "summary": "\"국힘, 민생 포기 아니라면 신속한 입법에 협조해야\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[속보] 장동혁 \"지방선거 때까지 모든 윤리위 징계 논의 중단\"",
+        "time": "2026-03-12T09:08:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031202860001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312039900001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "金총리, 오늘 한 달 반 만에 방미…밴스 부통령 회동 가능성",
+        "time": "2026-03-12T10:00:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/01/24/PYH2026012400360001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312031400001",
+        "summary": "12∼19일 美·스위스 찾아 '유엔 AI 허브' 한국 유치 노력",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "'두쫀쿠' 지고 '버터떡' 뜬다…찹쌀가루·타피오카 판매량 늘어",
+        "time": "2026-03-12T10:24:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312064800030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312064800030",
+        "summary": "배달앱서도 검색어 상위권…일부에선 원재료 가격 인상 우려도",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "대동, 북미 최대 건설장비 전시회 '콘엑스포' 참가",
+        "time": "2026-03-12T10:14:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312062500030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312062500030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[게시판] '지역 주도 일자리' 본격화…제1차 지역고용아카데미 개최",
+        "time": "2026-03-12T10:00:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2022/11/02/55/PCM20221102000155990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260311145900530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "편의점 '튼튼먹거리 매장' 늘린다…121곳→300곳 확대",
+        "time": "2026-03-12T09:51:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312051400017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312051400017",
+        "summary": "식약처·지자체·편의점업계 협력 시범사업 추진",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "원주시, 올해 인구 3천명 증가 목표…기업 유치·청년 정착 추진",
+        "time": "2026-03-12T09:35:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312048000062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312048000062",
+        "summary": "최근 두 달 새 475명 증가…구인 수요·일자리 통해 인구 유입 견인",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "준오헤어, 베트남 진출…호찌민에 1호 매장",
+        "time": "2026-03-12T09:29:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312044400030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312044400030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[게시판] 한국앤컴퍼니 장애인 표준사업장 '한국동그라미파트너스' 11주년",
+        "time": "2026-03-12T09:28:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312045200003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312045200003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "대한전선 베트남법인, 현지 최초 400kV 초고압케이블 공장 착공",
+        "time": "2026-03-12T09:27:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312045300003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312045300003",
+        "summary": "해외 첫 초고압케이블 생산기지…글로벌 핵심 거점으로 육성",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "장병호 한화투자증권 대표, 청소년 불법 도박 근절 캠페인 동참",
+        "time": "2026-03-12T09:18:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312042700008_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312042700008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "김포시, 송전철탑 활용 야간경관 조성 추진…한전과 협약",
+        "time": "2026-03-12T09:17:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312042800065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312042800065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "관광공사, 안동 만휴정·춘천 실레마을 '강소형 관광지'로 선정",
+        "time": "2026-03-12T09:15:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2024/12/26/46/PCM20241226000046542_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312040800030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "울주군, 공간정보 기반 기술 확대로 스마트행정 강화",
+        "time": "2026-03-12T09:14:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/03/05/PYH2025030518190005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312037800057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "외국환시세(3월12일·하나은행 1차 고시 기준)",
+        "time": "2026-03-12T09:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260312036900002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[AI픽] \"누구나 AI를 한글·산수처럼\"…모두의 AI 정책 박차",
+        "time": "2026-03-12T10:08:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/03/11/PYH2026031112660001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312059500017",
+        "summary": "초·중·고·대학 대상 AI 교육 확대",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "음성 '스마트농업타운' 공공토지 비축사업 공모 선정",
+        "time": "2026-03-12T09:51:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312047500064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312047500064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "용산구 '상권별 젠트리피케이션 위험도 분석시스템' 자체 구축",
+        "time": "2026-03-12T09:44:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312052500004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312052500004",
+        "summary": "빅데이터 기반으로 57개 상권 정밀 진단…\"상생하는 지역상권 조성\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "이스타항공, 지난해 탑승률 90.1％…국내 항공사 1위",
+        "time": "2026-03-12T09:43:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/09/30/38/PCM20240930000038990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312047400003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "넷마블, '몬길: STAR DIVE' 4월 15일 글로벌 출시 확정",
+        "time": "2026-03-12T09:34:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312047700017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312047700017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "천안시, 셀프주유소 장애인 주유 지원 체계 구축 추진",
+        "time": "2026-03-12T09:27:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312045100063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312045100063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "중진공, '중소벤처기업 AI 전환' 3개년 계획 가동",
+        "time": "2026-03-12T09:03:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/09/27/97/PCM20240927000397030_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312034500030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[건강포커스] \"중증 코로나19·독감, 수개월~수년 뒤 폐암 발생 위험 높여\"",
+        "time": "2026-03-12T08:55:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2020/02/10/42/PCM20200210000042990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312000100017",
+        "summary": "美 연구팀 \"폐를 암에 취약하게 만들어…백신으로 해로운 영향 방지 가능\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "7월부터 충남 어선 구명조끼 착용 의무화…현장 홍보 강화",
+        "time": "2026-03-12T08:52:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312033300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312033300063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "철원군, 주인 없는 간판 정비…안전사고 예방",
+        "time": "2026-03-12T10:17:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/05/30/05/PCM20240530000005990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312065100062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "경남도, 올해도 목욕탕 노후굴뚝 철거 이어간다…26개 철거 목표",
+        "time": "2026-03-12T10:16:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312060400052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312060400052",
+        "summary": "2022년부터 지난해까지 394개 낡은 굴뚝 중 87개 철거 완료",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[속보] 납북귀환어부 국가배상 사건도 재판소원…9시 현재 총 4건 접수",
+        "time": "2026-03-12T10:10:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2025/07/10/PYH2025071010770006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312062800004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[속보] 재판소원 1호는 '시리아 국적 외국인 강제퇴거명령 취소'",
+        "time": "2026-03-12T10:09:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2025/01/12/PYH2025011204780001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312062600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "강북구, 소방관 마음건강 돌보는 '영웅 회복 사업' 운영",
+        "time": "2026-03-12T10:13:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312064400004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312064400004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "제주소방, 들불축제 화재 대비 총력…\"안전관리 이상무\"",
+        "time": "2026-03-12T09:39:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/03/09/PYH2026030906650005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312049900056",
+        "summary": "달집태우기 등 화재위험 행사 대비 소방력 전진 배치",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "독립기념관, 가족 관람객 대상 '독립기념관 토요나들이' 운영",
+        "time": "2026-03-12T09:38:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312048700063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312048700063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "정읍시, 고향사랑기금으로 '공유어린이집' 추진…보육격차 해소",
+        "time": "2026-03-12T09:29:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312046600055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312046600055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "울주군, 오래된 목욕탕 굴뚝 해체 지원…\"안전사고 예방\"",
+        "time": "2026-03-12T09:24:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/11/12/39/PCM20241112000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312038100057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "울주군, 남부장애인복지관 '첫삽'…2028년 3월 준공",
+        "time": "2026-03-12T09:18:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/11/12/46/PCM20241112000046990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312038000057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "2040년 평택 도시기본계획 승인…목표 계획인구 105만명",
+        "time": "2026-03-12T09:18:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312038600061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312038600061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "울산시, 학교전담경찰관 전용차량 지원…남부서·북부서 배정",
+        "time": "2026-03-12T09:02:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260312036500057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "[내일날씨] 일교차 큰 초봄…강원·경상 곳곳 눈비",
+        "time": "2026-03-12T09:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/03/31/PYH2025033101670001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312012700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "\"장관 사진 못 나왔다고\"…펜타곤, 브리핑에 사진기자들 '차단'",
+        "time": "2026-03-12T09:45:00",
+        "img": "https://img8.yna.co.kr/photo/ap/2026/03/02/PAP20260302321401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312049500009",
+        "summary": "헤그세스 첫날 브리핑 사진 문제삼아 이후 두차례 브리핑은 출입금지",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "\"中, 대만 유사시 이란처럼 아시아 미군기지 공격할 수도\"",
+        "time": "2026-03-12T09:34:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312044600009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312044600009",
+        "summary": "홍콩 SCMP 보도…\"韓험프리스, 日가데나 공군기지도 대상\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "中전문가 \"韓사드 중동이동은 성능한계 노출\"…韓안보공백도 제기",
+        "time": "2026-03-12T09:23:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312042000083_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312042000083",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "노르웨이 미 대사관 테러 용의자 체포…이라크계 이주민들",
+        "time": "2026-03-12T09:23:00",
+        "img": "https://img7.yna.co.kr/photo/reuters/2026/03/12/PRU20260312074901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312040500009",
+        "summary": "20대 형제 3명 범행동기 조사 중…중동전쟁 관련 테러 가능성 염두",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "이란, 이라크 영해 유조선 2척 공격…걸프바다 전역 무차별 공격",
+        "time": "2026-03-12T08:57:00",
+        "img": "https://img4.yna.co.kr/photo/etc/af/2026/03/11/PAF20260311263401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312032300009",
+        "summary": "승조원 1명 사망…호르무즈 해협 집중공격 이어 공격 범위 확대",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "\"모즈타바, 미국 공습 첫날 발 골절·얼굴 상처\"",
+        "time": "2026-03-12T09:17:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/03/12/AKR20260312035400009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312035400009",
+        "summary": "이란대사도 최고지도자 부상 공식 확인…\"병원 입원 가능성\"",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      },
+      {
+        "title": "소방공무원 심리치유 지원…한림대, 찾아가는 상담실 운영",
+        "time": "2026-03-12T10:27:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2020/10/14/60/PCM20201014000060990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260312066400062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 12일 목요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 03월 11일 수요일",
     "articles": [
       {
