@@ -263,6 +263,22 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3533197",
         "source": "Gukje",
         "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "중동 전쟁 여파...추석 '전 국민 25만 원 지원금' 나오나",
+        "time": "2026-03-19T00:07:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3533122_3682740_540_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3533122",
+        "source": "Gukje",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "(사)한국꿀벌생태환경보호협회...5회 밀원숲 가꾸기 행사 20일 개최",
+        "time": "2026-03-19T00:17:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3533182_3682756_1611_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3533182",
+        "source": "Gukje",
+        "date": "2026년 03월 18일 수요일"
       }
     ]
   },
@@ -3119,6 +3135,96 @@
         "img": "https://img9.yna.co.kr/photo/cms/2026/03/18/41/PCM20260318000141990_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260318178400054",
         "summary": "이틀간 권리당원 투표로 본경선 진출자 가려",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "쌀값, 최대 26% 치솟아…\"송미령 장관 쌀정책 오락가락\"",
+        "time": "2026-03-19T06:15:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/03/13/PYH2026031311510001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260318184800030",
+        "summary": "분식집 \"장사 너무 힘들어\"…떡값 오르고 공깃밥 2천원도 등장",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "전북 대체로 맑고 일교차 커…낮 기온 11∼14도",
+        "time": "2026-03-19T06:20:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/03/14/09/PCM20230314000009990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260319015200055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "대전·충남 내륙 아침 짙은 안개…낮 최고기온 9∼13도",
+        "time": "2026-03-19T06:20:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/03/19/AKR20260319015100063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260319015100063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "부산·울산·경남 대체로 맑음…낮 최고 14∼17도",
+        "time": "2026-03-19T06:19:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031608170005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260319014800051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "대구·경북 대체로 맑은 날씨…낮 기온 11∼16도",
+        "time": "2026-03-19T06:13:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/03/18/PYH2026031816170005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260319014600053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "경찰, 스토킹범죄 10%만 '강한 잠정조치' 신청…보호조치 '한계'",
+        "time": "2026-03-19T06:11:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2021/10/21/80/PCM20211021000080990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260318179900060",
+        "summary": "법원 문턱도 높아…경찰 신청한 신체제한 조치 인용률 30%대 그쳐",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "충북 맑다가 오후 가끔 구름많아…미세먼지 나쁨",
+        "time": "2026-03-19T06:03:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/03/19/AKR20260319014400064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260319014400064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "울산시, 올해부터 고3 수험생에 인플루엔자 예방접종 지원",
+        "time": "2026-03-19T06:01:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2021/06/01/39/PCM20210601000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260318177200057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "서울시, 봄철 화재안전대책…무허가주택 안전 컨설팅",
+        "time": "2026-03-19T06:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/03/18/AKR20260318153400004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260318153400004",
+        "summary": "건설현장 화재안전관리 강화·전통사찰 관리",
+        "source": "yna",
+        "date": "2026년 03월 18일 수요일"
+      },
+      {
+        "title": "약값 낮춘 민간 병원과 약국에 절감액 35% 돌려준다",
+        "time": "2026-03-19T06:11:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/03/10/PYH2026031007990001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260318100800530",
+        "summary": "2027년부터 시장연동형 실거래가 제도 도입해 적정 약가 구매 독려",
         "source": "yna",
         "date": "2026년 03월 18일 수요일"
       }
