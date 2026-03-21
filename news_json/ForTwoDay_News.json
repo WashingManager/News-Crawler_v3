@@ -304,6 +304,22 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3535340",
         "source": "Gukje",
         "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "이탈리아 북부서 눈사태, 스키어 7명 사상",
+        "time": "2026-03-22T01:55:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3535871_3685637_5551_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3535871",
+        "source": "Gukje",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "트럼프, 공항 보안 검색에 'ICE 요원 투입' 위협",
+        "time": "2026-03-22T02:10:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202603/3535876_3685643_1015_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3535876",
+        "source": "Gukje",
+        "date": "2026년 03월 21일 토요일"
       }
     ]
   },
@@ -4426,6 +4442,69 @@
         "time": "2026-03-21T17:54:00",
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/sbsi/20260322023903624imoz.jpg",
         "url": "https://v.daum.net/v/20260322023901806",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "“이게 진짜 되네?”…석유 최고가제 시행 첫 주, 주유소 기름값 하락 전환",
+        "time": "2026-03-21T18:52:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/seouleconomy/20260322030428417hwva.jpg",
+        "url": "https://v.daum.net/v/20260322030425864",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "英총리 \"키프로스 기지, 대이란 공격 작전에 사용 안 해\"",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/newsis/20260322034547191rdbz.jpg",
+        "url": "https://v.daum.net/v/20260322034547945",
+        "summary": "\"이란 미사일 약화 조치에도 관여 안 해\"",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "이스라엘군 참모총장 \"대이란 작전 전체 일정의 절반 수준\"",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/yonhap/20260322033626823flya.jpg",
+        "url": "https://v.daum.net/v/20260322033626923",
+        "summary": "\"이란, 디에고가르시아 기지 겨냥 2단 대륙간탄도미사일 발사…유럽 전역 사정권\"",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "트럼프, 민주당에 최후 통첩… “예산 즉각 합의 안하면 공항에 ICE 파견”",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/dt/20260322033903658pzor.jpg",
+        "url": "https://v.daum.net/v/20260322033901926",
+        "summary": "국토안보부 셧다운 여파와 공항 대란불법 이민자 체포 및 특정 지역 정조준“미국을 다시 위대하게”… 강경 대응 예고",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "‘러시아게이트 수사’ 뮬러 전 FBI국장 별세…트럼프 “기쁘다” 독설",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/dt/20260322034528791irnp.jpg",
+        "url": "https://v.daum.net/v/20260322034527944",
+        "summary": "2017년 특검 임명돼 트럼프 측근·러 정보요원 등 줄줄이 기소 9·11테러 직전 FBI 수장 취임…FBI 현대화와 격동의 12년 임기‘러시아게이트’ 특검과 미완의 결론…트럼프, 거침없는 독설과 깊은 앙금",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "'러시아게이트 수사' 뮬러 前 FBI국장 별세…트럼프 \"기쁘다\"",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/yonhap/20260322032427803jeow.jpg",
+        "url": "https://v.daum.net/v/20260322032427901",
+        "summary": "2017년 특검 임명돼 트럼프 측근·러 정보요원 등 줄줄이 기소 9·11테러 직전 FBI 수장 취임…12년간 조직 개혁 이끌기도",
+        "source": "daum",
+        "date": "2026년 03월 21일 토요일"
+      },
+      {
+        "title": "EU, 이란 사태 여파…회원사에 가스 비축 목표치 하향 권고",
+        "time": "2026-03-21T18:51:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/22/newsy/20260322030327191cmbb.jpg",
+        "url": "https://v.daum.net/v/20260322030327856",
         "summary": "",
         "source": "daum",
         "date": "2026년 03월 21일 토요일"
