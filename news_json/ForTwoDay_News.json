@@ -17,6 +17,43 @@
     "date": "2026년 04월 11일 토요일",
     "articles": [
       {
+        "title": "[1보] 정부, 26조 2000억 '전쟁 추경' 의결",
+        "time": "2026-04-11T10:28:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202604/3554594_3706421_823_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3554594",
+        "source": "Gukje",
+        "date": "2026년 04월 11일 토요일"
+      },
+      {
+        "title": "[속보] 26.2조원 '전쟁 추경안' 임시 국무회의서 의결",
+        "time": "2026-04-11T10:24:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202604/3554593_3706401_2438_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3554593",
+        "source": "Gukje",
+        "date": "2026년 04월 11일 토요일"
+      },
+      {
+        "title": "26조 2000억 '전쟁 추경' 국회 통과... 중국 관련 안 '글로벌' 확대",
+        "time": "2026-04-11T09:14:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202604/3554583_3706385_141_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3554583",
+        "source": "Gukje",
+        "date": "2026년 04월 11일 토요일"
+      },
+      {
+        "title": "NASA 아르테미스 2호, 지구 무사 귀환",
+        "time": "2026-04-11T09:33:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202604/3554584_3706387_2438_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3554584",
+        "source": "Gukje",
+        "date": "2026년 04월 11일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 04월 11일 토요일",
+    "articles": [
+      {
         "title": "임시정부 107주년…與 \"내란청산 완수\"·국힘 \"통합 절실\"",
         "time": "2026-04-11T10:33:00",
         "img": "https://img1.yna.co.kr/photo/yna/YH/2026/04/10/PYH2026041014150006100_T2.jpg",
@@ -525,6 +562,24 @@
         "time": "2026-04-11T18:02:00",
         "img": "https://img1.yna.co.kr/etc/inner/KR/2026/04/11/AKR20260411046000007_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260411046000007",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 11일 토요일"
+      },
+      {
+        "title": "조계원, 김영록 지지 해석에 \"곡해말라\"",
+        "time": "2026-04-11T19:30:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/04/09/PYH2026040920600005400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260411049800054",
+        "summary": "\"김.민형배 두분께 정책수용 감사\"",
+        "source": "yna",
+        "date": "2026년 04월 11일 토요일"
+      },
+      {
+        "title": "경주서 승용차 가드레일 들이받고 5ｍ 아래 추락…4명 심정지",
+        "time": "2026-04-11T19:09:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/04/11/AKR20260411049500053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260411049500053",
         "summary": "",
         "source": "yna",
         "date": "2026년 04월 11일 토요일"
