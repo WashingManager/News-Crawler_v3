@@ -1,5 +1,330 @@
 [
   {
+    "date": "2026년 04월 22일 수요일",
+    "articles": [
+      {
+        "title": "카페24, 日 'NE'와 맞손…K-이커머스 열도 공략 가속화",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552809-WkUXVfQ/20260422090059906dors.jpg",
+        "url": "https://v.daum.net/v/20260422090057795",
+        "summary": "각 사 장점 결합한 통합 이커머스 환경 구축 목표 일본 특유 복잡한 백오피스 시스템 해결책 제시",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "HBM3서 허덕..韓 기술력에 두세대 뒤져 [여의도 Pick!]",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552782-ZYLYaJX/20260422085038845augl.jpg",
+        "url": "https://v.daum.net/v/20260422085011443",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[지구의 날] 한국인 하루 탄소배출량 '깜놀'...中·인도보다 많다",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552813-dvZDMut/20260422081204784bwrn.jpg",
+        "url": "https://v.daum.net/v/20260422081202439",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[속보] 李대통령 국정지지율 59.9% [쿠키뉴스]",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/segye/20260422084636250klgp.jpg",
+        "url": "https://v.daum.net/v/20260422084636348",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[속보]장동혁 ‘잘못함’ 64.1%…방미 ‘부적절’ 63.3%-한길리서치",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/munhwa/20260422081536132cqhc.png",
+        "url": "https://v.daum.net/v/20260422081533522",
+        "summary": "정청래 ‘잘함’ 40.7% ‘잘못함’ 47.5%",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "한국 선박엔진 '안정적 전력 공급-짧은 납기'...글로벌 주문 '폭주' [여의도 Pick!]",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552782-ZYLYaJX/20260422085113605mvnp.jpg",
+        "url": "https://v.daum.net/v/20260422085041462",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[건강포커스] \"산불 연기 장기간 노출, 폐·대장·유방암 등 위험 높여\"",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/yonhap/20260422090312667qnjc.jpg",
+        "url": "https://v.daum.net/v/20260422090312964",
+        "summary": "美 연구팀 \"산불 연기 속 PM2.5 증가시 암 위험 증가…저농도에서도 영향\"",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "노을, 유럽 최대 감염병 학회서 연구 초록 3건 발표…\"말라리아 진단 성능 입증\"",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/Edaily/20260422084134073sajr.jpg",
+        "url": "https://v.daum.net/v/20260422084132198",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[시승] 또 다른 성공공식, 포드 익스플로러 트레머",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/autotimes/20260422082813361edvz.jpg",
+        "url": "https://v.daum.net/v/20260422082807833",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "Fox ESS, 그린에너지엑스포서 한국형 통합 에너지 솔루션 공개",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/joongang/20260422090133927oyce.jpg",
+        "url": "https://v.daum.net/v/20260422090132841",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "보험금 신청 몇시간 만에 통장으로…보험사 AI로 '속도 경쟁'",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552842-MG6mj39/20260422090505760urjx.jpg",
+        "url": "https://v.daum.net/v/20260422090504032",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "‘AI 데이터센터+RE100 산단 조성’ 전남 강진 이끌 적임자 누구?",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/dailian/20260422082614009mqdr.jpg",
+        "url": "https://v.daum.net/v/20260422082607777",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "中서 역풍 맞은 '악마는 프라다를 입는다2'…캐릭터성인가, 인종적 클리셰인가",
+        "time": "2026-04-22T00:06:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552779-26fvic8/20260422083514167woij.jpg",
+        "url": "https://v.daum.net/v/20260422083512027",
+        "summary": "중국계 보조 캐릭터 친저우 논란…이름·외형·행동 묘사 두고 현지 반발",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "우크라 전쟁서 답 찾은 이란…드론·AI 전력 강화",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/ked/20260422090417256uvbc.jpg",
+        "url": "https://v.daum.net/v/20260422090415002",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "사우디로 수출된 네이버 '디지털 트윈'…로봇 빌딩 1784 가보니",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552842-MG6mj39/20260422084703576rxsa.jpg",
+        "url": "https://v.daum.net/v/20260422084702356",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "[2026전국동시지방선거 '국민의선택'][정가표정] 북구갑 보선, 보수 후보 2명 '삼각 구도' 전망",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/551742-YgdAPLB/20260422090307057qelq.jpg",
+        "url": "https://v.daum.net/v/20260422085127482",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "탈탄소 외치며 LNG 확대...기후주간서 드러난 한국의 모순",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552812-jEhW40C/20260422083258107sjfn.jpg",
+        "url": "https://v.daum.net/v/20260422083255968",
+        "summary": "[여수 기후주간 현장 취재]",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "이란, 호르무즈 통행료 징수 법안 의회 상임위 통과",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/NEWS1/20260422085309390xenv.jpg",
+        "url": "https://v.daum.net/v/20260422085309538",
+        "summary": "통과 허용 선박 종류 및 적대국 선박 제한 등 규정",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "KF-21, 2030년 후반 1만6000lbf급 국산 항공엔진 장착한다[이현호의 밀리터리!톡]",
+        "time": "2026-04-22T00:05:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/seouleconomy/20260422083710022akci.jpg",
+        "url": "https://v.daum.net/v/20260422083708084",
+        "summary": "5월 5500lbf급 항공엔진 최초 시동 시험KF-21 엔진 부품, 국산화율은 39% 불과2039년 목표로 1만6000lbf급 엔진 개발",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "이란 \"미국이 발표한 휴전 연장, 인정 안 해\"(상보)",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552842-MG6mj39/20260422090005497ydbw.jpg",
+        "url": "https://v.daum.net/v/20260422090004751",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "\"美, 이란전에 비축 핵심 미사일 소진…다른 분쟁시 부족 위기\"",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/NEWS1/20260422081949463bxsr.jpg",
+        "url": "https://v.daum.net/v/20260422081947616",
+        "summary": "\"개전 이후 7주간 절반가량 소모…보충에 4~5년 소요될 듯\"CSIS 보고서 \"동등 수준 적대국 맞서기에 부족\" 우려",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "멕시코서 ‘마약 시설’ 공격 뒤 복귀하던 미 CIA 요원들, 교통사고로 사망",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/khan/20260422082133908uzvd.jpg",
+        "url": "https://v.daum.net/v/20260422082132666",
+        "summary": "“도로서 미끄러져 계곡 아래로 추락한 뒤 폭발”미 ‘단속 직접 개입’에 멕시코선 “주권 침해” 지적",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "트럼프 환심사려고… 우크라 “돈바스를 도니랜드로 부르자” 제안했었다",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/hankooki/20260422085749054usqb.jpg",
+        "url": "https://v.daum.net/v/20260422085747671",
+        "summary": "'돈바스'와 '도널드' 조합해 만든 명칭러시아의  돈바스 양도 요구에 맞서트럼프를 설득하려는 전략의 일환NYT \"공식 문서에는 언급 안돼\"",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "이란 “휴전 연장 인정 안해”…해상봉쇄 지속시 “군사적 대응” 경고",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/etimesi/20260422090037454kvdg.jpg",
+        "url": "https://v.daum.net/v/20260422090036793",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "지지층 내에서도 신망 잃은 트럼프… 지지율 33%로 뚝 [뉴시스Pic]",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/newsis/20260422090026470epze.jpg",
+        "url": "https://v.daum.net/v/20260422090026779",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "\"이스라엘, 美-이란 종전협상 회의적…전쟁 재개 준비\"",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/NEWS1/20260422085909548ngxg.jpg",
+        "url": "https://v.daum.net/v/20260422085909717",
+        "summary": "2주휴전 발효 직후 전투기·공중급유기 동원한 훈련 진행",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "이스라엘·헤즈볼라, 각각 로켓·드론 공습…상대방에 ‘휴전 위반’ 주장",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552786-gygG85f/20260422085903762ygza.jpg",
+        "url": "https://v.daum.net/v/20260422085903706",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "\"AI가 껴안게 해주던데?\" 여직원 사진으로 주말 내내 한 짓 [스프]",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/sbsi/20260422090305525jhsm.jpg",
+        "url": "https://v.daum.net/v/20260422090303943",
+        "summary": "[특종의 발견] 안희재 기자",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "북러, 치안 기관 회담…\"교류·협력 확대 발전\"",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/THEFACT/20260422090303324cqts.jpg",
+        "url": "https://v.daum.net/v/20260422090302931",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "미군 유조선 승선→이란 반발…협상 ‘급제동’",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/hani/20260422085701019yyba.jpg",
+        "url": "https://v.daum.net/v/20260422085659645",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "미국, 대이란 ‘해상 봉쇄’ 강화… 이란 “미국 해적 행위, UN이 규탄해야”",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/hani/20260422085659530kayu.jpg",
+        "url": "https://v.daum.net/v/20260422085657641",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "일본 지진, 반도체 공급망 '대혼란'…키옥시아 낸드 공장도 셧다운",
+        "time": "2026-04-22T00:04:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/22/552809-WkUXVfQ/20260422085716784ktzl.png",
+        "url": "https://v.daum.net/v/20260422085715667",
+        "summary": "반도체 생산시설 안전점검 위해 가동 중단…재가동 시점 불확실 생산 차질로 일부 소재 공급 불안",
+        "source": "daum",
+        "date": "2026년 04월 22일 수요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 04월 22일 수요일",
+    "articles": [
+      {
+        "title": "양평군, 6월19일까지 ‘주민참여예산 제안사업’ 집중 공모",
+        "time": "2026-04-21T21:04:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=302865&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
+        "time": "2026-04-21T21:12:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=302867&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 04월 22일 수요일"
+      },
+      {
+        "title": "미·이란 2차 협상 급물살…휴전 연장 가능성 부상",
+        "time": "2026-04-14T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=302407",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 04월 22일 수요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 04월 21일 화요일",
     "articles": [
       {
@@ -3730,6 +4055,78 @@
         "time": "2026-04-22T07:12:00",
         "img": "https://img5.yna.co.kr/photo/etc/af/2026/04/17/PAF20260417119301009_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260422016500075",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "[동정] 보훈차관, 보훈병원 의료 소모품 수급 상황 점검",
+        "time": "2026-04-22T08:14:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260422025300504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "[게시판] 방사청, '방위사업 정상화' 국민제안 창구 운영",
+        "time": "2026-04-22T08:15:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260422025900504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
+        "time": "2026-04-22T08:12:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/04/21/PYH2026042106810005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260422026000052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "대구 팔공산에 불…1시간여만에 주불 진화(종합)",
+        "time": "2026-04-22T08:24:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/01/19/52/PCM20260119000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260422018451053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "오늘도 황사 탓 대기질 '나쁨'…제주·전남·경남에 황사비",
+        "time": "2026-04-22T08:15:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/04/21/PYH2026042111150001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260422025600530",
+        "summary": "내일 오후에야 미세먼지 농도 '보통' 수준으로 떨어질 듯",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "주정차 단속 피하려고 번호판에 비닐봉지 씌운 60대 벌금형",
+        "time": "2026-04-22T08:06:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2018/05/02/01/C0A8CA3D000001631F6EAD88001462C7_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260421152000051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "\"美소비자 40%가 구매 과정서 AI 활용…AI 유입자 매출 더 높아\"",
+        "time": "2026-04-22T08:47:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/04/22/AKR20260422026100091_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260422026100091",
+        "summary": "어도비 디지털인사이트 수석 디렉터 \"AI 최적화는 새로운 기회\"",
+        "source": "yna",
+        "date": "2026년 04월 21일 화요일"
+      },
+      {
+        "title": "대전 5개 기초단체장 선거 여야 대진표 완성",
+        "time": "2026-04-22T08:57:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2026/01/05/07/PCM20260105000107990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260422032300063",
         "summary": "",
         "source": "yna",
         "date": "2026년 04월 21일 화요일"
