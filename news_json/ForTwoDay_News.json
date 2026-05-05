@@ -1068,6 +1068,33 @@
         "summary": "",
         "source": "yna",
         "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "\"이란, 호르무즈 통과 선박 '새 해상 규제' 공식 도입\"",
+        "time": "2026-05-06T03:02:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/05/06/AKR20260506003400079_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260506003400079",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "단전·치안악화에 들끓는 쿠바…4월 시위·항의만 1천100여건",
+        "time": "2026-05-06T02:56:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/05/06/AKR20260506003300087_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260506003300087",
+        "summary": "고물가·식량난 심화…\"4명 중 1명은 저녁 굶어\"",
+        "source": "yna",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "'휴전 유효' 천명한 美, 압박수위 높이되 파국은 피하려는 듯",
+        "time": "2026-05-06T02:49:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/05/06/AKR20260506003200071_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260506003200071",
+        "summary": "美매체 \"美 고위당국자, '해방 프로젝트' 이란에 사전통보\"",
+        "source": "yna",
+        "date": "2026년 05월 05일 화요일"
       }
     ]
   },
@@ -1767,6 +1794,30 @@
         "time": "2026-05-06T01:47:00",
         "img": "",
         "url": "https://www.fnnews.com/news/202605060126320258",
+        "source": "Fn",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "[국제유가] 미 휴전 유지 선언에 4% 가까이 급락",
+        "time": "2026-05-06T04:45:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605060442225924",
+        "source": "Fn",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "세계 석유 재고 8년 만에 최저… 골드만삭스 빠른 감소에 따른 충격 경고",
+        "time": "2026-05-06T04:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605052241456604",
+        "source": "Fn",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "이란, 호르무즈 해협 새 해상 규제…'사전 통행 허가제' 도입",
+        "time": "2026-05-06T03:47:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605060333207745",
         "source": "Fn",
         "date": "2026년 05월 05일 화요일"
       }
@@ -5039,6 +5090,222 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/yonhap/20260506025108575igxy.jpg",
         "url": "https://v.daum.net/v/20260506025108480",
         "summary": "美매체 \"美 고위당국자, '해방 프로젝트' 이란에 사전통보\"트럼프 방중 직전 전쟁재개 상황은 피해야 한다는 생각일 수도",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "[국제유가] 미 휴전 유지 선언에 4% 가까이 급락",
+        "time": "2026-05-05T19:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/fnnewsi/20260506044635602tzxw.jpg",
+        "url": "https://v.daum.net/v/20260506044634038",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "오픈AI 공동창업자 44조 지분 보유... 머스크 \"환원하라\"",
+        "time": "2026-05-05T19:49:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/sbscnbc/20260506044802705sdnx.jpg",
+        "url": "https://v.daum.net/v/20260506044801044",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "정부, 美USTR '301조 공청회'서 \"시장원칙·한미협력\" 강조",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/yonhap/20260506044020884okko.jpg",
+        "url": "https://v.daum.net/v/20260506044020011",
+        "summary": "한미 산업 '상호보완 관계'도 설명…美, '과잉생산 구조조정 노력' 질의 트럼프 행정부 '관세 재편' 속 공청회…7월말 이전에 새 관세 부과될까",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "“비싸고 똑똑한 AI가 지갑 더 불려준다” AI發 빈익빈 부익부 경고",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043523661vyrn.jpg",
+        "url": "https://v.daum.net/v/20260506043523973",
+        "summary": "AI 에이전트 간 상거래-투자 실험고가 모델, 저가보다 수익 더 챙겨NYT “본격 활용엔 시간 더 필요”",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "춘천-원주-강릉, ‘강원 AI 시티’ 3파전",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/20260223/news.png",
+        "url": "https://v.daum.net/v/20260506043318897",
+        "summary": "내달 국토부 주관 공모사업지 선정춘천, 공모 대표사로 NC AI 선정원주, 주민 참여 기술 검증 청사진강릉, 스마트 교통 실증 경험 내세워",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "정부 “호르무즈 작전 참여 검토 진전”… 군함 투입은 최후의 수단으로 고려",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043519050odtz.jpg",
+        "url": "https://v.daum.net/v/20260506043517970",
+        "summary": "[호르무즈 韓화물선서 폭발]美 해양자유연합-프로젝트 프리덤정보 교류-연락장교 파견 등 거론수위 조절하며 단계적 참여할듯",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "500원 커피 마시고 AI로 근력 관리… ‘노인 복지’가 젊어진다",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043346164tndb.jpg",
+        "url": "https://v.daum.net/v/20260506043344915",
+        "summary": "자치구 ‘지역 복지모델’ 경쟁노원, 어르신 문화공간 개소서초, ‘건강장수센터’ 문 열어중랑, 퇴원 노인들 지원 추진",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "위태로워진 휴전에 브렌트유 5.8% 치솟아… 베선트 “中, 테러지원국 이란에 자금” 경고",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043429817psfl.jpg",
+        "url": "https://v.daum.net/v/20260506043429944",
+        "summary": "[美-이란 호르무즈 충돌]美재무 “中, 호르무즈 작전 동참을”미중 정상회담 앞두고 공개 압박골드만삭스 “원유 재고 8년새 최저”",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프가 ‘배신자’로 찍었는데 생환할까?… 美인디애나 공화당 경선 관심",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/dt/20260506033750457zjwk.jpg",
+        "url": "https://v.daum.net/v/20260506033749609",
+        "summary": "‘트럼프 대 반대파’ 인디애나 경선, 선거구 조정 둘러싸고 정면충돌“배신자는 탈락” vs “헌법 수호”, 공화당 내 격화되는 충성심 논쟁하락하는 지지율 속 시험대 오른 ‘트럼프 마법’, 중간선거 풍향계 되나",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "금융·기술·안보 얽힌 복합위기 속 韓 생존전략 모색",
+        "time": "2026-05-05T19:48:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/Edaily/20260506043235770cpgs.jpg",
+        "url": "https://v.daum.net/v/20260506043234870",
+        "summary": "6월 16·17일 제17회 이데일리 전략포럼 개최존 햄리·노리나 허츠·토르스텐 벡 등 글로벌 리더·석학 총출동격변의 ‘제2차 대분기’... 패권 격돌 속 생존의 ‘나침반’을 찾다",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "500조 대미 투자 약속한 한국… 美투자박람회서 러브콜 쏟아졌다 [르포]",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/chosun/20260506041903515eimd.jpg",
+        "url": "https://v.daum.net/v/20260506041902764",
+        "summary": "美상무부 주관 투자 박람회 ‘셀렉트USA’50개州 참석해 100국 사절 대상 투자 유치전한국어 안내는 기본, 주최 측 동시 통역 제공도美국무부 부장관 “韓기업 비자 우려 해소할 것”천차만별 마케팅 포인트도 주요 볼거리",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프 \"호르무즈 韓화물선 홀로 움직이다 이란 공격 받은 것\"(종합)",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/NEWS1/20260506044707924ssgq.jpg",
+        "url": "https://v.daum.net/v/20260506044707039",
+        "summary": "연이틀 \"이란에 피격\" 주장, 한국 정부는 \"폭발·화재 원인 규명 중\"이란 잇단 공격에도 \"휴전 여전히 유효…이란, 해선 안 될 선 알아\"",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "[뉴스룸에서] \"중국산이니 뭐\" 선입견은 깨졌지만",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/hankooki/20260506043217654oemf.jpg",
+        "url": "https://v.daum.net/v/20260506043216858",
+        "summary": "무인택시, 드론 배송 일상자체 공급망 탄탄히 구축알수록 서늘해지는 등골",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "美국무부 부장관 “한국 기업 우려 해소 위해 비자 제도 대대적 개편 중”",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/chosun/20260506032636112bvua.jpg",
+        "url": "https://v.daum.net/v/20260506032634590",
+        "summary": "“미국과 유럽, 새로운 균형점 필요”",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프 “韓 화물선, 해협서 혼자 행동하다 공격당한 것\"",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/Edaily/20260506043135015ldvx.jpg",
+        "url": "https://v.daum.net/v/20260506043133844",
+        "summary": "\"韓선박 대열에 없었어…이란 공격에 박살\" 일방 주장\"미국 보호 받던 선박들은 공격 안 당해\"",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "[단독]고종 ‘을사늑약 저지’ 美에 친서 121년만에 워싱턴서 발견",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043549029fpld.jpg",
+        "url": "https://v.daum.net/v/20260506043547982",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프 “韓, 호르무즈작전 합류를” 韓 “신중 검토”",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043520704gvrf.jpg",
+        "url": "https://v.daum.net/v/20260506043519971",
+        "summary": "트럼프 “이란이 韓선박 향해 발포이젠 美 도와야” 사실상 파병 압박헤그세스 “韓-日 등도 방어 참여해야”靑 “한반도 대비태세-국내법 감안”… 피격인지 사고인지 아직 확인 안돼",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "러 “전승절 맞아 8, 9일 휴전”… 우크라 “우린 이틀 먼저” 기싸움",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043356536dzdj.jpg",
+        "url": "https://v.daum.net/v/20260506043355918",
+        "summary": "러, 우크라 드론 우려 “공격땐 보복”장갑차-미사일 없는 열병식 결정4월 우크라서 잃은 영토가 더 많아젤렌스키 “러, 종전 위한 조처를” 촉구",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "이란軍 \"선박, 호르무즈서 정해진 항로 이탈 시 단호한 대응 직면할 것\"",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/552842-MG6mj39/20260506043903974jttq.jpg",
+        "url": "https://v.daum.net/v/20260506043902006",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "EU, 트럼프에 \"합의 지켜라\"…마크롱 \"'무역 바주카포' 쓰자\"",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/yonhap/20260506044709107axlm.jpg",
+        "url": "https://v.daum.net/v/20260506044708040",
+        "summary": "유럽산 자동차 관세 인상 예고에 반발…\"15% 관세율로 신속 복귀해야\"",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "이란 고속정 6척 격침 vs UAE 공격 재개… 다시 불붙는 해협",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043426102zhjg.jpg",
+        "url": "https://v.daum.net/v/20260506043424942",
+        "summary": "[美-이란 호르무즈 충돌]‘프로젝트 프리덤’ 첫날부터 대치트럼프 “이란, 지구서 날려보낼 것”… 미군 “美상선 2척 호르무즈 통과”혁명수비대 “미군 발표는 완전 거짓”UAE 원유 수출 우회 항만 타격",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프 2기 난맥상 비판… 올해 퓰리처상 휩쓸었다",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043358794qcfz.jpg",
+        "url": "https://v.daum.net/v/20260506043357920",
+        "summary": "연방정부 개편-일가 이해충돌 등권력감시 충실한 보도 대거 수상트럼프, 2018년 수상 관련 소송중",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "미국인의 삶, 지구촌 평균보다 두 배 윤택하다 [세계·사람·생각]",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/hankooki/20260506043302412rdhx.png",
+        "url": "https://v.daum.net/v/20260506043300876",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 05일 화요일"
+      },
+      {
+        "title": "트럼프 “내가 8, 9년뒤 물러나면” 또 뼈있는 3선 농담",
+        "time": "2026-05-05T19:47:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/06/donga/20260506043521350mobf.jpg",
+        "url": "https://v.daum.net/v/20260506043521972",
+        "summary": "2029년 두번째 임기 종료인데도소상공인 행사서 3선 도전 뜻 비쳐WP “중간선거 패배 대비 착수” 분석백악관 인근서 또 총격, 용의자 검거",
         "source": "daum",
         "date": "2026년 05월 05일 화요일"
       }
