@@ -1,5 +1,808 @@
 [
   {
+    "date": "2026년 05월 22일 금요일",
+    "articles": [
+      {
+        "title": "문성유 \"100조 풍력·AI 데이터센터 공개토론하자\"… 위성곤 공약 검증 공세",
+        "time": "2026-05-22T10:08:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605221005173748",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "엠로, 글로벌 최대 공급망 행사서 에이전틱 AI 솔루션 공개",
+        "time": "2026-05-22T09:52:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220950288473",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "메가존, AWS서 기업 성과 창출하는 에이전틱 AI 전략 공유",
+        "time": "2026-05-22T10:16:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220950133059",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "폴라리스AI, 한국피지컬AI협회 합류",
+        "time": "2026-05-22T09:49:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220944548589",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "KT, 석가탄신일·지방선거 앞두고 전국 통신망 점검 강화",
+        "time": "2026-05-22T10:15:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220937434818",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "구윤철 \"전쟁 장기화·금융 불확실성..경각심 갖고 민생에 박차\"",
+        "time": "2026-05-22T09:30:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220926555003",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "한국공항공사 '드론교통관리시스템' 글로벌 공개… 인터내셔널 UAS 엑스포 참가",
+        "time": "2026-05-22T10:26:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605221022497446",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "KB국민은행, 중동전쟁 피해기업을 위한 포용금융 지원 업무협약",
+        "time": "2026-05-22T09:28:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220925172771",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "경북도·경북TP, 지역특화형 스마트공장 본격 가동",
+        "time": "2026-05-22T09:34:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220925001015",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "부산시, 대부업체 51곳 현장점검...불법사금융 피해 예방",
+        "time": "2026-05-22T09:24:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220918183614",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "김혜경 여사, 모교서 '자랑스러운 숙명인상' 수상…은 쌍가락지도 기부",
+        "time": "2026-05-22T09:18:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220913248019",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[속보] 코스피, 0.74% 오른 7873.12 개장",
+        "time": "2026-05-22T09:05:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220901532422",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"동북 3성·러 시장 뚫어라\"...충남도, 中하얼빈 무역상담회서 365만弗 수출 상담",
+        "time": "2026-05-22T09:10:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220853168750",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "고의숙, 한국환경기술사회 지지 확보… \"생태전환교육 실현\"",
+        "time": "2026-05-22T08:54:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220850578490",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "조영철 HD현대 부회장 \"단순 장비 공급 넘어 우크라이나 재건에 기여하겠다\"",
+        "time": "2026-05-22T09:03:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220849198409",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "2회 추방된 韓여성활동가 \"가자지구 또 갈 것\"..외교부 당혹",
+        "time": "2026-05-22T08:53:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220844339170",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"견고한 본업과 피지컬 AI로의 변화\" 기아 목표가↑-NH",
+        "time": "2026-05-22T08:52:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220834549774",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"해외 진출 노하우 공유\".. 한국프랜차이즈協, '넥스트 K프랜차이즈 포럼' 성료",
+        "time": "2026-05-22T08:16:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220813335471",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"도대체 몇 번째인지\"...노유민 아내 폭발하게 만든 '이숙캠' 섭외",
+        "time": "2026-05-22T08:54:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220745234629",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "오픈AI, IPO 본격화...AI발 역대급 상장 랠리 예고[글로벌AI브리핑]",
+        "time": "2026-05-22T08:53:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220739119611",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"알박기도 양심껏\" 낮엔 오토바이, 밤에 쏙 주차...'로얄석' 2년째 점령한 입주민 [어떻게 생각하세요]",
+        "time": "2026-05-22T08:25:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220736539007",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"일본인 승객, 맨발로 기내 난동\"... 오사카행 비행기 안에서 '무슨 일'",
+        "time": "2026-05-22T10:04:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202605220925544482",
+        "source": "Fn",
+        "date": "2026년 05월 22일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 05월 22일 금요일",
+    "articles": [
+      {
+        "title": "안산시 단원구, 토지개발사업 시행지 일제조사 및 정비 완료",
+        "time": "2026-05-22T09:25:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=304560&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "순창군, 모내기·고추 생육관리 집중 점검",
+        "time": "2026-05-22T09:12:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=304559&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 05월 22일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 05월 22일 금요일",
+    "articles": [
+      {
+        "title": "이 대통령이 옳다…네타냐후 체포영장 집행 선언해야",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552865-A1PVkLX/20260522101517435jwhf.jpg",
+        "url": "https://v.daum.net/v/20260522101515696",
+        "summary": "가자의 비극에 응답한 대통령의 단호한 목소리 평화선단의 목숨 건 항해와 이스라엘의 해적질 나무호와 구호선단 공격에 대한 보수의 이중성 정부 내부에서 나온 친이스라엘 목소리 위험성 전범 네타냐후 영장 집행과 국제 연대의 필요성 사랑과 용기가 열어젖힌 새로운 연대의 가능성",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "LA시장 \"월드컵에 ICE 단속 없을 것…트럼프도 혼란 원치 않아\"",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522100503272pova.jpg",
+        "url": "https://v.daum.net/v/20260522100502275",
+        "summary": "아시아 매체들과 간담회…\"아시아인 향한 증오범죄 용납 안 해\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "“김정은, 딸 주애 태어나자 성별 뺀 ‘혈통주의’ 원칙”…탈북 태영호의 말",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/munhwa/20260522102819232hiie.jpg",
+        "url": "https://v.daum.net/v/20260522102817281",
+        "summary": "英케임브리지대 대담…“후계 구도 모호함 피하려 10년간 준비”",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "제주 1차 산업인 일동, “위성곤 도지사 후보 압도적 지지” 선언",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/551757-p7t5OYl/20260522102600267xqpy.jpg",
+        "url": "https://v.daum.net/v/20260522102559184",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "박성중 KPC 회장, 인도 뉴델리서 제68차 APO 이사회 참석",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/dailian/20260522103005713cezx.jpg",
+        "url": "https://v.daum.net/v/20260522103004362",
+        "summary": "APO Vision 2030 이행·AI 기반 생산성 혁신 선도 의지 표명",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "佛법원 “에어프랑스·에어버스, 228명 숨진 추락사고 전적인 책임”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/donga/20260522103003716bncp.jpg",
+        "url": "https://v.daum.net/v/20260522101202571",
+        "summary": "조종사 과실 인정 않고 기업에 유죄과실치사 벌금 3억9000만원 선고",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "하나은행, 중동 리스크 직면 중소기업에 총 2200억 보증 지원",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522102518415ffai.png",
+        "url": "https://v.daum.net/v/20260522102518158",
+        "summary": "기술보증기금에 50억 특별출연보증비율 최대 100% 등 부담 완화",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[속보]이스라엘서 귀국한 활동가들 “여러차례 얼굴 구타 당해…견딜 수 없는 정도의 폭력”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/khan/20260522075717038favo.jpg",
+        "url": "https://v.daum.net/v/20260522075715066",
+        "summary": "“감옥에 갔더니 이미 많은 사람 구타 당해”“구금 안 되고 바로 석방” 정부 해명과 달라",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "규제지역에 2년간 매입임대 6만6000호 공급…공급 가뭄에 물대기",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/hankooki/20260522103254681akbh.jpg",
+        "url": "https://v.daum.net/v/20260522103253491",
+        "summary": "수도권 전체는 9만 호 공급전월세 시장 안정화 대책\"공공 힘만으로는 한계\" 지적도",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "산불 피해 고운사, 사찰림 자연복원 1년 만에 회복률 76%",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsis/20260522102903201xavf.jpg",
+        "url": "https://v.daum.net/v/20260522102903302",
+        "summary": "소나무림 사라지고 활엽수 중심 재편",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "北, 군사분계선 50㎞ 위 공군기지 대대적 정비…무인기 전면 배치 가능성",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/NEWS1/20260522095703248iqtv.jpg",
+        "url": "https://v.daum.net/v/20260522095701815",
+        "summary": "시설 철거 정황 포착…기지 철거 가능성도 배제 못해",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "박민식 “단일화 없다…부산 북구 주민에 대한 배신 행위”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522102954917niej.jpg",
+        "url": "https://v.daum.net/v/20260522102954348",
+        "summary": "“원칙 없는 단일화는 배신”…한동훈 겨냥 강경 발언 “행동으로 보여주겠다” 첫날 삭발로 완주 의지 강조",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "공수처 부장검사 “‘수사외압 사건’ 소환조사 필요했는데…지휘부가 막아”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kukminilbo/20260522094754416bmyu.jpg",
+        "url": "https://v.daum.net/v/20260522094753415",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "IMF \"에너지 가격상한, 고소득층만 혜택\"…석유 최고가격제 딜레마",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/NEWS1/20260522103005110qoko.jpg",
+        "url": "https://v.daum.net/v/20260522103004363",
+        "summary": "\"국내 에너지 가격, 국제 비용 반영해야…가격상한은 예외적 충격에만\"\"가격통제는 재정 부담·공급 부족 우려…고소득층 수혜도 문제\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "반도체·AI 인력 시급한데...고3 10명 중 8명 '사탐런'",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/moneytoday/20260522101953446lulr.jpg",
+        "url": "https://v.daum.net/v/20260522101307606",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "국힘, 민주당 후보군 맹공…“갑질 자격증·내로남불 심판해야”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/etimesi/20260522102754473ymxe.jpg",
+        "url": "https://v.daum.net/v/20260522102753257",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "고창 선거자금·건설 유착 의혹 확산...시민사회 “이 전 국장 구속 수사하라”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/551733-DUdnLPA/20260522103101450qvmt.jpg",
+        "url": "https://v.daum.net/v/20260522103100408",
+        "summary": "“카톡·문자 지우고 바꿔” 녹취록도 파문...폭행 논란까지 겹치며 지역사회 ‘충격’",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "미·이란 긴장 완화 속 가상자산 논쟁 재점화 [Bit 코인]",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552786-gygG85f/20260522101604290zbvs.jpg",
+        "url": "https://v.daum.net/v/20260522101604734",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "“장난으로 엉덩이 쳤다” 경찰 불송치, 檢 재수사로 녹음파일 찾아 ‘소년부 송치’",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522103104462kxzy.png",
+        "url": "https://v.daum.net/v/20260522103103418",
+        "summary": "경찰이 덮을 뻔한 14세 女 추행 피해檢 보강 조사 지휘로 전모 밝혀보이스피싱 꼬리자르기·돌려막기 불송치' 사건 맹점 파고들어 줄기소檢 \"철저한 사법통제로 진실 규명\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[르포 격전지]\"뭐라해도 다시 한번\" vs \"이젠 바꿔야죠\"…신안군수",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsis/20260522084542416iftu.jpg",
+        "url": "https://v.daum.net/v/20260522084542206",
+        "summary": "민주당 박우량·혁신당 김태성·무소속 고봉기 3파전\"검증된 능력\" \"장기집권 피로감\" \"청렴이 첫 자질\"지역마다 뚜렷한 후보 선호도·가짜뉴스 등 변수될 듯",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "삼십만전자 계속 갈 수 있을까…외국인 매수 강도가 핵심",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522101501723zerw.jpg",
+        "url": "https://v.daum.net/v/20260522101500664",
+        "summary": "이달 코스피서 개인 32조 순매수 vs. 외인 38조 순매도노무라 목표주가 삼전 59만, 하닉 400만 제시",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[시선집중] 김영훈 노동장관 “긴급조정권? 꿈도 못 꿀 일…상생 방향, 직접 제시했다”",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/imbc/20260522102736781gwrx.jpg",
+        "url": "https://v.daum.net/v/20260522102732247",
+        "summary": "<김영훈 고용노동부 장관>- 구체적 재원과 활용 방식은 노사에 위임- 조합원들이 현명한 결정하리라 기대- 삼성전자 노사, AI시대 성장통 크게 겪어- 정부가 노조 압박? 막판엔 사측 설득이 문제- 양극화 심화도 국가 경제 발전 저해- ‘그들만의 리그’ 막으려면 노란봉투법 필요 - 1분기 산재 사망률, 통계 작성 이후 최저- 공공부문 공정수당 도입, 비정규직 처우개선 모범",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "삼전·하닉 레버리지 모객 과열경쟁 양상…\"보수가 성패 핵심 아니다\"",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552778-MxRVZOo/20260522101503655dcdg.png",
+        "url": "https://v.daum.net/v/20260522101501668",
+        "summary": "운용사간 보수 경쟁 심화…상품별 최대 0.4%p 차이 단기 보유 시 보수 차이보다 실질 거래 비용 영향 커",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "경기교육감 공약 대결…\"기초학력 증진\" vs \"AI 인재양성\"",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/20260223/news.png",
+        "url": "https://v.daum.net/v/20260522103300496",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"참여형 챌린지가 답\"...유통가, 러닝·피트니스·체험 마케팅으로 고객 붙잡기",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552778-MxRVZOo/20260522094618762tcrk.png",
+        "url": "https://v.daum.net/v/20260522094616367",
+        "summary": "호반호텔앤리조트, 러닝 플랫폼 '키로'와 GPS 러닝 챌린지 개최 푸마, 하이록스 대회 기념 팝업 '하이록스 베이스캠프' 성료",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "로킷헬스케어, 美 재생패치 특허 확보",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552790-UItk6Yf/20260522102751804tqrv.png",
+        "url": "https://v.daum.net/v/20260522102750256",
+        "summary": "AI·3D 바이오프린팅 결합…경쟁력 강화",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[속보] 李대통령 지지율 64%…민주 45%·국힘 22% [한국갤럽]",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kyeonggi/20260522103231538taue.jpg",
+        "url": "https://v.daum.net/v/20260522103230482",
+        "summary": "대통령 국정 지지율…전주 대비 3%p 상승, 부정평가 28%정당 지지도 민주당 45%·국민의힘 22%…수도권·PK서도 민주당 ‘우세’지방선거 ‘여당 다수 당선’ 46% vs ‘야당 다수 당선’ 33%…정권 안정론 무게",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "타타대우모빌리티, 딜러·벤더 컨퍼런스 열고 전략 공유",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/autotimes/20260522094806525qwsv.jpg",
+        "url": "https://v.daum.net/v/20260522094802432",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "진퇴양난 트럼프, 쿠바 실세 마두로처럼 압송할까? [앵커리포트]",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/YTN/20260522084609464qwuu.jpg",
+        "url": "https://v.daum.net/v/20260522084608228",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "‘명동 1층엔 화장품’은 옛말…‘대형 OO’이 점령했다",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/munhwa/20260522100655554qkuk.png",
+        "url": "https://v.daum.net/v/20260522100654365",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "KF-21 1000대 수출론…현실은 ‘생존 경쟁’ [박수찬의 軍]",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/segye/20260522092552879jcnu.jpg",
+        "url": "https://v.daum.net/v/20260522092552509",
+        "summary": "“1000대 가능” vs 냉혹한 시장 현실라팔·F-16·그리펜…KF-21의 경쟁력은중동 공동개발 카드, 돌파구 될까",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"장난으로 엉덩이 쳤다\" 강제추행 사건, 檢재수사요청에 드러나",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522101915277jwps.jpg",
+        "url": "https://v.daum.net/v/20260522101915905",
+        "summary": "檢 \"최소한의 통제 장치\" 재수사요청 사례 소개",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "K-수소 글로벌 영토 확장, 전방위 지원 나선 에기평",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/552806-n6PhHyX/20260522094220518vvra.jpg",
+        "url": "https://v.daum.net/v/20260522094219221",
+        "summary": "세계 최대 수소 전시회 ‘WHS 2026’서 한국관 운영 제품설명회 성황...국내 수소 기업, 기술 우수성 입증",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "도산 안창호함, 이번 주말 캐나다 입항",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522091203464npxy.jpg",
+        "url": "https://v.daum.net/v/20260522091202039",
+        "summary": "국내 잠수함 첫 태평양 횡단 후 합동훈련",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "노동장관 \"긴급조정권 꿈에도 생각못해…협력사 상생 고민해야\"",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522092903935dlvi.jpg",
+        "url": "https://v.daum.net/v/20260522092903633",
+        "summary": "MBC라디오 출연 \"조합원 투표 후 최종 합의 때 상생 방안 발표 추측\"\"AI시대 재분배…협력업체 동반성장·지역사회공헌 필요·반올림 헌신 명시 요구\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "중국도 하는 ‘어업 관리’, 한국은 여전히 행정 편의 중심",
+        "time": "2026-05-22T01:33:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/dailian/20260522085139717vqzl.jpg",
+        "url": "https://v.daum.net/v/20260522085138363",
+        "summary": "중국 5월부터 개정 어업법 시행지속가능성 중심 체계로 전환국제적 어업 관리 흐름과 일치KMI “우리도 안전·행정 중심 벗어나야”",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[뉴스특보] 미·이란, 농축우라늄 '충돌'…시진핑 방북설 대두",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsy/20260522102920097bovd.jpg",
+        "url": "https://v.daum.net/v/20260522102919332",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "홍콩 길거리 아이스크림서 대장균군 기준 초과...판매 중단 조치",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/mk/20260522102702930hmvu.png",
+        "url": "https://v.daum.net/v/20260522102701211",
+        "summary": "홍콩 최대 번화가 길거리 아이스크림에1ｇ당 대장균군 310개 ‘초과 검출’제품 폐기·차량 소독·위생교육 명령받아",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "자택 경매 넘겨진 日 야쿠자 두목…\"방 뺄까\" 주시",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522101618218iatk.jpg",
+        "url": "https://v.daum.net/v/20260522100354235",
+        "summary": "야쿠자 몰락의 현주소…고베야마구치구미 조직원 6천100명→270명",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "홍콩 입법회 의원 전원 베이징서 연수…中반환 후 처음",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522101512660ofnt.jpg",
+        "url": "https://v.daum.net/v/20260522101512693",
+        "summary": "7월 일제히 방문해 국가관·안보 교육…중앙정부 일체감 강화 포석",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"가도 욕먹고 안 가고 욕먹어\"…트럼프 '주말에 어쩌지'",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kedtv/20260522103054147stsy.jpg",
+        "url": "https://v.daum.net/v/20260522103054404",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "이란 인터넷 봉쇄 3개월째…일상생활 마비·일자리 충격 확산",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ked/20260522085719493qfmg.jpg",
+        "url": "https://v.daum.net/v/20260522085718515",
+        "summary": "인터넷 접속률 1~2% 이란스타링크까지 단속 강화디지털 경제 붕괴",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "“18세까지 매달 23만 원 지원”…저출산 특단책 꺼냈다[아하대만]",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/munhwa/20260522081619373xnfp.jpg",
+        "url": "https://v.daum.net/v/20260522081617540",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "트럼프 “장남 결혼식 못 갈 수도…가도 욕 먹고 안 가도 욕 먹을 것”",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kukminilbo/20260522102717046iqjo.jpg",
+        "url": "https://v.daum.net/v/20260522102715235",
+        "summary": "트럼프 “가든 안 가든 비난할 것”가디언 “고물가 속 여론 의식한 듯”장남, 플로리다 바하마서 주말 결혼",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "“이란 최고지도자, 농축 우라늄 반출 불허”…“군사력 신속 재건”",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kbs/20260522102914296dapf.jpg",
+        "url": "https://v.daum.net/v/20260522102912321",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "트럼프 “60년 만의 쿠바 문제 개입, 내가 하겠다”… 군사 개입 가능성 시사",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/etimesi/20260522103104715uldg.jpg",
+        "url": "https://v.daum.net/v/20260522103103416",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"앉아서 보지 않겠다\"…美 캘리포니아주, AI 일자리 대체 정면 대응",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522090406362icbt.jpg",
+        "url": "https://v.daum.net/v/20260522090405790",
+        "summary": "캘리포니아, AI 대체 위협 노동자 보호 방침빅테크 메타·시스코·아마존 등 감원 행렬뉴섬 \"미래 대비 위한 전체 시스템 점검\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "허겁지겁 훠궈 먹다 식도 궤양 생긴 중국 여성…\"뜨거운 음식 먹으면 위험\"",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsy/20260522102922509dohf.jpg",
+        "url": "https://v.daum.net/v/20260522102922334",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "트럼프 방문 무용지물?…중국, 엔비디아 '게임칩'도 차단",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsy/20260522095916632sdjo.jpg",
+        "url": "https://v.daum.net/v/20260522095916934",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "에볼라 공포에 미 입국 불허...파리발 여객기 결국 캐나다로",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/20260223/news.png",
+        "url": "https://v.daum.net/v/20260522103001354",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"내가 바로 바퀴벌레\"…대법원장 망언에 인도가 들썩",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522093003504nciv.png",
+        "url": "https://v.daum.net/v/20260522093002669",
+        "summary": "인도 대법원장 \"미취업 청년 바퀴벌레\" 발언30세 청년, 바퀴벌레국민당 창당·당원 모집\"바퀴벌레는 썩은 곳에서 번식…인도 상황\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "인도, 에볼라 우려에 동물보호단체 창립 정상회의도 연기",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522103025865mgvv.jpg",
+        "url": "https://v.daum.net/v/20260522103025391",
+        "summary": "'뉴델리 개최 예정' 인도-아프리카 정상회의도 뒤로 미뤄",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"에볼라는 거짓\"…성난 콩고 군중, 치료소에 불 질러",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/Edaily/20260522101758178idub.jpg",
+        "url": "https://v.daum.net/v/20260522101756825",
+        "summary": "시신 인도 거부에 격분…격리 텐트에 불 질러\"외부인이 돈 벌려 지어낸 병\" 질병 불신 만연백신 없는 희귀종…국경 넘어 우간다 확산",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "中 대도시 집값, 38% 폭락 뒤 2% 반등…이번엔 진짜 바닥 찍었나",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsis/20260522090205293yhfh.jpg",
+        "url": "https://v.daum.net/v/20260522090205694",
+        "summary": "베이징·상하이 등 1선 도시 기존 주택값 2~4월 2% 상승\"일시 반등일 뿐\" 신중론도…소도시는 가격 하락 더 심각",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "[뉴스퀘어10] 고농축 우라늄 '팽팽'...시진핑 방북설 영향은?",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/YTN/20260522102830261pmkg.jpg",
+        "url": "https://v.daum.net/v/20260522102829288",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "전쟁 동상이몽 충돌?...\"네타냐후, 트럼프와 통화 후 격앙\" [앵커리포트]",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/YTN/20260522085528821qekg.jpg",
+        "url": "https://v.daum.net/v/20260522085527460",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "\"백수는 바퀴벌레\" 비난에…인도 청년들 저항 확산 [소셜픽]",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/JTBC/20260522082942480aodx.jpg",
+        "url": "https://v.daum.net/v/20260522082940787",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "유엔기구 고위급 인사 서울 집결…한국형 'AI 허브' 기대 목소리",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/yonhap/20260522095705594klcb.jpg",
+        "url": "https://v.daum.net/v/20260522095705823",
+        "summary": "유니세프 부총재 \"기존 ODA 예산 삭감 아닌 별도 재원으로\" 요청UNDP·UNHCR 등 \"인간 잠재력 확장\" 강조…ICRC, 향후 참여 검토",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "獨 총리, 우크라에 EU 준회원 지위 부여 제안",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsis/20260522100302528jxkq.jpg",
+        "url": "https://v.daum.net/v/20260522100302162",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "이란 \"오만과 호르무즈 통행료 체계 구축 논의\"…통제권 굳히기",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/NEWS1/20260522095107180ruwa.jpg",
+        "url": "https://v.daum.net/v/20260522095106577",
+        "summary": "주프랑스 이란대사 \"호르무즈로 이익 얻으려면 자기 몫 지불해야\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "트럼프 “이란 고농축 우라늄 파괴할 것”…쿠바 압박도 계속",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/kbs/20260522102911884asav.jpg",
+        "url": "https://v.daum.net/v/20260522102909318",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "911 구조 신고까지 18분…美 에스컬레이터 사망 사고에 방관 논란",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/akn/20260522092648812cbld.jpg",
+        "url": "https://v.daum.net/v/20260522092647539",
+        "summary": "옷 끼어 질식하는데 10여명 지나쳐구조 뒤 혼수상태, 열흘 만에 숨져유족 \"아무도 신경 쓰지 않았다\"교통당국 대응 지연도 도마에",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "장동혁 \"李, 정원오 선거운동원으로 나서…한동훈 '보수 재건'이 말이 되나\"(종합)",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/newsis/20260522103113216govq.jpg",
+        "url": "https://v.daum.net/v/20260522103113435",
+        "summary": "\"李, 선택적 분노…정원오 5·18 모독에도 분노해야\"\"선거 분위기 바뀌고 있어…서울·부산이 격전지\"\"부산 북갑 박민식 부각하는 선거 전략이 제1원칙\"",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "‘최소 7% 역성장, 피해 규모 30조원’ 흑자 기대했는데 휘청…직격탄 맞은 레바논",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522095319133htji.jpg",
+        "url": "https://v.daum.net/v/20260522095318677",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "“나라 최초 사례” 35세 최연소 日여성시장 자리 비운다, 출산휴가 결정",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522092354587ygmo.jpg",
+        "url": "https://v.daum.net/v/20260522092354452",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      },
+      {
+        "title": "돈이 전부가 아니다? 미국을 당황시킨 중국의 '가성비 AI' [스프]",
+        "time": "2026-05-22T01:32:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/sbsi/20260522090307407ghvg.jpg",
+        "url": "https://v.daum.net/v/20260522090305744",
+        "summary": "[머그인사이트]",
+        "source": "daum",
+        "date": "2026년 05월 22일 금요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 05월 21일 목요일",
     "articles": [
       {
@@ -10096,6 +10899,87 @@
         "img": "https://img5.yna.co.kr/etc/inner/KR/2026/05/21/AKR20260521111500542_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20260521111500542",
         "summary": "글로벌 다트인의 최대 축제…미국·유럽 등 15개국 3천명 참가",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "李대통령, 익선동 야장 깜짝방문…카페서 \"거기 커피는 아니죠?\"",
+        "time": "",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/05/21/AKR20260521182000001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260521182000001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "[인사] 외교부",
+        "time": "2026-05-22T08:12:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260522021900504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "키움증권, 대학생 51명에 장학금 총 1억200만원 전달",
+        "time": "2026-05-22T08:49:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/05/22/AKR20260522026700008_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260522026700008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "진주 폐차장 불, 9시간여 만에 완진…2억3천만원 재산피해(종합)",
+        "time": "2026-05-22T08:53:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/05/22/AKR20260522012051052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260522012051052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "전국 대체로 맑아…제주는 흐리고 비 약간",
+        "time": "2026-05-22T08:31:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/05/18/PYH2026051814760001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260522024700530",
+        "summary": "전남북서부에도 오후 한때 소나기 조금",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "\"'일본이 독도 통치' 보도했던 英가디언, 한인 항의로 오류시정\"",
+        "time": "2026-05-22T08:10:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/05/21/AKR20260521104400371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260521104400371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "'석방' 활동가 2명 귀국…\"이스라엘군이 여러 차례 구타\"(종합)",
+        "time": "2026-05-22T07:57:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/05/22/PYH2026052200940001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260521165001004",
+        "summary": "\"가자지구 다시 갈 계획…정부가 막아도 가고싶은 곳 갈 권리 있어\"",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "\"이란, 드론 생산 재개…군수 기반 빠르게 회복중\"",
+        "time": "2026-05-22T08:48:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/05/22/AKR20260522027600009_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260522027600009",
+        "summary": "CNN \"휴전 틈타 공습 피해 복구\"…미군 수뇌부 '수년 걸려' 장담 뒤집어",
+        "source": "yna",
+        "date": "2026년 05월 21일 목요일"
+      },
+      {
+        "title": "트럼프, 'AI 행정명령' 서명 연기…AI 발전에 \"방해 원치 않아\"",
+        "time": "2026-05-22T08:04:00",
+        "img": "https://img7.yna.co.kr/photo/ap/2026/05/22/PAP20260522071901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260522020900009",
+        "summary": "",
         "source": "yna",
         "date": "2026년 05월 21일 목요일"
       }
