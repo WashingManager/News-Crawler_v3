@@ -1,5 +1,686 @@
 [
   {
+    "date": "2026년 06월 25일 목요일",
+    "articles": [
+      {
+        "title": "[속보]민주당 ‘당심’ 김민석…李지지 44.8% 최저-미디어토마토",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/munhwa/20260625075832161hcgy.jpg",
+        "url": "https://v.daum.net/v/20260625075830800",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "100년 묵은 정유 공정 패러다임 전환...끓이지 않고 원유 걸러낸다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/551749-b6x3I4h/20260625090012265vvkf.jpg",
+        "url": "https://v.daum.net/v/20260625090010594",
+        "summary": "KAIST 고동연 교수팀 연구 성과, 상온에서 원유 거르는 차세대 분리막 개발 기존 ‘증류’ 공정 대비 에너지 31.6% 절감, 이산화탄소 배출량 37.6% 감축 효과 입증",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "‘군산시장실 이전 공약’ 김재준 당선인, 간부회의도 공개할까",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/551733-DUdnLPA/20260625091937088zvnn.jpg",
+        "url": "https://v.daum.net/v/20260625091935602",
+        "summary": "참여자치 군산시민연대 생중계 공식제안",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "JP모건, 코스피 목표치 1만 2500 상향…“한국 시장 최선호 유지” [마켓시그널]",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/seouleconomy/20260625091203432vmuc.jpg",
+        "url": "https://v.daum.net/v/20260625091202287",
+        "summary": "AI·메모리 장기호황에 낙관론外人 매도에도 비중확대 유지“조정 시 매수”…역내 최선호",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[광주 물폭탄 1년②]'예측의 한계' 앞에 선 광주, 대응력이 답이다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsis/20260625090412107thlf.jpg",
+        "url": "https://v.daum.net/v/20260625090412859",
+        "summary": "기상청 \"6~7월 강수량 평년보다 많을 가능성\"핵심 방재사업 상당수 아직 설계·행정절차 단계전문가 \"예측보다 대응…재난 골든타임 확보를\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "AI·에너지·출산정책 성과···전남 미래 100년 토대 닦았다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/552150-coY28gj/20260625085139008wotn.jpg",
+        "url": "https://v.daum.net/v/20260625085137309",
+        "summary": "민선 8기, AI데이터센터·해상풍력·인공태양 유치 성과 군공항 이전·국립의대 설립 등 숙원사업 해결 물꼬 김영록 지사 이임식…30일 마지막 결재 후 8년 도정 마무리",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "문체장관, APEC 관광장관회의 참석…\"AI 관광정책 소개\"",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/nocut/20260625090606595quul.jpg",
+        "url": "https://v.daum.net/v/20260625090604933",
+        "summary": "21개국 관광장관 모여 공동선언문 채택…한국 AI 관광 혁신 사례 공유",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] 이 대통령 지지율 44.8%…민주 38.1%·국힘 39.4%",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/mk/20260625083303209yfpc.jpg",
+        "url": "https://v.daum.net/v/20260625083301635",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"캐나다, 차기 잠수함 사업 앞세워 韓·獨에 투자 압박\"",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/552779-26fvic8/20260625091646859qjeg.jpg",
+        "url": "https://v.daum.net/v/20260625091645479",
+        "summary": "한화, 장갑차 현지 생산·철강 협력 제시…TKMS는 핵심광물 공급망·함대 지원",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "한병도 \"이번 주 본회의 열어 상임위원장 선출 마쳐야\"",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/inews24/20260625090432780ewbt.jpg",
+        "url": "https://v.daum.net/v/20260625090431869",
+        "summary": "\"원구성 하루 늦으면 국민 체감은 한 달 지체\"\"의장, 국회법 따라 18개 상임위원 배정해 달라\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[시간들] 진보교육 받은 2030은 왜 보수 지지로 기울었을까",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/yonhap/20260625081706999gfzz.jpg",
+        "url": "https://v.daum.net/v/20260625081706216",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "주호영 “대권 뜻 있는 자, 당대표 나오지 마라…장·한·오 다 모아야 총선 이긴다”",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/dailian/20260625085902161zwvv.png",
+        "url": "https://v.daum.net/v/20260625085900537",
+        "summary": "[정국기상대] “전략공천은 망조공천…2016년부터 총선 3연패의 뿌리는 공천 실패”“대권 경쟁자들 공정하게 경쟁하는 틀 만들어야, 그래야 필패 막는다”",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"계획 없다\" 부인에도 또 불거진 KAI 매각설…\"분위기 달라졌다\"",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/552842-MG6mj39/20260625091303741ykxx.jpg",
+        "url": "https://v.daum.net/v/20260625091302324",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "로봇개 걷고 AI가 결함 찾는다…코엑스에 펼쳐진 국토교통의 미래",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/551746-KJTfZ0q/20260625091049345ampw.jpg",
+        "url": "https://v.daum.net/v/20260625091048226",
+        "summary": "국토부·KAIA, 24~26일 '2026 국토교통기술대전' 개막AI·로봇·UAM 총출동…\"대한민국판 CES로 키운다\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "노을, UAE 뚫었다…AI 진단 ‘마이랩’ 중동 공략 시동",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/552790-UItk6Yf/20260625090251740qkfa.jpg",
+        "url": "https://v.daum.net/v/20260625090250753",
+        "summary": "현지 유통사와 공급 계약 체결…대형병원 입찰·중동 전역 사업 확대 추진",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"전쟁은 끝났지만…\" 한쪽 팔 잃은 노병의 하루[르포]",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsis/20260625090157748oaya.jpg",
+        "url": "https://v.daum.net/v/20260625090157690",
+        "summary": "대구보훈병원서 만난 6·25 참전유공자 임명식(95)씨포탄에 오른팔 잃고 폐 절제술까지사라져가는 노병들…평균 연령 '91.6세'전쟁 상처 안고 오늘도 '재활'",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "하늘 사수 천궁-II의 ‘눈’… 중동서 러브콜",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/hankooki/20260625091832221qahh.jpg",
+        "url": "https://v.daum.net/v/20260625091830566",
+        "summary": "한화시스템",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[뭐라노] 투표구 특성 고려 없이 규정만 따른 중앙선관위, 제대로 하는 게 없어",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kookje/20260625090833035hspj.jpg",
+        "url": "https://v.daum.net/v/20260625090831090",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "스물넷 딸 유류품에서 발견된 햇반, 졸업장 안고 정착한 한국에서 멈춘 꿈",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/pressian/20260625090704780avzc.jpg",
+        "url": "https://v.daum.net/v/20260625090703976",
+        "summary": "[아리셀 참사 2주기, 늦게 쓰는 부고] ① 고 엄정정의 생애",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보]마이크론 ‘대박’에 삼전·닉스 급등세…매수 사이드카 발동, 코스피 9000 탈환하나",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/munhwa/20260625091632489eljl.jpg",
+        "url": "https://v.daum.net/v/20260625091630467",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "KF-21 양산… K-항공산업 미래 열다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/hankooki/20260625091146690eyjt.jpg",
+        "url": "https://v.daum.net/v/20260625091145256",
+        "summary": "KAI 한국항공우주산업",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "항공우주 엔진·기기 분야로 확장  지상+우주 ‘종합 방산’으로 진화",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/hankooki/20260625091438391nbpc.jpg",
+        "url": "https://v.daum.net/v/20260625091432381",
+        "summary": "현대로템",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"폭염엔 백화점 만한 피서지 없지\" 여름 정기 세일로 특수 누린다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsis/20260625091708050iaqx.jpg",
+        "url": "https://v.daum.net/v/20260625091707495",
+        "summary": "휴가철 앞두고 패션·리빙 최대 50% 할인팝업·전시 더해 체류형 콘텐츠 경쟁 강화",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "휴젤, 美 젤라텍과 독점계약…세계 최초 ‘세포 배양’ 콜라겐 시장 연다",
+        "time": "2026-06-25T00:21:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/552809-WkUXVfQ/20260625090151604akqi.jpg",
+        "url": "https://v.daum.net/v/20260625090149675",
+        "summary": "동물원료 없이 순도 95% 콜라겐 구현…127억弗 시장 조준 차세대 피부 개선·재생 의학까지…사업 포트폴리오 확장 기대",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] USGS \"베네수 강진에 1만∼10만명 사망 가능성\"<로이터>",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/yonhap/20260625091100794ddry.jpg",
+        "url": "https://v.daum.net/v/20260625091100233",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] USGS “베네수 강진에 1만∼10만 명 사망 가능성”(로이터)",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kbs/20260625091201242eqqc.jpg",
+        "url": "https://v.daum.net/v/20260625091017208",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "베네수엘라에 규모 7.1 강진 발생... \"푸에르토리코 등 쓰나미 경보\"",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/hankooki/20260625082437375apww.jpg",
+        "url": "https://v.daum.net/v/20260625082431414",
+        "summary": "수도 카라카스 고층 빌딩도 흔들日 혼슈 아오모리현서도 규모 6.9 지진",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] USGS \"베네수 강진에 1만~10만명 사망 가능성\"<로이터>",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsy/20260625090946611brcz.jpg",
+        "url": "https://v.daum.net/v/20260625090946165",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "콜롬비아 좌파 후보, 대선 패배 인정…트럼프픽 우파 당선 확정",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/NEWS1/20260625082542053ehmi.jpg",
+        "url": "https://v.daum.net/v/20260625082540438",
+        "summary": "선거당국 \"잠정 개표와 거의 일치\"…세페다 \"평화 위해 결과 수용\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "요르단 암만서 월드컵 단체응원 중 압사 사고…1명 사망",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/24/NEWS1/20260624160633405zpgz.jpg",
+        "url": "https://v.daum.net/v/20260624160630132",
+        "summary": "\"6000명 수용 노천 극장에 1만5000명 모여\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "정유시설 난타당한 러 연료난…\"카자흐와 휘발유 수입 협상\"",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/NEWS1/20260625075433140sjil.jpg",
+        "url": "https://v.daum.net/v/20260625075432708",
+        "summary": "\"러시아산 항공유-카자흐 휘발유 교환 거래 타진\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "USGS \"베네수 강진에 1만∼10만명 사망 가능성\"",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/20260223/news.png",
+        "url": "https://v.daum.net/v/20260625091752530",
+        "summary": "규모 7.2 이후 30여초 만에 7.5 강진 연이어 강타",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "베네수엘라 7.1 강진…푸에르토리코 등 인접국 쓰나미 경보",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsy/20260625085118972ukrl.jpg",
+        "url": "https://v.daum.net/v/20260625075432707",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보]베네수엘라 7.1 강진…“주택과 건물 붕괴”",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/ned/20260625083504098qwnd.jpg",
+        "url": "https://v.daum.net/v/20260625083503683",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "트럼프 \"이란 핵사찰단에 미국인 포함\"...이란 \"합의 없었다\"",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/hankooki/20260625083432291qytq.jpg",
+        "url": "https://v.daum.net/v/20260625083430674",
+        "summary": "미·이란 진실 공방에 긴장 고조IAEA \"사찰은 실제로 이뤄질 것\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "美 \"호르무즈 원유 수송, 전쟁 전과 비슷…24시간 2000만배럴\"",
+        "time": "2026-06-25T00:20:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/NEWS1/20260625085608265zrur.jpg",
+        "url": "https://v.daum.net/v/20260625085606454",
+        "summary": "에너지장관 \"이란, 해협 봉쇄 능력 잃어\"…기뢰 제거엔 수주 걸릴 듯",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "테슬라·中자동차에 밀리더니…일본차 3사, '반격 카드' 꺼냈다",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/ked/20260625083220053divj.jpg",
+        "url": "https://v.daum.net/v/20260625082519436",
+        "summary": "중국에 밀린 일본차의 반격혼다·닛산, 차세대차 기술 공유소프트웨어 중심 자동차 시대 대응혼다·닛산·미쓰비시 자본 제휴 넘어 기술 연합",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"이란 전쟁비용 보전해달라\"‥트럼프, 추가예산 135조원 요청",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/imbc/20260625085811254cqud.jpg",
+        "url": "https://v.daum.net/v/20260625085811523",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "트럼프 \"이란, 큰 양보...통행료 부과 용납 못해\"",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/YTN/20260625080124739dbqu.jpg",
+        "url": "https://v.daum.net/v/20260625080124862",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "이란 석유제재 면제로 대박?…\"전쟁 전에도 이미 팔고 있었다\"",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/NEWS1/20260625082404880iosb.jpg",
+        "url": "https://v.daum.net/v/20260625082404403",
+        "summary": "'유예' 60일간 최대 4.7조원 수익 잠재력 분석그 이후 전망 놓고는 연간 100억·350억달러 등 의견 달라",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "일본·베네수엘라 같은 날 ‘흔들’…열차 운행 중단·건물 ‘균열’",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/dailian/20260625091433902hwwe.jpg",
+        "url": "https://v.daum.net/v/20260625091432382",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "이란 \"美 모순 발언 지양해야\"…레바논 긴장 여전",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsy/20260625091634437ooyj.jpg",
+        "url": "https://v.daum.net/v/20260625091634474",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"미친 사람\"…트럼프, '전쟁 권한 결의안' 찬성한 공화당 의원에 격노",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/moneytoday/20260625081703136iofy.jpg",
+        "url": "https://v.daum.net/v/20260625081701212",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "日자위대, '中 해킹의심' 바이러스 USB 1년 방치…기밀유출 우려",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/yonhap/20260625090612330rapv.jpg",
+        "url": "https://v.daum.net/v/20260625090612943",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "일본 동북부서 규모 6.9 강진 “쓰나미 피해 우려는 없어”…신간센 일부 구간 운행 중단",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/khan/20260625090546338jnyy.jpg",
+        "url": "https://v.daum.net/v/20260625090545911",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "“전쟁비 보전해줘”…트럼프, 135兆 추가 예산 의회 요청",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/dt/20260625085719178eiko.png",
+        "url": "https://v.daum.net/v/20260625085717493",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "폭염에 멈춘 유럽…학교 닫고 철도 차질 [ESG 뉴스 5]",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kedbiz/20260625091119772bbtb.jpg",
+        "url": "https://v.daum.net/v/20260625091118251",
+        "summary": "국내외 핵심 ESG(환경·사회·지배구조) 뉴스를 선별해 전달합니다.",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "“살인 말벌처럼 화 냈다” 트럼프, 이란 전쟁 비판한 여당 의원에 역정…나토에도 “실망” 뒤끝",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kukminilbo/20260625075552701uljs.jpg",
+        "url": "https://v.daum.net/v/20260625075551735",
+        "summary": "트럼프, 이란 전쟁 비판한 여당 의원에 “당신은 루저” 격노트럼프, 나토 사무총장 만나서도 “우리는 실망했다”",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "오바마, \"트럼프 머리 속 스위트룸에 내가 있다\"",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/newsis/20260625091552400dazj.jpg",
+        "url": "https://v.daum.net/v/20260625091552442",
+        "summary": "트럼프의 잦은 비난이 \"집착\"이라는 지적에 호응\"나는 신경 쓸 일이 없을 때만 전임자 생각했다\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "\"불쌍해서 사진 찍어줬다\" 트럼프 도발에…'발칵' 뒤집힌 이탈리아 [스프]",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/sbsi/20260625090335506jskl.jpg",
+        "url": "https://v.daum.net/v/20260625090334813",
+        "summary": "",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "광주 반도체 클러스터 '한국판 타이난' 될까",
+        "time": "2026-06-25T00:19:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/inews24/20260625080032935sjpo.jpg",
+        "url": "https://v.daum.net/v/20260625080031841",
+        "summary": "25일 이재명-이재용 회동·29일 靑 회의정부 \"제2 반도체 벨트 필요\"업계 \"기존 투자·공급망과 조화 중요\"",
+        "source": "daum",
+        "date": "2026년 06월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 06월 25일 목요일",
+    "articles": [
+      {
+        "title": "\"한국 군사력 세계 5위라는데…핵무장한 북한에 상대 안된다\"",
+        "time": "",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/04/20/PYH2026042022800004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260624109500546",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "울산시, 6·25전쟁 제76주년 기념식…유공자 6명 표창",
+        "time": "2026-06-25T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260625023400057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] 코스피, 미국발 훈풍에 급등 출발…9,000 탈환 시도",
+        "time": "2026-06-25T09:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260625036700008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "외국환시세(6월25일·하나은행 1차 고시 기준)",
+        "time": "2026-06-25T09:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260625035800002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "키움증권, '키움과 채움3' 임직원 헌혈 캠페인 진행",
+        "time": "2026-06-25T08:52:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625032200008_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625032200008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "울산시, 임산부 3천500명에 친환경농산물 구매비 지원",
+        "time": "2026-06-25T09:02:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2022/06/21/55/PCM20220621000155990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625024100057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "제20회 울산 조선해양의 날 기념식…미래 발전 방향 모색",
+        "time": "2026-06-25T08:59:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260625023100057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "오후 전국 대부분 지역에 거센 소나기…중부엔 시간당 30㎜ 안팎",
+        "time": "2026-06-25T09:01:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/06/14/PYH2026061405130001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625032300530",
+        "summary": "돌풍·천둥·번개 동반…낮 기온 21∼28도로 30도 아래 머물러",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[내일날씨] 강원·충북·경상권 내륙에 오후 소나기…낮 최고 30도",
+        "time": "2026-06-25T09:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/06/19/PYH2026061919950001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625009700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "태안 '그냥드림' 사업, 110일간 1천112명 이용",
+        "time": "2026-06-25T08:59:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625031000063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625031000063",
+        "summary": "복지 사각지대 23명도 발굴…맞춤형 지원 제공",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "제주 단독주택 화재로 60대 숨져…연기 흡입 추정",
+        "time": "2026-06-25T08:59:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625034200056_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625034200056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "경기도, 철도 5대 안전 수칙 준수 홍보 캠페인",
+        "time": "2026-06-25T08:47:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625029500060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625029500060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[시간들] 진보교육 받은 2030은 왜 보수 지지로 기울었을까",
+        "time": "2026-06-25T08:15:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/06/24/AKR20260624078400546_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260624078400546",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "정선 휴양림 산책 중 발 헛디뎌 3m 아래 추락한 70대 숨져",
+        "time": "2026-06-25T08:14:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625023700062_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625023700062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "아산시 인구 40만5천여명…올해 4천800여명 늘어",
+        "time": "2026-06-25T08:56:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625030300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625030300063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "베네수엘라 7.1 강진…\"주택과 건물 붕괴\"(종합)",
+        "time": "2026-06-25T08:28:00",
+        "img": "https://img0.yna.co.kr/photo/etc/af/2026/06/25/PAF20260625140401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625026000087",
+        "summary": "푸에르토리코 등 인접국에도 쓰나미 경보…피해 규모는 안 알려져",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "유엔 사무총장 후보들, 명예 제주도민 됐다",
+        "time": "2026-06-25T08:00:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/06/23/PYH2026062308160005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260624157000056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보] 日혼슈 북부 아오모리현서 규모 6.9 지진…\"쓰나미 우려 없어\"",
+        "time": "2026-06-25T07:41:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/06/25/AKR20260625018800073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260625018800073",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 06월 25일 목요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 06월 25일 목요일",
+    "articles": [
+      {
+        "title": "군포시 민선9기 시정기획단 주요업무 보고회 개최",
+        "time": "2026-06-25T09:33:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=306595&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "대구시, 미래형 스마트 안전 도시 구축… AI 드론 본격 가동",
+        "time": "2026-06-25T09:24:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=306594&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "[속보]9000선 재진입 시도…코스피 매수 사이드카 발동",
+        "time": "2026-06-25T09:12:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=306587&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "경북문화관광공사, ESG 사회공헌 강화…보훈가족과 따뜻한 동행",
+        "time": "2026-06-25T07:33:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=306577&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 06월 25일 목요일"
+      },
+      {
+        "title": "“100년에 한 번 올 재난까지 계산”… 보험업계의 ‘비밀 병기’",
+        "time": "2026-06-24T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=306552",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 06월 25일 목요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 06월 24일 수요일",
     "articles": [
       {
