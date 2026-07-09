@@ -1,5 +1,307 @@
 [
   {
+    "date": "2026년 07월 09일 목요일",
+    "articles": [
+      {
+        "title": "간밤 서울 은평구 빌라서 화재…남매 추정 초등생 2명 사망",
+        "time": "",
+        "img": "https://img7.yna.co.kr/photo/cms/2022/11/10/90/PCM20221110000190990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709035500004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "경기도일자리재단, 15일 이천서 '5070 일자리박람회'",
+        "time": "2026-07-09T09:01:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709042700060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709042700060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "광동제약, 스마트 생태공장 구축…온실가스 연간 600t 감축",
+        "time": "2026-07-09T08:11:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2018/09/12/35/PCM20180912000535990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709032100017",
+        "summary": "고효율 저탄소 설비 도입…에너지 비용 연간 2억원 절감",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "관악구 '실전형 AI 전문 마케터 양성교육' 참여 청년 모집",
+        "time": "2026-07-09T08:01:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709028200004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709028200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "큐로셀 \"림카토, 건강보험 급여적용 위한 첫관문 넘어\"",
+        "time": "2026-07-09T08:38:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2026/06/24/14/PCM20260624000314017_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709037200017",
+        "summary": "심평원 중증질환심의위원회 통과…\"시장 진입 가속화 기대\"",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "소진공·소방청, '전통시장 지능형 출동 시스템' 구축 협약",
+        "time": "2026-07-09T08:33:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709031000030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709031000030",
+        "summary": "전통시장 전자 지도로 소방차 최적의 경로 이동 유도",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "원주시, 상반기 농업체험 프로그램 성료…2천829명 참여",
+        "time": "2026-07-09T09:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709041700062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709041700062",
+        "summary": "유치원·어린이집 28개 단체 참여…생명 존중·농업 가치 체험",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] 대전-제천 무궁화호 2대, 익산-용산 무궁화호 1대 운행 중지",
+        "time": "2026-07-09T08:07:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2024/09/13/PYH2024091306080006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709030400063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "넷플릭스 中서 서비스 안 하는데…'참교육' 불법시청 논란",
+        "time": "2026-07-09T08:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/08/AKR20260708144800371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260708144800371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "주택 잠기고 하천 범람 위기까지…전국 곳곳서 비 피해 잇따라",
+        "time": "2026-07-09T09:03:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709041000064_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709041000064",
+        "summary": "보은 136.6㎜·청양 115.5㎜, 침수·산사태 우려 속 주민 대피",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "공주 등 충남 3곳 호우주의보…천안·아산에 호우경보 유지",
+        "time": "2026-07-09T09:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709044100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "세종 남부에 호우주의보…세종 북부에 호우경보 유지",
+        "time": "2026-07-09T09:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709043900527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "경기 오산에 호우주의보…평택 등 5곳 호우주의보 유지",
+        "time": "2026-07-09T09:01:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709043200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[내일날씨] 수도권·강원 비 이어져…낮 최고 34도 무더위",
+        "time": "2026-07-09T09:00:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/07/07/PYH2026070709000001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709011100004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "장맛비에도 식지 않는 밤…장마·열대야 겹친 대구·경북",
+        "time": "2026-07-09T08:59:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070806930005500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709037400053",
+        "summary": "밤에도 25도 아래 안 떨어졌다…후텁지근한 날씨",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "오늘도 충청·호남 중심 '많고 거센 비'…최대 200㎜ 이상 더",
+        "time": "2026-07-09T08:55:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070816830006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709039100530",
+        "summary": "아침 충청에 '극한호우'…충청·남부 밤까지, 수도권·강원 내일 오전까지",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] 코레일 \"충북선 조치원∼도안간 일반열차 일부 운행 조정\"",
+        "time": "2026-07-09T08:50:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/09/PYH2026070901130006400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709040800063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "합수본, 중앙선관위 연구용역 관계자 조사…'50% 인쇄' 근거 추적",
+        "time": "2026-07-09T08:48:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/06/24/PYH2026062412090001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709039300004",
+        "summary": "'투표용지 상자 폐기' 관련 서울선관위 관계자 등 참고인 조사 계속",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "충북 진천·증평 호우경보…청주 서부·동부 호우주의보",
+        "time": "2026-07-09T08:40:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709037900527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "인천 올해 첫 일본뇌염 매개 모기 확인…작년보다 2주 늦어",
+        "time": "2026-07-09T08:30:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2018/09/14/58/PCM20180914000258990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709026000065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "문경 106.6㎜·영주 80.5㎜…9일 저녁까지 최대 100㎜ 추가 예보(종합)",
+        "time": "2026-07-09T08:23:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070816780006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709010751053",
+        "summary": "상주 산사태경보·문경 홍수주의보 발령",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "대전세종충남 도로·농지 침수…아파트 인근도로 토사 흘러내려(종합)",
+        "time": "2026-07-09T08:21:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070815130006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709015051063",
+        "summary": "하천 곳곳 수위 높아져 홍수특보 발령…침수된 도로에서 운전자 2명 구조",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] 코레일 \"경부선 KTX는 정상 운행 중\"",
+        "time": "2026-07-09T08:18:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/05/15/PYH2026051511470001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709033600063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "코레일 \"대전-서울 새마을호 1대 등 경부선 일반 열차 운행조정\"",
+        "time": "2026-07-09T08:13:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/09/PYH2026070901580001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709031900063",
+        "summary": "집중 호우에 따른 조치…KTX는 정상 운행 중",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "창원시의회 개원 이래 첫 현역의원 출산…이원주 의원 90일 휴가",
+        "time": "2026-07-09T07:55:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/08/AKR20260708110100052_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260708110100052",
+        "summary": "2023년 신설 출산휴가 회의규칙 첫 적용…\"청년·여성 정치활동 등 시대 흐름 반영\"",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "대전에 호우주의보",
+        "time": "2026-07-09T07:45:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709025200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "제주 이틀째 열대야…서귀포 밤사이 최저 25.6도",
+        "time": "2026-07-09T07:45:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/07/22/PYH2025072217040005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709024000056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "충북 보은에 호우주의보 발효",
+        "time": "2026-07-09T07:43:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260709025400527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "대구 낙석사고 비탈면 응급복구 완료…통행 제한 유지",
+        "time": "2026-07-09T07:31:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/05/08/PYH2026050808610005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260708159500053",
+        "summary": "낙석방지망·방수포 설치 마쳐…추가 안전공사",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] \"이란 북동부 철도 교량, 공습 피해 발생\"<이란방송>",
+        "time": "2026-07-09T08:38:00",
+        "img": "https://img7.yna.co.kr/photo/etc/epa/2026/04/03/PEP20260403076801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709037500009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] 대전-서울 무궁화호 2대·새마을호 1대 운행 중지",
+        "time": "2026-07-09T08:07:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2024/09/13/PYH2024091306080006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709030200063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "[속보] 경부선 부강역∼서창역간 일반 열차 조정 운행",
+        "time": "2026-07-09T08:07:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/19/PYH2025081909310005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709029800063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      },
+      {
+        "title": "누렇게 변하고 바느질선 터진 태극기, 전문가 손길로 되살려",
+        "time": "2026-07-09T09:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709029600005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260709029600005",
+        "summary": "국립문화유산연구원, '뉴욕 월도프 아스토리아 호텔 게양 태극기' 보존 처리",
+        "source": "yna",
+        "date": "2026년 07월 09일 목요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 07월 08일 수요일",
     "articles": [
       {
