@@ -1,5 +1,392 @@
 [
   {
+    "date": "2026년 07월 20일 월요일",
+    "articles": [
+      {
+        "title": "원화 스테이블코인·대주주 지분 제한 두고 당정-업계 ‘평행선’",
+        "time": "2026-07-20T09:08:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388360",
+        "source": "fntoday",
+        "date": "2026년 07월 20일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 07월 20일 월요일",
+    "articles": [
+      {
+        "title": "순천 상사댐에 11㎿ 태양광 발전소 조성…2029년 완공 목표",
+        "time": "2026-07-20T09:57:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2018/02/26/04/C0A8CA3C00000161D1392DB70016E125_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260720046400054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "대구·경북 국회의원. 반도체산업 육성 토론회 공동 주최",
+        "time": "2026-07-20T09:35:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2024/02/20/43/PCM20240220000243990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720037400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "한국국제교류재단, '한중청년교류' 韓대표단 60명 중국 파견",
+        "time": "2026-07-20T09:00:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/17/AKR20260717053200371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260717053200371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'원 구성 파행' 증평군의회 정상화 무드…22일 임시회 개최",
+        "time": "2026-07-20T09:53:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2022/08/11/47/PCM20220811000047064_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720039700064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "鄭 \"보완수사권 폐지안하면 몸통 흔들려…전대 기탁금은 낮춰야\"",
+        "time": "2026-07-20T09:37:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071604310001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720031700001",
+        "summary": "\"의총서 너무 당당하게 보완수사권 존치 주장…당황하고 놀라\"",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "BC카드-금융결제원, '국가 간 QR 결제서비스' 확대 나선다",
+        "time": "2026-07-20T09:59:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720045600002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720045600002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "경기융합타운 조성 15년 만에 마무리…7개 기관 5천명 상주",
+        "time": "2026-07-20T09:27:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720033700060_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720033700060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "\"상반기 서울 아파트 상위 1% 기준선은 46억5천만원\"",
+        "time": "2026-07-20T09:26:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/19/PYH2026071902620001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720034200003",
+        "summary": "직방, 실거래가 조사…상위 1% 평균가는 약 63억원",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "\"ODA 성과관리, 책임있고 유연하게\"…코이카, 23일 평가포럼",
+        "time": "2026-07-20T09:05:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/17/AKR20260717053300371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260717053300371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "[속보] 코스피, 3~4%대 급락…6,500선 등락",
+        "time": "2026-07-20T09:03:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/07/20/PYH2026072002430001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720030200008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "AI 모델로 장기 해양 파고 예측 정확도 높인다",
+        "time": "2026-07-20T10:01:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720047300051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720047300051",
+        "summary": "국립부경대·동명대 연구팀…레이더 영상과 풍속 정보 결합",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "KT나스미디어, 국내 첫 넷플릭스 광고효과 예측 서비스",
+        "time": "2026-07-20T10:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720045000017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720045000017",
+        "summary": "공식 광고 API 연동…도달 규모·예산 효율 분석 지원",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "인천항∼서해5도 여객선, 오늘부터 야간운항 허용시간 확대",
+        "time": "2026-07-20T08:30:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/04/21/PYH2026042106650006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720019300065",
+        "summary": "'일출 30분 전·일몰 30분 후'→'일출 3시간 전·일몰 3시간 후'",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "충남 태안에 호우주의보…천안 등 7곳 호우주의보 유지",
+        "time": "2026-07-20T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720049800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "대구중부·대구달성남부 폭염경보",
+        "time": "2026-07-20T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720049500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "전주 등 전북 6곳 폭염주의보…정읍 등 4곳 폭염주의보 유지",
+        "time": "2026-07-20T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720049700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "경남 김해·양산에 폭염경보…합천서북부 등 3곳 폭염주의보",
+        "time": "2026-07-20T10:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720049200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "경북 경산에 폭염경보…상주 등 3곳 폭염주의보",
+        "time": "2026-07-20T10:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720049400527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "군산시, 국가지점번호판 정비 완료…산악·해안 안전망 강화",
+        "time": "2026-07-20T09:56:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720045800055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720045800055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "바벨에 목 눌려 숨진 회원…헬스장 대표·트레이너 무죄",
+        "time": "2026-07-20T09:50:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2020/07/27/30/PCM20200727000030990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720042400051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "남해 엄나무섬 해상서 모터보트 좌초…2명 구조",
+        "time": "2026-07-20T09:47:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720042200052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720042200052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'무더위 식혀요' 군산시, 도심 주요 도로 살수차 운영",
+        "time": "2026-07-20T09:43:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720039900055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720039900055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "충북 진천에 호우주의보 발효",
+        "time": "2026-07-20T10:01:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720044700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "국가기록원, 세계유산위 열리는 부산서 '한국의 기록' 기획전",
+        "time": "2026-07-20T09:00:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718037100530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260718037100530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "[내일날씨] 중부지역 강한 비…수도권·강원 최대 120㎜ 폭우",
+        "time": "2026-07-20T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070816780006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720006100004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "진도서 양식장 자재 창고 화재…인명피해 없어",
+        "time": "2026-07-20T08:58:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720025500054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720025500054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "양천구, 내년까지 양천문화회관 광장 새 단장",
+        "time": "2026-07-20T08:58:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720028200004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720028200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "대구서 청소차량과 승용차 추돌사고…1명 사망",
+        "time": "2026-07-20T08:33:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2022/12/12/39/PCM20221212000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720023300053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "천안 등 충남 5곳 호우주의보…예산·홍성 서부 호우주의보 유지",
+        "time": "2026-07-20T08:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720018600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "충남 아산 폭염주의보 해제…예산·홍성 서부 호우주의보 유지",
+        "time": "2026-07-20T08:29:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720017100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "세종북부에 호우주의보…세종 남부에 폭염주의보 유지",
+        "time": "2026-07-20T08:29:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260720018500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "오늘 중부지방 중심 비…당분간 오락가락 장맛비 이어져",
+        "time": "2026-07-20T08:44:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071707560005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720021500530",
+        "summary": "남부지방은 소강상태 많아…정체전선 남북으로 오르락내리락",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "日, 공무원 복무시스템 통합…'장시간 노동' 개선 착수",
+        "time": "2026-07-20T09:54:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2016/10/13/01/C0A8CA3D00000157BC7188F800030A7F_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260720044900009",
+        "summary": "PC 온오프 자동 기록…인력 재배치·업무 효율화에 활용",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "이란전쟁 미군 사망 누계 17명…이라크서 1명 추가 확인(종합)",
+        "time": "2026-07-20T09:43:00",
+        "img": "https://img7.yna.co.kr/photo/ap/2026/03/08/PAP20260308119601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720002551071",
+        "summary": "요르단서 신원미상 유해 발견돼 신원 감식중…17일 실종자와 동일인물 추정",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "우크라 \"러, 튀르키예 화물선에 미사일 공격…6명 사망\"",
+        "time": "2026-07-20T08:53:00",
+        "img": "https://img6.yna.co.kr/photo/ap/2026/07/20/PAP20260720006601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720026000009",
+        "summary": "흑해서 순항미사일에 피격…해운망 차단하려는 러시아의 격렬한 공세 계속",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'국가모독죄' 수감 쿠바 반체제 예술가, 5년만에 석방돼 美 망명",
+        "time": "2026-07-20T08:41:00",
+        "img": "https://img7.yna.co.kr/photo/etc/af/2026/07/19/PAF20260719124701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720022600009",
+        "summary": "반정부 시위 중 체포돼 수감…美 입국에 지지자들 열렬히 환호",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "다카이치 내각 지지율, 정권 출범후 최저…황실전범 개정 '역풍'",
+        "time": "2026-07-20T09:12:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720027500073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720027500073",
+        "summary": "\"첫 여성 총리가 여왕 승계 배척\"…아사히 53%·마이니치 41%",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'현안 해결 속도'…파주시 핵심 현안 기획단 신설",
+        "time": "2026-07-20T09:44:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720042000060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720042000060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'청렴도 최하위 오명 벗자'…천안시의회, 청렴 신뢰 회복 선언",
+        "time": "2026-07-20T09:42:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720041600063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720041600063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "충남도, 온라인 여론 AI로 실시간 분석…정책 대응에 활용",
+        "time": "2026-07-20T09:06:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720031200063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720031200063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      },
+      {
+        "title": "'충주맨' 김선태, KBS 웹 예능 '돈선태 성공시대' MC",
+        "time": "2026-07-20T09:54:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720044600005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260720044600005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 20일 월요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 07월 19일 일요일",
     "articles": [
       {
@@ -1892,1848 +2279,6 @@
         "summary": "",
         "source": "skyDaily",
         "date": "2026년 07월 19일 일요일"
-      }
-    ]
-  },
-  {
-    "date": "2026년 07월 18일 토요일",
-    "articles": [
-      {
-        "title": "트럼프, 2020년 미시간 '부정선거' 기밀 문서 전격 공개… \"FBI 재수사 지시\"",
-        "time": "2026-07-18T14:52:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5749_11078_2939.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5749",
-        "summary": "도널드 트럼프 미국 대통령이 2020년 대선 당시 미시간주에서 발생한 부정선거 의혹에 대한 법무부의 전면적인 재수사를 촉구하며 관련 기밀 문서를 전격 공개했다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "트럼프 \"중국, 내 사임 노리고 대선 개입… CIA 기밀 문서에 명시\"",
-        "time": "2026-07-18T14:47:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5750_11079_454.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5750",
-        "summary": "도널드 트럼프 미국 대통령이 자신의 첫 번째 임기 당시 중국 공산당이 대통령직 사임을 압박하고 대선에 개입하려 했다는 충격적인 주장을 제기했다. 트럼프 대통령은 이를 뒷받침할 근거로 정보당국의 기밀 문서를 인용하며 대중(對中) 공세 수위를 높였다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"일장기 태우면 감옥 간다\" 일본 법 통과... 한·미·일·중 국기법 전격 비교",
-        "time": "2026-07-18T14:13:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5751_11081_1136.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5751",
-        "summary": "일본 정부가 자국 국기인 일장기를 훼손할 경우 형사 처벌하는 법안을 통과시키면서, 국기를 대하는 각국의 법적 잣대가 다시 주목받고 있다. 이번 일본의 조치로 동북아시아 3국(한·일·중)은 국기 훼손을 엄벌하는 공통된 법적 체계를 갖추게 된 반면 '표현의 자유'를 우선시하는 미국과는 뚜렷한 대조를 보이고 있다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[해설] 트럼프 “미국 선거 시스템 재앙적으로 미달한다”",
-        "time": "2026-07-18T13:31:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5754_11082_2849.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5754",
-        "summary": "도널드 트럼프 미국 대통령이 16일(현지시간) 백악관 대국민 연설을 통해 2020년 미국 대선의 공정성 문제를 전면에 제기했다. 그는 △중국의 선거 개입 △전자투표기의 보안 취약성 △우편(사전)투표의 문제점 △비시민권자 유권자 등록 등을 언급하며 선거제도 전반의 개혁을 촉구했다. 동시에 '세이브 아메리카법(SAVE America Act)' 통과를 의회에 요...",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "한국 소설 폄하했던 中 작가, 논문 표절 인정돼 석사학위 취소",
-        "time": "2026-07-19T01:34:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5758_11095_1837.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5758",
-        "summary": "한국 소설을 폄하해 논란을 빚었던 중국 유명 청년 작가 장팡저우가 석사학위 논문 표절이 인정돼 학위를 취소당했다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "자진 출석 피의자 불법 체포·허위 서류 작성… 현직 경찰관 기소",
-        "time": "2026-07-19T01:34:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5759_11096_5139.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5759",
-        "summary": "자진 출석한 피의자를 불법으로 긴급체포하고 관련 서류를 허위로 작성한 혐의를 받는 현직 경찰관이 재판에 넘겨졌다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "강력범죄 피해자·유족 “보완 수사권 폐지 반대”",
-        "time": "2026-07-19T01:34:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5760_11097_3216.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5760",
-        "summary": "기자회견에 참석한 강력범죄 피해자와 유족들이 검찰 보완 수사권 폐지에 반대하며 피해자 보호를 중심에 둔 사법개혁이 필요하다고 목소리를 냈다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 18일 토요일"
-      }
-    ]
-  },
-  {
-    "date": "2026년 07월 18일 토요일",
-    "articles": [
-      {
-        "title": "임진강 필승교 수위 1ｍ 넘어…하천 행락객 대피 수위",
-        "time": "2026-07-18T08:55:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718020500060_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718020500060",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "은어 잡고 요리도 맛보고…영덕황금은어 축제 31일 개막",
-        "time": "2026-07-18T09:14:00",
-        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716183000053_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716183000053",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "이상기후에 빨라진 중국발 '비래해충'…남해안 지자체 방제 비상",
-        "time": "2026-07-18T08:25:00",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716132700052_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716132700052",
-        "summary": "고온 현상에 벼멸구 등 확산 예상…드론·공동방제 전방위 지원",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 익산 오존주의보 해제",
-        "time": "2026-07-18T09:35:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718022100527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "철원 최고 145.5㎜…버스-승용차 충돌·낙석 등 사고 이어져",
-        "time": "2026-07-18T09:34:00",
-        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718022200062_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022200062",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"청렴도 즐겁게\"…경남교육청, 대학진학박람회서 체험부스 운영",
-        "time": "2026-07-18T09:30:00",
-        "img": "https://img4.yna.co.kr/photo/cms/2026/01/12/89/PCM20260112000089990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716170700052",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 석남동 쿠팡물류센터서 불…\"진화 중\"",
-        "time": "2026-07-18T09:23:00",
-        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718022000065_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022000065",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경기지역 나무 쓰러지고 주택 침수…파주서 캠핑 여성 1명 구조",
-        "time": "2026-07-18T09:22:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718021900061_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718021900061",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "연평도 등 인천 3곳 강풍주의보 해제",
-        "time": "2026-07-18T09:05:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718021000527",
-        "summary": "인천 앞바다 등 4곳 풍랑주의보 해제",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[내일날씨] 일요일도 강하고 많은 비…수도권·강원 200㎜ 이상 폭우",
-        "time": "2026-07-18T09:00:00",
-        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071707500005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718008400004",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "서울 집중호우로 강서·은평·마포구 침수경보…동부간선 통제",
-        "time": "2026-07-18T08:30:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801000001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718018700004",
-        "summary": "서울시, 밤새 상황근무…배수·나무 쓰러짐·시설안전 등 120건 피해 신고",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 익산 오존주의보 발령",
-        "time": "2026-07-18T08:29:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718018800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[줌in제주] 바다거북 산란·부화 제주해변서 다시 볼 수 있을까",
-        "time": "2026-07-18T09:00:00",
-        "img": "https://img6.yna.co.kr/photo/cms/2023/12/15/13/PCM20231215000013990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716072800056",
-        "summary": "19년전 중문색달해변서 마지막 목격…주민·단체 공동 노력",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "가평군, 주민이 추천한 '나만 알고 싶은 산책길' 소개",
-        "time": "2026-07-18T09:00:00",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716149400060_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716149400060",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "바위에 새긴 선사시대 삶 마주한 세계유산 전문가들 \"어메이징\"",
-        "time": "2026-07-18T09:00:00",
-        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071707790005700_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718019800005",
-        "summary": "각국 세계유산 현장 관리자 80여 명 한자리에…반구천 암각화 답사",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"그 사람 나타났어요\"…시민 제보로 상습 전선 절도범 검거",
-        "time": "",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716179900060_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716179900060",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "韓총리 \"집중호우 피해 국민께 위로…응급복구 신속 실시\"",
-        "time": "2026-07-18T12:09:00",
-        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802260001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718029000001",
-        "summary": "호우 대처상황 점검회의…\"산사태 선제적 대피에 만전\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-        "time": "2026-07-18T10:30:00",
-        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801400001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718024900011",
-        "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "장마철에도 비 적은 영남…낙동강 성덕댐 가뭄단계 '주의' 격상",
-        "time": "2026-07-18T12:05:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718028300530_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718028300530",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[영상] '한땀한땀 어느 세월에…' 스피드에 꽂힌 미 방산",
-        "time": "2026-07-18T10:00:00",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716176500797_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716176500797",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "파주·동두천 200㎜ 호우…도로 침수·수목 전도 등 540건 피해",
-        "time": "2026-07-18T12:29:00",
-        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/15/PYH2026071505570006100_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718029500530",
-        "summary": "남부로 비 확산하며 20일까지 예상…중대본 2단계 비상근무 대응",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "도로·주택 침수에 뱃길도 차질…'호우경보' 인천서 피해 속출(종합)",
-        "time": "2026-07-18T12:16:00",
-        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718011151065_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718011151065",
-        "summary": "오전 8시 기준 90건 피해 신고 접수…서해구 132.5㎜ 기록",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "대구 달성북부·대구시중부에 폭염주의보",
-        "time": "2026-07-18T12:12:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718028700527",
-        "summary": "달성남부에 폭염주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "칠곡 등 경북 3곳 폭염주의보 발효",
-        "time": "2026-07-18T12:11:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718028600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[부고] 이도헌(벡스코 마케팅본부장)씨 모친상",
-        "time": "2026-07-18T12:10:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718029100051",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[속보] 서울 동부간선도로 전구간 전면 통제 해제",
-        "time": "2026-07-18T11:42:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801000001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718027500004",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 석남동 쿠팡물류센터 화재로 대응 1단계…121명 자력 대피(종합)",
-        "time": "2026-07-18T11:30:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802640006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022051065",
-        "summary": "소방 당국 \"내부 가연물로 완진까지 장시간 소요될 듯\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "중부 집중호우에…국가유산 재난 위기 경보 '주의'→'경계'",
-        "time": "2026-07-18T11:12:00",
-        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801440001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718026200005",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "춘천 등 강원 8곳 호우주의보 해제",
-        "time": "2026-07-18T11:02:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718026300527",
-        "summary": "원주 등 19곳 호우주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "익산 양계장서 발전기실 화재…축사·전선 불타",
-        "time": "2026-07-18T10:43:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718025700055_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718025700055",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "강원 150㎜ 안팎 많은 비…소방, 취약지역 예찰 활동 강화",
-        "time": "2026-07-18T10:40:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718025400062_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718025400062",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "완도군 등 전남 3곳 폭염주의보",
-        "time": "2026-07-18T10:19:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718025000527",
-        "summary": "순천·광양에 폭염주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "천안 등 충남 10곳 호우주의보 해제",
-        "time": "2026-07-18T10:14:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "울산서부·울산동부에 폭염주의보",
-        "time": "2026-07-18T10:13:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024100527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전주 등 전북 6곳 폭염주의보",
-        "time": "2026-07-18T10:12:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024500527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전남광주 폭염 특보 확대…여수 등 전남 15곳 폭염주의보 발효",
-        "time": "2026-07-18T10:13:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024000527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "대전에 호우주의보 해제",
-        "time": "2026-07-18T10:10:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024300527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산서부 등 3곳 폭염주의보",
-        "time": "2026-07-18T10:10:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "대구 달성남부에 폭염주의보",
-        "time": "2026-07-18T10:10:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "세종남부·세종북부 호우주의보 해제",
-        "time": "2026-07-18T10:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023900527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "포항 등 경북 7곳 폭염주의보",
-        "time": "2026-07-18T10:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경기 포천 호우경보 해제…남양주 등 6곳도 호우주의보 해제",
-        "time": "2026-07-18T10:08:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023400527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "양평 서부 등 경기 4곳 호우주의보 해제",
-        "time": "2026-07-18T10:07:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023500527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "창원 등 경남 16곳 폭염주의보",
-        "time": "2026-07-18T10:07:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023300527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "강원도 호우주의보 확대…춘천 철원 화천 홍천에도 특보 발효",
-        "time": "2026-07-18T10:07:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718023200527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"눈 마주쳤다고\" 행인 집단폭행한 수원 조폭 등 6명 집행유예",
-        "time": "2026-07-18T10:00:00",
-        "img": "https://img0.yna.co.kr/photo/cms/2024/10/29/15/PCM20241029000015990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716115000061",
-        "summary": "법원 \"조폭 가입·집단폭행 죄책 무거우나 탈퇴 및 합의 참작\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[내주날씨] 내내 장맛비…초반과 후반 전국에 강수",
-        "time": "2026-07-18T10:00:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071706830005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718011200530",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "대전·세종·충남 장맛비에 나무 쓰러짐·도로 침수 13건",
-        "time": "2026-07-18T10:03:00",
-        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801950006300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022800063",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'화재 손상' 日호류지 금당벽화, 디지털로 색채 복원",
-        "time": "2026-07-18T12:07:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718028500073_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718028500073",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "중동에 다시 미군 집결…\"미, 이스라엘에 공중급유기 증강 통보\"",
-        "time": "2026-07-18T11:15:00",
-        "img": "https://img0.yna.co.kr/photo/etc/up/2026/04/07/PUP20260407002101009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022600009",
-        "summary": "당국자 \"수십대 추가 배치 계획\"…이란 개전 당시 수준",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "베네수엘라 지진 사망자 5천명 넘어…'엘니뇨 경고' 설상가상",
-        "time": "2026-07-18T10:31:00",
-        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718017200009_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718017200009",
-        "summary": "실종자 여전히 수만명 추정…엘니뇨 폭염·가뭄 우려도",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "中, '대선 개입' 트럼프 주장에 \"악의적 비방…간섭한 적 없어\"",
-        "time": "2026-07-18T10:24:00",
-        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/10/30/PYH2025103013830005100_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718024800083",
-        "summary": "미국의 '외국 언론인 체류기간 제한'에도 \"합의 위반한 차별적 조치\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "감사원 '서해 사건 고발' 감사관 육아휴직 불허…野 \"정치보복\"",
-        "time": "2026-07-18T14:43:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2023/08/16/PYH2023081612790001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031000001",
-        "summary": "유학 만료 앞두고 현지서 육아 휴직 신청…\"자녀 양육 목적에 해당 안돼\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "與, 서이초 3주기 맞아 \"안심하고 가르칠 학교 만들 것\"",
-        "time": "2026-07-18T13:50:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/10/02/PYH2025100210260001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718030500001",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "오세훈, 침수 취약지역 점검…\"작은 위험 징후도 선제 조치\"",
-        "time": "2026-07-18T14:30:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718031300004_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031300004",
-        "summary": "응암동 저지대·진관동 계곡부 등 찾아 철저한 안전관리 당부",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경기 여주 소양천서 길이 50㎝ 악어 포획",
-        "time": "2026-07-18T14:12:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718030800061_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718030800061",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "박수현 충남지사, 태안 병영체험 참사 기념식 찾아 추모",
-        "time": "2026-07-18T14:00:00",
-        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718021600063_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718021600063",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 쿠팡물류센터 화재 대응2단계 격상…면적 넓고 가연물 많아",
-        "time": "2026-07-18T13:46:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802640006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718030400065",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "서울 집중호우 잦아들고 소강상태…동부간선도로 통행 재개(종합)",
-        "time": "2026-07-18T13:45:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071801000001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718018751004",
-        "summary": "오늘 밤부터 다시 돌풍 동반한 강한 비 예보…산사태·저지대 침수 등 대응",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "원주 등 강원 19곳 호우주의보 해제",
-        "time": "2026-07-18T13:07:00",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718029900527_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718029900527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "제주 서귀포시 동부에 폭염경보",
-        "time": "2026-07-18T10:11:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024200527",
-        "summary": "서귀포시중산간 등 5곳 폭염주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "광주동부·광주서부에 폭염주의보",
-        "time": "2026-07-18T10:11:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718024400527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"최선희 北외무상, 러 공식 방문차 모스크바 도착\"<러 관영매체>",
-        "time": "2026-07-18T14:54:00",
-        "img": "https://img0.yna.co.kr/photo/cms/2025/11/14/01/PCM20251114000001365_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031851009",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[속보] \"최선희 北외무상, 러 공식방문차 모스크바 도착\"<러 관영매체>",
-        "time": "2026-07-18T14:31:00",
-        "img": "https://img0.yna.co.kr/photo/cms/2025/11/14/01/PCM20251114000001365_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031800009",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "金 \"당 바로잡겠다\"·鄭 \"당원이 절 지켜달라\"·宋 \"더 큰 각오\"",
-        "time": "2026-07-18T16:35:00",
-        "img": "https://img7.yna.co.kr/photo/cms/2026/07/13/43/PCM20260713000143990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718035500001",
-        "summary": "與 당권주자, 후보등록 후 첫 주말 득표전…고민정·김보미는 호남 공략",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[속보] 종합특검, '양평 의혹' 원희룡 전 국토부 장관 23일 소환",
-        "time": "2026-07-18T15:15:00",
-        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/02/12/PYH2025021203670001301_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718034200004",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'친장동혁' 조광한, 경기도당위원장 선거 출마 번복…\"생각접어\"",
-        "time": "2026-07-18T16:20:00",
-        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/07/15/PYH2026071505600001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718037400001",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "국가공무원 7급공채 1차 필기시험 응시율 61.1%…소폭 상승",
-        "time": "2026-07-18T15:42:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718035200001_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718035200001",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "박홍근 \"반도체 호황기 급격히 안 꺼져…청년 정책에 대폭 투자\"",
-        "time": "2026-07-18T15:03:00",
-        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071608900001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718032300002",
-        "summary": "\"청년들은 세대적 약자…위기·기회 돌파하면 글로벌 톱3도 가능\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 쿠팡물류센터 화재…소방력 총동원에도 진화 난항",
-        "time": "2026-07-18T16:25:00",
-        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802450006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718037500065",
-        "summary": "생활용품 많고 내부 연기 확산에 진입 어려워…소방관 1명 연기흡입",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "제주시중산간·제주시서부에 열대야주의보",
-        "time": "2026-07-18T16:10:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036900527",
-        "summary": "서귀포시동부에 폭염경보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "울산서부·울산동부에 열대야주의보",
-        "time": "2026-07-18T16:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718037000527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "여수 등 전남 3곳 열대야주의보…화순 등 15곳 폭염주의보 해제",
-        "time": "2026-07-18T16:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전주 등 전북 6곳 폭염주의보 해제",
-        "time": "2026-07-18T16:08:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산서부 등 3곳 열대야주의보",
-        "time": "2026-07-18T16:08:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036500527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경남 함양중부·산청북부에 폭염주의보",
-        "time": "2026-07-18T16:07:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036400527",
-        "summary": "창원 등 15곳 열대야주의보",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "군포 금정고가 포트홀로 호계방면 통제…내주 초까지 차단",
-        "time": "2026-07-18T15:55:00",
-        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718035700061_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718035700061",
-        "summary": "한 달 만에 또 파손…44년 된 노후 교량, 내달 정밀안전진단",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "소방청, 인천 물류창고 화재 총력 대응…국가소방동원령 발령",
-        "time": "2026-07-18T15:50:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802640006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718035600530",
-        "summary": "인근 5개 시·도서 고가사다리·물탱크 등 소방차량 21대 지원",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "광주동부·광주서부 폭염주의보 해제",
-        "time": "2026-07-18T16:08:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718036600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "호르무즈 이어 홍해 봉쇄 위기…\"둘 다 막히면 글로벌 경기침체\"",
-        "time": "2026-07-18T16:47:00",
-        "img": "https://img9.yna.co.kr/photo/etc/epa/2025/07/09/PEP20250709064701009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718037700009",
-        "summary": "사우디-후티 휴전체제 무너져 홍해 우회수출에 불안 가중",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "中충칭 산사태로 8명 사망·34명 실종…시진핑, 수색·구조 지시",
-        "time": "2026-07-18T16:40:00",
-        "img": "https://img4.yna.co.kr/photo/ap/2026/07/18/PAP20260718131501009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718038000083",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "요르단 기지 주둔 미군, 이란 공습으로 다수 부상",
-        "time": "2026-07-18T15:07:00",
-        "img": "https://img3.yna.co.kr/photo/reuters/2026/07/18/PRU20260718126701009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718033900009",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "공주 대신 36촌 아들에 왕위승계 자격 준 日…안팎서 '후폭풍'",
-        "time": "2026-07-18T15:01:00",
-        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718031900073_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031900073",
-        "summary": "유엔 총장 \"女권리 향상 장려\" 우회 비판…이시바 전 총리도 가세",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[부고] 박재택(원성화학 대표)씨 별세",
-        "time": "2026-07-18T16:27:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718037800704",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "유흥식 추기경 \"내년 이른 봄 최양업 신부 시복 기대\"",
-        "time": "2026-07-18T16:03:00",
-        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071803190001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718036000005",
-        "summary": "방한한 유 추기경, 국내 신자들 앞에서 강연…\"시복 9부 능선 넘어\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "필리핀, 자국민 원숭이로 묘사한 中 관영매체에 \"인종차별\" 항의",
-        "time": "",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718022500104_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022500104",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "北최선희, 9개월 만에 전격 방러…김정은 모스크바행 조율 주목",
-        "time": "2026-07-18T17:20:00",
-        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/10/27/PYH2025102700760004200_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718038500504",
-        "summary": "4월 파병기념관 준공식 이후 고위급 교류 재개…중·러 '뒷배' 활용 외교위상 극대화",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "李대통령 \"쿠팡 물류창고 화재 진압에 총력…소방대 안전 철저\"(종합)",
-        "time": "2026-07-18T17:44:00",
-        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071605960001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039751001",
-        "summary": "韓총리 \"내부붕괴 등 2차 사고 유의…필요시 주민 대피 철저히\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "李대통령 \"쿠팡 물류창고 화재 진압에 총력…소방대 안전 철저\"",
-        "time": "2026-07-18T17:24:00",
-        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071605960001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039700001",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "감사원 '서해 사건 고발' 감사관 육아휴직 불허…野 \"정치보복\"(종합)",
-        "time": "2026-07-18T17:15:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2023/08/16/PYH2023081612790001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031051001",
-        "summary": "유학 만료 앞두고 현지서 육아 휴직 신청…\"자녀 양육 목적에 해당 안돼\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "서해안고속 화성휴게소 주차된 차량서 불…인명피해 없어",
-        "time": "2026-07-18T18:18:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718040800061_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718040800061",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"인천 쿠팡물류센터 화재…건물 외벽 타고 7층까지 번져\"",
-        "time": "2026-07-18T18:16:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802640006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718040600065",
-        "summary": "국가소방동원령 발령…12시간 가까이 진화 중",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "철원 171.1㎜ 폭우…고립·낙석 등 비 피해 잇따라(종합)",
-        "time": "2026-07-18T17:43:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802850006200_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718040000062",
-        "summary": "폭우 따른 소방 출동 63건…내일까지 많은 곳 120㎜ 이상 예보",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산 암남공원 앞바다서 심정지 상태로 발견된 60대 숨져",
-        "time": "2026-07-18T17:17:00",
-        "img": "https://img9.yna.co.kr/photo/cms/2020/05/21/62/PCM20200521000162990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039200051",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "사마리아·바이칼호 등 '위험에 처한 세계유산' 등재 추진",
-        "time": "2026-07-18T18:27:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718041000009_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718041000009",
-        "summary": "19일 개막 유네스코 세계유산위서 표결",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "이란, 쿠웨이트 발전·담수시설 또 공습…민간시설 공격 '맞불'",
-        "time": "2026-07-18T18:01:00",
-        "img": "https://img5.yna.co.kr/photo/reuters/2026/07/17/PRU20260717231001009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718040200099",
-        "summary": "바레인·요르단·카타르 등 공격받아…IRGC \"미군 지원 시설 공격\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "35도까지 치솟은 노르웨이 남부서 큰불…주택 100여채 소실",
-        "time": "2026-07-18T17:31:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718039500098_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039500098",
-        "summary": "오슬로 인근 도시에서 화재…강풍 타고 주택 밀집지역으로 번져",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "피겨 고나연, ISU 주니어 그랑프리 파견선수 선발전 쇼트 1위",
-        "time": "2026-07-18T17:27:00",
-        "img": "https://img5.yna.co.kr/photo/cms/2023/12/28/27/PCM20231228000027007_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039800007",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'서해사건 고발' 감사관 육아휴직 불허…당사자 \"불허 사유안돼\"(종합2보)",
-        "time": "2026-07-18T19:13:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2023/08/16/PYH2023081612790001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718031052001",
-        "summary": "감사원 \"조사·수사 회피 추정\"…유학 만료 앞두고 현지서 육휴 신청에 불허",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 청송·안동 동남부에 호우주의보 발효",
-        "time": "2026-07-18T19:50:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718042900527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "보성 양식장서 놀던 8살 여아 물에 빠져 의식불명",
-        "time": "2026-07-18T19:33:00",
-        "img": "https://img6.yna.co.kr/photo/cms/2025/07/25/36/PCM20250725000036990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718042600054",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "아파트 12층 실외기 화재…2명 연기흡입·30명 대피",
-        "time": "2026-07-18T19:30:00",
-        "img": "https://img8.yna.co.kr/photo/cms/2022/12/12/39/PCM20221212000039990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718042300054",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 의성에 호우주의보…포항 등 10곳 폭염주의보 유지",
-        "time": "2026-07-18T19:27:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718042100527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[월드컵] 스페인 총리, 결승 직관차 방미…'앙숙' 트럼프 조우할까",
-        "time": "2026-07-18T19:54:00",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718042700098_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718042700098",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "민주콩고 에볼라 확산 계속…치명률 40% 육박",
-        "time": "2026-07-18T19:49:00",
-        "img": "https://img3.yna.co.kr/photo/reuters/2026/07/16/PRU20260716404601009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718042500099",
-        "summary": "美전문가 \"분디부조형 에볼라 증상 발현 더뎌 확산 키워\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "유흥식 추기경 \"두 교황이 삶 바꿔…최양업 신부 시복 내년 봄 기대\"(종합)",
-        "time": "2026-07-18T19:02:00",
-        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071803190001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718036051005",
-        "summary": "국내 신자들 만나 프란치스코·레오 14세 교황 이야기 강연…\"인간에 대한 애정·연민 커져\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "쿠팡, 인천 물류센터 화재에 사과…\"조사에 적극 협조\"",
-        "time": "2026-07-18T20:30:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802640006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718043300030",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "구미 등 경북 3곳 호우주의보 발효",
-        "time": "2026-07-18T20:38:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718043600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[부고] 우영식(연합뉴스 경기북부취재본부 부본부장)씨 모친상",
-        "time": "2026-07-18T20:21:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718043400060",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 의성에 호우경보…구미 등 7곳은 호우주의보 유지",
-        "time": "2026-07-18T21:59:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718046100527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 안동서부·안동북부에 호우주의보",
-        "time": "2026-07-18T21:18:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718044600527",
-        "summary": "구미 등 6곳 호우주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경남 거창 남·북부에 호우주의보",
-        "time": "2026-07-18T21:53:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718045800527",
-        "summary": "창원 등 18곳 폭염주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 서북부에 호우주의보…지자체 비상대응 체제 돌입",
-        "time": "2026-07-18T21:52:00",
-        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071707450005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718045900053",
-        "summary": "19일까지 30∼100㎜, 많은 곳은 150㎜ 넘는 폭우 예보",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 진안·무주에 호우주의보…남원 등 4곳 호우주의보 유지",
-        "time": "2026-07-18T23:32:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718048400527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "목포 등 전남 5곳 호우주의보…여수 등 5곳 폭염주의보 유지",
-        "time": "2026-07-18T23:00:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 쿠팡물류센터 큰불, 밤샘 진화 예상…국가소방동원령 유지(종합2보)",
-        "time": "2026-07-18T22:59:00",
-        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718022052065_03_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718022052065",
-        "summary": "6층서 시작된 불길, 7층으로 번져…짙은연기·고열로 '진화 애로'",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "광주동부·광주서부에 호우주의보",
-        "time": "2026-07-18T22:59:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경남 함양서북부·함양중부에 호우주의보",
-        "time": "2026-07-18T22:59:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047600527",
-        "summary": "거창남부·거창북부에 호우경보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 순창에 호우주의보",
-        "time": "2026-07-18T22:35:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047400527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "상주 등 경북 7곳 호우주의보…의성에 호우경보 유지",
-        "time": "2026-07-18T22:34:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047300527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 안동동남부에 호우경보…의성에 호우경보 유지",
-        "time": "2026-07-18T23:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718048000527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경남 거창남부·거창북부에 호우경보…합천서북부에 호우주의보",
-        "time": "2026-07-18T22:11:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718046600527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "영주 등 경북 3곳 호우주의보…의성에 호우경보 유지",
-        "time": "2026-07-18T22:09:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718046400527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "울릉도·독도에 호우주의보…의성에 호우경보 유지",
-        "time": "2026-07-18T22:13:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718046700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "남원 등 전북 3곳 호우주의보…순창에 호우주의보 유지",
-        "time": "2026-07-18T23:00:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047900527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[부고] 배완호(MBN 영상취재부 기자)씨 빙부상",
-        "time": "2026-07-18T22:29:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718047100034",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "낙동강홍수통제소, 경북 안동시 미천 일대 홍수경보 발령",
-        "time": "2026-07-19T00:01:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718048900053_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718048900053",
-        "summary": "19일 0시 30분께 경보 수위 도달 예상",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "T1, EWC 4강서 프랑스 카르민코프에 1:2 충격패",
-        "time": "2026-07-18T23:34:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718047000017_05_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718047000017",
-        "summary": "결승 레이스 탈락…KC, 젠지-DK전 승리 팀과 내일 결승",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 순창·임실에 호우경보",
-        "time": "2026-07-19T00:14:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719000800527",
-        "summary": "남원 등 4곳 호우주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전남 나주서북부에 호우경보…담양에 호우경보 유지",
-        "time": "2026-07-19T00:13:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719000700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전남 영암·나주동남부에 호우주의보",
-        "time": "2026-07-19T00:06:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719000400527",
-        "summary": "담양에 호우경보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전남 담양에 호우경보…목포 등 4곳 호우주의보 유지",
-        "time": "2026-07-18T23:51:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260718048800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부여 요양원서 불…입소자 등 6명 대피",
-        "time": "2026-07-18T23:39:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718048600063_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718048600063",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "美서 대리모 출산 독일 집권당 원내대표, 내로남불 논란 끝 사퇴",
-        "time": "2026-07-19T00:02:00",
-        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718048200098_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718048200098",
-        "summary": "'대리모 금지' 당론·현행법 불구 편법 썼다는 눈총 쏟아져",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "목포 등 전남 4곳 호우주의보 해제",
-        "time": "2026-07-19T01:22:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719001400527",
-        "summary": "담양·나주서북부에 호우경보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 의성군, 단촌면 구계리에 대피명령…누적 강우량 122.5㎜",
-        "time": "2026-07-19T01:08:00",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719001300053_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719001300053",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "화순 등 전남 3곳에 호우주의보",
-        "time": "2026-07-19T00:55:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719000900527",
-        "summary": "담양·나주서북부에 호우경보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "우크라, 러 물류창고 대규모 공습…\"9명 사망·60여명 부상\"",
-        "time": "2026-07-19T01:44:00",
-        "img": "https://img4.yna.co.kr/photo/etc/af/2026/07/18/PAF20260718166401009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719001200099",
-        "summary": "러, 우크라 항만 공습…\"1명 사망·7명 부상\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "노르웨이 남부 큰불로 주택 100여채 소실…\"역대 최악 화재\"(종합)",
-        "time": "2026-07-19T01:09:00",
-        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718039551098_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039551098",
-        "summary": "오슬로 인근 도시서 시작…강풍 타고 주택 밀집지역으로 번져",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 순창·임실에 호우주의보…남원 등 4곳 호우주의보 유지",
-        "time": "2026-07-19T02:26:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719002200527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "광주동부·광주서부에 호우주의보",
-        "time": "2026-07-19T02:04:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719001900527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전남 담양·나주서북부에 호우주의보",
-        "time": "2026-07-19T02:03:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719001800527",
-        "summary": "화순 등 4곳 호우주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북북부 기록적 폭우에 의성·안동 주민 등 217명 긴급 대피(종합)",
-        "time": "2026-07-19T02:14:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/19/PYH2026071900050005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719001600053",
-        "summary": "의성 단촌면 구계리 도로 유실…안동 일직면에는 홍수경보",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 의성·안동 동남부에 호우주의보",
-        "time": "2026-07-19T02:04:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719001700527",
-        "summary": "구미 등 17곳 호우주의보 유지",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "美 \"요르단서 이란 공격 방어하던 미군 2명 전사·1명 실종\"",
-        "time": "2026-07-19T02:30:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719002300071_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719002300071",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 영주·문경에 호우경보…예천에 호우경보 유지",
-        "time": "2026-07-19T03:50:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719002800527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북 예천에 호우경보…구미 등 18곳 호우주의보 유지",
-        "time": "2026-07-19T03:04:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719002700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "인천 쿠팡물류센터 화재, 밤샘 진화에도 불길 안 잡혀",
-        "time": "2026-07-19T04:26:00",
-        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071804160006500_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719003400065",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "헝가리 대통령, 본인 임기 종료 개헌안에 마지못해 서명",
-        "time": "2026-07-19T04:28:00",
-        "img": "https://img5.yna.co.kr/photo/etc/af/2026/07/15/PAF20260715277801009_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719003300099",
-        "summary": "머저르 총리 '탈 오르반' 본격화…슈요크 대통령 \"법치 훼손\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "金·鄭·宋 본선이냐 이변이냐…與최고위원 선거 수 싸움도 치열",
-        "time": "2026-07-19T06:05:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/12/PYH2026071206900001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718042400001",
-        "summary": "친문 지지층 표심·柳발언·친명 및 친청 대결 구도 등 예비경선 변수",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "임만균 서울시의장 \"오세훈 시정 견제 강하게, 협력은 적극적으로\"",
-        "time": "2026-07-19T05:55:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/17/AKR20260717039300004_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260717039300004",
-        "summary": "연합뉴스 인터뷰…\"시민이 만든 여소야대…의회다움 회복할 것\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'세무 위반 통지' 메일 클릭 주의…원격제어 악성코드 유포",
-        "time": "2026-07-19T06:05:00",
-        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718032400017_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718032400017",
-        "summary": "72시간 제출 압박하며 실행파일 다운로드 유도",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "산청·가평 참사 1년…정부, 산사태 대피체계 전면 손질",
-        "time": "2026-07-19T06:09:00",
-        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/07/20/PYH2025072010020005200_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718035900530",
-        "summary": "인명피해 우려지역 3천943곳 관리·대피지원단 9만명 운영",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "경북북부 극한 호우에 주민 대피 잇달아…도로 유실·침수 피해",
-        "time": "2026-07-19T06:08:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719005200053_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005200053",
-        "summary": "안동 일직면 홍수경보 내려졌다가 해제, 예천군 한천 홍수특보",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "독도에 사는 생물 475종…'유일 포유류'는 물범 아닌 '집쥐'",
-        "time": "2026-07-19T06:07:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/06/29/PYH2026062902050001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716161400530",
-        "summary": "5년 단위 독도 생태계 정밀 조사…\"33종 새로 발굴\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "중앙부처 육아휴직 사용률 60% 돌파…경찰청·소방청은 저조",
-        "time": "2026-07-19T06:05:00",
-        "img": "https://img1.yna.co.kr/photo/cms/2016/10/11/01/C0A8CA3D00000157B109A0C5000205EA_T2.jpeg",
-        "url": "https://www.yna.co.kr/view/AKR20260716162600530",
-        "summary": "육아휴직 사용률 해마다 증가 추세…남성 육아휴직 사용률 45.6%",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[소셜＋] \"비 오면 지하철에 펜싱 선수가?\" 장마철 생활안전 주의보",
-        "time": "2026-07-19T06:00:00",
-        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715158100505_05_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260715158100505",
-        "summary": "\"우산 가로 들기는 흉기\"·\"침수 도로선 장화가 독\"…장마철 안전 논쟁",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "낙동강홍수통제소, 경북 안동시 미천 일대 홍수경보 해제",
-        "time": "2026-07-19T05:45:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719004500053",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "영주 등 경북 3곳 호우주의보",
-        "time": "2026-07-19T05:30:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719003900527",
-        "summary": "청송·울릉도·독도에 호우주의보 해제",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전국 흐리고 비…대구·경북 최대 100㎜·중부 소강",
-        "time": "2026-07-19T05:56:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071706900005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719004200034",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "평생교육기관도 '도시 쏠림'…옹진·신안은 한 곳도 없다",
-        "time": "2026-07-19T06:03:00",
-        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718030100530_04_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718030100530",
-        "summary": "김지우 교육개발원 부연구위원 분석…\"대도시-농어촌 접근성 격차 완화해야\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "법원 제동에 아르헨 밀레이, 보우소나루 전 대통령 접견 무산",
-        "time": "2026-07-19T05:41:00",
-        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719003800087_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719003800087",
-        "summary": "대법 \"보우소나루 전 브라질 대통령 접견 한 달간 금지\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "세계유산의 미래, 부산에서 논한다…세계유산위원회 오늘 개막",
-        "time": "2026-07-19T05:30:00",
-        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071618310005100_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718041900005",
-        "summary": "29일까지 세계유산 등재·보존 논의…'한국의 갯벌' 확대 등재 도전",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "폭염·폭우가 바꾼 출근룩…'아저씨 바지' 버뮤다팬츠의 재발견",
-        "time": "",
-        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/07/17/AKR20260717035100030_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260717035100030",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "北매체도 \"최선희 외무상, 전용기로 모스크바行\" 공개",
-        "time": "2026-07-19T06:39:00",
-        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/04/10/PYH2026041003040004200_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005500504",
-        "summary": "러 외무부가 전날 '공식방문' 발표…김정은 모스크바행 논의 등 주목",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'쪼개기 후원' 김순란 전 대구 북구의원 벌금 300만원 선고",
-        "time": "2026-07-19T07:01:00",
-        "img": "https://img7.yna.co.kr/photo/cms/2023/12/08/98/PCM20231208000198990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718025500053",
-        "summary": "지인·가족 명의 동원해 연간 한도액 초과 기부…법원 \"정계 은퇴 참작\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[전국레이더] 지방정치 판 흔드는 女風…성평등·정치풍토 개선 이끌까",
-        "time": "2026-07-19T07:00:00",
-        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716140300063_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716140300063",
-        "summary": "광역·기초서 최초 女의장에 상임위원장 '싹쓸이'…첫 출산휴가에 '성추행 엄단' 목소리도",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "산업장관, 이번주 방미…한미간 뜨거운 감자 '쿠팡' 논의하나",
-        "time": "2026-07-19T06:19:00",
-        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/05/09/PYH2026050902910001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718039400003",
-        "summary": "김정관, 한미 조선협력센터 개소식 참석…러트닉 상무장관과 회동",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"정신없이 빠져나왔죠\" 호르무즈 해협 탈출한 한국 선원들",
-        "time": "2026-07-19T07:03:00",
-        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061019000005700_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716095900051",
-        "summary": "인도양 진입하고서야 안심…한국 오는 4척 다음 주부터 입항",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "KT 개인정보 유출 제재 이달 중 결론…과징금 규모 촉각",
-        "time": "2026-07-19T06:45:00",
-        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/12/31/PYH2025123108330001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716159700017",
-        "summary": "개인정보위 전체회의서 최종 처분 심의",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "중앙고속도로 금호분기점 인근 승용차 추돌 후 화재…1명 경상",
-        "time": "2026-07-19T07:01:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719007000053_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719007000053",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "제주, 대체로 흐리고 늦은 오후까지 가끔 비",
-        "time": "2026-07-19T06:58:00",
-        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071704470005600_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719006900056",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "영월 주천강 보 건너던 40대 물에 빠져 실종…수색 중",
-        "time": "2026-07-19T06:49:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719006600062_02_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719006600062",
-        "summary": "함께 낚시하러 온 동료 2명이 신고",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "전북 흐리고 비…예상 강우량 20∼60㎜",
-        "time": "2026-07-19T06:29:00",
-        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071707540005300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005800055",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "철원에 사흘간 171㎜…강원 중·남부에 20∼60㎜ 비 더 내려",
-        "time": "2026-07-19T06:28:00",
-        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071802390006200_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005600062",
-        "summary": "기상청 \"많은 비 내린 데 이어 모레까지…피해 없도록 주의\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산·울산·경남 대체로 흐리고 비…낮 기온 29∼33도",
-        "time": "2026-07-19T06:16:00",
-        "img": "https://img6.yna.co.kr/photo/cms/2026/07/14/50/PCM20260714000250990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005000052",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "충북 대체로 흐리고 비…최대 60㎜ 예상",
-        "time": "2026-07-19T06:14:00",
-        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719005400064_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719005400064",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "65세이상 결핵환자비중 62.5% 역대 최고…\"고령층 관리강화해야\"",
-        "time": "2026-07-19T06:11:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718029200530_02_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718029200530",
-        "summary": "2011년 정점 이후 국내 결핵환자 연평균 7.5% 감소",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[특파원시선] 중간선거 앞 트럼프의 목표는 '유권자ID법'뿐일까",
-        "time": "2026-07-19T07:07:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718004400071_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260718004400071",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'병역명문가' 조례 없는 전국 유일 옹진군…권익위 권고에 검토",
-        "time": "2026-07-19T07:27:00",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716155400065_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716155400065",
-        "summary": "\"실질적인 혜택 찾기 어려워…지원 방안 다시 검토\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "선 넘어 우르르…인천공항 출국장 '집단 새치기'에 골머리",
-        "time": "2026-07-19T07:17:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716137700065_01_i_T2.gif",
-        "url": "https://www.yna.co.kr/view/AKR20260716137700065",
-        "summary": "중국인 보따리상들 추정…인파에 치여 안내 직원 부상도",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "강원도, 경로당 무더위쉼터 현장 점검…1천174곳 지정·운영",
-        "time": "2026-07-19T08:15:00",
-        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/17/AKR20260717046400062_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260717046400062",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "말다툼 이웃 둔기 폭행·흉기 위협 70대, 징역 8개월 집유 2년",
-        "time": "2026-07-19T08:07:00",
-        "img": "https://img8.yna.co.kr/photo/cms/2023/04/03/63/PCM20230403000063990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716184500052",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산 연산·대티터널 공사로 교통통제…주말은 정상 운행",
-        "time": "2026-07-19T08:05:00",
-        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719011300051_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719011300051",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산시교육청, 교육혁신선도지역 공모 준비 착수…TF 구성",
-        "time": "2026-07-19T08:00:00",
-        "img": "https://img0.yna.co.kr/photo/cms/2023/11/06/62/PCM20231106000062990_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260716144300051",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "수원 권선구 하천서 물놀이하던 중학생 사망",
-        "time": "2026-07-19T07:34:00",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719009000061_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719009000061",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "청주 미동산수목원 산책로에 국가지점번호판 12개 추가 설치",
-        "time": "2026-07-19T07:30:00",
-        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719008700064_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719008700064",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "\"경찰수사 보완해라\"…검찰이 상반기 돌려보낸 사건 6만건 넘었다",
-        "time": "2026-07-19T07:30:00",
-        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/03/23/PYH2026032306400001300_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260717047000004",
-        "summary": "보완수사 요구 4년 새 27%↑…상반기 경찰 미제 등록사건 10만건",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "강원 영월·정선 산지 호우주의보",
-        "time": "2026-07-19T07:16:00",
-        "img": "",
-        "url": "https://www.yna.co.kr/view/AKR20260719007700527",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "젤렌스키, 국방장관 경질에 시위 번지자 총사령관 교체 검토",
-        "time": "2026-07-19T08:02:00",
-        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719009900009_04_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719009900009",
-        "summary": "'드론 중시' 장관과 '보병·포병 중시' 총사령관 노골적 갈등",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "미군 \"이란에 8일째 공습…이란의 요르단 美장병 공격 응징\"",
-        "time": "2026-07-19T07:40:00",
-        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719009100071_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719009100071",
-        "summary": "\"호르무즈 상선 위협능력 약화·미군 2명 사망·1명 실종에 대한 보복\"",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "부산시, 동아대서 '도시 부산의 기억과 기록' 전시회",
-        "time": "2026-07-19T08:06:00",
-        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/19/AKR20260719011500051_01_i_T2.jpg",
-        "url": "https://www.yna.co.kr/view/AKR20260719011500051",
-        "summary": "",
-        "source": "yna",
-        "date": "2026년 07월 18일 토요일"
-      }
-    ]
-  },
-  {
-    "date": "2026년 07월 18일 토요일",
-    "articles": [
-      {
-        "title": "경북도, 전국 최초 AI 기반‘경북형 주민대피시스템’현장훈련 실시",
-        "time": "2026-07-18T09:34:00",
-        "img": "",
-        "url": "https://www.skyedaily.com/news/news_view.html?ID=308044&search=",
-        "summary": "",
-        "source": "skyDaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "'사망자만 5천명 넘었다' 베네수엘라 강진 비극… \"언론통제·SNS차단 해제해야\"",
-        "time": "2026-07-18T21:13:00",
-        "img": "",
-        "url": "https://www.skyedaily.com/news/news_view.html?ID=308046&search=",
-        "summary": "",
-        "source": "skyDaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "이란, 호르무즈 해협 전면 봉쇄 발표",
-        "time": "2026-07-12T00:00:00",
-        "img": "",
-        "url": "https://www.skyedaily.com/news/news_view.html?ID=307647",
-        "summary": "",
-        "source": "skyDaily",
-        "date": "2026년 07월 18일 토요일"
-      },
-      {
-        "title": "[속 보] 인천 쿠팡 물류센터 화재 ‘국가소방동원령 3단계’",
-        "time": "2026-07-18T22:13:00",
-        "img": "",
-        "url": "https://www.skyedaily.com/news/news_view.html?ID=308047&search=",
-        "summary": "",
-        "source": "skyDaily",
-        "date": "2026년 07월 18일 토요일"
       }
     ]
   }
