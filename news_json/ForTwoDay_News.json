@@ -1,132 +1,438 @@
 [
   {
-    "date": "2026년 07월 22일 수요일",
+    "date": "2026년 07월 23일 목요일",
     "articles": [
       {
-        "title": "'관례'인가 '예산 집행 적절성'인가... 우원식 배우자 순방 동행 공방",
-        "time": "2026-07-22T19:45:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5805_11171_3513.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5805",
-        "summary": "우원식 전 국회의장이 재임 기간 해외 공식 순방 13차례에 배우자를 모두 동행시킨 사실이 알려지면서 관련 예산 편성의 적절성을 둘러싼 공방이 이어지고 있다. 국민의힘은 배우자의 공식 역할과 예산 편성 근거를 문제 삼고 있는 반면, 국회사무처는 의회 정상외교 과정에서 이뤄지는 국제 의전과 관례에 따른 것이라는 입장을 밝혔다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "이인호 명예교수 “선관위 부실·부정 의혹 20년 누적… 재선거만으로는 해결 안 된다”",
-        "time": "2026-07-22T18:29:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5804_11167_2639.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5804",
-        "summary": "러시아 대사와 KBS 이사장을 지낸 이인호 서울대 명예교수는 최근 발표한 월간조선 8월호 기고문 '잠실의 선거권 투쟁은 제2의 6·25 전쟁이다'에서 6.3 지방선거 투표용지 부족 사태를 계기로 이어지고 있는 올림픽공원(올공) 투쟁을 단순한 선거관리 실패가 아닌 대한민국 자유민주주의 체제를 둘러싼 중대한 국가적 위기로 규정했다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "美공화당 ‘CCP 비자 중단법’ 만지작… 中유학생 26만6000명 모두 퇴출되나",
-        "time": "2026-07-22T16:48:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5801_11158_472.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5801",
-        "summary": "미국 공화당을 중심으로 중국인 유학생에 대한 학생비자를 대폭 제한해야 한다는 주장이 확산되면서, 26만여 명의 중국인 유학생들이 미국에서 퇴출될 가능성이 거론되고 있다. 최근 도널드 트럼프 행정부가 중국의 사이버 스파이 활동과 선거 개입 의혹을 다시 부각시키면서 대중(對中) 안보 정책이 교육·비자 분야까지 확대되는 양상이다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "[임종두칼럼] '재선거'와 'A-WEB' 그리고 '부정선거 재선거, 당일투표 수개표'",
-        "time": "2026-07-22T16:08:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5799_11156_80.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5799",
-        "summary": "운동은 어느 시점에 이르면 분화한다. 그 자체는 자연스러운 일이다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "교통사고도 ‘부실수사’ 논란… 도로 위 ‘판사’ 된 경찰",
-        "time": "2026-07-22T16:02:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5798_11155_00.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5798",
-        "summary": "‘장윤기’씨 강력 범죄 수사 과정에서 확인된 경찰의 ‘부실 수사’ 정황이 교통 분야 사건에서도 드러났다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "우원식 전 국회의장도 해외출장 14번 배우자 동행… 82억8700만원 집행",
-        "time": "2026-07-22T14:41:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5795_11151_3714.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5795",
-        "summary": "우원식 전 국회의장이 재임 기간 실시한 해외 공식출장 14차례 모두 배우자를 동반한 것으로 나타났다. 해당 해외출장에 집행된 총예산은 82억8700만원으로 집계됐으며, 국민의힘은 배우자 동행의 적절성과 예산 집행의 타당성에 대한 철저한 수사를 촉구하고 나섰다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "22일 중국대사관 앞서 '중국공산당 민족단결법 규탄' 집회",
-        "time": "2026-07-22T14:21:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5794_11150_2054.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5794",
-        "summary": "중국공산당의 이른바 '민족단결법' 제정을 규탄하는 시민단체들의 공동 집회가 22일 오후 서울 명동 중국대사관 인근에서 열린다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "[하봉규칼럼] 건국 대통령 이승만 박사와 ‘파우스트’",
-        "time": "2026-07-22T13:05:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5786_11143_2353.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5786",
-        "summary": "서울 잠실 올림픽공원(올공)에서 젊은이들의 의분, 기독교인들의 기도, 나이 든 세대의 안타까운 눈빛과 태극기가 교차하는 현장에서 불현듯 건국 대통령 이승만 박사와 괴테의 ‘파우스트’가 떠오른다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "쿠팡 \"인천 화재 판매자 재고 선제 전액 보상\"",
-        "time": "2026-07-23T07:33:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5828_11182_3150.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5828",
-        "summary": "인천 물류센터 화재로 피해를 본 입점 판매자의 재고를 쿠팡이 보험 처리 이전이라도 선제 전액 보상하기로 했다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "서울 따릉이 개인정보 유출 확인… 보상은 '30일 이용권' 지급",
-        "time": "2026-07-23T06:31:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5820_11174_5315.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5820",
-        "summary": "서울시설공단이 운영하는 공공자전거 ‘따릉이’ 시스템이 외부 사이버 공격을 받아 대규모 회원 정보 유출 사고가 발생한 것으로 뒤늦게 확인됐다. 공단 측은 피해 회원들에게 22일에 사과 문자 발송하며 보상 대책을 발표했다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
-      },
-      {
-        "title": "시인들의 살해당한 밤, 반이스라엘 유대인 좌파의 파멸을 경고한 역사",
-        "time": "2026-07-23T06:30:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5822_11177_4311.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5822",
+        "title": "대전 주점 화장실서 흉기 피습 30대 중태…50대 긴급체포",
+        "time": "",
+        "img": "https://img8.yna.co.kr/photo/cms/2026/02/23/33/PCM20260223000033990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723047200063",
         "summary": "",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
       },
       {
-        "title": "중국으로 끌려간 통가 여성들, 결혼 미끼 뒤 인신매매 의혹 확산",
-        "time": "2026-07-23T06:30:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5823_11178_2111.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5823",
-        "summary": "남태평양 중부의 섬나라 통가는 중국과 약 9000km 떨어져 있다. 직항 노선도 없어 중국으로 가려면 여러 경유지를 거쳐 최소 15시간에서 20시간 이상을 이동해야 한다. 그만큼 멀고 낯선 타국이다. 그러나 통가의 일부 젊은 여성들에게 중국은 가난을 벗어나고 가족을 돕고 새로운 삶을 시작할 수 있는 기회의 땅처럼 소개됐다. 문제는 그 약속이 현실에서는 전혀...",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
+        "title": "정동영 \"통일지향 평화적 2국가관계로 평화체제 열어야\"",
+        "time": "2026-07-23T09:33:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072516890001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723042700504",
+        "summary": "취임 1년 맞아 통일부 내부망에 당부 글",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
       },
       {
-        "title": "마두로 부부, 美서 종신형 가능성 걸린 재판… 2027년 6월 개시",
-        "time": "2026-07-23T06:30:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5826_11180_620.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5826",
-        "summary": "미국 뉴욕 맨해튼 연방법원이 니콜라스 마두로 전 베네수엘라 독재자와 그의 아내 실리아 플로레스에 대한 국제 마약 밀매 사건 재판을 2027년 6월 1일로 확정했다. 이번 사건은 현대 국제 범죄 수사 역사에서 가장 주목받는 사례 가운데 하나로 꼽히며 재판 일정이 공식화되면서 향후 법적 공방에도 관심이 쏠리고 있다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
+        "title": "\"추석 교통·주차 민원 증가세\"…권익위 '민원주의보'",
+        "time": "2026-07-23T09:54:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2018/12/21/27/PCM20181221000227990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723049000001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
       },
       {
-        "title": "[김정남칼럼] 인도 선택한 북한군 포로 5명의 반전 드라마",
-        "time": "2026-07-23T00:34:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5817_11172_3427.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5817",
-        "summary": "매년 7월 27일이 되면 우리는 6·25 한국전쟁의 참혹한 상처와 함께 자유를 지키기 위해 희생한 수많은 이들을 떠올린다. 그러나 휴전 73주년을 맞은 올해, 한국 현대사에서 거의 잊혀진 특별한 사람들을 기억해 볼 필요가 있다. 전쟁이 끝난 뒤 남한도 북한도 아닌 제3국을 선택해 인도에 정착했던 북한 인민군 출신 반공포로 5명의 이야기다.",
-        "source": "truthdaily",
-        "date": "2026년 07월 22일 수요일"
+        "title": "파크골프 모임에 찬조금 기부 혐의, 남재욱 창원시의원 송치",
+        "time": "2026-07-23T09:48:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2024/12/12/85/PCM20241212000185052_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723053100052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "\"손목 상이등급 심사에 다리 기준 적용\"…행심위 '취소' 결정",
+        "time": "2026-07-23T09:33:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2021/12/23/11/PCM20211223000011990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723043300001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "美의회도 韓조선역량 관심…하원 세출위, 이달 국내 조선소 방문",
+        "time": "2026-07-23T09:13:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2025/10/22/PYH2025102213720005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723037100504",
+        "summary": "HD현대중공업·한화오션 찾아 함정 건조역량 확인",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "인하대-한진정보통신, 채용 연계 AI 인재 양성 협약",
+        "time": "2026-07-23T09:55:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723054600065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723054600065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "진천 전통 엿 가공업체 장수식품, 북미 등 6곳 수출길 열어",
+        "time": "2026-07-23T09:38:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723048900064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723048900064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "공공기관 AI 전환 가속…개보위, '프라이버시 가이드라인' 마련",
+        "time": "2026-07-23T10:00:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2021/11/24/71/PCM20211124000171990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260722151700530",
+        "summary": "과기장관회의에서 공개…10대 핵심 점검사항 등 담아",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[AI픽] 정부, AI 프로젝트에 GPU 520장 추가 지원한다",
+        "time": "2026-07-23T10:00:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723033400017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723033400017",
+        "summary": "과기장관회의서 GPU 지원방안 등 6개 안건 심의·의결",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[AI픽] 정부, 에이전틱 AI 선점 시동…범부처 이니셔티브 출범",
+        "time": "2026-07-23T10:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723035200017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723035200017",
+        "summary": "안전·신뢰·실행 기반·수요 확산 3대 전략 추진",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "틱톡에 103억·애플에 2억5천 과징금…행태·음성 정보 무단활용",
+        "time": "2026-07-23T10:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2024/09/12/84/PCM20240912000284990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723021400530",
+        "summary": "개인정보위, 틱톡 103억원·애플 2억5천만원 과징금 의결",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "부산대·UNIST 연구팀, 원자와 양자점이 만든 빛 연결 성공",
+        "time": "2026-07-23T09:58:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723053900051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723053900051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "서산 예천·읍내·석림동 상수도 2031년까지 현대화",
+        "time": "2026-07-23T09:53:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723044300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723044300063",
+        "summary": "동문·읍내동 1차 사업 결과 유수율 55.8%→86.6% 향상",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[바이오스냅] 대웅제약, 보툴리눔 톡신 유통체계 강화",
+        "time": "2026-07-23T09:49:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2024/10/02/67/PCM20241002000467017_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723049300017",
+        "summary": "듀켐바이오, 자회사 라디오디앤에스랩스 합병",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "국방반도체 신속 국산화…무기체계 적용 의무화 등 추진",
+        "time": "2026-07-23T10:00:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2019/04/22/74/PCM20190422000074990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723051500504",
+        "summary": "국방반도체 자립기반 구축 전략, 과학기술관계장관회의서 논의",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "웹젠, 하운드13 가처분 기각…'드래곤소드' 스팀 출시",
+        "time": "2026-07-23T09:23:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723037700017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723037700017",
+        "summary": "하운드13 \"계약 해지 적법·유효 판단 받아\"",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "하루 29만잔 원두 생산하는 투썸 공장…로봇·AI가 작업 고도화",
+        "time": "2026-07-23T09:20:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723003100030_04_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723003100030",
+        "summary": "충북 음성 '어썸 페어링 플랜트' 첫 공개…원두 생산량 73% 늘어",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "캠코·기보·HUG, AI 디지털 감사 혁신 협력…적극행정 지원",
+        "time": "2026-07-23T09:18:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723041700002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723041700002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "마포구, 공중화장실 71곳서 불법촬영 AI탐지시스템 가동",
+        "time": "2026-07-23T08:31:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723029200004_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723029200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "경산 아파트 관리실서 방화 추정 화재…8명 부상(종합3보)",
+        "time": "2026-07-23T09:59:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/23/07/PCM20260723000007990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032754053",
+        "summary": "목격자 \"인화물질 뿌리고 불지른 듯\"…사고 관리실 주변 아수라장",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] 원희룡 전 국토부 장관, 종합특검 피의자 조사 출석",
+        "time": "2026-07-23T09:47:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072304410001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723054100004",
+        "summary": "trauma@yna.co.kr",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "군산시, 농촌엔 양산·도심엔 생수…맞춤형 폭염 대응",
+        "time": "2026-07-23T09:40:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723045700055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723045700055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "'불법추심 신고에도 부서 떠넘기며 수사 지연' 경찰, 감찰 착수",
+        "time": "2026-07-23T09:36:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2024/02/13/27/PCM20240213000127990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723044100055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "삼척해수욕장의 변신…어린이 시설 2배 늘리고 드론 투입",
+        "time": "2026-07-23T09:38:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723049200062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723049200062",
+        "summary": "편의시설 대폭 확대…교통약자 편의 매트도 설치",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] 당국 \"경산아파트 폭발추정사고 피해자 8명 중 5명 경로당 노인\"",
+        "time": "2026-07-23T09:17:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/23/07/PCM20260723000007990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723041900053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "원주 이화마을 공영주차장 2곳, 27일부터 유료 운영",
+        "time": "2026-07-23T09:16:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723038700062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723038700062",
+        "summary": "장기 주차 해소·주차 회전율 제고…최초 2시간 무료",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] \"폭발추정 경산아파트 사고 피해자들 몸에 불붙은 채 뛰쳐나와\"",
+        "time": "2026-07-23T09:14:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/23/07/PCM20260723000007990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723040700053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "원주시, 어린이 물놀이장 안전관리 TF 구성 추진",
+        "time": "2026-07-23T09:12:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723038500062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723038500062",
+        "summary": "안전관리 체계 통합·특별점검 강화…8월 추가 대책회의 개최",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "일하던 병원서 환자 개인정보 빼내 개원 홍보한 의사 벌금형",
+        "time": "2026-07-23T09:11:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/04/03/63/PCM20230403000063990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723036400052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "경산 아파트 관리실서 '폭발' 사고…경찰 \"8명 부상\"(종합)",
+        "time": "2026-07-23T09:01:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/23/07/PCM20260723000007990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032752053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[내일날씨] 수도권에 장맛비…충청·남부 소나기·무더위",
+        "time": "2026-07-23T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/21/PYH2026072104430006000_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723012300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] 당국 \"경산 아파트 관리실 폭발추정 사고로 5명 화상\"",
+        "time": "2026-07-23T08:52:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072302060005302_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723033600053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "아산시, 호우 피해 지역 지원 총력…자원봉사자와 복구 작업",
+        "time": "2026-07-23T08:52:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723032900063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032900063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "절기 '대서' 중부엔 장맛비, 남부엔 무더위…포항 한낮 38도까지",
+        "time": "2026-07-23T08:40:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/07/21/PYH2025072109160001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723031300530",
+        "summary": "전국 낮 최고 27∼38도…강원남부동해안·남부·제주 체감 35도 안팎",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "동해 플라스틱 제조공장 화재 4시간 30분 만에 완진(종합)",
+        "time": "2026-07-23T08:39:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072300520006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723031100062",
+        "summary": "1명 자력 대피·1명 고립…소방 당국, 60대 여성 구조 중",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "경북 포항서 어린이집 승합차 건물 충돌…1명 부상",
+        "time": "2026-07-23T08:39:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723029600053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723029600053",
+        "summary": "뒷자리 탄 어린이 6명 부상은 없어",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "제주 해안 전역에 열대야…제주 최저 27.3도",
+        "time": "2026-07-23T08:39:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/18/PYH2026071803940005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723030000056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[2보] 경산 아파트 관리실서 폭발 추정 사고…\"인명피해 있을 듯\"",
+        "time": "2026-07-23T08:49:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072302060005302_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032751053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "\"미국산 AI에 킬 스위치\" 소문 진화…美 외교공관에 대응 지시",
+        "time": "2026-07-23T09:33:00",
+        "img": "https://img9.yna.co.kr/photo/reuters/2026/07/22/PRU20260722074901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723041800009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "日언론 \"中, 함교 최소화한 잠수함 건조…신형 핵잠 가능성\"",
+        "time": "2026-07-23T09:13:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2024/06/21/53/PCM20240621000053990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723037400073",
+        "summary": "美위성사진 분석…\"中 조선소 다수, 핵잠 건조역량 갖췄을 수도\"",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "이탈리아 산불에 '고양이 방화' 정황…\"꼬리에 인화물질 헝겊\"",
+        "time": "2026-07-23T08:33:00",
+        "img": "https://img6.yna.co.kr/photo/ap/2026/07/22/PAP20260722036301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723027500009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "\"시민 목소리 정책 반영\" 이정학 동해시장, 소통 행보 가속",
+        "time": "2026-07-23T09:51:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2026/07/14/24/PCM20260714000224062_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723054000062",
+        "summary": "소통함·열린시장실 운영…상시 수렴부터 정책 환류까지 밀착 행정 체계 구축",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "청주시립미술관 개관 10주년…특별전 24일 개막",
+        "time": "2026-07-23T09:41:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723020500064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723020500064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] \"폭발추정 경산아파트 관리실 옆에 경로당…노인들도 부상\"",
+        "time": "2026-07-23T09:11:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/23/07/PCM20260723000007990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723039400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[속보] 경찰 \"경산 아파트 관리실 폭발추정 사고 전 다툼 발생 신고\"",
+        "time": "2026-07-23T08:59:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072302060005302_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723034800053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "[1보] 경산 아파트 관리실서 폭발 추정 사고…\"인명피해 있을 듯\"",
+        "time": "2026-07-23T08:45:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072302060005302_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032700053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
+      },
+      {
+        "title": "6월 방한 외국인 관광객 200만명 육박…전년 대비 23% 증가",
+        "time": "2026-07-23T09:34:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/07/21/PYH2026072104280006000_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260723032100030",
+        "summary": "중국 65만명 최다…해외 출국 내국인은 200만명 넘어",
+        "source": "yna",
+        "date": "2026년 07월 23일 목요일"
       }
     ]
   },
@@ -4199,6 +4505,137 @@
         "url": "https://www.skyedaily.com/news/news_view.html?ID=308201",
         "summary": "",
         "source": "skyDaily",
+        "date": "2026년 07월 22일 수요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 07월 22일 수요일",
+    "articles": [
+      {
+        "title": "'관례'인가 '예산 집행 적절성'인가... 우원식 배우자 순방 동행 공방",
+        "time": "2026-07-22T19:45:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5805_11171_3513.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5805",
+        "summary": "우원식 전 국회의장이 재임 기간 해외 공식 순방 13차례에 배우자를 모두 동행시킨 사실이 알려지면서 관련 예산 편성의 적절성을 둘러싼 공방이 이어지고 있다. 국민의힘은 배우자의 공식 역할과 예산 편성 근거를 문제 삼고 있는 반면, 국회사무처는 의회 정상외교 과정에서 이뤄지는 국제 의전과 관례에 따른 것이라는 입장을 밝혔다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "이인호 명예교수 “선관위 부실·부정 의혹 20년 누적… 재선거만으로는 해결 안 된다”",
+        "time": "2026-07-22T18:29:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5804_11167_2639.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5804",
+        "summary": "러시아 대사와 KBS 이사장을 지낸 이인호 서울대 명예교수는 최근 발표한 월간조선 8월호 기고문 '잠실의 선거권 투쟁은 제2의 6·25 전쟁이다'에서 6.3 지방선거 투표용지 부족 사태를 계기로 이어지고 있는 올림픽공원(올공) 투쟁을 단순한 선거관리 실패가 아닌 대한민국 자유민주주의 체제를 둘러싼 중대한 국가적 위기로 규정했다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "美공화당 ‘CCP 비자 중단법’ 만지작… 中유학생 26만6000명 모두 퇴출되나",
+        "time": "2026-07-22T16:48:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5801_11158_472.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5801",
+        "summary": "미국 공화당을 중심으로 중국인 유학생에 대한 학생비자를 대폭 제한해야 한다는 주장이 확산되면서, 26만여 명의 중국인 유학생들이 미국에서 퇴출될 가능성이 거론되고 있다. 최근 도널드 트럼프 행정부가 중국의 사이버 스파이 활동과 선거 개입 의혹을 다시 부각시키면서 대중(對中) 안보 정책이 교육·비자 분야까지 확대되는 양상이다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "[임종두칼럼] '재선거'와 'A-WEB' 그리고 '부정선거 재선거, 당일투표 수개표'",
+        "time": "2026-07-22T16:08:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5799_11156_80.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5799",
+        "summary": "운동은 어느 시점에 이르면 분화한다. 그 자체는 자연스러운 일이다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "교통사고도 ‘부실수사’ 논란… 도로 위 ‘판사’ 된 경찰",
+        "time": "2026-07-22T16:02:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5798_11155_00.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5798",
+        "summary": "‘장윤기’씨 강력 범죄 수사 과정에서 확인된 경찰의 ‘부실 수사’ 정황이 교통 분야 사건에서도 드러났다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "우원식 전 국회의장도 해외출장 14번 배우자 동행… 82억8700만원 집행",
+        "time": "2026-07-22T14:41:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5795_11151_3714.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5795",
+        "summary": "우원식 전 국회의장이 재임 기간 실시한 해외 공식출장 14차례 모두 배우자를 동반한 것으로 나타났다. 해당 해외출장에 집행된 총예산은 82억8700만원으로 집계됐으며, 국민의힘은 배우자 동행의 적절성과 예산 집행의 타당성에 대한 철저한 수사를 촉구하고 나섰다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "22일 중국대사관 앞서 '중국공산당 민족단결법 규탄' 집회",
+        "time": "2026-07-22T14:21:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5794_11150_2054.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5794",
+        "summary": "중국공산당의 이른바 '민족단결법' 제정을 규탄하는 시민단체들의 공동 집회가 22일 오후 서울 명동 중국대사관 인근에서 열린다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "[하봉규칼럼] 건국 대통령 이승만 박사와 ‘파우스트’",
+        "time": "2026-07-22T13:05:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5786_11143_2353.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5786",
+        "summary": "서울 잠실 올림픽공원(올공)에서 젊은이들의 의분, 기독교인들의 기도, 나이 든 세대의 안타까운 눈빛과 태극기가 교차하는 현장에서 불현듯 건국 대통령 이승만 박사와 괴테의 ‘파우스트’가 떠오른다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "쿠팡 \"인천 화재 판매자 재고 선제 전액 보상\"",
+        "time": "2026-07-23T07:33:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5828_11182_3150.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5828",
+        "summary": "인천 물류센터 화재로 피해를 본 입점 판매자의 재고를 쿠팡이 보험 처리 이전이라도 선제 전액 보상하기로 했다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "서울 따릉이 개인정보 유출 확인… 보상은 '30일 이용권' 지급",
+        "time": "2026-07-23T06:31:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5820_11174_5315.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5820",
+        "summary": "서울시설공단이 운영하는 공공자전거 ‘따릉이’ 시스템이 외부 사이버 공격을 받아 대규모 회원 정보 유출 사고가 발생한 것으로 뒤늦게 확인됐다. 공단 측은 피해 회원들에게 22일에 사과 문자 발송하며 보상 대책을 발표했다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "시인들의 살해당한 밤, 반이스라엘 유대인 좌파의 파멸을 경고한 역사",
+        "time": "2026-07-23T06:30:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5822_11177_4311.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5822",
+        "summary": "",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "중국으로 끌려간 통가 여성들, 결혼 미끼 뒤 인신매매 의혹 확산",
+        "time": "2026-07-23T06:30:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5823_11178_2111.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5823",
+        "summary": "남태평양 중부의 섬나라 통가는 중국과 약 9000km 떨어져 있다. 직항 노선도 없어 중국으로 가려면 여러 경유지를 거쳐 최소 15시간에서 20시간 이상을 이동해야 한다. 그만큼 멀고 낯선 타국이다. 그러나 통가의 일부 젊은 여성들에게 중국은 가난을 벗어나고 가족을 돕고 새로운 삶을 시작할 수 있는 기회의 땅처럼 소개됐다. 문제는 그 약속이 현실에서는 전혀...",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "마두로 부부, 美서 종신형 가능성 걸린 재판… 2027년 6월 개시",
+        "time": "2026-07-23T06:30:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5826_11180_620.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5826",
+        "summary": "미국 뉴욕 맨해튼 연방법원이 니콜라스 마두로 전 베네수엘라 독재자와 그의 아내 실리아 플로레스에 대한 국제 마약 밀매 사건 재판을 2027년 6월 1일로 확정했다. 이번 사건은 현대 국제 범죄 수사 역사에서 가장 주목받는 사례 가운데 하나로 꼽히며 재판 일정이 공식화되면서 향후 법적 공방에도 관심이 쏠리고 있다.",
+        "source": "truthdaily",
+        "date": "2026년 07월 22일 수요일"
+      },
+      {
+        "title": "[김정남칼럼] 인도 선택한 북한군 포로 5명의 반전 드라마",
+        "time": "2026-07-23T00:34:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202607/5817_11172_3427.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=5817",
+        "summary": "매년 7월 27일이 되면 우리는 6·25 한국전쟁의 참혹한 상처와 함께 자유를 지키기 위해 희생한 수많은 이들을 떠올린다. 그러나 휴전 73주년을 맞은 올해, 한국 현대사에서 거의 잊혀진 특별한 사람들을 기억해 볼 필요가 있다. 전쟁이 끝난 뒤 남한도 북한도 아닌 제3국을 선택해 인도에 정착했던 북한 인민군 출신 반공포로 5명의 이야기다.",
+        "source": "truthdaily",
         "date": "2026년 07월 22일 수요일"
       }
     ]
