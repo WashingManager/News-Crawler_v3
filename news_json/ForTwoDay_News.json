@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026년 08월 01일 토요일",
+    "articles": [
+      {
+        "title": "인니 대통령 \"4월 방한 때 李대통령이 방북 의향 물어\"",
+        "time": "2026-08-01T09:43:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801023300104_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801023300104",
+        "summary": "프라보워 \"요청하면 기꺼운 마음으로 가겠다고 답변\"",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "춘천시, 광복절 앞두고 '태극기 달기 시범아파트' 운영",
+        "time": "2026-08-01T10:10:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731104400062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731104400062",
+        "summary": "후평3동 시작으로 17개 읍·면·동 확대…153개 동 시범 운영",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "[게임위드인] 시간을 무기로 바꾼 '어센드투제로'의 실험",
+        "time": "2026-08-01T11:00:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731145100017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731145100017",
+        "summary": "서바이버라이크에 시간 자원 시스템 더한 독창적 설계",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "인제서 화물차가 가드레일 들이받아…60대 운전자 중상",
+        "time": "2026-08-01T11:30:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2022/12/12/39/PCM20221212000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801028700062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "강남 대치동서 술취해 차도로 나온 40대 남성, 차에 치여 숨져",
+        "time": "2026-08-01T11:15:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2019/06/20/41/PCM20190620000141990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801027700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "서울문산고속도로서 25t 화물트럭 화재 뒤 추락",
+        "time": "2026-08-01T10:42:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801026700060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801026700060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "함안 등 경남 3곳 폭염중대경보…창원 등 7곳 폭염중대경보 유지",
+        "time": "2026-08-01T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801025000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "울산서부에 폭염중대경보",
+        "time": "2026-08-01T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801024900527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "여수 등 전남 3곳 폭염중대경보…화순 등 3곳 폭염경보",
+        "time": "2026-08-01T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801024800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "대전에 폭염경보",
+        "time": "2026-08-01T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801024700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "강원 원주·횡성에 폭염경보…춘천 등 8곳 폭염경보 유지",
+        "time": "2026-08-01T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801024500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "포항 등 경북 4곳 폭염중대경보…상주 등 4곳 폭염경보",
+        "time": "2026-08-01T10:00:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072316640005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801024600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "[내주날씨] 다음주 최고 38도 무더위 지속…폭염·열대야 기승",
+        "time": "2026-08-01T10:00:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/07/27/PYH2026072711540005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801019900530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "울주청소년 대상 '3D로 살아나는 우리동네 문화유산' 운영",
+        "time": "2026-08-01T10:10:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731064200057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731064200057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "영월 인도미술박물관, 문경서 인도미술 특별전…9월 4일까지",
+        "time": "2026-08-01T09:15:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731115300062_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731115300062",
+        "summary": "9월 15일부터 11월 15일까지 영월서 전시 행사 이어져",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "2년 연속 C등급 인제대 글로컬대학…커지는 사업 차질 우려",
+        "time": "2026-08-01T09:05:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731111300052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731111300052",
+        "summary": "핵심 사업 함께 추진 김해 인재양성재단 대표마저 사퇴",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "승강기 점검 부실 아파트 주민 사망…관리업체 직원 금고형 집유",
+        "time": "2026-08-01T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2020/07/27/30/PCM20200727000030990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731058200051",
+        "summary": "브레이크 이상 시정조치 받고도 점검표에는 '양호'",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "[부고] 박찬대(인천광역시장)씨 모친상",
+        "time": "2026-08-01T08:59:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260801020300065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "[속보] '관저이전 의혹' 윤한홍 의원, 종합특검 피의자 출석",
+        "time": "2026-08-01T09:36:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/08/01/PYH2026080102450001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801023600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "모로코의 보복이었나…이주민 6만명 스페인 쇄도에 배후설 탄력",
+        "time": "2026-08-01T09:26:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801022800009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801022800009",
+        "summary": "평상시 국경통제 엄격했으나 스페인 총리 알제리 방문 후 허술",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "홍천 한 리조트 물놀이 시설에 빠진 여아 숨져(종합)",
+        "time": "2026-08-01T09:02:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2022/12/12/39/PCM20221212000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801018351062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "오마이걸 미미, 11년 만에 솔로 데뷔…20일 첫 싱글",
+        "time": "2026-08-01T11:19:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801027800005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801027800005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      },
+      {
+        "title": "BTS 지민 '후', 스포티파이 25억 스트리밍",
+        "time": "2026-08-01T10:58:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801027400005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260801027400005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 01일 토요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 07월 31일 금요일",
     "articles": [
       {
