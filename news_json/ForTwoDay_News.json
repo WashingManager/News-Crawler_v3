@@ -1,5 +1,456 @@
 [
   {
+    "date": "2026년 08월 02일 일요일",
+    "articles": [
+      {
+        "title": "포항 바다·저수지 수난사고 잇따라…1명 심정지·2명 사망",
+        "time": "",
+        "img": "https://img8.yna.co.kr/photo/cms/2025/10/20/88/PCM20251020000088990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802006151053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "해군 대전함, 림팩서 '바다의 탑건' 영예…韓 함정 16년만",
+        "time": "2026-08-02T09:22:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/08/02/PYH2026080202700001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802011100504",
+        "summary": "림팩 해상화력지원 경연서 최고 점수…지난달 폐막식서 발표",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "한국서 열릴 2028 유엔해양총회 범부처 준비기획단 출범",
+        "time": "2026-08-02T11:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731123900051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731123900051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "현금 결제 유도해 매출 세액 탈루…인테리어 업자 벌금 6억원",
+        "time": "2026-08-02T10:00:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2015/04/28/01/C0A8CA3D0000014CFD33053C00022059_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260731077900064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "[게시판] 산업부, 대학생 통상정책 토론대회 참가자 모집",
+        "time": "2026-08-02T11:00:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802009100003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802009100003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "기술표준원, 미국과 표준협력포럼…AI·양자기술 표준 공조 논의",
+        "time": "2026-08-02T11:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2019/12/03/46/PCM20191203000046990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802009200003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "[AI위클리] AI 데이터센터부터 에이전트까지…AI 경쟁 전선 확대",
+        "time": "2026-08-02T09:30:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072916650001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731107100017",
+        "summary": "AI 데이터센터 구축 경쟁 본격화…정부·업계 투자 확대",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "한전, 호남 반도체산단 전력망 구축 속도…신기술·신공법 도입",
+        "time": "2026-08-02T09:23:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2023/05/13/01/PCM20230513000001990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802011500003",
+        "summary": "'전력망 적기 구축 기술혁신 방안' 수립…공기 단축 추진",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "영종도 해수욕장서 허가 없이 드론 날리면 '벌금 폭탄'",
+        "time": "2026-08-02T09:10:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731149400065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731149400065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "밀양댐 가뭄단계 '경계' 격상…농업용수 공급 중단할 수도",
+        "time": "2026-08-02T10:07:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/23/PYH2026072315820005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802013400530",
+        "summary": "저수량 예년 절반 수준…부울경에 54년 중 두 번째로 적게 비",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "태안 방포해수욕장 해안서 40대 심정지 상태로 발견",
+        "time": "2026-08-02T11:07:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802018900063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802018900063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "전남광주 벌 쏘임 출동 한 달 새 5.6배…야외활동 주의",
+        "time": "2026-08-02T11:06:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/07/28/PYH2026072809250005400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802018800054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "양산 등 경남 '극한폭염' 원인은…\"기온상승 최적조건 갖춰져\"",
+        "time": "2026-08-02T10:58:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073015520005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802017800530",
+        "summary": "이중 고기압·연일 맑은 날·분지·메마른 땅 복합 작용",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "오세훈, 서울형 아침운동 '쉬엄쉬엄 모닝' 참여…걷기·요가도",
+        "time": "2026-08-02T10:43:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802017700004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802017700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "익산 등 전북 6곳 폭염경보…전주 등 3곳 폭염경보 유지",
+        "time": "2026-08-02T10:10:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014300527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "천안 등 충남 9곳 폭염경보…아산 등 4곳 폭염경보 유지",
+        "time": "2026-08-02T10:09:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "충주 등 충북 7곳 폭염경보…청주 서부에 폭염경보 유지",
+        "time": "2026-08-02T10:09:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "영광군(낙월면 제외) 등 전남 3곳 폭염경보",
+        "time": "2026-08-02T10:08:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014000527",
+        "summary": "여수 등 3곳 폭염중대경보 유지",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "경남 사천에 폭염중대경보…창원 등 9곳 폭염중대경보 유지",
+        "time": "2026-08-02T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "달성 남부·대구시 중부에 폭염중대경보",
+        "time": "2026-08-02T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802013900527",
+        "summary": "달성 북부에 폭염경보 유지",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "경북 경산·경주중 북부에 폭염중대경보…문경 등 6곳 폭염경보",
+        "time": "2026-08-02T10:06:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802013800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "화성 등 경기 8곳 폭염경보…평택 등 7곳 폭염경보 유지",
+        "time": "2026-08-02T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802013700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "'명태균 대선 여론조작' 주장한 신용한 충북지사 불송치",
+        "time": "2026-08-02T10:29:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032609240006400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802016700064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "은평구 등 서울 서북권에 폭염경보",
+        "time": "2026-08-02T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802014400527",
+        "summary": "동남·동북·서남권에 폭염경보 유지",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "의정부 등 경기 7곳 폭염경보…고양 등 3곳 폭염경보 유지",
+        "time": "2026-08-02T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260802013600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "군산 목재공장 불 진화작업 6시간째…직원 1명 화상(종합)",
+        "time": "2026-08-02T09:43:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802003351055_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802003351055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "김제 갈대밭 화재…17시간여만에 진화",
+        "time": "2026-08-02T09:25:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802011800055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802011800055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "40도 폭염·가뭄 겹친 경남…벼 이삭 나올 시기에 물 부족",
+        "time": "2026-08-02T09:15:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/31/PYH2026073109260005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731112500052",
+        "summary": "마른 장마 영향으로 농업용수 저수율 40% 붕괴 우려",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "경남교육청, 교직원 마음 건강 지원 사업 연말까지 운영",
+        "time": "2026-08-02T09:03:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2026/07/29/74/PCM20260729000174990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731140000052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "서울 '학교 밖 청소년'도 올해 10월 고3 학평 응시 가능",
+        "time": "2026-08-02T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/08/PYH2026070802970006100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731167600530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "[내일날씨] 월요일 낮 최고 38도 무더위…전국 대부분 맑음",
+        "time": "2026-08-02T09:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073010380001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802002200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "올해 상반기 마약사범 5천203명…10명 중 4명 '온라인 거래'",
+        "time": "2026-08-02T09:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/03/25/PYH2026032503490006000_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802006700004",
+        "summary": "경찰, 하반기 온라인·외국인 마약 범죄 대응 강화",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "[경북소식] 100년 전 울릉도 모습 담은 사진전 13일 개최",
+        "time": "2026-08-02T08:55:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802009800053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802009800053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "美법무부 '네이비실 北침투 실패' 보도한 NYT 기자 소환장",
+        "time": "2026-08-02T11:05:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802016800009_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802016800009",
+        "summary": "트럼프 1기 2019년 당시 네이비실 대북 작전 지난해 폭로…취재원 색출 목적",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "美 주말 저녁 인앤아웃 매장서 괴한 총격…다수 사상",
+        "time": "2026-08-02T10:33:00",
+        "img": "https://img1.yna.co.kr/photo/ap/2026/08/02/PAP20260802118901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802016600009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "89세 응급환자 집이 '무기고'…아르헨경찰, 총기·나치물품 압수",
+        "time": "2026-08-02T09:44:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802012500009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802012500009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "러 모스크바 식당 폭발로 24명 사상…사제 폭탄 추정",
+        "time": "2026-08-02T09:38:00",
+        "img": "https://img7.yna.co.kr/photo/etc/ta/2026/08/02/PTA20260802030301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260802001851108",
+        "summary": "폭발물 들고 입구 접근한 여성 포함 3명 사망·21명 부상",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "춘천시, 30만 인구 목표 '연결도시' 비전 청사진 마련",
+        "time": "2026-08-02T10:01:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2020/08/26/44/PCM20200826000144990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731115000062",
+        "summary": "5개년 기본계획 연구용역 최종 보고회 개최…중장기 인구 정책 수립 계획",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "충북도 그림책정원서 세계적 동화작가 '이수지 기획전' 개최",
+        "time": "2026-08-02T09:10:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731142100064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731142100064",
+        "summary": "작품 원화·아트프린트 등 선봬…4일부터 11월 8일까지 진행",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "\"초복·중복 지나도 괜찮아\"…제주는 오늘 '닭 먹는 날'",
+        "time": "2026-08-02T09:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/07/13/PYH2026071310630001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260731111700056",
+        "summary": "음력 6월20일 땀 흘린 여름 농사 마치고 온 가족 모여 닭 한 마리",
+        "source": "yna",
+        "date": "2026년 08월 02일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 08월 02일 일요일",
+    "articles": [
+      {
+        "title": "'신천지 개입설' 이어 '일베 침투설'까지… 與 전당대회 '점입가경'",
+        "time": "2026-08-02T12:31:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308964&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "불법사금융 대포폰 즉시 무력화…'대포폰 제로' 전격 가동",
+        "time": "2026-08-02T12:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308941&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "AI 시대 직격탄… 주니어 개발자 고용 20% 줄었다",
+        "time": "2026-08-02T11:32:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308932&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "허영, 군소음·진동 피해 보상 강화 법안 발의",
+        "time": "2026-08-02T11:31:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308954&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "[속보] 트럼프 “이란 공격 취소…신속한 합의 전제”",
+        "time": "2026-08-02T11:21:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308951&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "양평군의회, 제317회 임시회 폐회",
+        "time": "2026-08-02T11:14:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308947&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "서초구, 공영주차장 25곳 통합 운영… 빈자리 확인·자동감면 한 번에",
+        "time": "2026-08-02T11:11:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308946&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "신한카드, 12사단 군인가족 위한 도서관 마련",
+        "time": "2026-07-30T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308894",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      },
+      {
+        "title": "'광물 寶庫' 남미시장 성큼… 韓-메르코수르 협정 협의 속도 낸다",
+        "time": "2026-07-28T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=308688",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 02일 일요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 08월 01일 토요일",
     "articles": [
       {
