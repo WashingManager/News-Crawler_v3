@@ -1,5 +1,627 @@
 [
   {
+    "date": "2026년 08월 10일 월요일",
+    "articles": [
+      {
+        "title": "경우스님, 조계종 총무원장 출마…\"불교 대도약 시대 열 것\"",
+        "time": "2026-08-10T10:10:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810046000005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810046000005",
+        "summary": "내달 3일 선거 앞두고 출마 선언…\"합의·소통·신뢰의 종단 만들 것\"",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "동해안 최북단 지키는 여군들…소아암 환자위해 머리카락 '싹둑'",
+        "time": "2026-08-10T09:50:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810039400062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810039400062",
+        "summary": "군 본연 임무 속에서도 헌혈·봉사·머리카락 기부로 나눔 이어가",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "송영길 \"鄭 리더십 필요한 때 아냐…李대통령 아끼면 쉬어야\"",
+        "time": "2026-08-10T10:02:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/08/09/PYH2026080906690005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810040200001",
+        "summary": "\"신천지 의혹, '개입 반대' 공동 성명 내고 수사 결과 보면 돼\"",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "권익위, 의료기관 '태움' 집중신고기간 내달 9일까지 운영",
+        "time": "2026-08-10T10:00:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810025100001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810025100001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "KT, NH농협은행 차세대 AICC 구축…상담 시간 20% 단축",
+        "time": "2026-08-10T10:34:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810054600017_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810054600017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "대방건설, 703억원 규모 순창∼구림 국지도 확장공사 수주",
+        "time": "2026-08-10T10:20:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810049800003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810049800003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "\"유망 산업 흐름을 한 눈에\" 증권플러스, 밸류체인맵 출시",
+        "time": "2026-08-10T09:36:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810035700002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810035700002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "흥국생명, 통합치료 특약 4종 출시…검사부터 재활까지 보장",
+        "time": "2026-08-10T09:36:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810035800002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810035800002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "[게시판] LH, 제17회 국토기술대전 개최…28일까지 접수",
+        "time": "2026-08-10T09:29:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810031800003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810031800003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "대우건설, 목동 8단지 재건축 구조 설계 영국 ARUP과 협업",
+        "time": "2026-08-10T09:27:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810030100003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810030100003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "하나은행 \"FDS 정밀 모니터링으로 신종 투자사기 예방\"",
+        "time": "2026-08-10T09:22:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810028600002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810028600002",
+        "summary": "'eSIM 사업 투자금 모집 뒤 잠적' 수법…185억원 규모 고객 자산 보호",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "울산 동구, 버스 승강장 에어커튼 확충…무더위 대응",
+        "time": "2026-08-10T10:32:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810052400057_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810052400057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "울주군, 규제 혁신 아이디어 공모 \"불합리 규제 발굴·개선\"",
+        "time": "2026-08-10T10:30:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/11/12/46/PCM20241112000046990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810051000057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "대전시, AI 활용해 보안 도구 개발 추진…하반기 시범운영",
+        "time": "2026-08-10T10:26:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2022/02/17/33/PCM20220217000133990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810052800063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "카카오모빌리티 '전화로 택시 호출' 15만건…서울 밖 61%",
+        "time": "2026-08-10T10:10:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810047300017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810047300017",
+        "summary": "'02-114'로 출발지·목적지 말하면 호출 대행…월 2만건 넘어",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "진천소방, 열화상 드론으로 산속에 있던 치매노인 구조",
+        "time": "2026-08-10T10:08:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810046700064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810046700064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "대전농업기술센터, 폭염 대책상황실 운영",
+        "time": "2026-08-10T10:05:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810044800063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810044800063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "속초시 올 상반기 관광객 2.9%↑…숙박·관광 소비 동반 성장",
+        "time": "2026-08-10T10:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810043600062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810043600062",
+        "summary": "설악산·동해·호수·미식 어우러져…국내외 관광객 관심 높아",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "중기부, '을지연습 준비보고회' 개최…기관별 대응계획 점검",
+        "time": "2026-08-10T10:00:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2025/08/20/PYH2025082013840005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260809004100030",
+        "summary": "원부자재 수급 등 중소기업 지원체계 유지 확인",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "고양시, 'UN 글로벌 AI 허브 유치' 범시민 추진단 구성",
+        "time": "2026-08-10T09:52:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2023/12/19/60/PCM20231219000060060_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810040400060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "파주시, 행정업무 지원하는 'AI 플랫폼' 연내 구축",
+        "time": "2026-08-10T10:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810042400060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810042400060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "아산시, 하수 재이용 '반도체 초순수' 실증 거점으로 선정",
+        "time": "2026-08-10T09:15:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810030300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810030300063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "이스타항공, AI 기반 난기류 예측시스템 '터뷸런스 맵' 도입",
+        "time": "2026-08-10T09:05:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810025500003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810025500003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "'생명존중 울주 조성' 자살 예방 맞춤형 안전망 대폭 강화",
+        "time": "2026-08-10T10:37:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/11/12/39/PCM20241112000039990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810053000057",
+        "summary": "정신건강복지센터 남울주 분소 확충, 자살 유족 원스톱 서비스 등 나서",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "조유진 영등포구청장, 국토부에 GTX-B 환기구 위치 변경 요구",
+        "time": "2026-08-10T10:36:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810055400004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810055400004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "하천수 무단 취수·불법 확장…경기 도립공원 얌체 영업 적발",
+        "time": "2026-08-10T10:30:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810052100061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810052100061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "영양조사-사망원인 통계 연계해보니…사망원인 30%는 '암'",
+        "time": "2026-08-10T10:16:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2018/12/20/49/PCM20181220000249990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810046800530",
+        "summary": "질병청, 국민건강영양조사 원시자료-2024년 사망원인통계 연계",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "올해 '서울썸머비치' 21일간 332만명 방문…도심 피서지 성황",
+        "time": "2026-08-10T10:13:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810047700004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810047700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "성남시청서 '8·10 성남(광주대단지) 항쟁' 55주년 기념식",
+        "time": "2026-08-10T10:11:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2019/06/28/78/PCM20190628000078061_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810047000061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "인천시, 저소득층 '천원캠핑' 사업 중단…\"캠핑장 사정 고려\"",
+        "time": "2026-08-10T10:11:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2021/04/22/32/PCM20210422000032065_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810048400065",
+        "summary": "올해 예산 2천900만원 반납 예정…다른 천원정책도 고심",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "[현장] \"추석 대목인데 어쩌나\"…전주 농수산물시장 화재에 망연자실",
+        "time": "2026-08-10T10:09:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/08/10/PYH2026081002300005500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810041900055",
+        "summary": "영업장·수산물 흔적 없이 타…상인들 \"당장 생계 막막\"",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "단국대, 화상 상처 효과적 치료 스마트 하이드로겔 개발",
+        "time": "2026-08-10T10:12:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810047600063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810047600063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "강릉시, 10월까지 정류장·비상소화장치 사물주소판 설치",
+        "time": "2026-08-10T10:26:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810053200062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810053200062",
+        "summary": "도로명 기반 위치정보 부여…경찰·소방 신속 출동 체계 구축",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "공주 등 충남 5곳 폭염주의보 해제",
+        "time": "2026-08-10T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810044100527",
+        "summary": "천안 등 12곳 폭염주의보 유지",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "대전에 폭염주의보 해제",
+        "time": "2026-08-10T10:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810043300527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "세종남부·세종북부에 폭염주의보 해제",
+        "time": "2026-08-10T10:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810043200527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "화순 등 전남 10곳 폭염주의보",
+        "time": "2026-08-10T10:00:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810043400527",
+        "summary": "고흥남부·고흥북부에 폭염주의보 해제",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "광주동부·광주서부에 폭염주의보",
+        "time": "2026-08-10T10:00:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810043000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "김해 등 경남 6곳 폭염주의보…창원 등 17곳 폭염주의보 유지",
+        "time": "2026-08-10T09:59:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810042800527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "강원 원주·횡성 폭염주의보 해제",
+        "time": "2026-08-10T09:58:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810042500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "서귀포시 중산간 등 제주 3곳 강풍주의보 해제",
+        "time": "2026-08-10T09:58:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810044300527",
+        "summary": "서귀포시 동부 등 5곳 폭염주의보 유지",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "정읍 등 전북 3곳 폭염주의보…임실 등 3곳 폭염주의보 해제",
+        "time": "2026-08-10T09:57:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810044000527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "인천 연평도·우도 및 백령도·대청도에 폭염주의보 해제",
+        "time": "2026-08-10T09:57:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810043100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "의정부 등 경기북부 6곳 폭염주의보 해제",
+        "time": "2026-08-10T09:56:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810042700527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "오산 등 경기 4곳 폭염주의보…수원 등 21곳 폭염주의보 유지",
+        "time": "2026-08-10T09:56:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810042600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "영주 등 경북 10곳 폭염주의보 해제",
+        "time": "2026-08-10T09:56:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810042900527",
+        "summary": "구미 등 10곳 폭염주의보 유지",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "부산시 주간회의 월 1회 생중계…투명한 행정·공무원 부담 절충",
+        "time": "2026-08-10T09:56:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810036800051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810036800051",
+        "summary": "공개 의지 전재수 시장, 내부 논의 타협점 도출…정책·사업 공유",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "제천 등 충북 6곳 폭염주의보 해제",
+        "time": "2026-08-10T09:57:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260810044200527",
+        "summary": "충주 등 6곳 폭염주의보 유지",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "코이카, 캄보디아서 농촌개발-보건의료 연계 ODA 성과 확산",
+        "time": "2026-08-10T09:30:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/09/AKR20260809030700371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260809030700371",
+        "summary": "코피와 바탐방·반떼이민쩨이주서 마을자유공모·보건소 개소 등 진행",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "광명시, 민선9기 첫 조직개편…교통국·청년정책관 신설",
+        "time": "2026-08-10T09:28:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810034000061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810034000061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "부천 편의점서 업주 흉기로 찌른 30대 구속…직원·손님이 제압",
+        "time": "2026-08-10T09:26:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2018/06/25/11/C0A8CA3C0000016435643C5100024E7B_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260810034500065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "[내일날씨] 중부 맑고 남부·제주 흐려…무더위 한풀 꺾여 열대야 '막바지'",
+        "time": "2026-08-10T09:00:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/08/09/PYH2026080904870001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810006500004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "부산 다대포해수욕장서 고무보트 타다 표류한 10대 구조",
+        "time": "2026-08-10T08:58:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810024500051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810024500051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "日 구마모토 지진에 관광업 타격…인근 지역에도 파급",
+        "time": "2026-08-10T10:23:00",
+        "img": "https://img4.yna.co.kr/photo/etc/af/2026/07/29/PAF20260729162401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810050300009",
+        "summary": "6만5천여명 예약 취소·교통 마비…재해 폐기물 처리도 난제",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "태풍 '돌핀' 中동부 상륙…상하이 곳곳 침수·항공편 대거 결항",
+        "time": "2026-08-10T10:01:00",
+        "img": "https://img3.yna.co.kr/photo/ap/2026/08/10/PAP20260810001401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810040300083",
+        "summary": "저장·푸젠·상하이 대규모 대피…항공·철도·해운 운항 차질",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "러 '방공망 고갈' 우크라 곳곳 난타…최전선 점령지도 추가",
+        "time": "2026-08-10T09:44:00",
+        "img": "https://img4.yna.co.kr/photo/etc/epa/2026/08/09/PEP20260809087501009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810032900009",
+        "summary": "우크라, 맞불로 러 접경지 타격…소모전 격화 속 사상자 속출",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "美민주당, 중간선거 앞두고 '선거방해' 모의 훈련",
+        "time": "2026-08-10T09:02:00",
+        "img": "https://img2.yna.co.kr/photo/reuters/2026/08/08/PRU20260808156701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810022400009",
+        "summary": "딥페이크 영상 확산에 무장괴한 투표소 출현 등 시나리오 점검",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "중앙문화유산돌봄센터장에 윤태정 전 국가유산청 대변인",
+        "time": "2026-08-10T10:35:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810055100005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810055100005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "정순택 대주교 \"배척하는 말 삼가고 이해·대화의 길 가자\"",
+        "time": "2026-08-10T10:23:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810051700005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810051700005",
+        "summary": "15일 성모 승천 대축일 메시지 발표",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "세계 작가들이 묻는 인간성의 의미…서울국제작가축제 9월 개막",
+        "time": "2026-08-10T10:05:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810043800005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810043800005",
+        "summary": "9월 11∼16일 아라아트센서 열려…김애란·벵하민 라바투트 등 24명 참여",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "인권위, 초등 5·6학년용 '인권교과서' 발간…이달 말부터 보급",
+        "time": "2026-08-10T09:41:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810037000004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810037000004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "정족산이 간직한 역사·문화…강화 전등사 일원, 명승 된다",
+        "time": "2026-08-10T09:00:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/09/AKR20260809050200005_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260809050200005",
+        "summary": "국가유산청, 지정 예고…고려 임시 궁궐·조선 기록문화 흔적 남아",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "조선 최고 서화가가 있기까지…추사의 편지·글씨에 담긴 우정",
+        "time": "2026-08-10T09:00:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810013000005_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260810013000005",
+        "summary": "국립중앙박물관, 서화실 새 전시 '추사 김정희와 그의 동반자'",
+        "source": "yna",
+        "date": "2026년 08월 10일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 08월 10일 월요일",
+    "articles": [
+      {
+        "title": "호주 왜 짐 쌌나… 영국 ‘성공’서 찾는 한국 퇴직연금 ‘해법’",
+        "time": "2026-08-10T10:19:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=309479&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "건강영양조사 연계 사망자 10명 중 3명 ‘암’",
+        "time": "2026-08-10T11:01:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=309486&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "광명시 자율방재단, 폭염 속 얼음물 나눔 시민 안전 챙겨",
+        "time": "2026-08-10T09:33:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=309472&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "“오빠, 나 병원비” “군인인데 통관비 좀” … 사기 치다 ‘계좌 정지’ 날벼락",
+        "time": "2026-08-09T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=309431",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 10일 월요일"
+      },
+      {
+        "title": "ISA 개편안, 사흘 만에 없던 일로…野 “대통령 책임 어디에”",
+        "time": "2026-08-09T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=309442",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 08월 10일 월요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 08월 09일 일요일",
     "articles": [
       {
