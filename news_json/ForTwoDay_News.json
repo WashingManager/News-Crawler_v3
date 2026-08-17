@@ -1,5 +1,136 @@
 [
   {
+    "date": "2026년 08월 17일 월요일",
+    "articles": [
+      {
+        "title": "韓총리, 경남 거제 집중호우에 \"고립주민 등 구조에 전력\"",
+        "time": "2026-08-17T08:48:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081409990001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817019200001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "KT·서울대병원, 의료 전 영역 AI 전환 플랫폼 구축한다",
+        "time": "2026-08-17T09:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/14/AKR20260814155600017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260814155600017",
+        "summary": "진료·간호·연구·운영까지…공공의료 AI 표준모델 발굴",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "경남도, 폭우 2차 피해 방지 특별지시…박완수 지사 이재민 위로",
+        "time": "2026-08-17T09:47:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/08/17/PYH2026081701220005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817023900052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "전남광주소방본부, 폭염 상황 비긴급 신고 '탄력 출동'",
+        "time": "2026-08-17T09:35:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/17/AKR20260817022900054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817022900054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "서울 중구, 중대재해 통합 관리 시스템 '내편안전' 구축",
+        "time": "2026-08-17T09:33:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/08/17/AKR20260817022700004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817022700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "부산 서부 등 3곳 호우주의보",
+        "time": "2026-08-17T09:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260817021300527",
+        "summary": "부산 서부 등 3곳 호우주의보",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "서귀포시 중산간 등 제주 3곳 호우주의보",
+        "time": "2026-08-17T09:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260817021200527",
+        "summary": "시 북부·서부 호우주의보 해제",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "경남 사천·남해군에 호우주의보…진주 등 3곳 호우주의보 해제",
+        "time": "2026-08-17T09:03:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260817021100527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "동화로 이어 온 20번째 만남…한·중·일 어린이 동화교류 대회",
+        "time": "2026-08-17T09:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/08/14/AKR20260814151200530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260814151200530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "서울 학생 569명, 2학기 농촌유학…연장 참여자가 92%",
+        "time": "2026-08-17T09:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/14/AKR20260814140600530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260814140600530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "[내일날씨] 남부지방 폭우 이어 소나기…한낮 최고 33도",
+        "time": "2026-08-17T09:00:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/08/15/PYH2026081503880006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817006900004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "전남 여수에 호우주의보",
+        "time": "2026-08-17T09:00:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260817020600527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "'이란전 수렁' 트럼프, 한미훈련 대폭 축소로 北에 대화 손짓",
+        "time": "2026-08-17T08:59:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/08/17/AKR20260817017500071_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817017500071",
+        "summary": "중간선거용 외교성과 위한 국면전환 가능성…'대폭 축소'로 北 호응 유도",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      },
+      {
+        "title": "美법무장관 \"백악관서 독립 약속 못해…업무수행과 별개 문제\"",
+        "time": "2026-08-17T08:52:00",
+        "img": "https://img2.yna.co.kr/photo/reuters/2026/08/15/PRU20260815133601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260817020300009",
+        "summary": "\"트럼프는 특정인 기소 요구한 적 없고, 앞으로도 안 할 것\"",
+        "source": "yna",
+        "date": "2026년 08월 17일 월요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 08월 16일 일요일",
     "articles": [
       {
