@@ -3,12 +3,939 @@
     "date": "2026년 09월 11일 금요일",
     "articles": [
       {
+        "title": "[미국시장] 테오도르의 월스트리트 분석 (9월10일~11일)",
+        "time": "2026-09-11T11:38:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392821",
+        "source": "fntoday",
+        "date": "2026년 09월 11일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 09월 11일 금요일",
+    "articles": [
+      {
         "title": "[어승룡의 와인 이야기] 친환경 와인과 내추럴 와인, 뭐가 다른가",
         "time": "2026-09-11T07:57:00",
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=311323&search=",
         "summary": "",
         "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "김철수 포항시의회 의장 특강··· “소통과 협치로 시민행복 실현”",
+        "time": "2026-09-11T11:23:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=311420&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "경북도, 원전 방사능사고 대비 방사능방재 연합훈련 실시",
+        "time": "2026-09-11T10:18:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=311418&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "순창군, 집중안전점검 3년 연속 우수 기관 달성 쾌거",
+        "time": "2026-09-11T08:02:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=311413&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "용인특례시 ‘제6기 반도체 AI 최고위 과정’ 입학식 개최",
+        "time": "2026-09-11T07:46:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=311412&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "2026 경북 바이오산업 엑스포 개막",
+        "time": "2026-09-11T06:29:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=311409&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 09월 11일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 09월 11일 금요일",
+    "articles": [
+      {
+        "title": "장훈, 별세 나흘 전에도 \"핵무기 반대\"…피폭 비극 널리 알린 삶",
+        "time": "",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091011990001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911064700073",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[인사] 통일부",
+        "time": "2026-09-11T09:17:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260911033100504",
+        "summary": "◇ 고위공무원 임용",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "검찰, 김병기 구속영장 보완수사 요구…\"구속 필요성 소명 부족\"",
+        "time": "2026-09-11T11:32:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090723050001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260910140300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "주진우, 용혜인 경찰 고발…\"'페이퍼 시도당', 정당법 등 위반\"",
+        "time": "2026-09-11T11:30:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090816310001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911074200001",
+        "summary": "\"선관위 조사의뢰…기본소득당 정당등록취소 판단해달라\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "용혜인 '적합 13%·부적합 61%'…김승원 '적합 22%·부적합 43%'[한국갤럽]",
+        "time": "2026-09-11T10:49:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2026/09/11/30/PCM20260911000030990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062200001",
+        "summary": "호르무즈 파병 반대 55%…與지지층은 69% 반대·국힘 지지층은 절반이 찬성",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "與 \"이진숙 국회 집회에 李대통령 영정…후안무치 그냥 안둘 것\"",
+        "time": "2026-09-11T10:21:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091005150001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911054200001",
+        "summary": "한병도 \"이진숙 파렴치한 행위 반복…국힘, 어느 편에 설지 선택해야\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "원주시, 민긍호 의병장 외증손녀 옥사나 텐에 친서 전달",
+        "time": "2026-09-11T09:09:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911034300062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911034300062",
+        "summary": "연탄은행 통해 전달…\"나라사랑 정신 미래세대에 전할 것\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "농식품부, 온오프라인 직거래 지원…\"지역 농산물 판로 확대\"",
+        "time": "2026-09-11T11:30:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2019/01/12/60/PCM20190112000060030_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911054100030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "전남광주시금고 평가에 영업망 지역별 분포 반영 확정",
+        "time": "2026-09-11T10:57:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911063800054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911063800054",
+        "summary": "조례안, 통합시의회 본회의서 찬반토론·표결 거쳐 통과",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "동서발전-우리은행, 연구비 관리 혁신모델 구축 '맞손'",
+        "time": "2026-09-11T10:47:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911062300057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062300057",
+        "summary": "180억원 규모 연구비 통합관리…집행 투명성 및 관리 효율성 강화",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "코스맥스 \"바쿠치올 활용한 주름개선 화장품, 식약처 허가 받아\"",
+        "time": "2026-09-11T10:19:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911054600030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911054600030",
+        "summary": "\"인도 약초 추출 천연 항산화 성분 활용\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[게시판] 신한카드, 외국인 근로자·다문화가정 위한 '아름인도서관' 개관",
+        "time": "2026-09-11T09:55:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911048300002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911048300002",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "부산 기장군, 기획예산처 장관에 도시철도 조기 착공 지원 요청",
+        "time": "2026-09-11T09:37:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911041500051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911041500051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "'서울시장 후보명단' 박홍근 \"장관직에 충실…기회 오면 역할\"",
+        "time": "2026-09-11T09:16:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091019780005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911034200002",
+        "summary": "\"정치인으로서 원래 하고 싶던 일 기회 오면 마다하겠나\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "원주시-성지병원, 퇴원환자 지역사회 연계 업무협약",
+        "time": "2026-09-11T09:13:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911035000062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911035000062",
+        "summary": "협력 의료기관 6곳으로 확대…65세 이상 통합돌봄 지원",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "LH, 경기주택도시공사에 BIM 핵심기술 이전",
+        "time": "2026-09-11T09:03:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911032400003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911032400003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[속보] 코스피, 3.3% 급락해 7천피 아래로…6,802 출발",
+        "time": "2026-09-11T09:01:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091102830001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911032100008",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "성평등장관 \"구글, 위법 확인되면 상응하는 법적 책임 져야\"",
+        "time": "2026-09-11T11:00:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/09/09/PYH2026090922310001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911057200530",
+        "summary": "디지털성범죄 피해자 개인정보 노출에 \"재발방지책 이행 끝까지 점검\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "산림청, 추석 맞아 전국 임도 2만7천675㎞ 14일부터 한시 개방",
+        "time": "2026-09-11T10:30:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911059900063_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911059900063",
+        "summary": "벌초·성묘객 편의 위해 10월 5일까지…위험 구간은 제외",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "화성시, AI 콘텐츠 공모전 '별별화성 어워즈'…총상금 6천만원",
+        "time": "2026-09-11T10:15:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911049800061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911049800061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "국립부경대 연구팀, DNA 활용한 선택적 분자결합 기술 개발",
+        "time": "2026-09-11T10:11:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911055100051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911055100051",
+        "summary": "곽민석 교수팀 성과, 국제학술지 'Chem' 표지논문에 선정",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "옥천군, 착한가격업소 지역화폐 캐시백 적립률 17%",
+        "time": "2026-09-11T10:04:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911052800064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911052800064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "경찰, 김승원 '신약 청탁 의혹' 수사 착수…첫 고발인 조사",
+        "time": "2026-09-11T09:54:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/09/11/PYH2026091101390001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911046500004",
+        "summary": "고발인 \"식약처에 임상 승인 압박\"…김승원은 \"불공정 해소 취지 전달\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "동해·태백·삼척 농협 임직원, 삼척에 1천210만원 기부",
+        "time": "2026-09-11T09:49:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911046700062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911046700062",
+        "summary": "영동권 농협 상호 교차 기부로 마련…박상수 시장 \"지역발전에 활용\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "경남시군의장협, 발전공기업 통합본사 진주 유치 건의안 채택",
+        "time": "2026-09-11T09:41:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2026/05/04/73/PCM20260504000073990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911042600052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "청도 돼지 농장서 불…1천500마리 폐사",
+        "time": "2026-09-11T09:48:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2025/08/24/04/PCM20250824000004990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911047500053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "충남 소나무재선충병 특별방제구역 확대…보령·서천·청양 추가",
+        "time": "2026-09-11T10:07:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/09/10/PYH2026091014720005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911054000063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "BGF리테일 '독도사랑 원정대', 올해도 독도 찾아 후원금 전달",
+        "time": "2026-09-11T09:40:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911044100030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911044100030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[게시판] 박정민 KT알파 대표, 청소년 불법도박 근절 릴레이 동참",
+        "time": "2026-09-11T08:51:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911026500030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911026500030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[게시판] 신세계라이브쇼핑, 서울숲 '생생정원' 봉사활동",
+        "time": "2026-09-11T08:50:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911022100030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911022100030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "GC녹십자, 코로나19 mRNA 백신 임상 2상 승인…연내 투약",
+        "time": "2026-09-11T08:37:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2022/12/17/34/PCM20221217000034017_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911026600017",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "한진, 물류터미널에 AI 안전관리 '세이프티 가디언' 도입",
+        "time": "2026-09-11T08:46:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911027600030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911027600030",
+        "summary": "CCTV 영상 실시간 분석해 위험행동 감지…\"도입 후 발생 건수 60% 감소\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "미 군함 정박한 부산항 보안구역 침입 낚시한 3명 송치",
+        "time": "2026-09-11T11:35:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911076400051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911076400051",
+        "summary": "미 해군 범죄수사국 요청 일주일 만에 검거…부산경찰청에 감사장",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "\"가족돌봄아동 지원\"…'영케어러 위크 추진협의회' 출범",
+        "time": "2026-09-11T11:34:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911076600371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911076600371",
+        "summary": "공공·학계·전문기관 18곳 연대…'제1회 영케어러 위크' 개최 준비",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "순창군, 양지천 수문시설 개선 완료…\"침수 피해 예방\"",
+        "time": "2026-09-11T11:34:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911075900055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911075900055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "아동 학대치사 교회 목사…쇠사슬 결박 와중에도 활동지원사 기록 입력",
+        "time": "2026-09-11T11:30:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/09/02/PYH2026090203180001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911068900063",
+        "summary": "6월부터 장애인활동지원사 등록…11세 지적장애 아동 학대 중에도 급여 챙겨",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[속보] 검찰, 김병기 구속영장 보완수사 요구…\"구속 필요성 소명 부족\"",
+        "time": "2026-09-11T11:26:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090715280001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911074600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "부산시의회, 형제복지원 피해배상에 국비지원 촉구 결의안 채택",
+        "time": "2026-09-11T11:24:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/07/06/80/PCM20260706000080990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911071400051",
+        "summary": "통합 LCC 본사 부산 유치 결의안도 통과",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "전남 임산부 5명 중 1명 50㎞ 넘게 119 이송",
+        "time": "2026-09-11T11:21:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2019/02/08/57/PCM20190208000157990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911072000054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "\"배움에 나이는 없다\" 대구내일학교 14일 졸업식",
+        "time": "2026-09-11T11:19:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2024/06/24/72/PCM20240624000172053_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911072600053",
+        "summary": "62∼81세 늦깎이 학습자 73명 졸업장 받는다",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "독감 유행 한 달여 빨라졌다…\"감기·코로나19와 구별해야\"",
+        "time": "2026-09-11T11:18:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/01/07/PYH2025010714730001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911068500530",
+        "summary": "\"트윈데믹 우려…갑작스러운 고열·근육통 땐 독감 의심\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "서울경찰청장, '복면남' 출몰 연세대 방문…\"피의자 조속 검거\"",
+        "time": "2026-09-11T11:17:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2026/04/28/13/PCM20260428000013990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911067700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "서울시, 방콕 청소년 초청 문화교류 진행",
+        "time": "2026-09-11T11:15:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911034800004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911034800004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "화재부터 인파 관리까지…서울시설공단, AI로 안전 챙긴다",
+        "time": "2026-09-11T11:15:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911037300004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911037300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "옥천군, 청산면 교평지구 풍수해 위험 줄인다",
+        "time": "2026-09-11T11:31:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911045200064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911045200064",
+        "summary": "행안부 정비사업 선정돼 국비 등 320억원 투입",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "태화강 억새군락지 불 질러 1만여평 태운 50대 징역형 집유",
+        "time": "2026-09-11T11:04:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2024/02/07/72/PCM20240207000172990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911067200057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "영동군 자원봉사센터, 7∼11일 캄보디아 찾아 봉사활동",
+        "time": "2026-09-11T10:58:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911042900064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911042900064",
+        "summary": "봉사단 16명, 결혼이주여성 친정집 수리·이미용 등 진행",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "경기도, '4년간 477명 인사위 심의 누락' 이천시에 기관경고",
+        "time": "2026-09-11T10:55:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/09/10/21/PCM20260910000121061_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911066400061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "동래구, 부산시 소유 부지에 협의 없이 버스 주차장 추진",
+        "time": "2026-09-11T10:45:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2026/08/04/52/PCM20260804000152990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062700051",
+        "summary": "금강공원 내 관광버스 10대 규모…시, 사용 가능 여부 검토",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "울주군, 감염취약시설에 환기관리 시스템…환기상태 측정·분석",
+        "time": "2026-09-11T10:44:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911062100057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062100057",
+        "summary": "12개 병원 시설 36개 공간 대상, 시설별 맞춤형 개선방안 제시",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[부고] 박영일(전 과학기술부 차관)씨 부친상",
+        "time": "2026-09-11T10:34:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260911060800505",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "동해시, 추석 고향사랑기부 '혜택 하나 더'",
+        "time": "2026-09-11T10:28:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911059800062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911059800062",
+        "summary": "이달 30일까지 '1+1+1 이벤트'…장류·먹태·수제오란다 등 풍성",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "영종도 해수욕장 폐장에도 안전요원 배치…\"사고 예방\"",
+        "time": "2026-09-11T10:25:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/06/21/PYH2026062106080006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911023400065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[건강포커스] \"ADHD 환자, 변비·과민성장증후군 등 위장관 증상 더 많다\"",
+        "time": "2026-09-11T09:41:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910175000017_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260910175000017",
+        "summary": "英 연구팀 \"위장관 증상 나타날 가능성 48% 높아…진료 때 확인 필요\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "산청서 승용차 몰다 경운기 추돌해 운전자 숨지게 한 40대 입건",
+        "time": "2026-09-11T09:27:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2016/04/19/01/C0A8CA3D000001542C6E04D5000C2F25_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260911037900052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "음식물쓰레기 최대 80% 감량…마포구, 대형감량기 시범운영",
+        "time": "2026-09-11T09:17:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911037100004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911037100004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "증평군 \"재활용품 가져오면 현금 보상\"…자원순환가게 운영",
+        "time": "2026-09-11T09:34:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911043000064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911043000064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "여수서 빈집 화재로 1명 숨져(종합)",
+        "time": "2026-09-11T09:11:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911000551054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911000551054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "경북교육청 해양수련원 비상객실, 도의원·고위직 등에 252회 제공",
+        "time": "2026-09-11T09:15:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2020/08/22/24/PCM20200822000024053_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911025300053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[내일날씨] 전국 맑고 낮 최고 30도…아침 최저 12도 일교차 주의",
+        "time": "2026-09-11T09:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090715590001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911006700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "전남광주 아침 기온 더 떨어져…주말 최저 15도",
+        "time": "2026-09-11T08:45:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090801370001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911022200054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "청주 폐기물재활용업체 화재 26시간만에 완진…10개동 전소",
+        "time": "2026-09-11T08:52:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2025/08/24/04/PCM20250824000004990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911027300064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "주차 차량서 휴대용 부탄가스 폭발…운전자 중상",
+        "time": "2026-09-11T09:07:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911032700051_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911032700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "부시 \"9·11 교훈 잊지 말아야\"…美 고립주의 회귀에 경고",
+        "time": "2026-09-11T11:20:00",
+        "img": "https://img9.yna.co.kr/photo/reuters/2026/09/10/PRU20260910326101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911068800009",
+        "summary": "힐러리 \"테러와의 싸움, 경계 늦춰선 안 돼\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[쇼츠] 화물칸서 '쾅' 하더니 '활활'…구명조끼도 못 입고 바다로",
+        "time": "2026-09-11T11:16:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911071500704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911071500704",
+        "summary": "#shorts",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[영상] 中 칭다오 조선소서 화물선 수리 중 화재…25명 사망",
+        "time": "2026-09-11T11:15:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911071100704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911071100704",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "급진 불교단체 이끈 스리랑카 승려, 사면 무효로 7년만에 재수감",
+        "time": "2026-09-11T11:06:00",
+        "img": "https://img3.yna.co.kr/photo/etc/epa/2019/05/24/PEP20190524051401848_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911064400009",
+        "summary": "대법 \"대통령 사면, 자의적\"…승려, 실종된 시사만화가 아내 위협한 혐의",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[영상] 화물칸 '쾅' 하더니 '활활'…필리핀 여객선 불 91명 사망·실종",
+        "time": "2026-09-11T10:56:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911057900704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911057900704",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "美 해군장관대행 \"이란, 바레인 기지 박살냈다\"",
+        "time": "2026-09-11T10:49:00",
+        "img": "https://img0.yna.co.kr/photo/etc/epa/2025/12/05/PEP20251205157701009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062000009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "앤트로픽, 생물무기 전용 가능 AI 연구 차단…\"섬뜩한 사례\"",
+        "time": "2026-09-11T10:23:00",
+        "img": "https://img1.yna.co.kr/photo/reuters/2026/09/11/PRU20260911103201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911058200009",
+        "summary": "군사기관서 바이러스 유해성 높이는 돌연변이 연구 추진",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "반크, 아프리카 활동 NGO에 \"아프리카 실제면적 지도 사용하자\"",
+        "time": "2026-09-11T10:17:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911043800898_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911043800898",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "美 공화당도 결국 '데이터센터발 전기료 인상' 제동",
+        "time": "2026-09-11T11:10:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911069700009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911069700009",
+        "summary": "'요금 납부자 보호법' 내주 본회의 상정해 표결하기로",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "다카이치, 비자금 연루 의원 중용하나…\"선거로 이미 국민 신임\"",
+        "time": "2026-09-11T09:58:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/01/31/PYH2026013105340007300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911046100073",
+        "summary": "핵심 측근 기하라 관방 \"인사 이뤄질 것\" 시사…다선 의원 입각 경쟁 치열",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "후티 진격에 홍해까지 막힐라…美, 사우디에 軍고문 수백명 파견",
+        "time": "2026-09-11T09:58:00",
+        "img": "https://img8.yna.co.kr/photo/ap/2026/04/06/PAP20260406155901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911032600009",
+        "summary": "CNN 소식통 인용 보도…실시간 전황·위성 표적 정보 제공",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "알제리, UAE와 '아프리카 개입' 갈등 끝 \"단교\" 선언",
+        "time": "2026-09-11T09:03:00",
+        "img": "https://img6.yna.co.kr/photo/etc/epa/2026/07/17/PEP20260717072901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911023100009",
+        "summary": "UAE \"일시적 결정…우호관계 유지 희망\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "밴스, 군 지휘관에 이란 전황 평가 청취…대중 억제력도 점검",
+        "time": "2026-09-11T09:02:00",
+        "img": "https://img0.yna.co.kr/photo/ap/2026/07/02/PAP20260702019401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911029800009",
+        "summary": "NYT \"밴스, 美전쟁 전략에 심각한 우려…트럼프에 보고\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "후티, 전광석화로 홍해 길목 장악…배후에 이란 직접 지휘",
+        "time": "2026-09-11T09:37:00",
+        "img": "https://img6.yna.co.kr/photo/ap/2026/09/11/PAP20260911053201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911033800009",
+        "summary": "로이터 현지 소식통 인용 \"IRGC 압둘 레자 샤흘라이가 작전 총괄\"",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "'하루동안 시장 직무 체험'…충주시, 청년 명예시장제 운영",
+        "time": "2026-09-11T11:15:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911071900064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911071900064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "평창서 벌초하러 나갔다 실종된 80대 치매 노인 숨진 채 발견",
+        "time": "2026-09-11T11:13:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2018/06/25/12/C0A8CA3D0000016435D6A26F000252BE_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20260911071000062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "전남광주시의회 의정비 조례 보류…인상위한 '사전포석' 논란",
+        "time": "2026-09-11T11:08:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2026/09/01/32/PCM20260901000132990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911065100054",
+        "summary": "현재 월 568만원 지급…통합시에 '새 기준' 마련 요구",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "오는 18일 진천서 국민권익위 '달리는 국민신문고' 진행",
+        "time": "2026-09-11T10:39:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911060900064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911060900064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "무안공항 활성화추진위 \"활주로 긴급보수·재개항 확정해야\"",
+        "time": "2026-09-11T10:26:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911059100054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911059100054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "강원 임산부 3명 중 1명 50㎞ 이상 119 이송…서울의 127배",
+        "time": "2026-09-11T10:19:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2019/02/08/57/PCM20190208000157990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911055300062",
+        "summary": "병원 도착 2시간 이상 비율도 7.6% '전국 최고'…의료 격차 뚜렷",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "서울시, 남산자락 회현동 노후주거지 환경 개선…253억원 투입",
+        "time": "2026-09-11T10:01:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910149600004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260910149600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "오는 19일 괴산서 '레이크사랑 걷기대회'…500명 현장 접수",
+        "time": "2026-09-11T09:55:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911050300064_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911050300064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "부산 예인선 전복 실종자 5명 열흘째 수색…무인잠수정 투입",
+        "time": "2026-09-11T09:52:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090410460005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911048700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "'친딸 폭행·방치 살해' 가수 겸 유튜버 40대에 사형 구형",
+        "time": "2026-09-11T09:46:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2017/11/14/01/C0A8CAE20000015FB93258EB00001BAD_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911045700052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "울산시, 내년도 개발제한구역 주민지원사업 국비 37억여원 확보",
+        "time": "2026-09-11T09:00:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2019/10/15/PYH2019101523150005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260910171500057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "작가란 무엇인가…'소설 기계' 김경욱의 '소설가 소설'",
+        "time": "2026-09-11T11:24:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911072900005_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911072900005",
+        "summary": "열번째 소설집 '도련님은 어떻게 작가가 되었나'",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[신간] 과학의 가면을 쓴 거짓…'과학적으로 옳다는 착각'",
+        "time": "2026-09-11T10:51:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911062600005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911062600005",
+        "summary": "영양과 대사의 과학…'음식 지능'",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[종교소식] 천주교 서울대교구 '생명의 신비상' 공모",
+        "time": "2026-09-11T10:56:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911066200005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911066200005",
+        "summary": "조계종 '세대갈등과 화쟁적 해법' 세미나…원불교 명상 콘퍼런스",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "중국국가박물관 전문가, 강진 고려청자박물관 방문",
+        "time": "2026-09-11T10:05:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911052200054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911052200054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[부고] 박민수(작가)씨 부친상",
+        "time": "2026-09-11T10:05:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20260911053800704",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "[신간] 나치 약탈로 혜택받은 독일인들…'히틀러의 복지국가'",
+        "time": "2026-09-11T09:52:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911048200005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911048200005",
+        "summary": "불우한 유년기 딛고 신경과학자로…'카오스의 가장자리'",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "조선 왕실의 전통부터 우주까지…김기호 장인이 완성한 금빛",
+        "time": "2026-09-11T09:49:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911013700005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911013700005",
+        "summary": "국가무형유산 금박장 김 보유자, 11월 1일까지 '금별, 우주를 만나다' 전시",
+        "source": "yna",
+        "date": "2026년 09월 11일 금요일"
+      },
+      {
+        "title": "신축 건물 앞 미술품 이대로 좋은가…16일 제도 개선 정책토론회",
+        "time": "2026-09-11T08:35:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911025800005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20260911025800005",
+        "summary": "공정하고 투명한 작품 선정 방안 논의…\"운영 방식 새롭게 점검\"",
+        "source": "yna",
         "date": "2026년 09월 11일 금요일"
       }
     ]
