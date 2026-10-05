@@ -1,5 +1,393 @@
 [
   {
+    "date": "2026년 10월 05일 월요일",
+    "articles": [
+      {
+        "title": "한국형 원전, 美 시장 진출한다… APR1400 2기 추진",
+        "time": "2026-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=312381",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "가트너의 경고 “AI 따른 감축 인원 30% 재고용해야 할 것”",
+        "time": "2026-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=312359",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "동아ST, 갤럭스와‘세상에 없던 차세대 항암제’ AI로 발굴한다",
+        "time": "2026-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=312363",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "LS일렉, 북미 AI 데이터센터 1812억 초고압 변압기 수주",
+        "time": "2026-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=312390",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 05일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 10월 05일 월요일",
+    "articles": [
+      {
+        "title": "유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"",
+        "time": "",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005025900005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025900005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "與 \"국감 출석, 대법원장이라고 예외 없다\"…탄핵 주장도 계속",
+        "time": "2026-10-05T11:04:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/10/02/PYH2026100216860001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005026400001",
+        "summary": "박지원 \"尹이 대통령 후보 추대되듯, 조 대법원장도 그짓 하는 것\"",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "李대통령 \"무책임 극단주의 '무극파' 경계…근거없이 혹세무민\"",
+        "time": "2026-10-05T08:40:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/02/PYH2026100216190001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005011100001",
+        "summary": "\"과격한 주장, 국민 위한 것 아냐…개혁 성과 독차지하겠다는 이기심\"",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "대통령경호처, 日경찰청에 대테러 전술 시범…경호기법 교류",
+        "time": "2026-10-05T11:00:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005017100001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005017100001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "韓총리, 제주 차귀도 어선 전복 \"인명구조 최우선\" 지시",
+        "time": "2026-10-05T08:42:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/02/PYH2026100216460001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005007900001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "호르무즈 봉쇄 후 3번째 한국 선박 수에즈운하로 원유 운송",
+        "time": "2026-10-05T10:48:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/05/08/PYH2026050801470005400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025400051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "체납 징수에 복지 발굴까지…울산시 체납관리단 성과",
+        "time": "2026-10-05T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20261002131100057",
+        "summary": "구·군에 36명 배치, 고립 주민 수급 신청 등 복지서비스 연계",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "해수부 장관, 제주 어선 전복사고에 \"인명구조에 최선\" 지시",
+        "time": "2026-10-05T08:56:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/10/05/PYH2026100501050005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005013500030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "\"다시 돌아온 '부캉이' 보자\"…3일 내내 '핫플' 된 친수공원",
+        "time": "2026-10-05T10:58:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100404350005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025200051",
+        "summary": "오전 7시부터 방문객 몰려 북새통…4일 누적 관람객 89만1천명",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대'",
+        "time": "2026-10-05T10:51:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2026/08/05/42/PCM20260805000042063_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025700530",
+        "summary": "전년보다 36.5% 증가하며 3만명 넘어…\"이공계 학과, 지역의대 합격선에 변수\"",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "'무허가에 구역 무시'…군산해경, 꽃게 조업 어선 2척 적발",
+        "time": "2026-10-05T10:20:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005021000055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005021000055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "운문댐 가뭄 장기화…대구시 \"다음 달 초 금호강 물 공급 예상\"",
+        "time": "2026-10-05T09:47:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005018600053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005018600053",
+        "summary": "저수율 22.9% 가뭄 '심각'…현재 낙동강서 7만t 추가 공급",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "전남광주시의회 상임위 배분 갈등 '분수령'…의장, 중재 나서",
+        "time": "2026-10-05T10:48:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2026/09/01/32/PCM20260901000132990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005023300054",
+        "summary": "기후환경본부 등 미래산업위 이관 제안…7일 사실상 조율 마지노선",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "경북도, 구제역 발생 예천 한우농가 긴급 방역…임상예찰 강화",
+        "time": "2026-10-05T09:07:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/07/03/PYH2026070307080005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005015100053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "전남 서해안 등 3곳 풍랑주의보…흑산도·홍도에 강풍주의보",
+        "time": "2026-10-05T11:04:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20261005026500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "경남도, 가을 행락철 맞아 출렁다리·집라인 등 27곳 안전 점검",
+        "time": "2026-10-05T10:57:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005025800052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025800052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "아산서 덤프트럭이 도로 이정표 작업차 들이받아…3명 사상",
+        "time": "2026-10-05T10:20:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2021/07/19/53/PCM20210719000053990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005020700063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "강원 태백·평창산지에 한파주의보",
+        "time": "2026-10-05T10:16:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20261005020500527",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "일면식 없는 20대 여성에 돌덩이 휘두른 50대 남성 체포",
+        "time": "2026-10-05T09:43:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2022/03/28/07/PCM20220328000107990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005018200061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "경남도, 산불 전담조직 '119산불특수대응단' 내년 1월 출범",
+        "time": "2026-10-05T09:15:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002047100052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002047100052",
+        "summary": "소방본부 산하 정원 54명…지리산권 산청군 금서면에 임시청사",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "경기도, 산후조리비 유지 전망…시군에 '접수 재개' 공문",
+        "time": "2026-10-05T09:01:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002156600061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002156600061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "유치장 변기 막아 물 넘치게 하고 경찰관 폭행한 40대 실형",
+        "time": "2026-10-05T09:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2025/03/27/28/PCM20250327000028990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002064400051",
+        "summary": "입감 업무 방해 혐의…징역 6개월 선고",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "남양주 주방기기 제조 공장서 불…인명피해 없어",
+        "time": "2026-10-05T10:21:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005022500060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005022500060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "[내일날씨] 전국 맑고 아침 쌀쌀…15도 안팎 일교차·강풍 주의",
+        "time": "2026-10-05T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2024/11/05/PYH2024110502430001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005003000004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "마약 공급망 겨눈 경찰…밀수·제조사범 검거 33.8% 늘어",
+        "time": "2026-10-05T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/03/25/PYH2026032501460001302_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005007100004",
+        "summary": "우수 수사팀 10개팀에 총 5천만원 포상…중수청 등 공조 강화",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "김포서 도토리 채취하러 외출한 80대 숨진 채 발견",
+        "time": "2026-10-05T08:59:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2018/04/02/02/C0A8CA3C00000162843657C3001EA325_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20261005014300065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "나주서 장애인 부부 단독주택에 불…70대 아내 숨져(종합)",
+        "time": "2026-10-05T08:37:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005000451054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005000451054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "귀국 앞둔 20대 외국인 근로자, 숙소서 숨진 채 발견",
+        "time": "2026-10-05T08:34:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2021/07/19/50/PCM20210719000050990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005012100054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "국회도서관 분관 광주 유치전으로 지역사회 '과열'",
+        "time": "2026-10-05T08:30:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2020/10/28/91/PCM20201028000191990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261003045800054",
+        "summary": "남구 '내분'에 북구까지 '참전'…거론 장소만 5곳",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "\"1번\"이라 불린 81년생 보우소나루…1위로 브라질 대선 결선행",
+        "time": "2026-10-05T11:00:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005025100087_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005025100087",
+        "summary": "자이르 보우소나루 전 대통령 장자…부드러움과 친화력이 강점",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "세계 호남인 250여명, 고향서 화합·우의 다져",
+        "time": "2026-10-05T10:53:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005024700054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005024700054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "\"플라이두바이 여객기 테러 시도 단독범행 가능성 유력\"",
+        "time": "2026-10-05T10:20:00",
+        "img": "https://img1.yna.co.kr/photo/ap/2026/10/01/PAP20261001021201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005022300009",
+        "summary": "\"'외로운 늑대'식 테러 사건 추정\"…최종 결과까진 한참",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "빙하·암석 붕괴 어떻게 대홍수 됐나…中·네팔 공동 조사 착수",
+        "time": "2026-10-05T09:47:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005018000083_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005018000083",
+        "summary": "50여명 조사단 네팔 현장 투입…드론·헬기 동원해 재해 전 과정 추적",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "영국 녹색당 \"시온주의는 인종차별\" 규정…이스라엘 즉각 반발",
+        "time": "2026-10-05T08:49:00",
+        "img": "https://img3.yna.co.kr/photo/etc/epa/2026/10/02/PEP20261002221001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005013200009",
+        "summary": "전당대회서 결의안 채택…단일 팔레스타인 국가 수립도 지지",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "'증평경찰서 유치' 허위사실 공표 혐의 이재영 군수 불송치",
+        "time": "2026-10-05T10:05:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2022/07/13/81/PCM20220713000081064_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002162700064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "경북 경주-프랑스 베르사유, 자매결연 40년 앞두고 교류 확대",
+        "time": "2026-10-05T09:57:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005019400053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261005019400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "울주군, '제5회 영남알프스 완등인의 날' 행사 개최",
+        "time": "2026-10-05T09:10:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/10/18/PYH2025101802860005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002118800057",
+        "summary": "오는 17일 영남알프스 복합웰컴센터서 다양한 프로그램 운영",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      },
+      {
+        "title": "도난·유실 문화재 27년간 2만2천점…회수율은 18.2% 불과",
+        "time": "2026-10-05T09:00:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002123300005_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261002123300005",
+        "summary": "비지정·민간 문화재에 피해 집중…진선미 \"방범·보안 예산 강화\"",
+        "source": "yna",
+        "date": "2026년 10월 05일 월요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 10월 04일 일요일",
     "articles": [
       {
