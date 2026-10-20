@@ -1070399,5 +1070399,367 @@
         "summary": "그릇에 관한 글을 읽다 '운두'를 만났다. 순우리말 이름씨, 곧 명사이다. 그릇이나 신발 같은 물건의 둘레나 둘레의 높이를 이른다. 이제 얼마든지 이 말로 문장을 만들 수 있다. '그 그릇은 운두가 낮아 국물을 못 담는다.' '며칠 전에 산 새 신발을 몇 번 신었는데 뒤꿈치가 까져 아팠다. 그저 길들지 않아서일까, 애초 뒤축 운두가 높아서일까.'"
       }
     ]
+  },
+  {
+    "date": "2026년 10월 20일 화요일",
+    "articles": [
+      {
+        "title": "머스크 \"내년 미국 모든 어린이에 스페이스X 1주씩 줄 것\"",
+        "time": "",
+        "img": "https://img8.yna.co.kr/photo/ap/2026/10/14/PAP20261014001101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019175700009",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 軍 \"北, 정당한 우리軍 작전에 적반하장…도발시 단호히 대응\"",
+        "time": "2026-10-20T09:43:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/05/PYH2026100507560001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020049600504",
+        "summary": ""
+      },
+      {
+        "title": "김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
+        "time": "2026-10-20T08:02:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020019200001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020019200001",
+        "summary": "브런슨 '한국은 DMZ 이남부터' 발언엔 \"여러 가지로 굉장히 부적절\""
+      },
+      {
+        "title": "美전쟁부 \"전작권 전환, 한미 상호합의 조건 충족돼야\"",
+        "time": "2026-10-20T07:59:00",
+        "img": "https://img2.yna.co.kr/photo/ap/2023/07/29/PAP20230729066801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020020100504",
+        "summary": ""
+      },
+      {
+        "title": "李대통령, 23일 규제합리화委 주재…메가프로젝트 지원 논의",
+        "time": "2026-10-20T09:36:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/04/15/PYH2026041505040001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020047400001",
+        "summary": "6개월 만에 2차 회의…국가창업시대 전환 지원 방안도 토론"
+      },
+      {
+        "title": "\"8년째 방치된 상가임대차법 환산보증금…소상공인 보호 못해\"",
+        "time": "2026-10-20T07:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101911090005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019151500001",
+        "summary": "野우재준 \"정부, 주요상권 실태부터 파악하고 기준 현실화해야\""
+      },
+      {
+        "title": "해군, 서해상에서 '호국훈련 일환' 연합·합동 해상기동훈련",
+        "time": "2026-10-20T09:28:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032603240001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020035300504",
+        "summary": "수상함 20척에 한미 해군 해상초계기, 공군 전투기도 참여"
+      },
+      {
+        "title": "[게시판] 관세청 중앙관세분석소, 국제마약 분석 정확성 기준 충족",
+        "time": "2026-10-20T09:29:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/12/28/79/PCM20241228000079640_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020039100002",
+        "summary": ""
+      },
+      {
+        "title": "[게시판] 민주평통 케냐분회, '평화통일 강연 및 세무 토론회' 개최",
+        "time": "2026-10-20T08:51:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020023700371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020023700371",
+        "summary": ""
+      },
+      {
+        "title": "식약처, '신생아·암환자 치료' 국가필수의약품 8종 신규 지정",
+        "time": "2026-10-20T08:10:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2025/12/16/67/PCM20251216000067990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020022600017",
+        "summary": "복합 아미노산 수액·다우노루비신 주사제 등 포함"
+      },
+      {
+        "title": "BNK부산은행, 지역축제 후원금 2억원 쾌척…20년간 60억 후원",
+        "time": "2026-10-20T07:51:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2022/09/20/70/PCM20220920000070990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020018300051",
+        "summary": ""
+      },
+      {
+        "title": "[서천소식] 영농부산물 무료 파쇄 지원…11월 13일까지 신청",
+        "time": "2026-10-20T09:49:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020052600063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020052600063",
+        "summary": ""
+      },
+      {
+        "title": "[동포의 창] 한인 2세 첫 美 USC 총장 취임…\"새로운 150년 열겠다\"",
+        "time": "2026-10-20T09:33:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020045000371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020045000371",
+        "summary": "김병수 총장, AI 시대 교육 혁신·융합 연구 강화 비전 제시"
+      },
+      {
+        "title": "광명시, 학온역 공사 지하수로 친환경 공원 조성",
+        "time": "2026-10-20T09:21:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/06/16/11/PCM20260616000111061_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020040500061",
+        "summary": "관리소 냉난방·실개천 조경수 활용…내년 말 준공"
+      },
+      {
+        "title": "[테크스냅] 나루씨큐리티, AI 공격 막는 'AI 웹 방어' 서비스 출시",
+        "time": "2026-10-20T09:15:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020037500017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020037500017",
+        "summary": "스틸리언, 인도네시아 은행 2곳에 앱 보안 솔루션 공급"
+      },
+      {
+        "title": "과학으로 기록한 독도…해양과학기술원, 디지털 창구 새단장",
+        "time": "2026-10-20T09:04:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020035600051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020035600051",
+        "summary": ""
+      },
+      {
+        "title": "연합뉴스, AI로 '취재 아카이브' 분석한다…'연합LM' 독자개발",
+        "time": "2026-10-20T09:00:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2021/11/15/09/PCM20211115000109990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019131300017",
+        "summary": "취재 자료 공동 활용·AI 검색·팩트체크…통합 AI플랫폼 구축"
+      },
+      {
+        "title": "HS효성인포메이션시스템, 역삼동으로 사옥 이전…AX센터 구축",
+        "time": "2026-10-20T08:47:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020031300003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020031300003",
+        "summary": ""
+      },
+      {
+        "title": "개발이익을 인쇄소상공인 보금자리로…중구 '세운WORKS' 착공",
+        "time": "2026-10-20T08:44:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020031500004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020031500004",
+        "summary": "기부채납으로 건축비 마련…지상 18층 규모, 2029년 입주 목표"
+      },
+      {
+        "title": "수험생 컨디션 관리하려면…\"카페인 함량 꼭 확인하세요\"",
+        "time": "2026-10-20T08:37:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/04/20/PYH2026042011840001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020027900017",
+        "summary": "청소년, 체중 1㎏당 2.5㎎까지만…녹차·초콜릿에도 있어"
+      },
+      {
+        "title": "양현재단, 설립 20주년 기념 '해운물류연구 세미나'",
+        "time": "2026-10-20T08:33:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020027100051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020027100051",
+        "summary": "중국 급성장 속 국내 조선·부산항 미래 발전 방향 논의"
+      },
+      {
+        "title": "네오위즈, '안녕서울: 이태원편' 스팀 넥스트 페스트 출품",
+        "time": "2026-10-20T08:19:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020023300017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020023300017",
+        "summary": ""
+      },
+      {
+        "title": "괴산시골절임배추 판매가 동결…\"20㎏ 1상자에 4만5천원\"",
+        "time": "2026-10-20T08:05:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020020400064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020020400064",
+        "summary": ""
+      },
+      {
+        "title": "단원고 옆 세월호 치유 '안산누리봄센터' 내년 1월 개관",
+        "time": "2026-10-20T09:49:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020049400061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020049400061",
+        "summary": ""
+      },
+      {
+        "title": "부산구치소서 또 동료 수감자 집단폭행…재소자 3명 수사",
+        "time": "2026-10-20T09:46:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2025/03/11/80/PCM20250311000080990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020051200051",
+        "summary": ""
+      },
+      {
+        "title": "'홈캠 삭제' 2개월 딸 살해 혐의 친부 송치…\"살해 의도 없었다\"",
+        "time": "2026-10-20T09:37:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020045800061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020045800061",
+        "summary": "경찰, 사망 직후 원격 삭제한 영상 복원해 입증…유치장 나서며 \"미안해\""
+      },
+      {
+        "title": "\"가시내\" 한 마디에…통닭집 사장 폭행한 계란집 주인 벌금형",
+        "time": "2026-10-20T09:35:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2025/06/02/36/PCM20250602000036990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020046700055",
+        "summary": "넘어뜨리고 밟는 등 폭행…재판부 \"용서 못 받아\" 벌금 500만원"
+      },
+      {
+        "title": "월세 10만원·최대 6년 거주…홍천 청년임대주택 21일 개소",
+        "time": "2026-10-20T09:25:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020043100062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020043100062",
+        "summary": ""
+      },
+      {
+        "title": "부산 서구 근린생활시설서 화재…4명 연기흡입",
+        "time": "2026-10-20T09:21:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020042400051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020042400051",
+        "summary": ""
+      },
+      {
+        "title": "영등포구, 29∼30일 무차별 범죄·딥페이크 대처법 특강",
+        "time": "2026-10-20T09:34:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020047900004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020047900004",
+        "summary": ""
+      },
+      {
+        "title": "울산 북부경찰서, 화물차 운전자 대상 교통안전 캠페인",
+        "time": "2026-10-20T09:11:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2023/04/20/99/PCM20230420000099990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019088000057",
+        "summary": ""
+      },
+      {
+        "title": "[부산소식] 부산대, 학생 참여형 지역기업 발굴 프로젝트 추진",
+        "time": "2026-10-20T08:55:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2024/08/24/75/PCM20240824000075051_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020030100051",
+        "summary": ""
+      },
+      {
+        "title": "[아동신간] '말풍선' 판타지로 풀어낸 소통과 존중…'말 좀 합시다'",
+        "time": "2026-10-20T08:46:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020024900005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020024900005",
+        "summary": "성장의 의미를 묻다…'나, 정봄, 달라질 거야!'"
+      },
+      {
+        "title": "[인사] 경기 연천군",
+        "time": "2026-10-20T08:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20261020027800060",
+        "summary": "◇ 5급"
+      },
+      {
+        "title": "대구·경북 학교 체육관 339곳 미개방…개방률 제자리",
+        "time": "2026-10-20T08:02:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/15/PYH2026101503080001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020019800053",
+        "summary": "경북 개방 지원예산 2년 새 44％ 늘었지만 개방률 1.9％p 상승 그쳐"
+      },
+      {
+        "title": "부산시, 감염안전 돌봄 인증기관 7곳 추가 선정",
+        "time": "2026-10-20T07:55:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020018500051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020018500051",
+        "summary": ""
+      },
+      {
+        "title": "부산 APEC나루공원·금련산역에 러너 지원공간 추가 조성",
+        "time": "2026-10-20T07:53:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020018400051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020018400051",
+        "summary": ""
+      },
+      {
+        "title": "제천 마늘 가공공장서 불…인명피해 없어",
+        "time": "2026-10-20T07:47:00",
+        "img": "https://img3.yna.co.kr/photo/cms/2019/01/23/92/PCM20190123000192990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020017700064",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 경찰 '장모살인·아내납치' 김성우 송치…\"18회 스토킹\"",
+        "time": "2026-10-20T07:35:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101922390000400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020016700004",
+        "summary": ""
+      },
+      {
+        "title": "구미시청·의회 업무추진비 사용 한눈에…시민공개 사이트 개설",
+        "time": "2026-10-20T07:01:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020010400053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020010400053",
+        "summary": ""
+      },
+      {
+        "title": "열네살 얼굴에 최루탄…프랑스 시위격화 뒤엔 경찰 과잉진압",
+        "time": "2026-10-20T09:11:00",
+        "img": "https://img4.yna.co.kr/photo/reuters/2026/10/20/PRU20261020011101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020030000009",
+        "summary": "손 잘리고 눈에 고무탄…당국, 경찰 위법행위 34건 조사중"
+      },
+      {
+        "title": "\"이란, 지미 카터처럼 트럼프에도 '선거 패배' 응징하려\"",
+        "time": "2026-10-20T09:08:00",
+        "img": "https://img1.yna.co.kr/photo/etc/af/2026/10/20/PAF20261020073001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020034600009",
+        "summary": "\"호르무즈 해협 공격 확대해 유가 불안 조성\""
+      },
+      {
+        "title": "\"EU, 북극 시추 국제금지 추진 중단…환경→안보 무게중심 이동\"",
+        "time": "2026-10-20T08:53:00",
+        "img": "https://img8.yna.co.kr/photo/etc/xi/2026/08/12/PXI20260812012601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020033200009",
+        "summary": "강대국 각축에 EU도 전략 수정…안보 우려·기후 공조 약화 반영"
+      },
+      {
+        "title": "美, 제재 대상 유조선을 합법적 선박으로 전환 중",
+        "time": "2026-10-20T08:33:00",
+        "img": "https://img8.yna.co.kr/photo/ap/2026/10/10/PAP20261010002801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020022200009",
+        "summary": "라이트 에너지부 장관 \"수십∼수백척 전환 예상\""
+      },
+      {
+        "title": "日, 탐사기 MMX 발사 성공…화성 위성 첫 시료 채취 도전",
+        "time": "2026-10-20T08:32:00",
+        "img": "https://img4.yna.co.kr/photo/reuters/2026/10/20/PRU20261020102201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020026600073",
+        "summary": "화성 위성 '포보스' 모래 채취해 2031년 귀환 목표"
+      },
+      {
+        "title": "\"美국방, 이스라엘 '깜짝 방문'…네타냐후와 회동\"",
+        "time": "2026-10-20T07:57:00",
+        "img": "https://img5.yna.co.kr/photo/ap/2026/07/29/PAP20260729084301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020019900071",
+        "summary": "美매체 \"美·이스라엘의 對이란 군사작전 재개 논의 와중에 방문\""
+      },
+      {
+        "title": "\"천태산 천년 은행나무 기린다\" 357명 시 모음집 출간",
+        "time": "2026-10-20T09:41:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2019/10/24/02/PCM20191024000102064_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019175900064",
+        "summary": ""
+      },
+      {
+        "title": "기존 시설 과부하 해소…군산 옥산면에 18홀 파크골프장 조성",
+        "time": "2026-10-20T09:38:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/09/12/PYH2026091202760006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020048300055",
+        "summary": ""
+      },
+      {
+        "title": "'한성백제기 토성' 증평 추성산성에 탐방센터·둘레길 조성",
+        "time": "2026-10-20T08:34:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020028800064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020028800064",
+        "summary": ""
+      },
+      {
+        "title": "中이 먼저 지정한 그네뛰기·해금산조…반크 \"국가유산 지정 촉구\"",
+        "time": "2026-10-20T09:04:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020022900371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261020022900371",
+        "summary": "'우리 목록에 없는 우리 유산' 캠페인 시작…\"2년째 기초목록 머물러\""
+      },
+      {
+        "title": "[이집트 미라전] 파라오 왕궁서 나온 목걸이…3천년 전 아름다움을 만나다",
+        "time": "2026-10-20T07:19:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019000400005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261019000400005",
+        "summary": "스카라브 팔찌부터 화장품 상자까지…고대 이집트인의 미의식"
+      }
+    ]
   }
 ]
