@@ -3,19 +3,6 @@
     "date": "2026년 10월 21일 수요일",
     "articles": [
       {
-        "title": "POSCO홀딩스, 호주 4조원대 저탄소 철강 프로젝트 보도에 \"확정된 바 없다\"",
-        "time": "2026-10-21T11:02:00",
-        "img": "",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395857",
-        "source": "fntoday",
-        "date": "2026년 10월 21일 수요일"
-      }
-    ]
-  },
-  {
-    "date": "2026년 10월 21일 수요일",
-    "articles": [
-      {
         "title": "[TD사설] 李의 주사파적 사고, 국가 안보 망친다",
         "time": "2026-10-21T03:42:00",
         "img": "https://cdn.truthdaily.co.kr/news/photo/202610/6888_13459_4227.jpg",
@@ -3255,19 +3242,109 @@
         "summary": "",
         "source": "yna",
         "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "전국 맑지만 출근길 기온 '뚝'…곳곳 얼음",
+        "time": "2026-10-22T05:32:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/10/21/PYH2026102118740001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022008200034",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "美, 후티 공격 임박했나…사우디 체류 美공무원·가족 대피령",
+        "time": "2026-10-22T05:42:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022009100071_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022009100071",
+        "summary": "국무부 \"필수인력 아닌 직원·가족 대상…후티, 점점 더 적대행위\"",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "트럼프 \"우크라 종전 어느때보다 가까워…러 미국인 석방 감사\"",
+        "time": "2026-10-22T05:15:00",
+        "img": "https://img0.yna.co.kr/photo/ap/2026/10/22/PAP20261022083901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022007400071",
+        "summary": "'푸틴은 인도주의자' 美특사 발언엔 \"석방 목적\" 사실상 두둔",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "美, PHP 해킹비상에 \"즉각 업데이트 못하면 오프라인 전환하라\"",
+        "time": "2026-10-22T04:53:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022007000071_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022007000071",
+        "summary": "국가안보국·연방수사국, '원격 코드 실행' 해킹 경고",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "\"이스라엘 군용기 수십대, 이란 국경 비행\"…공격 빌미 유도?",
+        "time": "2026-10-22T03:52:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022005100079_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022005100079",
+        "summary": "이스라엘 측 \"단순 훈련\" 해명에도 美 \"이란 반격 유도 목적 의심\"",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "푸틴을 \"인도주의자\"라 부른 트럼프 특사…공화당서 비판 세례",
+        "time": "2026-10-22T03:15:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022004400071_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022004400071",
+        "summary": "윗코프의 푸틴 면담 발언 알려지자 \"정말 창피…푸틴은 냉혈 살인자\"",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "PHP 웹해킹 비상속 일부 배포업체, 패치유출 논란…숨죽인 6시간",
+        "time": "2026-10-22T03:07:00",
+        "img": "https://img4.yna.co.kr/photo/reuters/2026/10/22/PRU20261022028301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022004200091",
+        "summary": "공조 깨고 6시간 앞서 기습 공개…\"공격자에 역분석 기회 제공한 셈\"",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "무정부 극좌 선동? 이주민 탓?…프랑스 폭력시위 배후 공방",
+        "time": "2026-10-22T02:50:00",
+        "img": "https://img1.yna.co.kr/photo/etc/af/2026/10/18/PAF20261018279601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022003700085",
+        "summary": "\"프랑스 정보기관, 급진좌파 연계 보고\"…건물엔 무정부주의 상징 'A'",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "폴란드 의회, 낙태 처벌 완화…우파 대통령이 거부할듯(종합)",
+        "time": "2026-10-22T02:49:00",
+        "img": "https://img6.yna.co.kr/photo/ap/2024/04/12/PAP20240412237201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261021156551082",
+        "summary": "보수진영 반발에 '완전 합법화' 3년째 제자리",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
+      },
+      {
+        "title": "카르텔 범죄로 얼룩진 멕시코…20년간 언론인 169명 피살",
+        "time": "2026-10-22T02:36:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022003200087_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261022003200087",
+        "summary": "\"조직범죄와 부패가 살인의 주요 요인\"…대부분 미해결",
+        "source": "yna",
+        "date": "2026년 10월 21일 수요일"
       }
     ]
   },
   {
-    "date": "2026년 10월 20일 화요일",
+    "date": "2026년 10월 21일 수요일",
     "articles": [
       {
-        "title": "\"사우디 아람코 타격\" 대 \"美 대러 제재 완화\"… 국제유가, 악재·호재 엇갈리며 '혼조'",
-        "time": "2026-10-20T09:34:00",
+        "title": "POSCO홀딩스, 호주 4조원대 저탄소 철강 프로젝트 보도에 \"확정된 바 없다\"",
+        "time": "2026-10-21T11:02:00",
         "img": "",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395729",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395857",
         "source": "fntoday",
-        "date": "2026년 10월 20일 화요일"
+        "date": "2026년 10월 21일 수요일"
       }
     ]
   },
@@ -6837,6 +6914,19 @@
         "url": "https://www.yna.co.kr/view/AKR20261020150900546",
         "summary": "'을씨년스럽다.' 을사년(乙巳年)이던 지난해 이 말의 유래를 두고 말들이 많았다. '을씨년스럽다'가 과거 어느 한 을사년에서 왔다는 학설 때문이다. 수많은 매체가 그 을사년은 '1905년'이라고 했다. 통한의 을사늑약이 강제된 해. 그 분위기가 투영되어 낱말이 만들어졌다는 설명이었다. 서사가 그럴듯해서였을까, 사람들은 이 어원설을 굳게 믿고 널리 퍼뜨렸다. 1905년 설은 여기저기에서 세를 불리며 기세등등했다. 그런데 웬걸, 반전이 없지 않았다. 1905년 학설은 철 지난 것이라는 사실, 나아가 이 설은 보다 강력한 입증 능력을 보이는 연구 결과에 힘입어 힘을 잃게 되었다는 점이다.",
         "source": "yna",
+        "date": "2026년 10월 20일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 10월 20일 화요일",
+    "articles": [
+      {
+        "title": "\"사우디 아람코 타격\" 대 \"美 대러 제재 완화\"… 국제유가, 악재·호재 엇갈리며 '혼조'",
+        "time": "2026-10-20T09:34:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395729",
+        "source": "fntoday",
         "date": "2026년 10월 20일 화요일"
       }
     ]
