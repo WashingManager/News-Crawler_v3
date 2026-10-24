@@ -62,6 +62,38 @@
     "date": "2026년 10월 24일 토요일",
     "articles": [
       {
+        "title": "[속보] 김정은 북한 국무위원장 전격 방중",
+        "time": "2026-10-24T16:46:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=313441&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "대한항공, 수탁사서 고객 예약번호 유출… \"추가피해 방지에 총력\"",
+        "time": "2026-10-24T18:25:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=313445&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "효성중공업, 2GW급 HVDC 핵심기술 2027년 국산화 속도",
+        "time": "2026-10-24T17:49:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=313444&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2026년 10월 24일 토요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 10월 24일 토요일",
+    "articles": [
+      {
         "title": "김정은, 중대장대회 지도…\"최강중대 육성으로 강군건설\"",
         "time": "2026-10-24T07:59:00",
         "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/24/PYH2026102400910004200_T2.jpg",
@@ -706,6 +738,177 @@
         "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024042500007_01_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20261024042500007",
         "summary": "LPGA BMW 레이디스 챔피언십 3R서 아쉬운 공동 2위",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "與정보위 간사 \"김정은, 中서 리창 아닌 왕후닝 만나…계획변경\"",
+        "time": "2026-10-24T21:56:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/24/PYH2026102400910004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024053800001",
+        "summary": "국정원 추가보고…애초 언론에 '리창과 회동' 알렸다 정정",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] 김정은 \"역사적 고비에 北 지원한 중국군 추모…감사와 경의\" <신화통신>",
+        "time": "2026-10-24T20:27:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024051200089",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "김정은 방중에 中단둥 '비상경계'…\"인공기 걸리고 도로 통제\"",
+        "time": "2026-10-24T19:10:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101419410001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024048400083",
+        "summary": "베이징은 경계강화 없이 조용…전문가 \"베이징서 시 주석 만나진 않을듯\"",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] \"김정은, 中항미원조기념관서 헌화…車공장도 방문\" <신화통신>",
+        "time": "2026-10-24T20:42:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024052000089",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] 왕후닝 \"北과 전략적 협력 강화…안정된 외부환경 조성\" <신화통신>",
+        "time": "2026-10-24T20:38:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024051600089",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] 김정은 \"北사회주의사업에 대한 中도움 감사…협력전망 넓어\" <신화통신>",
+        "time": "2026-10-24T20:20:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024050900089",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] \"김정은, 中단둥 떠나…왕후닝 신압록강대교서 배웅\" <신화통신>",
+        "time": "2026-10-24T20:13:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024050700089",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "김민석, '曺탄핵' 질문에 \"국조 포함해 원래 생각대로 차근차근\"(종합)",
+        "time": "2026-10-24T19:57:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102303150001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024028351001",
+        "summary": "장동혁, 吳무죄 뒤 與일각 탄핵론 고삐에 \"이정도면 만물 조희대설 수준\"",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "李대통령 \"아시안패러게임 선수들, 불가능 넘어선 주인공\"",
+        "time": "2026-10-24T18:54:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102310540001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024048700001",
+        "summary": "\"장애가 장벽 되지 않는 사회 만들기 위해 노력\"",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "韓총리 \"이태원 참사 재차 깊이 사과…진상 명백히 밝혀야\"",
+        "time": "2026-10-24T18:49:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102017270001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024048200001",
+        "summary": "시민추모대회 참석…\"수사·특조위 조사 철저히 이뤄지도록 지원\"",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "완주서 빗속 도로 건너다 차량 2대에 연이어 사고…의식불명",
+        "time": "2026-10-24T22:24:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2025/07/25/36/PCM20250725000036990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024054500055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "무죄판결 이튿날 보폭 넓힌 오세훈 시장…종일 외부 일정 소화(종합)",
+        "time": "2026-10-24T22:12:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024032451004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024032451004",
+        "summary": "국행수륙재·이태원참사 추모대회·감사의정원 석재기증 기념식 참석",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "호남고속도로 서광주IC 인근서 승합차 가드레일 충돌…7명 경상",
+        "time": "2026-10-24T20:01:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2023/03/04/23/PCM20230304000123990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024050000054",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "청주서 '과학실험경연대회' 열려…초중고생 250여명 참가",
+        "time": "2026-10-24T19:28:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024049400064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024049400064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "부산 생곡소각장 갈등 확산…강서구 주민 1천500명 빗속 총궐기",
+        "time": "2026-10-24T18:48:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024048300051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024048300051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "경기광주 자동차 매매상사 건물서 60대 남성 추락사…실족 추정",
+        "time": "2026-10-24T19:09:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2022/03/28/85/PCM20220328000085990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024049300061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "후티 반군, 사우디 주요 거점 연쇄 타격…사우디도 보복공습",
+        "time": "2026-10-24T22:13:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024054400079_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024054400079",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[속보] \"김정은, 中단둥서 '서열 4위' 왕후닝과 회담\" <신화통신>",
+        "time": "2026-10-24T20:04:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261024050500083",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 10월 24일 토요일"
+      },
+      {
+        "title": "[부고] 김재현(문화체육관광부 문화미디어산업실장)씨 부친상",
+        "time": "2026-10-24T20:36:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20261024051400005",
+        "summary": "",
         "source": "yna",
         "date": "2026년 10월 24일 토요일"
       }
