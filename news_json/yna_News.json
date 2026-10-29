@@ -1090859,6 +1090859,874 @@
         "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029049900004_04_i_T2.jpg",
         "url": "https://www.yna.co.kr/view/AKR20261029049900004",
         "summary": ""
+      },
+      {
+        "title": "접경지 주민들 \"아침부터 北확성기 소리\"…軍은 \"가동 미확인\"(종합2보)",
+        "time": "2026-10-29T19:41:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102714100001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029146452060",
+        "summary": "軍 \"전방부대서 청취된 것은 아직 없어…北 활동 예의주시 중\""
+      },
+      {
+        "title": "北, 대남 확성기 시험방송…접경지 주민들 \"아침부터 들려\"(종합)",
+        "time": "2026-10-29T16:57:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102217340006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029146451060",
+        "summary": "軍 \"전방부대서 청취된 것은 아직 없어…北 활동 예의주시 중\""
+      },
+      {
+        "title": "北, 대남 확성기 시험 방송…접경지 주민들 \"아침부터 들려\"",
+        "time": "2026-10-29T15:27:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102217380006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029146400060",
+        "summary": ""
+      },
+      {
+        "title": "中, '北 미사일 발사' 침묵 깼다…\"당사국들 평화 노력 희망\"",
+        "time": "2026-10-29T17:02:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102912310001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029176400083",
+        "summary": "中외교부, 9개월만에 '정치적 해결' 언급…\"당사국들 사이에 발사체 규정 이견\""
+      },
+      {
+        "title": "국정원 \"北 600㎜ 초대형 방사포 전방 배치 가능성 주시\"",
+        "time": "2026-10-29T16:10:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/06/26/PYH2026062604310004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029161100001",
+        "summary": "\"극초음속미사일 완성도는 검증 필요…러 무기부품 조달·기술이전 가능성 추적\""
+      },
+      {
+        "title": "[속보] \"김정은, 中에 북미대화 의중 전달 추정…낙관적으론 안봐\"",
+        "time": "2026-10-29T17:57:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100100780004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029190400001",
+        "summary": ""
+      },
+      {
+        "title": "이종석, '탈북어민 강제북송' 질문에 \"돌려보내는 게 맞는다\"",
+        "time": "2026-10-29T19:09:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102909930001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029197200001",
+        "summary": "국정원 '北, 南에 미인계' 보도에 \"확인하겠으나 사실 아닐 것\""
+      },
+      {
+        "title": "접경지 긴장고조에 지자체·軍 공조체계 강화…\"안심하고 생업\"",
+        "time": "2026-10-29T15:47:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029154700065_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029154700065",
+        "summary": "인천 강화군·경기 김포시, 군 당국과 간담회"
+      },
+      {
+        "title": "임광현, '황제골프' 의혹에 \"허위주장…사과 우선돼야\" 반박",
+        "time": "2026-10-29T22:10:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102920490001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029207900001",
+        "summary": "비무장지대 지뢰 관련 '국경선' 언급했다가 정정하기도"
+      },
+      {
+        "title": "국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보 제한\"(종합2보)",
+        "time": "2026-10-29T21:27:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102909950001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156452001",
+        "summary": "정보위 국정감사 답변서 \"극히 일부 제한되나 정찰자산으로 충분히 보충\""
+      },
+      {
+        "title": "與 \"내란 부정 사과해야\"…'김태규 참여' 충돌에 靑국감 파행(종합)",
+        "time": "2026-10-29T18:48:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102920110001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029170651001",
+        "summary": "국힘 \"국감 참여 방해 안돼\"…김태규 \"靑 옹호하고 싶어 애쓴다\""
+      },
+      {
+        "title": "국회 복지위, 양부대병원 방문…\"권역책임의료기관 지정해야\"",
+        "time": "2026-10-29T18:13:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029192300052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029192300052",
+        "summary": "\"전국 국립대 상급종합병원 중 유일하게 미지정\" 한목소리"
+      },
+      {
+        "title": "국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보 제한\"(종합)",
+        "time": "2026-10-29T17:58:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102909950001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156451001",
+        "summary": "정보위 국정감사 답변서 \"극히 일부 제한되나 정찰자산으로 충분히 보충\""
+      },
+      {
+        "title": "[속보] 국정원 \"北 대남방송 보도, 사실 아니다…주민 잘못 신고\"",
+        "time": "2026-10-29T17:57:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102217340006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029190800001",
+        "summary": ""
+      },
+      {
+        "title": "KF-21 장착 '장거리 공대공유도탄' 우선협상대상자에 LIG D＆A",
+        "time": "2026-10-29T17:40:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092226790001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029186500504",
+        "summary": "체계종합 등 세부과제 5개 선정…법원 '입찰제한' 효력정지 심리 변수는 남아"
+      },
+      {
+        "title": "[게시판] 외교부, 국제질병퇴치기금 출국납부금 환급",
+        "time": "2026-10-29T17:30:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20261029181100504",
+        "summary": ""
+      },
+      {
+        "title": "국회 복지위, 9년 방치 부산 침례병원 방문…\"공공병원화 시급\"",
+        "time": "2026-10-29T17:27:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102919310005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029180500051",
+        "summary": "여야 의원 현장 국감서 조속한 정상화 촉구…재원·의료인력 확보 과제"
+      },
+      {
+        "title": "국가공무원 5급 공채·외교관후보자 합격자 발표…최연소 20세",
+        "time": "2026-10-29T18:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/03/08/PYH2025030802330001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029036000001",
+        "summary": ""
+      },
+      {
+        "title": "A-1 아닌 A-2라서?…정청래·진성준 비자불발에 美 '실무심사' 주목",
+        "time": "2026-10-29T20:36:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101907160006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029202000001",
+        "summary": "A-2는 영사가 안보요소 등 심사…홍기원 \"美비자정책 엄격, 과도의미 부여안돼\""
+      },
+      {
+        "title": "李대통령 \"장진호 전투, 혈맹의 역사…한미동맹 더 굳건히 강화\"",
+        "time": "2026-10-29T17:14:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102906640001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029180100001",
+        "summary": "\"영웅들 숭고한 희생 잊지 않겠다…국제사회 일원으로 책임 다 할 것\""
+      },
+      {
+        "title": "국정원 \"계엄 당일 10여명 위법지시 이행…비위직원 징계\"",
+        "time": "2026-10-29T17:11:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102917190001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029177400001",
+        "summary": "국감서 특별감찰 보고…\"정치관여금지 위반 前차장 수사의뢰 추진\""
+      },
+      {
+        "title": "국힘 \"李대통령, 편가르기만 몰두…SNS 좀 줄이고 귀 열라\"",
+        "time": "2026-10-29T16:58:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102903850001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029172400001",
+        "summary": "\"한 달간 145건, 국정운영 아닌 실시간 댓글팀처럼 보여\""
+      },
+      {
+        "title": "원주보훈요양원, 다기능 특별침실 '건강쉼터 온기' 조성",
+        "time": "2026-10-29T16:48:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029175500062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029175500062",
+        "summary": "LH강원본부 후원금 등 1천100만원 투입…임종·재활훈련·면회 활용"
+      },
+      {
+        "title": "[동정] 조규일 진주시장, 국회 방문해 지역 현안 국비 지원 요청",
+        "time": "2026-10-29T16:42:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029167600052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029167600052",
+        "summary": ""
+      },
+      {
+        "title": "정의당 강원 \"도의회·원주시의회 의정비 인상률 3.5%로 낮춰야\"",
+        "time": "2026-10-29T16:33:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2024/11/21/97/PCM20241121000097990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029167000062",
+        "summary": ""
+      },
+      {
+        "title": "국회의원 비자 거부 속출에 SCM은 내년으로…한미관계 '난기류'",
+        "time": "2026-10-29T16:31:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092200680001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029163500504",
+        "summary": "조현 \"韓의원들 비자 발급 신속히 되도록 美에 요청할 것\""
+      },
+      {
+        "title": "국정원 \"北, 김주애 '軍지도자 서사' 구축…4개월째 사정 작업\"(종합)",
+        "time": "2026-10-29T16:30:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/12/25/PYH2025122501150004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029147551001",
+        "summary": "정보위 국정감사…\"北정보기관, 국가정보국·정찰정보총국으로 재편\""
+      },
+      {
+        "title": "임광현 \"장관 후보들 낙마 송구…인사는 시스템으로 이뤄져\"",
+        "time": "2026-10-29T16:24:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102918310001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029165900001",
+        "summary": "野 김민전 \"인사에 김현지 영향력 강한 것 아닌가\""
+      },
+      {
+        "title": "김민석 '무시 기조'에도…與의원들, 유시민에 \"막가자는 거냐\"",
+        "time": "2026-10-29T16:22:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2019/11/16/PYH2019111603230005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029153300001",
+        "summary": "친명계 중심으로 비판 봇물…\"계엄세력에 다시 정권 넘어가면 책임\""
+      },
+      {
+        "title": "국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보 제한\"",
+        "time": "2026-10-29T16:01:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102909950001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156400001",
+        "summary": "정보위 국정감사 답변서 \"극히 일부 제한되나 정찰자산으로 충분히 보충\""
+      },
+      {
+        "title": "육군 37사단 주훈 원사·박동진 중사, 헌혈 증서 150장 기부",
+        "time": "2026-10-29T15:50:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029156700064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156700064",
+        "summary": ""
+      },
+      {
+        "title": "전북 혁신당 \"35년 흔들린 새만금, 국가·전북이 공동 운영해야\"",
+        "time": "2026-10-29T17:11:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2025/12/30/61/PCM20251230000061990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029180900055",
+        "summary": ""
+      },
+      {
+        "title": "국힘 대구시당 \"호남 반도체 위한 대구 전력 인프라 조정 반대\"",
+        "time": "2026-10-29T16:01:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029160800053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029160800053",
+        "summary": ""
+      },
+      {
+        "title": "국힘 주진우, 李대통령 부부 고발…\"황제골프 진실 밝혀야\"(종합)",
+        "time": "2026-10-29T15:48:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102904810001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029081051001",
+        "summary": "\"작년 여름휴가 때 장남 내외와 헬기 타고 황제골프\" 주장도"
+      },
+      {
+        "title": "[동정] 변광용 거제시장, 국회 찾아 주요 사업 지원 요청",
+        "time": "2026-10-29T15:39:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029150900052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029150900052",
+        "summary": ""
+      },
+      {
+        "title": "국정원 \"김정은 방중 때 북미대화 관련 北의중 전달 가능성\"",
+        "time": "2026-10-29T15:37:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/25/PYH2026102501060004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029148500001",
+        "summary": "정보위 국정감사…\"방중, 항미원조 외 숨은 목적 있는 듯\""
+      },
+      {
+        "title": "국정원 \"김주애 軍지도자 서사 구축…핵미사일 실무관여 연출도\"",
+        "time": "2026-10-29T15:25:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/12/25/PYH2025122501150004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029147500001",
+        "summary": "\"후계자 위상 단계적 각인…주민 수용도 높이려는 전략\""
+      },
+      {
+        "title": "[속보] 국정원장 \"한미정보협력 '구성 발언' 등으로 일부 정보만 제한\"",
+        "time": "2026-10-29T15:13:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102909930001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029146700001",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 국정원 \"北, 김주애 후계 내정단계 더욱 공고화…김주애가 본명\"",
+        "time": "2026-10-29T15:09:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2024/01/01/PYH2024010103560004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029143100001",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 국정원장 \"정동영 '北 구성' 발언 소스 국정원 아니다\" 확인",
+        "time": "2026-10-29T15:09:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102708720001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029145200001",
+        "summary": ""
+      },
+      {
+        "title": "與 '한강버스 진상조사단', 오세훈 허위사실 공표 혐의 고발(종합)",
+        "time": "2026-10-29T15:08:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102015330005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029082051001",
+        "summary": "민주당 \"금품수수 의혹 인지하고도 수사의뢰 안해…吳, 감사 각하사유 허위 답변\""
+      },
+      {
+        "title": "[일문일답] 한수원 \"체코 원전 시공사 교체 큰 영향 없을 것\"",
+        "time": "2026-10-29T19:51:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029198700003_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029198700003",
+        "summary": "\"적기 준공 위해 오늘 협상 종료 선언…내년 7월 안으로 새 시공사 선정\""
+      },
+      {
+        "title": "동원산업 최첨단 원양어선 '다누리호' 출항…\"선단 현대화 계기\"(종합)",
+        "time": "2026-10-29T16:56:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102919290001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029035651030",
+        "summary": "2천t급 선망 어선으로 1년간 남태평양서 참치 조업"
+      },
+      {
+        "title": "한은, 11월 최대 7.5조원 규모 통화안정증권 발행",
+        "time": "2026-10-29T17:17:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2025/06/19/71/PCM20250619000071990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029183900002",
+        "summary": ""
+      },
+      {
+        "title": "중진공·안산시, 중기 재직 청년 100명에 우대저축공제 지원",
+        "time": "2026-10-29T16:40:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029171000030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029171000030",
+        "summary": "월 10만원씩 납입하면 원금 120만원 추가 적립"
+      },
+      {
+        "title": "동원산업, 최첨단 선망선 '다누리호' 출항…남태평양 참치 조업",
+        "time": "2026-10-29T16:30:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029035600030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029035600030",
+        "summary": "2천t급 선박으로 AI 어군 탐지 드론·원격 모니터링 적용"
+      },
+      {
+        "title": "[속보] 빗썸 해킹 사고로 직원 외 고객 정보도 수백건 유출",
+        "time": "2026-10-29T16:26:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102812170001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029169100002",
+        "summary": ""
+      },
+      {
+        "title": "넥스트증권 김승연 대표 연임…\"리테일 사업 출시 준비\"",
+        "time": "2026-10-29T16:37:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029171700008_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029171700008",
+        "summary": ""
+      },
+      {
+        "title": "양대노총 \"정년연장 특위 내달초 재개해야\"…연내 입법 촉구",
+        "time": "2026-10-29T15:56:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/06/16/PYH2026061607840001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156800530",
+        "summary": "\"입법 지연으로 소득 크레바스 문제…300만명 4년간 공백\""
+      },
+      {
+        "title": "\"개발협력의 위기, 시민사회가 만드는 변화\"…KCOC, 결과공유회",
+        "time": "2026-10-29T15:28:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029147800371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029147800371",
+        "summary": ""
+      },
+      {
+        "title": "국산 첫 비만약 '에페' 처방 시작…마운자로·위고비에 도전(종합)",
+        "time": "2026-10-29T19:02:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102921590001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261028159851017",
+        "summary": "첫 4주 공급가는 마운자로 반값 13만원…체중 감량 효과 주목"
+      },
+      {
+        "title": "대원제약 \"P-CAB 치료제 임상 3상 성공…연내 허가 신청\"",
+        "time": "2026-10-29T17:35:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2026/10/06/66/PCM20261006000066017_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029187100017",
+        "summary": "\"파도프라잔, 기존 PPI 약품과 유효성·안전성 유사\""
+      },
+      {
+        "title": "울진군, 세계중요농업유산 알린다…31일 산지농업 체험행사 개최",
+        "time": "2026-10-29T17:24:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029184500053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029184500053",
+        "summary": ""
+      },
+      {
+        "title": "[쇼츠] 키보드 누르자 세상 창조…화면·소리 실시간 생성 '지니4'",
+        "time": "2026-10-29T17:20:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029183300704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029183300704",
+        "summary": "#shorts"
+      },
+      {
+        "title": "[쇼츠] K-방산 또 해냈다!…해병대 상륙공격헬기 4년 개발 완료",
+        "time": "2026-10-29T17:12:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029181600704_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029181600704",
+        "summary": "#shorts"
+      },
+      {
+        "title": "[영상] 구글 딥마인드 '지니 4' 공개…가상세계·소리 실시간 생성",
+        "time": "2026-10-29T16:59:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029176700704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029176700704",
+        "summary": ""
+      },
+      {
+        "title": "누리호 6차 탑재 위성 '순천SAT' 발사 준비 속도",
+        "time": "2026-10-29T16:30:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029168900054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029168900054",
+        "summary": ""
+      },
+      {
+        "title": "LH, 잇단 금융권 해킹사태에 사이버보안 점검·대책회의",
+        "time": "2026-10-29T16:23:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029167500003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029167500003",
+        "summary": ""
+      },
+      {
+        "title": "춘천시, AI 도시 전환 기본계획 윤곽…연구용역 최종보고회",
+        "time": "2026-10-29T16:23:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102920630006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029165200062",
+        "summary": "9개 중점사업 제시…4대 전략·31개 과제 마련"
+      },
+      {
+        "title": "동해안 참다랑어 어획량 3년새 3.3배…가두리 양식 가격안정 모색",
+        "time": "2026-10-29T16:20:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060912760006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029165500053",
+        "summary": ""
+      },
+      {
+        "title": "고려아연, 울산공업축제 시민 참여형 기부금 5천만원 전달",
+        "time": "2026-10-29T16:03:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029159500057_04_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029159500057",
+        "summary": "시민 응원 메시지가 나눔으로 이어져…사회복지시설 4곳 지원"
+      },
+      {
+        "title": "창원해경, 가수 장예주 명예해양경찰관 재위촉…임기 2년",
+        "time": "2026-10-29T16:00:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029158100052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029158100052",
+        "summary": ""
+      },
+      {
+        "title": "강원농업기술원, 2026 농작업 재해예방 사업평가회 원주서 개최",
+        "time": "2026-10-29T15:54:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029160100062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029160100062",
+        "summary": ""
+      },
+      {
+        "title": "이태원 참사만이 아니다…'콜 오브 듀티' 논란의 역사",
+        "time": "2026-10-29T15:36:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029148300017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029148300017",
+        "summary": "북한 남침 다룬 최신작에 이태원 참사 영상까지 등장"
+      },
+      {
+        "title": "목포 해상풍력 플랫폼센터 개관…해상풍력 산업 거점 마련",
+        "time": "2026-10-29T15:34:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029150700054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029150700054",
+        "summary": ""
+      },
+      {
+        "title": "장수 주택 창고서 화재로 1명 다쳐…아궁이 불씨 옮겨 붙어",
+        "time": "2026-10-29T21:52:00",
+        "img": "https://img7.yna.co.kr/photo/cms/2019/05/23/91/PCM20190523000191990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029207400055",
+        "summary": ""
+      },
+      {
+        "title": "'노쇼 사기' 조직원 구속…서울중수청 1호 보이스피싱 사건(종합)",
+        "time": "2026-10-29T20:42:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/16/PYH2026101602390001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029120251004",
+        "summary": "\"도주·증거인멸 우려\"…해외 거점 조직으로 수사 확대"
+      },
+      {
+        "title": "'구로 주택가 시신유기' 80대 집주인 등 구속영장 기각",
+        "time": "2026-10-29T20:21:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029203300004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029203300004",
+        "summary": "법원 \"구속 사유·필요성 인정 어려워\""
+      },
+      {
+        "title": "[날씨] 금요일 전국 흐리고 일부 비소식…아침 최저 4도 쌀쌀",
+        "time": "2026-10-29T20:00:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102807320005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029191400004",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 법원, 구로 시신유기 혐의 피의자 구속영장 기각",
+        "time": "2026-10-29T19:55:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2024/11/24/PYH2024112405700001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029202600004",
+        "summary": ""
+      },
+      {
+        "title": "검찰미래위 조사단, 준비미흡으로 위례사건 등 결과 보고 미뤄(종합)",
+        "time": "2026-10-29T19:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061019790000400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029131651004",
+        "summary": "지난 15일 첫 보고 때 요청받은 보완조사 보고해야"
+      },
+      {
+        "title": "변호사단체 \"조희대 국정조사 목적 우려…사법부 압박 수단\"",
+        "time": "2026-10-29T20:19:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102902940001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029202300004",
+        "summary": ""
+      },
+      {
+        "title": "[대전소식] 배재대, AI 기반 '학습경험 플랫폼' 도입 협약",
+        "time": "2026-10-29T18:00:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029190000063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029190000063",
+        "summary": ""
+      },
+      {
+        "title": "윤호중 \"긴급한 소방재정 부족분, 미래대응기금으로 충당해달라\"",
+        "time": "2026-10-29T17:38:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102919620001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029185900530",
+        "summary": "임은정 청장 감찰 \"아직 보고 못 받아\"…중수청 관련 조직은 \"정책협력관 수준 검토\""
+      },
+      {
+        "title": "금요일 비 그치고 기온 올라…낮 최고 21도·출근길 안개 주의",
+        "time": "2026-10-29T17:28:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102918110005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029182400530",
+        "summary": "충청·남부 새벽까지 비 조금…수도권 일부 가시거리 200m 미만"
+      },
+      {
+        "title": "경기도 버스파업 예고에…서울시, 지하철 추가투입 등 대책 추진",
+        "time": "2026-10-29T17:22:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102910950006100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029184100004",
+        "summary": ""
+      },
+      {
+        "title": "'1심 중형' 색동원 시설장, 2심서 장애인성폭행 혐의 무죄 주장",
+        "time": "2026-10-29T17:16:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/02/19/PYH2026021909760001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029182700004",
+        "summary": "시설장 측 \"1심 판결 사실오인·법리오해\"…12월 8일 변론 마무리"
+      },
+      {
+        "title": "사천 주택 화재로 90대 여성 숨져…전기장판 발화 추정",
+        "time": "2026-10-29T17:29:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2025/10/20/88/PCM20251020000088990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029184900052",
+        "summary": ""
+      },
+      {
+        "title": "충남대, 총장 발표 무기연기 후 학무회의서 \"통합 지속추진\"(종합)",
+        "time": "2026-10-29T17:16:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/10/23/PYH2026102311590006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029036351063",
+        "summary": "통합추진위서 재투표 일정·방식 논의 예정…학내 반발 해소가 관건"
+      },
+      {
+        "title": "원주시시설관리공단 가로청소 노사갈등 봉합…재배치 합의",
+        "time": "2026-10-29T17:05:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029179900062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029179900062",
+        "summary": "현원 110명 유지·119개 구간 조정…내년 1월 직원 재배치"
+      },
+      {
+        "title": "상어 '부캉이' 먼바다로 떠났나…부산 북항서 사흘째 안 보여",
+        "time": "2026-10-29T17:04:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102201790005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029178900051",
+        "summary": "당국, 북항 마리나∼5부두까지 관찰 확대…시민 목격담도 없어"
+      },
+      {
+        "title": "전주출입국, 계절근로자·유학생 대상 '찾아가는 민원 서비스'",
+        "time": "2026-10-29T17:01:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2019/05/06/17/PCM20190506000117990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029178100055",
+        "summary": ""
+      },
+      {
+        "title": "구로 주택가 버려진 시신은 중국인 불법체류자…아내와 함께 거주",
+        "time": "2026-10-29T16:47:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029168100004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029168100004",
+        "summary": "시신 유기 지시한 빌라주인 등 2명 구속심사"
+      },
+      {
+        "title": "경남교육감 공약 점검할 도민·학생 평가위원 40명 선정",
+        "time": "2026-10-29T16:46:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029174000052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029174000052",
+        "summary": ""
+      },
+      {
+        "title": "울산 위험물보관시설서 화재·폭발 대비 합동훈련",
+        "time": "2026-10-29T16:53:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029174900057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029174900057",
+        "summary": ""
+      },
+      {
+        "title": "쿠팡, '충북 아이 돌봄 축제' 지원금 5천만원 기탁",
+        "time": "2026-10-29T16:43:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029174700064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029174700064",
+        "summary": ""
+      },
+      {
+        "title": "울산 폐기물업체 잇단 불…장시간 진화에 소방력 투입 반복",
+        "time": "2026-10-29T16:43:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029149000057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029149000057",
+        "summary": "\"허가받은 시설에 정해진 양만큼만 보관해야…위반 시 영업정지까지\""
+      },
+      {
+        "title": "[부산소식] 부산시의회, 30일 대학생 모의의회 경연대회",
+        "time": "2026-10-29T16:45:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2026/06/22/03/PCM20260622000003990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029164600051",
+        "summary": ""
+      },
+      {
+        "title": "원주 노사민정 250명 산업안전 공동선언 실천 결의",
+        "time": "2026-10-29T16:42:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029173600062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029173600062",
+        "summary": "산재 예방·안전교육 강화·사각지대 해소 약속…노사 화합 다져"
+      },
+      {
+        "title": "해경청, 전국 수사경찰관 역량 강화 연수",
+        "time": "2026-10-29T16:36:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029172200065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029172200065",
+        "summary": ""
+      },
+      {
+        "title": "낙동강협의회, 민선 9기 첫 정기회…4대 회장에 김해시장 선출",
+        "time": "2026-10-29T16:33:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029167400052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029167400052",
+        "summary": "7개 지자체 협력 강화·주민체감형 공동사업 추진·수질 개선 공동 대응 논의"
+      },
+      {
+        "title": "울산 태화강서 물고기 무더기 폐사…1천마리 수거(종합)",
+        "time": "2026-10-29T16:23:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029066751057_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029066751057",
+        "summary": "어종은 바리밴댕이…시, 환경 영향 가능성 조사·수질 정밀검사 의뢰"
+      },
+      {
+        "title": "양주·하남교육지원청 신설…내년 9월 개청 목표",
+        "time": "2026-10-29T16:13:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029163700060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029163700060",
+        "summary": ""
+      },
+      {
+        "title": "서울중수청, '노쇼 사기' 보이스피싱 조직원 구속영장 신청",
+        "time": "2026-10-29T16:12:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/16/PYH2026101602390001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029120200004",
+        "summary": "개청 후 보이스피싱 '1호 인지'…해외 거점 조직으로 수사 확대"
+      },
+      {
+        "title": "거창군, 내년 5월까지 산불 예방 입산통제·폐쇄 구간 운영",
+        "time": "2026-10-29T16:05:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029158700052_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029158700052",
+        "summary": ""
+      },
+      {
+        "title": "\"일자리? 주거지원?\"…밸런스게임으로 선택한 대전 청년정책은",
+        "time": "2026-10-29T16:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029135300063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029135300063",
+        "summary": "정책 설계부터 예산 반영까지…'제1대 대전청년의회' 출범"
+      },
+      {
+        "title": "[게시판] 소방청, 30일 독도 헬기사고 순직 대원 7주기 추모식",
+        "time": "2026-10-29T15:58:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029156600530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029156600530",
+        "summary": ""
+      },
+      {
+        "title": "'도심 주차난 해소' 익산시, 모현 제5공영주차장 운영 시작",
+        "time": "2026-10-29T15:45:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029155300055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029155300055",
+        "summary": ""
+      },
+      {
+        "title": "국제앰네스티 \"캄보디아 스캠단지, 경비업체 통해 군경 유착\"",
+        "time": "2026-10-29T15:55:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029159000004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029159000004",
+        "summary": "보고서 \"군경이 경비원 훈련·범죄단지 운영 등 공모\" 주장"
+      },
+      {
+        "title": "후쿠시마 원전 주변 어업 자제 해역 축소…반경 10㎞→7㎞",
+        "time": "2026-10-29T22:19:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029208400073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029208400073",
+        "summary": ""
+      },
+      {
+        "title": "네타냐후 측 \"카타르가 자금지원\"…'캐스팅보트' 아랍계 정당 압박(종합)",
+        "time": "2026-10-29T22:03:00",
+        "img": "https://img1.yna.co.kr/photo/reuters/2026/10/28/PRU20261028183601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029201051079",
+        "summary": "야권 \"선거 정당성 훼손 시도\"…카타르 \"총선 개입 사실 아냐\""
+      },
+      {
+        "title": "[속보] 미 9월 PCE 물가 전년대비 3.6%↑…예상치 소폭 하회",
+        "time": "2026-10-29T21:39:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029206900072_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029206900072",
+        "summary": ""
+      },
+      {
+        "title": "'시진핑 4기' 사상적 토대 마련한 中5중전회…권력 기반 재정비",
+        "time": "2026-10-29T21:09:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/09/30/PYH2026093014780008300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029204400083",
+        "summary": "'종엄치당'으로 '당내 위기 극복' 서사 부각…'시진핑 당 건설 사상' 지위 공고화"
+      },
+      {
+        "title": "네타냐후 진영, '캐스팅보트' 아랍계 정당 전방위 압박",
+        "time": "2026-10-29T19:33:00",
+        "img": "https://img1.yna.co.kr/photo/reuters/2026/10/28/PRU20261028183601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029201000079",
+        "summary": "불법 자금 수수 의혹 등 제기"
+      },
+      {
+        "title": "[속보] 中, 5중전회서 '엄격한 당 관리' 결정 채택",
+        "time": "2026-10-29T18:56:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/02/07/PYH2025020715750001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029198000083",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 中 5중전회서 장유샤 前군사위 부주석 당적 박탈 추인",
+        "time": "2026-10-29T18:50:00",
+        "img": "https://img6.yna.co.kr/photo/etc/epa/2026/01/25/PEP20260125028401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029197100083",
+        "summary": ""
+      },
+      {
+        "title": "칠레 이스터섬 인근 바다서 규모 6.4 지진 발생",
+        "time": "2026-10-29T17:31:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029182900530_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029182900530",
+        "summary": ""
+      },
+      {
+        "title": "[영상] 록히드 \"GMLRS 로켓, 비행 중 궤도 바꿔 새 표적 타격 성공\"",
+        "time": "2026-10-29T17:23:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029184700704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029184700704",
+        "summary": ""
+      },
+      {
+        "title": "이란 혁명수비대 \"호르무즈서 유조선 3척 기뢰 충돌 화재\"",
+        "time": "2026-10-29T18:58:00",
+        "img": "https://img6.yna.co.kr/photo/reuters/2026/10/24/PRU20261024058401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029198100079",
+        "summary": ""
+      },
+      {
+        "title": "이태원 참사 일본인 유족 \"딸 웃는 모습 한번 더봤으면\"",
+        "time": "2026-10-29T16:44:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102807170001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029170800009",
+        "summary": "\"몇 년 지났어도 딸 없다는 사실 받아들일 수 없어\""
+      },
+      {
+        "title": "폭우·강풍 동반 사이클론 '아르나브' 인도 덮쳐…6명 사망",
+        "time": "2026-10-29T16:30:00",
+        "img": "https://img7.yna.co.kr/photo/etc/af/2026/10/29/PAF20261029177301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029168700104",
+        "summary": "3만2천㏊ 농작물 피해·주택 수십 채 파손…일부 지역 전력 복구"
+      },
+      {
+        "title": "[영상] 이륙 7분 만에…美 고속도로에 소형 비행기 비상착륙 '아찔'",
+        "time": "2026-10-29T16:29:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029163200704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029163200704",
+        "summary": ""
+      },
+      {
+        "title": "日중의원 31석 감축안, 여야 3당 정식 합의…연내 입법 청신호(종합)",
+        "time": "2026-10-29T16:11:00",
+        "img": "https://img9.yna.co.kr/photo/etc/af/2026/10/05/PAF20261005115901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029056851009",
+        "summary": "비례대표 176석서 145석으로…'통합 명부제'도 도입"
+      },
+      {
+        "title": "'쇼팽콩쿠르 2위' 日피아니스트, 시속 144㎞ 과속운전 집행유예",
+        "time": "2026-10-29T16:01:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029158900009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029158900009",
+        "summary": ""
+      },
+      {
+        "title": "[쇼츠] 스페인 고속열차 추돌사고…68명 사망·한국인도 부상",
+        "time": "2026-10-29T15:44:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029155500704_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029155500704",
+        "summary": "#shorts"
+      },
+      {
+        "title": "'무장 갱단 활개' 아이티, 10년 만의 대선 내년으로 또 연기",
+        "time": "2026-10-29T15:42:00",
+        "img": "https://img3.yna.co.kr/photo/reuters/2026/10/24/PRU20261024137901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029155100009",
+        "summary": "선관위 \"법적 틀 안에서 선거 활동할 수 있도록 일정 변경\""
+      },
+      {
+        "title": "위장차에 전세기까지…\"보우소나루 도피에 트럼프 측근 도움\"",
+        "time": "2026-10-29T15:38:00",
+        "img": "https://img2.yna.co.kr/photo/etc/af/2026/10/29/PAF20261029012401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029153800009",
+        "summary": "트럼프 대통령 고문, 미국행 전세기 수배…아르헨 대통령 측근도 '작전' 참여"
+      },
+      {
+        "title": "[게시판] 주인니 한국대사관, 대학생 에세이 공모전 개최",
+        "time": "2026-10-29T15:34:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029151900104_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029151900104",
+        "summary": ""
+      },
+      {
+        "title": "헤그세스, 미군 장성 또 '축출'…이번엔 합참 전략국장",
+        "time": "2026-10-29T16:18:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029162100009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029162100009",
+        "summary": "브렛 실비아 중장 전격 해임…백악관-작전부대 연결고리 중책"
+      },
+      {
+        "title": "'동료에 흉기' 원당역 역무원, 살인미수 혐의 구속영장 신청",
+        "time": "2026-10-29T20:42:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2017/03/19/01/C0A8CA3C0000015AE652AC64000AC483_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20261029204300060",
+        "summary": ""
+      },
+      {
+        "title": "제주 도심서 흉기소지 혐의 40대 구속…\"위해 가할까 봐 소지\"",
+        "time": "2026-10-29T18:19:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/08/25/PYH2026082509600005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029193000056",
+        "summary": ""
+      },
+      {
+        "title": "충북도체육회장 선거 12월 16일…입후보설명회 내달 4일",
+        "time": "2026-10-29T17:18:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029183600064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029183600064",
+        "summary": ""
+      },
+      {
+        "title": "해인사, 인류위기 앞 팔만대장경 다시 새긴다…판각 고불식 봉행(종합)",
+        "time": "2026-10-29T16:41:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/29/PYH2026102916110005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029114351052",
+        "summary": "경판 주재료로 산벚나무 300t 확보…50∼100년 소요 장기 불사"
+      },
+      {
+        "title": "1천500년 전 신라 공주, 디지털 영상으로 되살아난다",
+        "time": "2026-10-29T16:40:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/10/29/AKR20261029173200053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261029173200053",
+        "summary": "경주 쪽샘44호분 실감형 전시관으로"
       }
     ]
   }
