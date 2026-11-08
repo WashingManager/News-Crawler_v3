@@ -1,5 +1,447 @@
 [
   {
+    "date": "2026년 11월 08일 일요일",
+    "articles": [
+      {
+        "title": "모델 워킹에 GOP 경계 실패까지…  군 기강 어디로",
+        "time": "2026-11-08T04:16:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7123_13993_1346.jpeg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7123",
+        "summary": "민간인 GOP 침투 사건에서 드러난 군의 경계 작전과 보고 체계 논란에 이어 특전사 장병들을 대상으로 모델 워킹 교육까지 진행한 사실이 알려지면서 군의 기강과 안보태세를 둘러싼 비판이 확산하고 있다. 야권에서는 군의 안보 인식과 지휘 체계 전반을 문제 삼으며 정부와 군 지휘부의 책임을 촉구했다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "태권도 北 단독 등재 유력…  정부 대응 도마에",
+        "time": "2026-11-08T03:06:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7119_13991_452.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7119",
+        "summary": "대한민국의 국기인 태권도가 북한의 전통 무술로 유네스코 인류무형문화유산에 단독 등재될 가능성이 커지면서 정부와 국가유산청의 대응이 논란의 중심에 섰다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "국힘, 장외 집회서 張 “탄핵이 답” 강경 투쟁 선언",
+        "time": "2026-11-08T02:36:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7118_13989_348.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7118",
+        "summary": "국민의힘이 이재명 대통령의 공소 취소 특검법에 반발해 이틀 연속 장외 집회를 열고 대정부 투쟁 수위를 높였다. 장동혁 대표는 이 대통령의 탄핵과 재판 재개를 강력히 촉구했으며 집회 참석자들은 그의 이름을 연호하며 호응했다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 08일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 11월 08일 일요일",
+    "articles": [
+      {
+        "title": "장동혁 \"중도확장, 말로하는 연대·통합으로 되는 것 아니다\"",
+        "time": "2026-11-08T12:56:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/11/07/PYH2026110704440001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108025700001",
+        "summary": "\"총선서 李대통령 탄핵 의석 확보해 조작기소 특검·의원 등 감옥 보내야\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "지방선거서 찍은 교육감 후보 SNS에 공개한 이해식 의원 공소청 송치",
+        "time": "2026-11-08T11:19:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102022020005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108019900004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "좋은 예산의 조건은…국회 전문가, '예산은 왜 실패하는가' 펴내",
+        "time": "2026-11-08T10:45:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108018000001_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108018000001",
+        "summary": "정환철 국회의정연수원 교수, 예산 성공조건·가치판단 틀 제시",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "위험직무순직 일반직 공무원, 보훈심사 없이 유공자 등록",
+        "time": "2026-11-08T10:17:00",
+        "img": "https://img8.yna.co.kr/photo/cms/2024/02/05/01/PCM20240205000001990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108016500504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "'장군 정신 함께 잇는다' 세종시·해군 대호김종서함 협약",
+        "time": "2026-11-08T09:51:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108015900063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108015900063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "김정우 靑 국정상황실장 사의…\"국민주권정부 성공 위해 노력\"",
+        "time": "2026-11-08T09:36:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108015400001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108015400001",
+        "summary": "차기 총선 출마 준비할 듯…후임엔 김태근 자치발전비서관 거론",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "진성준 \"美, 전작권 전환 기존 합의 확인…SCM 연기도 무관\"",
+        "time": "2026-11-08T11:43:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110802130001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108022700001",
+        "summary": "방미 결과 회견…\"광주 軍공항 이전, 韓 주권적 결정사항이라 밝혀\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "국힘 \"與 '신천지 게이트' 밀실 열람으로 덮으려…강제수사해야\"",
+        "time": "2026-11-08T11:37:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/07/26/PYH2026072604980001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108022300001",
+        "summary": "\"야당은 8개월간 털더니 여당에는 침묵…李정권 이중잣대\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "고용보험 부정수급 자진신고하면 추가징수 면제…제보시 포상금",
+        "time": "2026-11-08T12:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2018/10/10/58/PCM20181010000058990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106164300530",
+        "summary": "제보시 부정수급액 20∼30% 포상…노동부, 부정수급 특별점검",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "농심, 부산 녹산 공장 가동…연간 수출 공급능력 12억개로 확대",
+        "time": "2026-11-08T12:00:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/11/07/AKR20261107030900030_05_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261107030900030",
+        "summary": "AI로 효율성 높이고 연 5억개 생산…국내외 10개 공장서 연 60억개 생산",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "[르포] 당일 튀긴 신라면 짊어진 '라면 거북이'…구미라면축제 '펄펄'",
+        "time": "2026-11-08T12:00:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/07/AKR20261107030300030_08_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261107030300030",
+        "summary": "구미시·농심, 475ｍ 도심에 라면 거리 조성…40만명 방문 기대",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "군산항 4·5부두 침수 위험 줄이고 내진 성능 강화",
+        "time": "2026-11-08T11:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106158500051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106158500051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "농식품부, 내년부터 '농업·농촌문제 해결 R&D 사업' 추진",
+        "time": "2026-11-08T11:00:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2019/01/12/60/PCM20190112000060030_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106176900030",
+        "summary": "20일까지 사업 참여 지방정부 모집…7개 과제당 최대 20억원 지원",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "'해양정보 디지털 전환' 국제기구 인프라센터, 한국에 짓는다",
+        "time": "2026-11-08T11:00:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106166700051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106166700051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
+        "time": "2026-11-08T09:57:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108016200030_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108016200030",
+        "summary": "닭강정·김밥에 치즈 소스…그라탕·핫도그도 선봬",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+        "time": "2026-11-08T09:02:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2021/12/13/60/PCM20211213000060990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106086200054",
+        "summary": "호남 반도체 입지 군공항 이전부지와 원도심 통합 개발",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "[게시판] 조선호텔앤리조트, 관광특성화고 학생 60명에 장학금",
+        "time": "2026-11-08T11:33:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108023100030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108023100030",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "한강버스 동절기 하루 32회 운항…배차간격 1시간으로 통일",
+        "time": "2026-11-08T11:15:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/06/08/PYH2026060815630001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108011700004",
+        "summary": "서울숲 정규노선 편입·7개 선착장 안전시설 보강…내달 1일부터 적용",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "경기국제공항 용역 재개한 추미애, 지자체 찬반 논의 재점화",
+        "time": "2026-11-08T09:10:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106118900061_04_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106118900061",
+        "summary": "김동연 공약 이어 반도체 항공물류 수요 강조…수원은 환영, 화성은 반대",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "GS리테일, '미디어나눔버스' 운영 10년…2만3천명에 교육 제공",
+        "time": "2026-11-08T08:57:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108012700030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108012700030",
+        "summary": "올해까지 전국 660회 운영 예정…AI·VR 등 신기술 체험 확대",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "양구서 소나무재선충병 감염목 발생…확산 방지 총력 대응",
+        "time": "2026-11-08T08:57:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2026/09/21/31/PCM20260921000131062_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108012800062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "AI데이터센터 확대 나선 충북도, 신규 규제자유특구 도전",
+        "time": "2026-11-08T08:50:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106132600064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106132600064",
+        "summary": "중기부 공모 대응…\"수열냉각·폐열 활용기술 상용화 도모\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "서울에 많이 이른 '첫눈'…작년보다 26일, 평년보다 12일 빨라(종합)",
+        "time": "2026-11-08T12:14:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/01/12/PYH2026011216930001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108022551530",
+        "summary": "관측 시작 1973년 이후 6번째로 이른 첫눈",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "\"미래 철도망 그림 국민과 함께\"…정부, 13일 의견수렴",
+        "time": "2026-11-08T12:10:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108025000003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108025000003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "'12·3 국민주권의 날' 이달 지정…관련 기록물 1천625건 등록",
+        "time": "2026-11-08T12:00:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/12/03/PYH2025120321540005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261107033000530",
+        "summary": "비상계엄 비폭력 저지한 정신 기려…'빛의 인증서' 수여 조항은 삭제",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "[게시판] 11월 11일 '보행자의 날' 맞아 전국서 보행안전주간 운영",
+        "time": "2026-11-08T12:00:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092909200001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108019100530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "서울에 많이 이른 '첫눈'…작년보다 26일, 평년보다 12일 빨라",
+        "time": "2026-11-08T11:24:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2026/01/12/PYH2026011216930001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108022500530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "대구 3호선 운행중단 이유는 '전기제어장치'고장…전수조사 방침",
+        "time": "2026-11-08T10:47:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/09/07/PYH2026090723960005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108019000053",
+        "summary": "잇단 고장·장애에 시민 불편·불안 확산…특별대책 및 전담 조직 구성 검토",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "박완수 경남지사 \"소방관 안전이 경남의 안전…처우 개선 노력\"",
+        "time": "2026-11-08T10:35:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2026/10/16/76/PCM20261016000076052_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108018600052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "정읍 내장산캠핑장서 난로 등유 주입 중 불…1명 화상",
+        "time": "2026-11-08T10:12:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108017300055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108017300055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "용인시, 고교학력인정 평생교육시설 추진…교육당국과 협의",
+        "time": "2026-11-08T10:01:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106071200061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106071200061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "춘천시, 노인전문병원 운영 수탁기관 공개 모집",
+        "time": "2026-11-08T09:38:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2026/10/29/74/PCM20261029000074990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108015100062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "응급실서 간호사·보안요원에 침 뱉고 욕설한 20대 실형",
+        "time": "2026-11-08T10:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2026/09/22/57/PCM20260922000057990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106041400061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "\"원하는 길로 안 간다\" 79세 택시기사 폭행한 60대 형제 집유",
+        "time": "2026-11-08T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2020/07/27/30/PCM20200727000030990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106067600051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "서울 38개 사립초, 11일까지 신입생 원서접수…최대 3곳 지원",
+        "time": "2026-11-08T09:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2026/10/26/37/PCM20261026000037990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106148000530",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "[내일날씨] 남부·제주 비…경기북동부와 강원내륙엔 살얼음 유의",
+        "time": "2026-11-08T09:00:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110505730005100_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108004200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "\"日, 안보문서에 '전투 지속 능력' 명기 검토…장기전 대비\"",
+        "time": "2026-11-08T12:15:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108024000073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108024000073",
+        "summary": "교도통신 보도…국가방위전략 개정안에 탄약·미사일 평시 비축 등 명시 방침",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "사형수 전원 감형한 美민주 잠룡…유족들 \"등에 칼맞은 기분\"",
+        "time": "2026-11-08T11:10:00",
+        "img": "https://img8.yna.co.kr/photo/reuters/2026/11/05/PRU20261105258601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108019800075",
+        "summary": "뉴섬 캘리포니아주지사 결정에 희생자 가족·친구들 반발",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "교황, 우루과이서 폭력 규탄…\"젊은이들 용기 내 결혼하라\"",
+        "time": "2026-11-08T11:06:00",
+        "img": "https://img3.yna.co.kr/photo/reuters/2026/11/07/PRU20261107232301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108020700009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "이란 혁명수비대 \"탄도미사일 사거리 제한 해제\"",
+        "time": "2026-11-08T11:00:00",
+        "img": "https://img8.yna.co.kr/photo/etc/up/2026/07/25/PUP20260725009601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108020200009",
+        "summary": "미군 자산 겨냥해 사정권 확대 경고한 듯…\"지리적 제한 없이 대응\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "'마카오 첫 국가보안법' 민주진영 前의원에 징역 12년 6개월",
+        "time": "2026-11-08T10:57:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108019600009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108019600009",
+        "summary": "홍콩 조슈아 웡 중형 선고 직후 판결…가족·인권단체 등 비판",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "이스라엘 야권 리더 아이젠코트에 연정구성권…네탄냐후 실각 위기",
+        "time": "2026-11-08T09:02:00",
+        "img": "https://img5.yna.co.kr/photo/reuters/2026/11/08/PRU20261108100901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108012400009",
+        "summary": "헤르초그 대통령, 우선권 부여…최대 42일 안에 연정 구성해야",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "국보였다가 보물 된 제주 관덕정…국보 재승격 추진",
+        "time": "2026-11-08T12:46:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108025800056_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108025800056",
+        "summary": "내년 학술적 검토·주민 공감대 형성…상징성과 역사적 장소성 재조명",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "경찰, 신용한 충북지사 공익제보 허위 주장한 명태균 불송치",
+        "time": "2026-11-08T10:18:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/03/23/PYH2026032310760006400_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261108017600064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      },
+      {
+        "title": "'정도전 고향' 논란 속 충북 단양군 홍보물 정비 가시화",
+        "time": "2026-11-08T09:13:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106101800064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261106101800064",
+        "summary": "\"내달 국가유산청 심의 결과 따라 문구 등 수정 계획\"",
+        "source": "yna",
+        "date": "2026년 11월 08일 일요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 11월 07일 토요일",
     "articles": [
       {
