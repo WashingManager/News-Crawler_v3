@@ -1,77 +1,561 @@
 [
   {
+    "date": "2026년 11월 27일 금요일",
+    "articles": [
+      {
+        "title": "프로티나, 계약 상대방 표기 오기 정정…유럽 다국적 제약사 E사",
+        "time": "2026-11-27T12:55:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400986",
+        "source": "fntoday",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "APS, UPI 흡수합병 이사회 승인… 합병기일 2027년 1월 4일",
+        "time": "2026-11-27T12:51:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400980",
+        "source": "fntoday",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "프로티나, 유럽 제약사 계약 상대방 표기 정정…임상검체 분석 계약 11억 원",
+        "time": "2026-11-27T12:16:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400977",
+        "source": "fntoday",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "LS마린솔루션, LS전선과 분기 거래액 8,521백만원… 해저케이블건설 매출",
+        "time": "2026-11-27T12:16:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400974",
+        "source": "fntoday",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "한신공영, 평택고덕 공공주택사업 657억 원 수주…총 공사금액 6,572억 원",
+        "time": "2026-11-27T12:14:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400970",
+        "source": "fntoday",
+        "date": "2026년 11월 27일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 11월 27일 금요일",
+    "articles": [
+      {
+        "title": "김정은, 당세포비서대회 참가자들과 기념촬영…\"전투력 높여야\"",
+        "time": "2026-11-27T07:11:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112609770004200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127007600504",
+        "summary": "최말단 조직부터 결속 강화…참가자 수천명과 한꺼번에 촬영",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"지뢰 도발 후에도…北, 10∼11월에 MDL 40여회 침범\"",
+        "time": "2026-11-27T06:01:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/10/05/PYH2026100509440001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126190400504",
+        "summary": "유용원 의원, 합참 자료 공개",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "관광공사, 한미연합사와 관광·문화 교류 활성화 협력",
+        "time": "2026-11-27T08:50:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127027100030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127027100030",
+        "summary": "한미 장병·가족 대상 지역 특화 관광 체험 프로그램 발굴",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "교육위, 오늘 'AI커닝 방지' 수능 후속조치 대책 보고 청취",
+        "time": "2026-11-27T05:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111924560001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126157000001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "與윤리심판원, '발언 논란' 최민희 징계 안건 심의",
+        "time": "2026-11-27T05:00:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112505630001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126184300001",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"대규모 개발로 학생 수↑\"…용산구 '교육인프라 확보' 선제대응",
+        "time": "2026-11-27T09:09:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127030700004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127030700004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "케이카, 망고카와 중고차 수출 협력 맞손…동유럽 판매채널 확대",
+        "time": "2026-11-27T08:56:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127029200003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127029200003",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "서울 강서구, 내년 어르신 일자리 참여자 6천163명 모집",
+        "time": "2026-11-27T07:07:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127010000004_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127010000004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "경기도, 연말까지 연인산도립공원 소나무재선충병 집중방제",
+        "time": "2026-11-27T09:09:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127031400061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127031400061",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "알레르기 유발물질 표시대상에 참깨·아몬드 등 4종 추가",
+        "time": "2026-11-27T09:02:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2023/06/23/PYH2023062310820001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127024300017",
+        "summary": "식약처, '슈링크플레이션' 표시 안한 업체 행정처분도 강화",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "관광공사, 하이커 그라운드서 신진 작가 10인 현대미술 특별전",
+        "time": "2026-11-27T09:02:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127029800030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127029800030",
+        "summary": "내년 3월 30일까지 두 차례 전시…무료 관람",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "반여농산물도매시장, 김장배추 9천포기 이웃 나눔",
+        "time": "2026-11-27T07:56:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127015000051_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127015000051",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "12월 1일부터 음성∼동서울 시외버스 좌석 예매제 시행",
+        "time": "2026-11-27T07:54:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127016400064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127016400064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"자율주행시대 도시공간은\"…서울시 재난안전실장 '아침특강'",
+        "time": "2026-11-27T07:30:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126172600004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126172600004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "AI 부정행위 난리 나더니 금속탐지기 대란…문의량 100배 늘어",
+        "time": "2026-11-27T07:00:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111906300001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126195300004",
+        "summary": "기말고사 앞둔 중고교서 업체에 문의 폭증…수급 차질 우려도",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "서울시설공단, 교량 콘크리트 떨어짐 위험 잡는 AI 장비 개발",
+        "time": "2026-11-27T06:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126162300004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126162300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "항공기·선박에 무작위 표본 검역조사 도입한다",
+        "time": "2026-11-27T06:00:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2023/08/30/71/PCM20230830000071990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126166300530",
+        "summary": "선박 검역조사 감염병 위험도 따라 실시…검역법 시행규칙 개정",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "[사이테크+] \"극심한 고온에 전세계 지표수 급감…습윤지역도 예외 아니다\"",
+        "time": "2026-11-27T04:00:00",
+        "img": "https://img8.yna.co.kr/photo/etc/epa/2024/09/10/PEP20240910064001009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126145900017",
+        "summary": "국제 연구팀 \"2023~2024년 하천 유량 5.7%·호수·저수지 저장량 9.5% 감소\"",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "보이지 않던 작은 지진의 찰나…광섬유로 단층 파열 들여다봤다",
+        "time": "2026-11-27T04:00:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112411910001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126181400017",
+        "summary": "김영희 교수팀, 규모 2 지진 0.042초 두 차례 파열 확인…사이언스 게재",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "통영 달아항서 가족과 낚시하러 온 80대 바다에 빠져 숨져",
+        "time": "2026-11-27T09:08:00",
+        "img": "https://img2.yna.co.kr/photo/cms/2018/09/11/03/PCM20180911000103052_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127029900052",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "오늘 낮 최고 21도 포근…중부 약한 비·저녁부터 서쪽 미세먼지",
+        "time": "2026-11-27T08:51:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112613140001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127026000530",
+        "summary": "서쪽에서 기압골 다가와 북쪽 지나…낮 최고 15∼21도",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "[게시판] 안중근 의사 유해찾기 한중일 국제학술대회",
+        "time": "2026-11-27T08:47:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127027500504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127027500504",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "인천대공원 습지원서 멸종위기 맹꽁이·금개구리·남생이 서식",
+        "time": "2026-11-27T08:30:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127016500065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127016500065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"후손에게 남길 유산은\"… 반크, 한지 세계화 시민 참여 캠페인",
+        "time": "2026-11-27T09:00:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127012600371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127012600371",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "인천 원창동 땅 꺼짐에 이틀째 일부 도로 통제…출근길 불편",
+        "time": "2026-11-27T08:07:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127019800065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127019800065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "김포 공장서 특고압시설 점검 중 감전…30대 여성 중상",
+        "time": "2026-11-27T07:38:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2017/07/12/21/C0A8CA3D0000015D355112C7000BBF88_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20261127014100065",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "관악구, 내달 대입 정시 전략 설명회…1대1 상담도 제공",
+        "time": "2026-11-27T07:38:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127014200004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127014200004",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "포항 자동차필름·광택시공 업체 화재…5천만원 재산 피해",
+        "time": "2026-11-27T07:35:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127013400053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127013400053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"돈 돌려줘\" 성매매 대금 돌려받으려 강도행각…주범 실형",
+        "time": "2026-11-27T07:00:00",
+        "img": "https://img6.yna.co.kr/photo/cms/2024/02/09/45/PCM20240209000045053_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126161000053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "충북 대체로 맑고 비…낮 최고 19도",
+        "time": "2026-11-27T06:50:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2026/11/12/PYH2026111208440001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127007800064",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "함양울산고속도로 대복1교 인근 화물차 사고…3㎞ 이상 정체",
+        "time": "2026-11-27T06:47:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2024/12/27/PYH2024122710560005200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127007400057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "강원 동해안 낮 최고 21도…내륙·산지 1㎜ 안팎 빗방울",
+        "time": "2026-11-27T06:38:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112511590006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127007100062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"지중해로 확전 안돼\" 리비아 내 우크라 도발에 주변국 부글",
+        "time": "2026-11-27T09:08:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127028000009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127028000009",
+        "summary": "리비아 항구서 러 선박 노린 우크라 드론공격에 접경국 알제리 규탄",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"이란 반정부시위 가담 여성 6명 사형선고…고문도 당해\"",
+        "time": "2026-11-27T08:40:00",
+        "img": "https://img3.yna.co.kr/photo/etc/epa/2026/11/16/PEP20261116189301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127024600009",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "\"美, 유럽 병력 재배치 검토결과 내년으로 발표 미룰 듯\"",
+        "time": "2026-11-27T08:10:00",
+        "img": "https://img6.yna.co.kr/photo/etc/epa/2026/05/04/PEP20260504130601009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127020100009",
+        "summary": "당초 12월 1일까지 보고 예정…병력 감축 여부에 유럽 촉각",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "[인&아웃] 조지 워싱턴의 경고",
+        "time": "2026-11-27T06:00:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126128800546_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126128800546",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+        "time": "2026-11-27T04:18:00",
+        "img": "https://img2.yna.co.kr/photo/reuters/2026/11/19/PRU20261119213101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127003400071",
+        "summary": "나토 사무총장 만나 푸틴과의 회담 내용 공유…성명서 러 확전 자제 촉구",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "[이집트 미라전] 죽음 너머 길 열다…고대 이집트인 '사자의 서'",
+        "time": "2026-11-27T08:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/22/AKR20261122024700371_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261122024700371",
+        "summary": "심장 스카라베·미라 붕대·샤브티 등에 사후 세계관…죽음은 끝 아닌 시작",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "사우디 정유시설 피격으로 1명 사망…가동 일시 중단",
+        "time": "2026-11-27T03:22:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127003000079_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127003000079",
+        "summary": "연합군 대변인 \"후티 공격 받아\"",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "푸틴 \"AI, 강력한 무기 될 수도…독자 모델 개발 우선\"",
+        "time": "2026-11-27T01:31:00",
+        "img": "https://img9.yna.co.kr/photo/etc/ta/2026/11/27/PTA20261127006401009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127001400109",
+        "summary": "AI 발전 뒷받침할 원전 주문…\"AI 과도한 규제 안돼\"",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "러시아 측 \"발트해 러 선박 공격에 나토 관여\"…보복 경고",
+        "time": "2026-11-27T01:07:00",
+        "img": "https://img7.yna.co.kr/photo/reuters/2026/11/24/PRU20261124226201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127000900109",
+        "summary": "OSCE 주재 러시아 대표 \"나토 회원국 관여는 핵대결 위험 높여\"",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "아이티 갱단, 새벽 시장 급습…농민 등 17명 사상",
+        "time": "2026-11-27T00:46:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127000700087_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127000700087",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "울산시, 규제합리화 최우수에 '공장 1대지 1허가 원칙 완화'",
+        "time": "2026-11-27T09:00:00",
+        "img": "https://img0.yna.co.kr/photo/cms/2026/11/17/60/PCM20261117000060990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127025000057",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "의정부서 광역버스와 충돌한 10대 오토바이 운전자 숨져",
+        "time": "2026-11-27T08:29:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2019/07/15/74/PCM20190715000074990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127023200060",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "영월 건물 지하 1층서 불…50대 숨져",
+        "time": "2026-11-27T06:29:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127006500062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127006500062",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "전북 낮 기온 17∼20도로 포근…저녁부터 비",
+        "time": "2026-11-27T06:27:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110507860005300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127006300055",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "대전·세종·충남 맑다가 차차 흐려져…낮 기온 16∼19도",
+        "time": "2026-11-27T06:21:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127005900063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127005900063",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "대구·경북 일교차 큰 날씨…낮 기온 14∼21도",
+        "time": "2026-11-27T06:15:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112516900006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127005700053",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "제주, 구름 많다가 오후 맑아져…낮 최고 19∼22도",
+        "time": "2026-11-27T06:14:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112609220005600_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127005600056",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "신달자 \"'니는 될 끼다'…빌딩보다 값진 어머니의 유언이었죠\"",
+        "time": "2026-11-27T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112623550001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126192400005",
+        "summary": "에세이 '어머니는 내게 편지를…' 출간…83세 시인의 뒤늦은 고백",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "중앙-지방도서관 정책 협력 강화…문체부 정책간담회",
+        "time": "2026-11-27T08:00:00",
+        "img": "https://img9.yna.co.kr/photo/cms/2025/10/22/65/PCM20251022000165990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261127008100005",
+        "summary": "",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      },
+      {
+        "title": "새로운 형태 탐구 멈추지 않는 77세 조각가…\"삶 자체가 영감\"",
+        "time": "2026-11-27T07:30:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126187800005_05_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20261126187800005",
+        "summary": "영국 출신 세계적 작가 토니 크랙, 최근 작업 조명한 '형태의 대화' 展",
+        "source": "yna",
+        "date": "2026년 11월 27일 금요일"
+      }
+    ]
+  },
+  {
+    "date": "2026년 11월 27일 금요일",
+    "articles": [
+      {
+        "title": "한변 “민주당의 대법원장 탄핵 추진은 국헌문란”",
+        "time": "2026-11-27T04:41:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7453_14872_4031.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7453",
+        "summary": "더불어민주당이 한덕수 전 국무총리 사건에 대한 대법원판결을 문제 삼아 조희대 대법원장 탄핵을 추진하자 변호사 단체 한변이 이를 정략적 권한 남용이자 삼권분립과 법치주의에 대한 정면 도전이라고 강하게 비판했다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 27일 금요일"
+      }
+    ]
+  },
+  {
     "date": "2026년 11월 26일 목요일",
     "articles": [
       {
-        "title": "자유대한원로회의 “세계질서 대전환… 대한민국 생존전략 마련해야”",
-        "time": "2026-11-26T11:41:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7448_14813_4044.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7448",
-        "summary": "자유대한원로회의가 미·중·러 정상회담을 계기로 급변하는 국제질서와 대한민국의 안보·경제 위기를 우려하며 정부와 정치권에 국가생존전략 마련을 촉구했다.",
-        "source": "truthdaily",
+        "title": "HJ중공업, 부천 원종동 정비사업 계약금액 518억 원… 변경계약으로 공시 기준 해당",
+        "time": "2026-11-26T11:55:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400499",
+        "source": "fntoday",
         "date": "2026년 11월 26일 목요일"
       },
       {
-        "title": "[속보] 올공 펜스 출입문 봉쇄… ‘참정권 지킴이’들 안에 갇혔다",
-        "time": "2026-11-26T08:54:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7445_14804_1423.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7445",
-        "summary": "서울 송파구 올림픽공원 핸드볼경기장 인근에서 6·3 지방선거 투표용지 부족 사태의 진상 규명을 요구해 온 이른바 ‘올공 참정권 지킴이’들이 펜스 출입구 봉쇄로 안팎에 고립되는 상황이 벌어졌다. 올림픽공원 관리 주체인 한국체육산업개발이 26일 오전 7시께 현장 안전 펜스 출입구를 봉쇄하면서 농성 참가자들이 안팎으로 갈라졌고, 현장에는 긴장감이 고조되고 있다.",
-        "source": "truthdaily",
+        "title": "유바이오로직스, UNICEF 백신 공급계약 종료일 2027년 4월로 변경… 정정 공시",
+        "time": "2026-11-26T11:49:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400497",
+        "source": "fntoday",
         "date": "2026년 11월 26일 목요일"
       },
       {
-        "title": "김주애 명품 스키복에 고급 장비까지…  대북 제재 위반 논란",
-        "time": "2026-11-26T08:24:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7444_14801_2316.jpeg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7444",
-        "summary": "김정은의 딸 김주애가 북한에서 외국산 고가 스키복과 명품 스키 장비를 사용한 모습이 공개되면서 유엔 대북 제재 위반 의혹이 제기됐다. 미국 국무부는 스키 장비 역시 북한 반입이 금지된 사치품에 해당한다고 밝혀 북한 최고위층의 제재 회피 가능성과 사치품 사용 실태가 다시 주목받고 있다.",
-        "source": "truthdaily",
-        "date": "2026년 11월 26일 목요일"
-      },
-      {
-        "title": "2026년 11월 27일 애국 우파 집회 소식(서울)",
-        "time": "2026-11-26T21:11:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7210_14293_4145.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7210",
-        "summary": "1. [잠실] 올림픽공원 민주화 운동",
-        "source": "truthdaily",
-        "date": "2026년 11월 26일 목요일"
-      },
-      {
-        "title": "2026년 11월 27일 애국 우파 집회 소식(전국)",
-        "time": "2026-11-26T21:11:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7226_14489_4726.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7226",
-        "summary": "1. [부천] 부정선거 재선거 국민의 참정권 수호 및 공정하고 투명한 선거를 위한 집회",
-        "source": "truthdaily",
-        "date": "2026년 11월 26일 목요일"
-      },
-      {
-        "title": "조희대 대법원장 탄핵 반대 48.2%…  찬성보다 14.7%p 높아",
-        "time": "2026-11-26T21:10:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7452_14871_933.jpg",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7452",
-        "summary": "더불어민주당이 추진하는 조희대 대법원장 탄핵에 대해 국민 48.2%가 반대한다는 여론조사 결과가 나왔다. 찬성은 33.5%에 그쳐 반대가 찬성보다 14.7%p 높았으며 나이·지역·지지 정당에 따라서도 찬반 의견이 뚜렷하게 갈렸다.",
-        "source": "truthdaily",
-        "date": "2026년 11월 26일 목요일"
-      },
-      {
-        "title": "美망명 김기삼 변호사 “서훈 前국정원장 딸=북한 미인계 공작” 의혹 제기",
-        "time": "2026-11-26T14:59:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7451_14822_451.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7451",
-        "summary": "미국에 망명해 변호사로 활동 중인 김기삼 전 국가정보원 직원이 서훈 전 국가정보원장의 가족관계와 관련해 북한의 이른바 ‘미인계’ 또는 ‘씨받이 공작’이 개입했을 가능성을 제기했다. 김 변호사는 서 전 원장이 1990년대 후반 북한 함경남도 신포 경수로 건설 현장에 장기간 체류한 뒤인 2000년 결혼 후 약 20년 만에 첫 딸을 얻었다는 점을 근거로 들며, ...",
-        "source": "truthdaily",
-        "date": "2026년 11월 26일 목요일"
-      },
-      {
-        "title": "공소청, 전광훈 목사에 또 구속영장 청구… 교회 돈 102억 자유통일당에 불법 기부 의혹",
-        "time": "2026-11-26T13:07:00",
-        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7449_14814_632.png",
-        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7449",
-        "summary": "공소청이 전광훈 사랑제일교회 목사에 대해 구속영장을 청구했다. 사랑제일교회가 전 목사가 설립한 자유통일당에 102억원을 제공한 것이 불법 정치자금 기부에 해당한다는 혐의다. 종교계 인사의 정치 참여와 교회 자금의 정당 지원을 둘러싼 논란이 사법 절차로 이어지면서, 종교의 자유와 정치적 표현의 자유를 위축시키는 것 아니냐는 우려도 제기될 수 있는 상황이다.",
-        "source": "truthdaily",
+        "title": "한국자산신탁, 정정 공시로 청구금액 1769억 원…원고 442명",
+        "time": "2026-11-26T18:53:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400817",
+        "source": "fntoday",
         "date": "2026년 11월 26일 목요일"
       }
     ]
@@ -2371,27 +2855,75 @@
     "date": "2026년 11월 26일 목요일",
     "articles": [
       {
-        "title": "HJ중공업, 부천 원종동 정비사업 계약금액 518억 원… 변경계약으로 공시 기준 해당",
-        "time": "2026-11-26T11:55:00",
-        "img": "",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400499",
-        "source": "fntoday",
+        "title": "자유대한원로회의 “세계질서 대전환… 대한민국 생존전략 마련해야”",
+        "time": "2026-11-26T11:41:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7448_14813_4044.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7448",
+        "summary": "자유대한원로회의가 미·중·러 정상회담을 계기로 급변하는 국제질서와 대한민국의 안보·경제 위기를 우려하며 정부와 정치권에 국가생존전략 마련을 촉구했다.",
+        "source": "truthdaily",
         "date": "2026년 11월 26일 목요일"
       },
       {
-        "title": "유바이오로직스, UNICEF 백신 공급계약 종료일 2027년 4월로 변경… 정정 공시",
-        "time": "2026-11-26T11:49:00",
-        "img": "",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400497",
-        "source": "fntoday",
+        "title": "[속보] 올공 펜스 출입문 봉쇄… ‘참정권 지킴이’들 안에 갇혔다",
+        "time": "2026-11-26T08:54:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7445_14804_1423.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7445",
+        "summary": "서울 송파구 올림픽공원 핸드볼경기장 인근에서 6·3 지방선거 투표용지 부족 사태의 진상 규명을 요구해 온 이른바 ‘올공 참정권 지킴이’들이 펜스 출입구 봉쇄로 안팎에 고립되는 상황이 벌어졌다. 올림픽공원 관리 주체인 한국체육산업개발이 26일 오전 7시께 현장 안전 펜스 출입구를 봉쇄하면서 농성 참가자들이 안팎으로 갈라졌고, 현장에는 긴장감이 고조되고 있다.",
+        "source": "truthdaily",
         "date": "2026년 11월 26일 목요일"
       },
       {
-        "title": "한국자산신탁, 정정 공시로 청구금액 1769억 원…원고 442명",
-        "time": "2026-11-26T18:53:00",
-        "img": "",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400817",
-        "source": "fntoday",
+        "title": "김주애 명품 스키복에 고급 장비까지…  대북 제재 위반 논란",
+        "time": "2026-11-26T08:24:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7444_14801_2316.jpeg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7444",
+        "summary": "김정은의 딸 김주애가 북한에서 외국산 고가 스키복과 명품 스키 장비를 사용한 모습이 공개되면서 유엔 대북 제재 위반 의혹이 제기됐다. 미국 국무부는 스키 장비 역시 북한 반입이 금지된 사치품에 해당한다고 밝혀 북한 최고위층의 제재 회피 가능성과 사치품 사용 실태가 다시 주목받고 있다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 26일 목요일"
+      },
+      {
+        "title": "2026년 11월 27일 애국 우파 집회 소식(서울)",
+        "time": "2026-11-26T21:11:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7210_14293_4145.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7210",
+        "summary": "1. [잠실] 올림픽공원 민주화 운동",
+        "source": "truthdaily",
+        "date": "2026년 11월 26일 목요일"
+      },
+      {
+        "title": "2026년 11월 27일 애국 우파 집회 소식(전국)",
+        "time": "2026-11-26T21:11:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7226_14489_4726.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7226",
+        "summary": "1. [부천] 부정선거 재선거 국민의 참정권 수호 및 공정하고 투명한 선거를 위한 집회",
+        "source": "truthdaily",
+        "date": "2026년 11월 26일 목요일"
+      },
+      {
+        "title": "조희대 대법원장 탄핵 반대 48.2%…  찬성보다 14.7%p 높아",
+        "time": "2026-11-26T21:10:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7452_14871_933.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7452",
+        "summary": "더불어민주당이 추진하는 조희대 대법원장 탄핵에 대해 국민 48.2%가 반대한다는 여론조사 결과가 나왔다. 찬성은 33.5%에 그쳐 반대가 찬성보다 14.7%p 높았으며 나이·지역·지지 정당에 따라서도 찬반 의견이 뚜렷하게 갈렸다.",
+        "source": "truthdaily",
+        "date": "2026년 11월 26일 목요일"
+      },
+      {
+        "title": "美망명 김기삼 변호사 “서훈 前국정원장 딸=북한 미인계 공작” 의혹 제기",
+        "time": "2026-11-26T14:59:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7451_14822_451.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7451",
+        "summary": "미국에 망명해 변호사로 활동 중인 김기삼 전 국가정보원 직원이 서훈 전 국가정보원장의 가족관계와 관련해 북한의 이른바 ‘미인계’ 또는 ‘씨받이 공작’이 개입했을 가능성을 제기했다. 김 변호사는 서 전 원장이 1990년대 후반 북한 함경남도 신포 경수로 건설 현장에 장기간 체류한 뒤인 2000년 결혼 후 약 20년 만에 첫 딸을 얻었다는 점을 근거로 들며, ...",
+        "source": "truthdaily",
+        "date": "2026년 11월 26일 목요일"
+      },
+      {
+        "title": "공소청, 전광훈 목사에 또 구속영장 청구… 교회 돈 102억 자유통일당에 불법 기부 의혹",
+        "time": "2026-11-26T13:07:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202611/7449_14814_632.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=7449",
+        "summary": "공소청이 전광훈 사랑제일교회 목사에 대해 구속영장을 청구했다. 사랑제일교회가 전 목사가 설립한 자유통일당에 102억원을 제공한 것이 불법 정치자금 기부에 해당한다는 혐의다. 종교계 인사의 정치 참여와 교회 자금의 정당 지원을 둘러싼 논란이 사법 절차로 이어지면서, 종교의 자유와 정치적 표현의 자유를 위축시키는 것 아니냐는 우려도 제기될 수 있는 상황이다.",
+        "source": "truthdaily",
         "date": "2026년 11월 26일 목요일"
       }
     ]
